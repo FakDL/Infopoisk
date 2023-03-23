@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Файл:Cherub plaque Louvre MRR245 n2.jpg — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"ddb4153e-14c1-4ae0-aae9-be97b5d715ca","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"Файл:Cherub_plaque_Louvre_MRR245_n2.jpg","wgTitle":"Cherub plaque Louvre MRR245 n2.jpg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":
+"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Файл:Cherub_plaque_Louvre_MRR245_n2.jpg","wgRelevantArticleId":0,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":
+true,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.cx.eventlogging.campaigns","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1050"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/800px-Cherub_plaque_Louvre_MRR245_n2.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="700"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/640px-Cherub_plaque_Louvre_MRR245_n2.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="560"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Файл:Cherub plaque Louvre MRR245 n2.jpg — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Cherub_plaque_Louvre_MRR245_n2.jpg"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-Файл_Cherub_plaque_Louvre_MRR245_n2_jpg rootpage-Файл_Cherub_plaque_Louvre_MRR245_n2_jpg skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-commons" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:Cherub_plaque_Louvre_MRR245_n2.jpg?uselang=ru" title="Этот файл находится на Викискладе"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" decoding="async" width="14" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Файл:Cherub plaque Louvre MRR245 n2.jpg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">Файл</a></li>
+<li><a href="#filehistory">История файла</a></li>
+<li><a href="#filelinks">Использование файла</a></li>
+<li><a href="#globalusage">Глобальное использование файла</a></li>
+<li><a href="#metadata">Метаданные</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg"><img alt="Файл:Cherub plaque Louvre MRR245 n2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/685px-Cherub_plaque_Louvre_MRR245_n2.jpg" decoding="async" width="685" height="599" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/1027px-Cherub_plaque_Louvre_MRR245_n2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg 2x" data-file-width="1200" data-file-height="1050" /></a><div class="mw-filepage-resolutioninfo">Размер этого предпросмотра: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/685px-Cherub_plaque_Louvre_MRR245_n2.jpg" class="mw-thumbnail-link">685 × 599 пкс</a>. <span class="mw-filepage-other-resolutions">Другие разрешения: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/274px-Cherub_plaque_Louvre_MRR245_n2.jpg" class="mw-thumbnail-link">274 × 240 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/549px-Cherub_plaque_Louvre_MRR245_n2.jpg" class="mw-thumbnail-link">549 × 480 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/878px-Cherub_plaque_Louvre_MRR245_n2.jpg" class="mw-thumbnail-link">878 × 768 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg" class="mw-thumbnail-link">1200 × 1050 пкс</a>.</span></div></div>
+<div class="fullMedia"><p><a href="//upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg" class="internal" title="Cherub plaque Louvre MRR245 n2.jpg">Исходный файл</a> &#8206;<span class="fileInfo">(1200 × 1050 пкс, размер файла: 1,11 Мб, MIME-тип: <span class="mime-type">image/jpeg</span>)</span>
+</p></div><div class="sharedUploadNotice">
+<table class="plainlinks fmbox fmbox-system" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png" decoding="async" width="32" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/64px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text"><div class="mbox-text-div"><div><b><a class="external text" href="https://commons.wikimedia.org/wiki/File:Cherub_plaque_Louvre_MRR245_n2.jpg?uselang=ru"><span title="Перейти на страницу файла на Викискладе">Этот файл находится на Викискладе.</span></a></b> Сведения о нём показаны ниже.</div>
+<div style="font-size:85%; padding:0.1412em 0; margin-bottom:0.5em;">Викисклад — централизованное хранилище для свободных файлов, используемых в проектах Викимедиа.</div>
+<span class="plainlinks ruwiki-addTopicLink" style=""><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85_%D0%B2_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D1%85_%D1%81_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0&amp;action=edit&amp;section=action=edit&amp;section=new&amp;preloadtitle=%5B%5B:%D0%A4%D0%B0%D0%B9%D0%BB%3ACherub+plaque+Louvre+MRR245+n2.jpg%5D%5D&amp;preload=Шаблон:Preload/СОО"><span class="plainlinks mw-ui-button" style=""><span class="nowrap">Сообщить об ошибке с файлом</span></span></a></span></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table>
+</div>
+<div id="shared-image-desc"><div class="mw-parser-output"><h2><span id=".D0.9A.D1.80.D0.B0.D1.82.D0.BA.D0.BE.D0.B5_.D0.BE.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Краткое_описание">Краткое описание</span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-artwork toccolours vevent mw-content-ltr" dir="ltr" style="width: 100%" cellpadding="4">
+<tbody><tr valign="top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="ru">Автор</td>
+<td>
+<div class="fn value">
+Неизвестен<span style="display: none;">Unknown artist</span></div></td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="ru">Описание</td>
+<td>
+<div class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="английский"><b>English: </b></span> Cherub and Byzantine Emperor <a href="//commons.wikimedia.org/wiki/Heraclius" title="Heraclius">Heraclius</a> submitting Sassanid king Khosrau II; plaque from a cross. Champlevé enamel over gilt copper, 1160-1170, Meuse Valley.</div>
+<div class="description mw-content-ltr fr" dir="ltr" lang="fr"><span class="language fr" title="французский"><b>Français&nbsp;: </b></span> Chérubin et l'empereur byzantin Héraclius soumettant le roi sassanide Khosro II, plaque provenant d'une croix. Émail champlevé sur cuivre doré, 1160-1170, vallée de la Meuse.</div></div></td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_art_gallery" class="fileinfo-paramfield" lang="ru">Коллекция</td>
+<td>
+<div class="vcard">
+<table class="toccolours collapsible collapsed" cellpadding="2" cellspacing="0" dir="ltr" style="text-align:left; border-collapse:collapse; background:#f0f0ff; border:1px solid #aaa;" lang="ru">
+<tbody><tr valign="top">
+<th colspan="4" style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;"><span class="fn" id="creator"><bdi><a href="https://en.wikipedia.org/wiki/ru:%D0%9B%D1%83%D0%B2%D1%80" class="extiw" title="w:ru:Лувр"><span title="музей в Париже, Франция">Лувр</span></a>
+</bdi></span>&nbsp;<a href="//commons.wikimedia.org/wiki/Institution:Louvre" title="Institution:Louvre"><img alt="Blue pencil.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png" decoding="async" width="15" height="15" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/23px-Blue_pencil.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/30px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600"></a>&nbsp;<a href="https://www.wikidata.org/wiki/Q19675" title="wikidata:Q19675"><img alt="wikidata:Q19675" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590"></a>&nbsp;<span style="float:right; font-size:80%; margin-right:20px;"> (<a href="//commons.wikimedia.org/wiki/Mus%C3%A9e_du_Louvre:Inventory" title="Musée du Louvre:Inventory">реестр</a>)</span></th>
+</tr>
+<tr valign="top">
+<td rowspan="7" style="width:120px" id="fileinfotpl_creator_image"><span class="wpImageAnnotatorControl wpImageAnnotatorOff"><a href="//commons.wikimedia.org/wiki/File:Pavillon_de_Flore,_Louvre_Museum,_Paris_5_November_2019.jpg" class="image"><img alt="Лувр" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg/200px-Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg" decoding="async" width="200" height="133" class="photo" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg/300px-Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg/400px-Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg 2x" data-file-width="4500" data-file-height="3000"></a></span></td>
+</tr>
+<tr valign="top">
+<td style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;">Оригинальное название</td>
+<td colspan="2" style="word-break:break-word;border:1px solid #aaa;">Louvre Museum&nbsp;<a href="https://www.wikidata.org/wiki/Q19675#P1448" title="Редактировать в Викиданных"><img alt="Редактировать в Викиданных" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr>
+<tr valign="top">
+<td style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;">Местонахождение</td>
+<td colspan="2" style="word-break:break-word;border:1px solid #aaa;"><div class="locality"><a href="https://en.wikipedia.org/wiki/ru:I_%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D0%B0" class="extiw" title="w:ru:I округ Парижа"><span title="one of the 20 arrondissements (administrative districts) of Paris">I округ Парижа</span></a>&nbsp;<a href="https://www.wikidata.org/wiki/Q19675#P131" title="Редактировать в Викиданных"><img alt="Редактировать в Викиданных" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a>, <a href="https://en.wikipedia.org/wiki/ru:%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" class="extiw" title="w:ru:Франция"><span title="государство в Западной Европе">Франция</span></a></div></td></tr>
+<tr valign="top">
+<td style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;">Координаты</td>
+<td colspan="2" style="word-break:break-word;border:1px solid #aaa;">48°&nbsp;51′&nbsp;40″&nbsp;с.&nbsp;ш., 2°&nbsp;20′&nbsp;09″&nbsp;в.&nbsp;д. <span class="wpImageAnnotatorControl wpImageAnnotatorOff"><a href="//www.openstreetmap.org/?way=53813362" title="Link to OpenStreetMap" rel="nofollow"><img alt="Link to OpenStreetMap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/20px-Openstreetmap_logo.svg.png" decoding="async" width="20" height="20" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/30px-Openstreetmap_logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/40px-Openstreetmap_logo.svg.png 2x" data-file-width="256" data-file-height="256"></a></span> <span class="wpImageAnnotatorControl wpImageAnnotatorOff"><a href="//maps.google.com/maps?hl=ru&amp;q=48.861111111111,2.3358333333333&amp;tab=wl" title="Link to Google Maps" rel="nofollow"><img alt="Link to Google Maps" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/20px-Google_Maps_icon_%282020%29.svg.png" decoding="async" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/30px-Google_Maps_icon_%282020%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/40px-Google_Maps_icon_%282020%29.svg.png 2x" data-file-width="512" data-file-height="734"></a></span>&nbsp;<a href="https://www.wikidata.org/wiki/Q19675#P625" title="Редактировать в Викиданных"><img alt="Редактировать в Викиданных" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr>
+<tr valign="top">
+<td style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;">Дата основания</td>
+<td colspan="2" style="word-break:break-word;border:1px solid #aaa;">10 августа 1793&nbsp;<a href="https://www.wikidata.org/wiki/Q19675#P1619" title="Редактировать в Викиданных"><img alt="Редактировать в Викиданных" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></td></tr>
+<tr valign="top">
+<td style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;">Сайт</td>
+<td colspan="2" style="word-break:break-word;border:1px solid #aaa;"><a rel="nofollow" class="external text" href="https://www.louvre.fr/en">www.louvre.fr</a></td></tr>
+<tr valign="top">
+<td style="background-color:#e0e0ee; font-weight:bold; border:1px solid #aaa;">Нормативный контроль</td>
+<td colspan="2" style="word-break:break-word;border:1px solid #aaa;"><div class="hlist">
+<ul><li><a href="https://www.wikidata.org/wiki/Q19675" title="wikidata:Q19675"><img alt="wikidata:Q19675" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590"></a>: <a href="https://www.wikidata.org/wiki/Q19675" class="extiw" title="d:Q19675">Q19675</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ru:VIAF" class="extiw" title="w:ru:VIAF">VIAF</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/257711507/">257711507</a></span></span></li>
+<li><a href="https://en.wikipedia.org/wiki/ru:%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" class="extiw" title="w:ru:Международный идентификатор стандартных наименований">ISNI</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://isni.oclc.org/xslt/DB=1.2/CMD?ACT=SRCH&amp;IKT=8006&amp;TRM=ISN%3A000000012260177X">0000 0001 2260 177X</a></span></span></li>
+<li><a href="https://en.wikipedia.org/wiki/en:Union_List_of_Artist_Names" class="extiw" title="w:en:Union List of Artist Names">ULAN</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500125189">500125189</a></span></span></li>
+<li><a href="https://en.wikipedia.org/wiki/ru:OpenStreetMap" class="extiw" title="w:ru:OpenStreetMap">OSM</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/relation/7515426">7515426</a></span></span></li>
+<li><a href="https://en.wikipedia.org/wiki/ru:Open_Library" class="extiw" title="w:ru:Open Library">Open Library</a>: <span class="uid"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://openlibrary.org/works/OL3141048A">OL3141048A</a></span></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n80020283">WorldCat</a></span></li></ul>
+</div></td></tr>
+</tbody></table>
+</div>
+<div style="display: none;">institution QS:P195,Q19675</div></td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_art_location" class="fileinfo-paramfield" lang="ru">Текущее местонахождение</td>
+<td>
+<div class="locality">
+Department of Decorative Arts, Richelieu, first floor, room 2</div></td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_art_id" class="fileinfo-paramfield" lang="ru">Инвентарный номер</td>
+<td>
+<div class="identifier">
+MRR 245</div></td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_art_credit_line" class="fileinfo-paramfield" lang="ru">Дополнительная информация</td>
+<td>
+Former collection of Pierre Révoil; purchase, 1828</td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="ru">Источник/Фотограф</td>
+<td>
+<a href="//commons.wikimedia.org/wiki/User:Jastrow" title="User:Jastrow">Jastrow</a> (2006)</td>
+</tr>
+
+<tr valign="top">
+<td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="ru">Другие версии</td>
+<td>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:45px auto;"><a href="//commons.wikimedia.org/wiki/File:Cherub_plaque_Louvre_MRR245.jpg" class="image"><img alt="Cherub plaque Louvre MRR245.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cherub_plaque_Louvre_MRR245.jpg/120px-Cherub_plaque_Louvre_MRR245.jpg" decoding="async" width="120" height="60" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cherub_plaque_Louvre_MRR245.jpg/180px-Cherub_plaque_Louvre_MRR245.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cherub_plaque_Louvre_MRR245.jpg/240px-Cherub_plaque_Louvre_MRR245.jpg 2x" data-file-width="2210" data-file-height="1110"></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+</ul></td>
+</tr>
+
+
+</tbody></table>
+</div>
+<h2><span id=".D0.9B.D0.B8.D1.86.D0.B5.D0.BD.D0.B7.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Лицензирование">Лицензирование</span></h2>
+<table class="licensetpl" style="display:none">
+<tbody><tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</td></tr></tbody></table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="ru">
+<tbody><tr>
+<td><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" decoding="async" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196">
+</td>
+<td>Я, владелец авторских прав на это произведение, передаю его в <b><a href="https://en.wikipedia.org/wiki/ru:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="extiw" title="w:ru:Общественное достояние">общественное достояние</a></b>. Это разрешение действует по всему миру.<br><small>В некоторых странах это не может быть возможно юридически, в таком случае:</small><br><i>Я даю право кому угодно использовать данное произведение <b>в любых целях</b> без каких-либо условий, за исключением таких условий, которые требуются по закону.</i>
+</td></tr></tbody></table><h1 class="mw-slot-header"><mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none"><mediainfoviewcaptions><div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><h3 class="wbmi-entityview-captions-header">Краткие подписи</h3><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">русский</label><div lang="ru" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">Добавьте однострочное описание того, что собой представляет этот файл</div></div><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">английский</label><div lang="en" dir="ltr" class="wbmi-caption-value">Sassanid King Khosrau II submitting to the Byzantine Emperor Heraclius, from a plaque on a 12th-century French cross. Champlevé enamel over gilt copper, 1160-1170, Meuse Valley.</div></div></div></mediainfoviewcaptions><mediainfoviewstatements><div id="P180" data-property="P180" data-statements="[]" data-formatvalue="[]" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h3 class="wbmi-statements-title">Элементы, изображённые на этом файле</h3><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">изображённый объект</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"></div></div></div><div id="P6216" data-property="P6216" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6216&quot;,&quot;hash&quot;:&quot;f88a8b9472789ca66067ed50ce20dc2650af5744&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:88088423,&quot;id&quot;:&quot;Q88088423&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$28E73077-A0AB-4FDA-A4BA-E24E15C9D1BF&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6216,\&quot;id\&quot;:\&quot;P6216\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6216\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\&quot;>\u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u0442\u0443\u0441<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u0442\u0443\u0441&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:88088423,\&quot;id\&quot;:\&quot;Q88088423\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q88088423\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q88088423\&quot;>\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c\u0438 \u043f\u0440\u0430\u0432\u0430\u043c\u0438, \u043d\u043e \u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c\u0438 \u043f\u0440\u0430\u0432\u0430\u043c\u0438, \u043d\u043e \u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">правовой статус</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$28E73077-A0AB-4FDA-A4BA-E24E15C9D1BF" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q88088423" href="https://www.wikidata.org/wiki/Special:EntityPage/Q88088423">защищено авторскими правами, но передано в общественное достояние владельцем авторских прав</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P275" data-property="P275" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;c50f467f552350584a199dd3c9ceadf026c05180&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:98592850,&quot;id&quot;:&quot;Q98592850&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$9D07A024-731C-465C-A965-8C28F726E5FF&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:275,\&quot;id\&quot;:\&quot;P275\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P275\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\&quot;>\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:98592850,\&quot;id\&quot;:\&quot;Q98592850\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q98592850\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q98592850\&quot;>\u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;\u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">лицензия</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$9D07A024-731C-465C-A965-8C28F726E5FF" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q98592850" href="https://www.wikidata.org/wiki/Special:EntityPage/Q98592850">передано в общественное достояние владельцем авторских прав</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P4082" data-property="P4082" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P4082&quot;,&quot;hash&quot;:&quot;08dbc940f7e351a154bb6f19ed979aa0fb9cbd94&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:1196011,&quot;id&quot;:&quot;Q1196011&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$47266D2D-C53B-4B49-932C-6F7CB65FBEB6&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:4082,\&quot;id\&quot;:\&quot;P4082\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P4082\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4082\&quot;>\u0441\u043d\u044f\u0442\u043e \u043d\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0441\u043d\u044f\u0442\u043e \u043d\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:1196011,\&quot;id\&quot;:\&quot;Q1196011\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P4082&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q1196011\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q1196011\&quot;>Nikon D70<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P4082&quot;:&quot;Nikon D70&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P4082 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P4082" href="https://www.wikidata.org/wiki/Special:EntityPage/P4082">снято на</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$47266D2D-C53B-4B49-932C-6F7CB65FBEB6" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q1196011" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1196011">Nikon D70</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P6757" data-property="P6757" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6757&quot;,&quot;hash&quot;:&quot;44b578d2b1754ea361ad99e16cba2586f82061fe&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;amount&quot;:&quot;+0.05&quot;,&quot;unit&quot;:&quot;http:\/\/www.wikidata.org\/entity\/Q11574&quot;},&quot;type&quot;:&quot;quantity&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$40AA1A86-743E-480D-AEC9-9B8532171C91&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6757,\&quot;id\&quot;:\&quot;P6757\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6757\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6757\&quot;>\u0432\u0440\u0435\u043c\u044f \u044d\u043a\u0441\u043f\u043e\u0437\u0438\u0446\u0438\u0438<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0432\u0440\u0435\u043c\u044f \u044d\u043a\u0441\u043f\u043e\u0437\u0438\u0446\u0438\u0438&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;amount\&quot;:\&quot;+0.05\&quot;,\&quot;unit\&quot;:\&quot;http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q11574\&quot;},\&quot;type\&quot;:\&quot;quantity\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6757&quot;:&quot;0,05 <span class=\&quot;wb-unit\&quot;>\u0441\u0435\u043a\u0443\u043d\u0434\u0430<\/span>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6757&quot;:&quot;0,05 \u0441\u0435\u043a\u0443\u043d\u0434\u0430&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6757 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6757" href="https://www.wikidata.org/wiki/Special:EntityPage/P6757">время экспозиции</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$40AA1A86-743E-480D-AEC9-9B8532171C91" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>0,05 <span class="wb-unit">секунда</span></bdi></h4></div></div></div></div></div></div></div></div><div id="P6790" data-property="P6790" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6790&quot;,&quot;hash&quot;:&quot;ffec8d66c8c9c70f202c3054e0c4e87807893815&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;amount&quot;:&quot;+4.5&quot;,&quot;unit&quot;:&quot;1&quot;},&quot;type&quot;:&quot;quantity&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$7A08D5DB-5C64-4D91-8B88-FC4E1B424EB3&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6790,\&quot;id\&quot;:\&quot;P6790\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6790\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6790\&quot;>\u0434\u0438\u0430\u0444\u0440\u0430\u0433\u043c\u0435\u043d\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0434\u0438\u0430\u0444\u0440\u0430\u0433\u043c\u0435\u043d\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;amount\&quot;:\&quot;+4.5\&quot;,\&quot;unit\&quot;:\&quot;1\&quot;},\&quot;type\&quot;:\&quot;quantity\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6790&quot;:&quot;4,5&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6790&quot;:&quot;4,5&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6790 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6790" href="https://www.wikidata.org/wiki/Special:EntityPage/P6790">диафрагменное число</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$7A08D5DB-5C64-4D91-8B88-FC4E1B424EB3" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>4,5</bdi></h4></div></div></div></div></div></div></div></div><div id="P2151" data-property="P2151" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2151&quot;,&quot;hash&quot;:&quot;2863d3d29802e2be3241820f29e98977061cf8af&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;amount&quot;:&quot;+70&quot;,&quot;unit&quot;:&quot;http:\/\/www.wikidata.org\/entity\/Q174789&quot;},&quot;type&quot;:&quot;quantity&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$7035E286-4718-486C-89F5-CBC436C2A5CC&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2151,\&quot;id\&quot;:\&quot;P2151\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2151\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2151\&quot;>\u0444\u043e\u043a\u0443\u0441\u043d\u043e\u0435 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0444\u043e\u043a\u0443\u0441\u043d\u043e\u0435 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;amount\&quot;:\&quot;+70\&quot;,\&quot;unit\&quot;:\&quot;http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q174789\&quot;},\&quot;type\&quot;:\&quot;quantity\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P2151&quot;:&quot;70 <span class=\&quot;wb-unit\&quot;>\u043c\u0438\u043b\u043b\u0438\u043c\u0435\u0442\u0440<\/span>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P2151&quot;:&quot;70 \u043c\u0438\u043b\u043b\u0438\u043c\u0435\u0442\u0440&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P2151 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P2151" href="https://www.wikidata.org/wiki/Special:EntityPage/P2151">фокусное расстояние</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$7035E286-4718-486C-89F5-CBC436C2A5CC" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>70 <span class="wb-unit">миллиметр</span></bdi></h4></div></div></div></div></div></div></div></div><div id="P6789" data-property="P6789" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6789&quot;,&quot;hash&quot;:&quot;bcecc2e41692f5515c720e13f8f7effb3b4205b7&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;amount&quot;:&quot;+800&quot;,&quot;unit&quot;:&quot;1&quot;},&quot;type&quot;:&quot;quantity&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$3BAD0B94-366F-487B-8A11-BBF12F2DE52F&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6789,\&quot;id\&quot;:\&quot;P6789\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6789\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6789\&quot;>\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0444\u043e\u0442\u043e\u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430 \u0432 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u0445 ISO<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0444\u043e\u0442\u043e\u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430 \u0432 \u0435\u0434\u0438\u043d\u0438\u0446\u0430\u0445 ISO&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;amount\&quot;:\&quot;+800\&quot;,\&quot;unit\&quot;:\&quot;1\&quot;},\&quot;type\&quot;:\&quot;quantity\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6789&quot;:&quot;800&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6789&quot;:&quot;800&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6789 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6789" href="https://www.wikidata.org/wiki/Special:EntityPage/P6789">чувствительность фотоматериала в единицах ISO</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$3BAD0B94-366F-487B-8A11-BBF12F2DE52F" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>800</bdi></h4></div></div></div></div></div></div></div></div><div id="P1163" data-property="P1163" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P1163&quot;,&quot;hash&quot;:&quot;723d30b878d4a8deb968b0db429888e5353661a2&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;image\/jpeg&quot;,&quot;type&quot;:&quot;string&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M1355709$CA7D1495-FBBF-46E6-A818-92AF4DC3C5D5&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:1163,\&quot;id\&quot;:\&quot;P1163\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P1163\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P1163\&quot;>MIME-\u0442\u0438\u043f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;MIME-\u0442\u0438\u043f&quot;}}},&quot;{\&quot;value\&quot;:\&quot;image\\\/jpeg\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P1163&quot;:&quot;image\/jpeg&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P1163&quot;:&quot;image\/jpeg&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P1163 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P1163" href="https://www.wikidata.org/wiki/Special:EntityPage/P1163">MIME-тип</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M1355709$CA7D1495-FBBF-46E6-A818-92AF4DC3C5D5" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>image/jpeg</bdi></h4></div></div></div></div></div></div></div></div></mediainfoviewstatements></mediainfoview>
+<!-- 
+NewPP limit report
+Parsed by mw2277
+Cached time: 20230315214508
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [no‐toc‐conversion]
+CPU time usage: 0.217 seconds
+Real time usage: 0.336 seconds
+Preprocessor visited node count: 827/1000000
+Post‐expand include size: 37461/2097152 bytes
+Template argument size: 916/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 876/5000000 bytes
+Lua time usage: 0.155/10.000 seconds
+Lua memory usage: 5381191/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.735      1 -total
+ 95.20%  288.204      1 Template:Artwork
+ 41.42%  125.395      1 Institution:Louvre
+ 40.58%  122.843      1 Template:Institution
+  4.70%   14.238      1 Template:PD-self
+  3.66%   11.075      1 Template:Unknown
+  2.87%    8.692      2 Template:Description
+  2.56%    7.747      1 Template:En
+  2.16%    6.535      1 Template:PD-Layout
+  2.02%    6.104      2 Template:LangSwitch
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:1355709-0!userlang=ru!wb=3 and timestamp 20230315214507 and revision id 701090603. Rendering was triggered because: page-view
+ -->
+</div></div>
+<h2 id="filehistory">История файла</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Нажмите на дату/время, чтобы посмотреть файл, который был загружен в тот момент.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Дата/время</th><th>Миниатюра</th><th>Размеры</th><th>Участник</th><th>Примечание</th></tr>
+<tr><td>текущий</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg">10:42, 10 ноября 2006</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg"><img alt="Миниатюра для версии от 10:42, 10 ноября 2006" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cherub_plaque_Louvre_MRR245_n2.jpg/120px-Cherub_plaque_Louvre_MRR245_n2.jpg" decoding="async" width="120" height="105" data-file-width="1200" data-file-height="1050" /></a></td><td>1200 × 1050 <span style="white-space: nowrap;">(1,11 Мб)</span></td><td>Jastrow</td><td dir="ltr">{{Louvre-ext |Unknown |Cherub and Byzantine Emperor <a href="/wiki/Heraclius" class="mw-redirect" title="Heraclius">Heraclius</a> submitting Sassanid king Khosrau II; plaque from a cross. Champlevé enamel over gilt copper, 1160-1170, Meuse Valley. |Unspecified |Former collection of Pierre Révoil; purchase, 1828 |MRR</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">Использование файла</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>Следующие 4 страницы используют этот файл:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%B8" title="Арабское завоевание Персии">Арабское завоевание Персии</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD_%D0%AD%D0%BF%D0%B8%D1%84%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Иоанн Эпифанский">Иоанн Эпифанский</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%D0%98%D1%80%D0%B0%D0%BA%D0%BB%D0%B8%D0%B9_I" title="Ираклий I">Ираклий I</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи">Википедия:Избранные статьи</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Глобальное использование файла</h2>
+<div id="mw-imagepage-section-globalusage"><p>Данный файл используется в следующих вики:
+</p><ul>
+<li class='mw-gu-onwiki-af_wikipedia_org'>Использование в af.wikipedia.org
+<ul>	<li><a class="external" href="https://af.wikipedia.org/wiki/Dinastie_van_Herakleios">Dinastie van Herakleios</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-an_wikipedia_org'>Использование в an.wikipedia.org
+<ul>	<li><a class="external" href="https://an.wikipedia.org/wiki/Armenios">Armenios</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Использование в ar.wikipedia.org
+<ul>	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D9%83%D8%B3%D8%B1%D9%89_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A">كسرى الثاني</a></li>
+	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7">تاريخ الشرق الأوسط</a></li>
+	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%AA%D8%AD_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A_%D9%84%D9%81%D8%A7%D8%B1%D8%B3">الفتح الإسلامي لفارس</a></li>
+	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%AA%D8%AD_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A_%D9%84%D9%85%D8%B5%D8%B1">الفتح الإسلامي لمصر</a></li>
+	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%AA%D8%AD_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A_%D9%84%D9%84%D8%B4%D8%A7%D9%85">الفتح الإسلامي للشام</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-arz_wikipedia_org'>Использование в arz.wikipedia.org
+<ul>	<li><a class="external" href="https://arz.wikipedia.org/wiki/%D9%8A%D9%88%D8%AD%D9%86%D8%A7_%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D8%AC%D8%B7%D8%A7%D8%B3">يوحنا عيد الجطاس</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ast_wikipedia_org'>Использование в ast.wikipedia.org
+<ul>	<li><a class="external" href="https://ast.wikipedia.org/wiki/Historia_d%27Armenia">Historia d'Armenia</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-azb_wikipedia_org'>Использование в azb.wikipedia.org
+<ul>	<li><a class="external" href="https://azb.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%D9%84%D9%85%D8%A7%D9%86%D9%84%D8%A7%D8%B1%DB%8C%D9%86_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%A2%D9%84%DB%8C%D9%86%D9%85%D8%A7%D8%B3%DB%8C">موسلمانلارین ایران آلینماسی</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ba_wikipedia_org'>Использование в ba.wikipedia.org
+<ul>	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%92%D3%99%D1%80%D3%99%D0%BF%D1%82%D3%99%D1%80%D2%99%D0%B5%D2%A3_%D0%A4%D0%B0%D1%80%D1%81%D0%B8%D1%8F%D0%BD%D1%8B_%D1%8F%D1%83%D0%BB%D0%B0%D1%83%D1%8B">Ғәрәптәрҙең Фарсияны яулауы</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bg_wikipedia_org'>Использование в bg.wikipedia.org
+<ul>	<li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%99%D0%BE%D0%B0%D0%BD_%D0%95%D0%BF%D0%B8%D1%84%D0%B0%D0%BD%D1%81%D0%BA%D0%B8">Йоан Епифански</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>Использование в ca.wikipedia.org
+<ul>	<li><a class="external" href="https://ca.wikipedia.org/wiki/Heracli">Heracli</a></li>
+	<li><a class="external" href="https://ca.wikipedia.org/wiki/Joan_d%27Epifania">Joan d'Epifania</a></li>
+	<li><a class="external" href="https://ca.wikipedia.org/wiki/Conquesta_musulmana_de_P%C3%A8rsia">Conquesta musulmana de Pèrsia</a></li>
+	<li><a class="external" href="https://ca.wikipedia.org/wiki/Cesaropapisme">Cesaropapisme</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cs_wikipedia_org'>Использование в cs.wikipedia.org
+<ul>	<li><a class="external" href="https://cs.wikipedia.org/wiki/Herakleiovsk%C3%A1_dynastie">Herakleiovská dynastie</a></li>
+	<li><a class="external" href="https://cs.wikipedia.org/wiki/%C5%98%C3%ADmsko-persk%C3%A9_v%C3%A1lky">Římsko-perské války</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cy_wikipedia_org'>Использование в cy.wikipedia.org
+<ul>	<li><a class="external" href="https://cy.wikipedia.org/wiki/Yr_Ymerodraeth_Fysantaidd">Yr Ymerodraeth Fysantaidd</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-de_wikipedia_org'>Использование в de.wikipedia.org
+<ul>	<li><a class="external" href="https://de.wikipedia.org/wiki/Herakleios">Herakleios</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/R%C3%B6misch-Persische_Kriege">Römisch-Persische Kriege</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Benutzer:Autokrator/Spielwiese">Benutzer:Autokrator/Spielwiese</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Hauptseite/Artikel_des_Tages/Archiv/Vorschl%C3%A4ge/2021/Q1">Wikipedia Diskussion:Hauptseite/Artikel des Tages/Archiv/Vorschläge/2021/Q1</a></li>
+	<li><a class="external" href="https://de.wikipedia.org/wiki/Wikipedia:Hauptseite/Archiv/11._Februar_2021">Wikipedia:Hauptseite/Archiv/11. Februar 2021</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-el_wikipedia_org'>Использование в el.wikipedia.org
+<ul>	<li><a class="external" href="https://el.wikipedia.org/wiki/%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%95%CF%80%CE%B9%CF%86%CE%B1%CE%BD%CE%B5%CF%8D%CF%82">Ιωάννης Επιφανεύς</a></li>
+	<li><a class="external" href="https://el.wikipedia.org/wiki/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%AE_%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1_%CF%85%CF%80%CF%8C_%CF%84%CE%B7_%CE%94%CF%85%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CE%AF%CE%B1_%CF%84%CE%BF%CF%85_%CE%97%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%AF%CE%BF%CF%85">Βυζαντινή Αυτοκρατορία υπό τη Δυναστεία του Ηρακλείου</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Использование в en.wikipedia.org
+<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/Monothelitism">Monothelitism</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Khosrow_II">Khosrow II</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Theophylact_Simocatta">Theophylact Simocatta</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Byzantine_Empire_under_the_Heraclian_dynasty">Byzantine Empire under the Heraclian dynasty</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/John_of_Epiphania">John of Epiphania</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/User:Mohammad_adil/sandbox8545005">User:Mohammad adil/sandbox8545005</a></li>
+	<li><a class="external" href="https://en.wikipedia.org/wiki/Cittanova_(Veneto)">Cittanova (Veneto)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-es_wikipedia_org'>Использование в es.wikipedia.org
+<ul>	<li><a class="external" href="https://es.wikipedia.org/wiki/Historia_de_Armenia">Historia de Armenia</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Armenia_bizantina">Armenia bizantina</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Teofilacto_Simocates">Teofilacto Simocates</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Batalla_de_Bosra_(634)">Batalla de Bosra (634)</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Garabatillo/El_Imperio_Bizantino_durante_la_dinast%C3%ADa_Heracliana">Usuario:Garabatillo/El Imperio Bizantino durante la dinastía Heracliana</a></li>
+	<li><a class="external" href="https://es.wikipedia.org/wiki/Imperio_Bizantino_durante_la_dinast%C3%ADa_heracliana">Imperio Bizantino durante la dinastía heracliana</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-eu_wikipedia_org'>Использование в eu.wikipedia.org
+<ul>	<li><a class="external" href="https://eu.wikipedia.org/wiki/Heraklio">Heraklio</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fi_wikipedia_org'>Использование в fi.wikipedia.org
+<ul>	<li><a class="external" href="https://fi.wikipedia.org/wiki/Rooman%E2%80%93Persian_sodat">Rooman–Persian sodat</a></li>
+	<li><a class="external" href="https://fi.wikipedia.org/wiki/Bysantin%E2%80%93sassanidien_sota_(603%E2%80%93628)">Bysantin–sassanidien sota (603–628)</a></li>
+	<li><a class="external" href="https://fi.wikipedia.org/wiki/Theofylaktos_Simokattes">Theofylaktos Simokattes</a></li>
+	<li><a class="external" href="https://fi.wikipedia.org/wiki/Wikipedia:Elokuun_kuvitustalkoot/2013/Galleria">Wikipedia:Elokuun kuvitustalkoot/2013/Galleria</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fi_wikibooks_org'>Использование в fi.wikibooks.org
+<ul>	<li><a class="external" href="https://fi.wikibooks.org/wiki/Wikijunior_Muinaiset_kulttuurit/Rooman_valtakunta/Bysantti">Wikijunior Muinaiset kulttuurit/Rooman valtakunta/Bysantti</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikipedia_org'>Использование в fr.wikipedia.org
+<ul>	<li><a class="external" href="https://fr.wikipedia.org/wiki/Ann%C3%A9es_620">Années 620</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/H%C3%A9raclius">Héraclius</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/Guerres_perso-byzantines">Guerres perso-byzantines</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/C%C3%A9saropapisme">Césaropapisme</a></li>
+	<li><a class="external" href="https://fr.wikipedia.org/wiki/Jean_d%27%C3%89piphanie">Jean d'Épiphanie</a></li>
+</ul></li>
+</ul>
+<p>Просмотреть <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/Cherub_plaque_Louvre_MRR245_n2.jpg" title="Служебная:Глобальное использование/Cherub plaque Louvre MRR245 n2.jpg">глобальное использование</a> этого файла.
+</p></div><h2 id="metadata">Метаданные</h2>
+<div class="mw-imagepage-section-metadata"><p>Файл содержит дополнительные данные, обычно добавляемые цифровыми камерами или сканерами. Если файл после создания редактировался, то некоторые параметры могут не соответствовать текущему изображению.</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-make"><th>Производитель камеры</th><td>NIKON CORPORATION</td></tr><tr class="exif-model"><th>Модель камеры</th><td>NIKON D70</td></tr><tr class="exif-exposuretime"><th>Время экспозиции</th><td>1/20 с (0,05)</td></tr><tr class="exif-fnumber"><th>Число диафрагмы</th><td>f/4,5</td></tr><tr class="exif-isospeedratings"><th>Светочувствительность ISO</th><td>800</td></tr><tr class="exif-datetimeoriginal"><th>Оригинальные дата и время</th><td>17:27, 20 октября 2006</td></tr><tr class="exif-focallength"><th>Фокусное расстояние</th><td>70 мм</td></tr><tr class="exif-orientation mw-metadata-collapsible"><th>Ориентация кадра</th><td>Нормальная</td></tr><tr class="exif-xresolution mw-metadata-collapsible"><th>Горизонтальное разрешение</th><td>300 точек на дюйм</td></tr><tr class="exif-yresolution mw-metadata-collapsible"><th>Вертикальное разрешение</th><td>300 точек на дюйм</td></tr><tr class="exif-software mw-metadata-collapsible"><th>Программное обеспечение</th><td>DxO Optics Pro Standard MACOSX 3.55b.6377581.356110 BMVDCTF</td></tr><tr class="exif-datetime mw-metadata-collapsible"><th>Дата и время изменения файла</th><td>17:27, 20 октября 2006</td></tr><tr class="exif-ycbcrpositioning mw-metadata-collapsible"><th>Порядок размещения компонент Y и C</th><td>CO-sited</td></tr><tr class="exif-referenceblackwhite mw-metadata-collapsible"><th>Положение белой и чёрной точек</th><td><ul><li>0</li>
+<li>255</li>
+<li>0</li>
+<li>255</li>
+<li>0</li>
+<li>255</li></ul></td></tr><tr class="exif-exposureprogram mw-metadata-collapsible"><th>Программа экспозиции</th><td>Приоритет диафрагмы</td></tr><tr class="exif-exifversion mw-metadata-collapsible"><th>Версия Exif</th><td>2.1</td></tr><tr class="exif-datetimedigitized mw-metadata-collapsible"><th>Дата и время оцифровки</th><td>17:27, 20 октября 2006</td></tr><tr class="exif-componentsconfiguration mw-metadata-collapsible"><th>Конфигурация цветовых компонентов</th><td><ol><li>R</li>
+<li>G</li>
+<li>B</li>
+<li>не существует</li></ol></td></tr><tr class="exif-shutterspeedvalue mw-metadata-collapsible"><th>Выдержка в APEX</th><td>4,321928</td></tr><tr class="exif-aperturevalue mw-metadata-collapsible"><th>Диафрагма в APEX</th><td>4,33985</td></tr><tr class="exif-exposurebiasvalue mw-metadata-collapsible"><th>Компенсация экспозиции</th><td>0</td></tr><tr class="exif-maxaperturevalue mw-metadata-collapsible"><th>Минимальное число диафрагмы</th><td>4,3 APEX (f/4,44)</td></tr><tr class="exif-meteringmode mw-metadata-collapsible"><th>Режим замера экспозиции</th><td>Центровзвешенный</td></tr><tr class="exif-lightsource mw-metadata-collapsible"><th>Источник света</th><td>Лампа накаливания</td></tr><tr class="exif-flash mw-metadata-collapsible"><th>Статус вспышки</th><td>Вспышка не срабатывала</td></tr><tr class="exif-subsectime mw-metadata-collapsible"><th>Доли секунд времени изменения файла</th><td>90</td></tr><tr class="exif-subsectimeoriginal mw-metadata-collapsible"><th>Доли секунд оригинального времени</th><td>90</td></tr><tr class="exif-subsectimedigitized mw-metadata-collapsible"><th>Доли секунд времени оцифровки</th><td>90</td></tr><tr class="exif-flashpixversion mw-metadata-collapsible"><th>Поддерживаемая версия FlashPix</th><td>1</td></tr><tr class="exif-colorspace mw-metadata-collapsible"><th>Цветовое пространство</th><td>sRGB</td></tr><tr class="exif-sensingmethod mw-metadata-collapsible"><th>Тип сенсора</th><td>Однокристальный матричный цветной сенсор</td></tr><tr class="exif-filesource mw-metadata-collapsible"><th>Источник файла</th><td>Цифровой фотоаппарат</td></tr><tr class="exif-scenetype mw-metadata-collapsible"><th>Тип сцены</th><td>Изображение сфотографировано напрямую</td></tr><tr class="exif-customrendered mw-metadata-collapsible"><th>Дополнительная обработка</th><td>Не производилась</td></tr><tr class="exif-exposuremode mw-metadata-collapsible"><th>Режим выбора экспозиции</th><td>Автоматическая экспозиция</td></tr><tr class="exif-whitebalance mw-metadata-collapsible"><th>Баланс белого</th><td>Ручная установка баланса белого</td></tr><tr class="exif-digitalzoomratio mw-metadata-collapsible"><th>Коэффициент цифрового увеличения (цифровой зум)</th><td>1</td></tr><tr class="exif-focallengthin35mmfilm mw-metadata-collapsible"><th>Эквивалентное фокусное расстояние (для 35 мм плёнки)</th><td>105 мм</td></tr><tr class="exif-scenecapturetype mw-metadata-collapsible"><th>Тип сцены при съёмке</th><td>Стандартный</td></tr><tr class="exif-gaincontrol mw-metadata-collapsible"><th>Повышение яркости</th><td>Небольшое увеличение</td></tr><tr class="exif-contrast mw-metadata-collapsible"><th>Контрастность</th><td>Нормальная</td></tr><tr class="exif-saturation mw-metadata-collapsible"><th>Насыщенность</th><td>Нормальная</td></tr><tr class="exif-sharpness mw-metadata-collapsible"><th>Резкость</th><td>Нормальная</td></tr><tr class="exif-subjectdistancerange mw-metadata-collapsible"><th>Расстояние до объекта съёмки</th><td>Неизвестно</td></tr></tbody></table>
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/wiki/Файл:Cherub_plaque_Louvre_MRR245_n2.jpg">https://ru.wikipedia.org/wiki/Файл:Cherub_plaque_Louvre_MRR245_n2.jpg</a></div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3ACherub+plaque+Louvre+MRR245+n2.jpg" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3ACherub+plaque+Louvre+MRR245+n2.jpg" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg" title="Страница файла [c]" accesskey="c"><span>Файл</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0:Cherub_plaque_Louvre_MRR245_n2.jpg&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg"><span>Читать</span></a></li><li id="ca-view-foreign" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/File:Cherub_plaque_Louvre_MRR245_n2.jpg"><span>Посмотреть Викискладе</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Создать локально</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Создать локально как код</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export emptyPortlet vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Cherub_plaque_Louvre_MRR245_n2.jpg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.002","walltime":"0.002","ppvisitednodes":{"value":3,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1368","timestamp":"20230321212600","ttl":1814400,"transientcontent":false}},"wgHostname":"mw1368","wgBackendResponseTime":249});});</script>
+</body>
+</html>

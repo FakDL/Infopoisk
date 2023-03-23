@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Файл:Magellan Elcano Circumnavigation-ru.svg — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"f5389456-1fd0-49aa-9883-aa3808fee7b1","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"Файл:Magellan_Elcano_Circumnavigation-ru.svg","wgTitle":"Magellan Elcano Circumnavigation-ru.svg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,
+"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Файл:Magellan_Elcano_Circumnavigation-ru.svg","wgRelevantArticleId":0,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,
+"wgULSisLanguageSelectorEmpty":true,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.cx.eventlogging.campaigns","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/1200px-Magellan_Elcano_Circumnavigation-ru.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/800px-Magellan_Elcano_Circumnavigation-ru.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="420"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/640px-Magellan_Elcano_Circumnavigation-ru.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="336"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Файл:Magellan Elcano Circumnavigation-ru.svg — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Magellan_Elcano_Circumnavigation-ru.svg"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-Файл_Magellan_Elcano_Circumnavigation-ru_svg rootpage-Файл_Magellan_Elcano_Circumnavigation-ru_svg skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-commons" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:Magellan_Elcano_Circumnavigation-ru.svg?uselang=ru" title="Этот файл находится на Викискладе"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" decoding="async" width="14" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Файл:Magellan Elcano Circumnavigation-ru.svg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">Файл</a></li>
+<li><a href="#filehistory">История файла</a></li>
+<li><a href="#filelinks">Использование файла</a></li>
+<li><a href="#globalusage">Глобальное использование файла</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/9/9f/Magellan_Elcano_Circumnavigation-ru.svg"><img alt="Файл:Magellan Elcano Circumnavigation-ru.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/800px-Magellan_Elcano_Circumnavigation-ru.svg.png" decoding="async" width="800" height="420" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/1200px-Magellan_Elcano_Circumnavigation-ru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/1600px-Magellan_Elcano_Circumnavigation-ru.svg.png 2x" data-file-width="2249" data-file-height="1181" /></a><div class="mw-filepage-resolutioninfo">Размер этого PNG-превью для исходного SVG-файла: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/800px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">800 × 420 пкс</a>. <span class="mw-filepage-other-resolutions">Другие разрешения: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/320px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">320 × 168 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/640px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">640 × 336 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/1024px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">1024 × 538 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/1280px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">1280 × 672 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/2560px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">2560 × 1344 пкс</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/2249px-Magellan_Elcano_Circumnavigation-ru.svg.png" class="mw-thumbnail-link">2249 × 1181 пкс</a>.</span></div></div>
+<div class="fullMedia"><p><a href="//upload.wikimedia.org/wikipedia/commons/9/9f/Magellan_Elcano_Circumnavigation-ru.svg" class="internal" title="Magellan Elcano Circumnavigation-ru.svg">Исходный файл</a> &#8206;<span class="fileInfo">(SVG-файл, номинально 2249 × 1181 пкс, размер файла: 224 Кб)</span>
+</p></div><div class="sharedUploadNotice">
+<table class="plainlinks fmbox fmbox-system" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png" decoding="async" width="32" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/64px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text"><div class="mbox-text-div"><div><b><a class="external text" href="https://commons.wikimedia.org/wiki/File:Magellan_Elcano_Circumnavigation-ru.svg?uselang=ru"><span title="Перейти на страницу файла на Викискладе">Этот файл находится на Викискладе.</span></a></b> Сведения о нём показаны ниже.</div>
+<div style="font-size:85%; padding:0.1412em 0; margin-bottom:0.5em;">Викисклад — централизованное хранилище для свободных файлов, используемых в проектах Викимедиа.</div>
+<span class="plainlinks ruwiki-addTopicLink" style=""><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85_%D0%B2_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D1%85_%D1%81_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0&amp;action=edit&amp;section=action=edit&amp;section=new&amp;preloadtitle=%5B%5B:%D0%A4%D0%B0%D0%B9%D0%BB%3AMagellan+Elcano+Circumnavigation-ru.svg%5D%5D&amp;preload=Шаблон:Preload/СОО"><span class="plainlinks mw-ui-button" style=""><span class="nowrap">Сообщить об ошибке с файлом</span></span></a></span></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table>
+</div>
+<div id="shared-image-desc"><div class="mw-parser-output"><h2><span id=".D0.9A.D1.80.D0.B0.D1.82.D0.BA.D0.BE.D0.B5_.D0.BE.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Краткое_описание">Краткое описание</span></h2>
+<div class="hproduct commons-file-information-table">
+<style data-mw-deduplicate="TemplateStyles:r726982256">.mw-parser-output table.commons-file-information-table,.mw-parser-output .fileinfotpl-type-information{border:1px solid #a2a9b1;background-color:#f8f9fa;padding:5px;font-size:95%;border-spacing:2px;box-sizing:border-box;margin:0;width:100%}.mw-parser-output table.commons-file-information-table>tbody>tr,.mw-parser-output .fileinfotpl-type-information>tbody>tr{vertical-align:top}.mw-parser-output table.commons-file-information-table>tbody>tr>td,.mw-parser-output table.commons-file-information-table>tbody>tr>th,.mw-parser-output .fileinfotpl-type-information>tbody>tr>td,.mw-parser-output .fileinfotpl-type-information>tbody>tr>th{padding:4px}.mw-parser-output .fileinfo-paramfield{background:#ccf;text-align:right;padding-right:0.4em;width:15%;font-weight:bold}.mw-parser-output .commons-file-information-table+table.commons-file-information-table,.mw-parser-output .commons-file-information-table+div.commons-file-information-table>table{border-top:0;padding-top:0;margin-top:-8px}@media only screen and (max-width:719px){.mw-parser-output table.commons-file-information-table,.mw-parser-output .commons-file-information-table .fileinfotpl-type-information{border-spacing:0;padding:0;word-break:break-word;width:100%!important}.mw-parser-output .commons-file-information-table>tbody,.mw-parser-output .fileinfotpl-type-information>tbody{display:block}.mw-parser-output .commons-file-information-table>tbody>tr>td,.mw-parser-output .commons-file-information-table>tbody>tr>th,.mw-parser-output .fileinfotpl-type-information>tbody>tr>td,.mw-parser-output .fileinfotpl-type-information>tbody>tr>th{padding:0.2em 0.4em;text-align:left;text-align:start}.mw-parser-output .commons-file-information-table>tbody>tr,.mw-parser-output .fileinfotpl-type-information>tbody>tr{display:flex;flex-direction:column}.mw-parser-output .commons-file-information-table+table.commons-file-information-table,.mw-parser-output .commons-file-information-table+div.commons-file-information-table>table{margin-top:-1px}.mw-parser-output .fileinfo-paramfield{box-sizing:border-box;flex:1 0 100%;width:100%}}</style>
+<table class="fileinfotpl-type-information vevent mw-content-ltr" style="direction: ltr;">
+
+<tbody><tr>
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="ru">Описание<span class="summary fn" style="display:none">Magellan Elcano Circumnavigation-ru.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="английский"><b>English: </b></span> Russian map of the first world <a href="https://en.wikipedia.org/wiki/Circumnavigation" class="extiw" title="en:Circumnavigation">circumnavigation</a> of <a href="https://en.wikipedia.org/wiki/Ferdinand_de_Magellan" class="extiw" title="en:Ferdinand de Magellan">Ferdinand de Magellan</a> and <a href="https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano" class="extiw" title="en:Juan Sebastián Elcano">Juan Sebastián Elcano</a>, from 1519 to 1522.</div>
+<div class="description mw-content-ltr fr" dir="ltr" lang="fr"><span class="language fr" title="французский"><b>Français&nbsp;: </b></span> Carte de la première <a href="https://fr.wikipedia.org/wiki/Circumnavigation" class="extiw" title="fr:Circumnavigation">circumnavigation</a> autour du monde, par <a href="https://fr.wikipedia.org/wiki/Fernand_de_Magellan" class="extiw" title="fr:Fernand de Magellan">Ferdinand de Magellan</a> et <a href="https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano" class="extiw" title="en:Juan Sebastián Elcano">Juan Sebastián Elcano</a>, de 1519 à 1522.</div>
+<div class="description mw-content-ltr ru" dir="ltr" lang="ru"><span class="language ru" title="русский"><b>Русский: </b></span> Карта первого <a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D1%81%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5" class="extiw" title="ru:Кругосветное путешествие">Кругосветного путешествия</a> <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD" class="extiw" title="ru:Фернан Магеллан">Фернана Магеллана</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%B0%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD_%D0%AD%D0%BB%D1%8C%D0%BA%D0%B0%D0%BD%D0%BE" class="extiw" title="ru:Хуан Себастьян Элькано">Хуана Себастьяна Элькано</a> в 1519-15221522.</div></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="ru">Дата</td>
+<td lang="ru">
+<time class="dtstart" datetime="2008-05-11" lang="ru" dir="ltr" style="white-space:nowrap">11 мая 2008</time></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="ru">Источник</td>
+<td>
+SVG translation of a GFDL map/перевод на русский французской карты <a href="//commons.wikimedia.org/wiki/File:Magellan_Elcano_Circumnavigation-fr.svg" title="File:Magellan Elcano Circumnavigation-fr.svg">Image:Magellan_Elcano_Circumnavigation-fr.svg</a> by <a href="//commons.wikimedia.org/wiki/User:S%C3%A9mhur" title="User:Sémhur">Sémhur</a>, лицензированной под GFDL</td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="ru">Автор</td>
+<td>
+<a href="//commons.wikimedia.org/wiki/User:Mitrius" title="User:Mitrius">Mitrius</a></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="ru">Другие версии</td>
+<td>
+</td></tr><tr style="vertical-align: top"><td style="" class="fileinfo-paramfield">SVG<div style="display: none;">InfoField</div></td><td style=""><div lang="ru" class="mw-content-ltr plainlinks">
+<table cellspacing="0" style="color:#000;background:#EFE;border:1px solid #55B05A;margin:.1em;width:;">
+<tbody><tr>
+<td style="height:29px;line-height:2.1em;padding:0;vertical-align:middle"><a href="https://validator.w3.org/" rel="nofollow"><img alt="W3C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Valid_SVG_1.1_%28green%29.svg/88px-Valid_SVG_1.1_%28green%29.svg.png" decoding="async" width="88" height="30" style="vertical-align: top" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Valid_SVG_1.1_%28green%29.svg/132px-Valid_SVG_1.1_%28green%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Valid_SVG_1.1_%28green%29.svg/176px-Valid_SVG_1.1_%28green%29.svg.png 2x" data-file-width="91" data-file-height="31"></a><span style="visibility:hidden; color:transparent;">i</span>Исходный код этого <a href="//commons.wikimedia.org/wiki/Help:SVG" title="Help:SVG">SVG</a>-файла <span class="plainlinks" style="background:transparent"><a rel="nofollow" class="external text" href="https://validator.w3.org/check?uri=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FSpecial%3AFilepath%2FMagellan_Elcano_Circumnavigation-ru.svg&amp;doctype=Inline&amp;ss=1">корректен</a></span>.
+</td></tr></tbody></table> </div>
+<div style="display:inline-block;width:auto;white-space:nowrap;vertical-align:middle;direction:ltr;float:ltr;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:#000;background:#F8F9FA;border:1px solid #BAB;background:#FEE;border:1px solid #600"><a href="//commons.wikimedia.org/wiki/File:Inkscape-ws.svg" class="image"><img alt="Inkscape-ws.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/48px-Inkscape-ws.svg.png" decoding="async" width="48" height="48" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/72px-Inkscape-ws.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Inkscape-ws.svg/96px-Inkscape-ws.svg.png 2x" data-file-width="390" data-file-height="390"></a>&nbsp;<div lang="ru" dir="ltr" class="description ru" style="display:inline;">Это <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" class="extiw" title="ru:Векторная графика">векторное изображение</a> было создано с помощью <a href="https://ru.wikipedia.org/wiki/Inkscape" class="extiw" title="ru:Inkscape">Inkscape</a> .</div></div> 
+<table cellspacing="8" cellpadding="0" style="clear:both; width:100%; margin:0.5em auto; border:2px solid #88A; background-color:#F7F8FF;" lang="ru" dir="ltr">
+<tbody><tr>
+<td align="center"><a href="https://svgtranslate.toolforge.org/File:Magellan_Elcano_Circumnavigation-ru.svg" title="Переведите этот файл"><img alt="Переведите этот файл" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/OOjs_UI_icon_language-ltr.svg/64px-OOjs_UI_icon_language-ltr.svg.png" decoding="async" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/OOjs_UI_icon_language-ltr.svg/96px-OOjs_UI_icon_language-ltr.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/OOjs_UI_icon_language-ltr.svg/128px-OOjs_UI_icon_language-ltr.svg.png 2x" data-file-width="20" data-file-height="20"></a>
+</td>
+<td width="100%">Этот SVG-файл включает <b>встроенный текст, который может быть переведён</b> на ваш язык с помощью любого SVG-редактора, текстового редактора или <a href="https://iw.toolforge.org/svgtranslate/File:Magellan_Elcano_Circumnavigation-ru.svg" class="extiw" title="toolforge:svgtranslate/File:Magellan Elcano Circumnavigation-ru.svg">Инструмента по переводу SVG-файлов</a>. За подробной информацией обратитесь к статье <a href="//commons.wikimedia.org/wiki/Commons:TPLM/ru" class="mw-redirect" title="Commons:TPLM/ru">О переводе SVG-файлов</a>.
+</td></tr></tbody></table></td>
+</tr>
+<tr style="vertical-align: top"><td style="" class="fileinfo-paramfield">Graphic Lab<div style="display: none;">InfoField</div></td><td style=""><table class="messagebox plainlinks layouttemplate" style="margin:2px 10%;width:auto;border:2px solid #48d;background:#fbfcff;color:#222;border-left-width:8px;border-collapse:collapse;margin:0;border-left-width:2px"><tbody><tr>
+<td class="mbox-image" style="padding-left:.9em"><a href="//commons.wikimedia.org/wiki/File:Edge-firefox.svg" class="image" title="Graphic Lab"><img alt="Graphic Lab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Edge-firefox.svg/42px-Edge-firefox.svg.png" decoding="async" width="42" height="42" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Edge-firefox.svg/63px-Edge-firefox.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Edge-firefox.svg/84px-Edge-firefox.svg.png 2x" data-file-width="541" data-file-height="541"></a></td><td class="mbox-text"><div lang="ru" dir="ltr" class="description ru" style="display:inline;">Эта карта была создана в <a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Atelier_graphique" class="extiw" title="fr:Wikipédia:Atelier graphique">Графической мастерской</a> (fr). Вы также можете <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F/%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8" class="extiw" title="ru:Проект:Графическая мастерская/Заявки">оставить заявку</a> на создание или улучшение изображения. </div></td></tr></tbody></table></td>
+</tr>
+
+
+
+</tbody></table>
+</div>
+<h2><span id=".D0.9B.D0.B8.D1.86.D0.B5.D0.BD.D0.B7.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Лицензирование">Лицензирование</span></h2>
+<div style="clear:both; margin:0.5em auto; background-color:#eee; border:2px solid #ddd; padding:8px; direction: ltr;" class="licensetpl_wrapper">
+<div class="center" style="font-weight:bold;"><div lang="ru" dir="ltr" class="description ru" style="display:inline;">Я, владелец авторских прав на это произведение, добровольно публикую его на условиях следующих лицензий:</div></div>
+<table class="layouttemplate licensetpl mw-content-ltr" lang="ru" dir="ltr" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#e2f2d2; border:2px solid #acce79; border-spacing:8px;">
+<tbody><tr>
+<td><img alt="Licence Art Libre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Licence_Art_Libre.svg/124px-Licence_Art_Libre.svg.png" decoding="async" title="Licence Art Libre" width="124" height="44" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Licence_Art_Libre.svg/186px-Licence_Art_Libre.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Licence_Art_Libre.svg/248px-Licence_Art_Libre.svg.png 2x" data-file-width="367" data-file-height="130">
+</td>
+<td>Копилефт: Это свободное произведение искусства; вы можете распространять и/или изменять его в соответствии с условиями <b><a href="https://en.wikipedia.org/wiki/ru:%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_Free_Art" class="extiw" title="w:ru:Лицензия Free Art">Free Art License</a></b>. Условия этой лицензии можно найти на сайте <a rel="nofollow" class="external text" href="http://artlibre.org/lal/en">Copyleft Attitude</a>, а также <a class="external text" href="https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3">на других сайтах</a>. <span class="licensetpl_link" style="display:none;">http://artlibre.org/licence/lal/en</span><span class="licensetpl_short" style="display:none;">FAL</span><span class="licensetpl_long" style="display:none;">Free Art License</span><span class="licensetpl_link_req" style="display:none;">false</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</td></tr></tbody></table><style data-mw-deduplicate="TemplateStyles:r666199556">.mw-parser-output .responsive-license-cc{clear:both;text-align:center;box-sizing:border-box;width:100%;justify-content:space-around;align-items:center;margin:0.5em auto;background-color:#f9f9f9;border:2px solid #e0e0e0;border-spacing:8px;display:flex}.mw-parser-output .responsive-license-cc div{margin:4px}.mw-parser-output .rlicense-text div{margin:0.5em auto}@media screen and (max-width:640px){.mw-parser-output .responsive-license-cc{flex-flow:column}.mw-parser-output .rlicense-text{order:1}}</style><div class="responsive-license-cc layouttemplate licensetpl mw-content-ltr" lang="ru"><div class="rlicense-icons"><img alt="w:ru:Creative Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" decoding="async" title="w:ru:Creative Commons" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300"><br>
+<img alt="атрибуция" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" decoding="async" title="атрибуция" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64"> <img alt="распространение на тех же условиях" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png" decoding="async" title="распространение на тех же условиях" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x" data-file-width="64" data-file-height="64"></div><div class="rlicense-text"><div class="rlicense-declaration">This file is licensed under the <a href="https://en.wikipedia.org/wiki/ru:Creative_Commons" class="extiw" title="w:ru:Creative Commons">Creative Commons</a> Attribution-Share Alike <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/">4.0 International</a>, <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">3.0 Unported</a>, <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/2.5/deed.en">2.5 Generic</a>, <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/2.0/deed.en">2.0 Generic</a> and <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/1.0/deed.en">1.0 Generic</a> license.</div><div class="rlicense-desc" style="text-align:left;" lang="ru">
+<dl><dd>Вы можете свободно:
+<ul><li><b>делиться произведением</b> – копировать, распространять и передавать данное произведение</li>
+<li><b>создавать производные</b> – переделывать данное произведение</li></ul></dd>
+<dd>При соблюдении следующих условий:
+<ul><li><b>атрибуция</b> – Вы должны указать авторство, предоставить ссылку на лицензию и указать, внёс ли автор какие-либо изменения. Это можно сделать любым разумным способом, но не создавая впечатление, что лицензиат поддерживает вас или использование вами данного произведения.</li>
+<li><b>распространение на тех же условиях</b> – Если вы изменяете, преобразуете или создаёте иное произведение на основе данного, то обязаны использовать лицензию исходного произведения или <a rel="nofollow" class="external text" href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses">лицензию, совместимую с исходной</a>.</li></ul></dd></dl></div><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/4.0</span><span class="licensetpl_short" style="display:none;">CC BY-SA 4.0 </span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 4.0 </span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span></div></div><div class="center"><div lang="ru" dir="ltr" class="description ru" style="display:inline;"><i>Вы можете выбрать любую из этих лицензий.</i></div></div>
+</div><h1 class="mw-slot-header"><mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none"><mediainfoviewcaptions><div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><h3 class="wbmi-entityview-captions-header">Краткие подписи</h3><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">русский</label><div lang="ru" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">Добавьте однострочное описание того, что собой представляет этот файл</div></div></div></mediainfoviewcaptions><mediainfoviewstatements><div id="P180" data-property="P180" data-statements="[]" data-formatvalue="[]" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h3 class="wbmi-statements-title">Элементы, изображённые на этом файле</h3><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">изображённый объект</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"></div></div></div><div id="P170" data-property="P170" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;somevalue&quot;,&quot;property&quot;:&quot;P170&quot;,&quot;hash&quot;:&quot;d3550e860f988c6675fff913440993f58f5c40c5&quot;},&quot;type&quot;:&quot;statement&quot;,&quot;qualifiers&quot;:{&quot;P4174&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P4174&quot;,&quot;hash&quot;:&quot;0845a4565e61156135b1c796caa050275d808b51&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;Mitrius&quot;,&quot;type&quot;:&quot;string&quot;}}],&quot;P2093&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2093&quot;,&quot;hash&quot;:&quot;da110ca71a0e8df5a8900ba9ab92a96c70da2fe5&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;Mitrius&quot;,&quot;type&quot;:&quot;string&quot;}}],&quot;P2699&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2699&quot;,&quot;hash&quot;:&quot;cf48f3de46f64c6e581365306cd9da1517168dda&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Mitrius&quot;,&quot;type&quot;:&quot;string&quot;}}]},&quot;qualifiers-order&quot;:[&quot;P4174&quot;,&quot;P2093&quot;,&quot;P2699&quot;],&quot;id&quot;:&quot;M4026805$D5CCF771-5CAB-4407-8C7D-E93B13ADC04D&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:170,\&quot;id\&quot;:\&quot;P170\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P170\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P170\&quot;>\u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:4174,\&quot;id\&quot;:\&quot;P4174\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P4174\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4174\&quot;>\u043b\u043e\u0433\u0438\u043d \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u043e\u0433\u0438\u043d \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430&quot;}}},&quot;{\&quot;value\&quot;:\&quot;Mitrius\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P4174&quot;:&quot;<a target=\&quot;_blank\&quot; class=\&quot;wb-external-id external\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:CentralAuth?target=Mitrius\&quot; rel=\&quot;nofollow\&quot;>Mitrius<\/a>&quot;,&quot;P2093&quot;:&quot;Mitrius&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P4174&quot;:&quot;Mitrius&quot;,&quot;P2093&quot;:&quot;Mitrius&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2093,\&quot;id\&quot;:\&quot;P2093\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2093\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2093\&quot;>\u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430 (\u0441\u0442\u0440\u043e\u043a\u0430)<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430 (\u0441\u0442\u0440\u043e\u043a\u0430)&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2699,\&quot;id\&quot;:\&quot;P2699\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2699\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2699\&quot;>URL<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;URL&quot;}}},&quot;{\&quot;value\&quot;:\&quot;https:\\\/\\\/commons.wikimedia.org\\\/wiki\\\/user:Mitrius\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P2699&quot;:&quot;<a target=\&quot;_blank\&quot; rel=\&quot;nofollow\&quot; class=\&quot;external free\&quot; href=\&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Mitrius\&quot;>https:\/\/commons.wikimedia.org\/wiki\/user:Mitrius<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P2699&quot;:&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Mitrius&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P170 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P170" href="https://www.wikidata.org/wiki/Special:EntityPage/P170">создатель</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$D5CCF771-5CAB-4407-8C7D-E93B13ADC04D" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>У этого свойства есть некоторое значение без элемента в </bdi></h4></div></div></div><div class="wbmi-item-qualifiers"><div class="wbmi-snaklist-container"><div class="wbmi-snaklist-content"><div class="wbmi-snak"><div class="wbmi-snak-value"><a target="_blank" title="d:Special:EntityPage/P4174" href="https://www.wikidata.org/wiki/Special:EntityPage/P4174">логин в проектах Викимедиа</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" class="wb-external-id external" href="https://www.wikidata.org/wiki/Special:CentralAuth?target=Mitrius" rel="nofollow">Mitrius</a></span></div></div><div class="wbmi-snak"><div class="wbmi-snak-value"><a target="_blank" title="d:Special:EntityPage/P2093" href="https://www.wikidata.org/wiki/Special:EntityPage/P2093">имя автора (строка)</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value">Mitrius</span></div></div><div class="wbmi-snak"><div class="wbmi-snak-value"><a target="_blank" title="d:Special:EntityPage/P2699" href="https://www.wikidata.org/wiki/Special:EntityPage/P2699">URL</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" rel="nofollow" class="external free" href="https://commons.wikimedia.org/wiki/user:Mitrius">https://commons.wikimedia.org/wiki/user:Mitrius</a></span></div></div></div></div></div></div></div></div></div></div><div id="P6216" data-property="P6216" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6216&quot;,&quot;hash&quot;:&quot;5570347fdc76d2a80732f51ea10ee4b144a084e0&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:50423863,&quot;id&quot;:&quot;Q50423863&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$DEED2C94-CEE7-4C32-932D-F06BAF17880D&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6216,\&quot;id\&quot;:\&quot;P6216\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6216\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\&quot;>\u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u0442\u0443\u0441<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u0442\u0443\u0441&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:50423863,\&quot;id\&quot;:\&quot;Q50423863\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q50423863\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\&quot;>\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c \u043f\u0440\u0430\u0432\u043e\u043c<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c \u043f\u0440\u0430\u0432\u043e\u043c&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">правовой статус</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$DEED2C94-CEE7-4C32-932D-F06BAF17880D" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">защищено авторским правом</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P275" data-property="P275" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;399d87d8d2fd49be79ea021efb2038a8c6e63244&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:47001652,&quot;id&quot;:&quot;Q47001652&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$53DBB038-AB7B-4296-B5CE-152C7DEB4819&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;779b6b883f7c360fbd224c4141da7f1936a5809a&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:152332,&quot;id&quot;:&quot;Q152332&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$52016CC3-BE19-4917-98A0-8E30F939A7E0&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;a62aa88e8696cafc169e9591e6d34b5d3ec5b93e&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:19068220,&quot;id&quot;:&quot;Q19068220&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$944EDF32-C617-4300-ADB3-BC5BA5C9F572&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;c91f907143769398ba86608a845e155827dab71b&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:19113751,&quot;id&quot;:&quot;Q19113751&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$643C1CC2-6020-492E-A1F0-F5FCB7D683A7&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;ec6e754c5042e13b53376139e505ebd6708745a4&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:18199165,&quot;id&quot;:&quot;Q18199165&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$67BD10D0-D0AC-4A64-AA55-00A06916315B&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;a35b4558d66c92eacbe2f569697ffb1934e0316e&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:14946043,&quot;id&quot;:&quot;Q14946043&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$DCFD3C6C-37A7-4784-9BC3-139876FA9CD6&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:275,\&quot;id\&quot;:\&quot;P275\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P275\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\&quot;>\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:47001652,\&quot;id\&quot;:\&quot;Q47001652\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q47001652\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q47001652\&quot; lang=\&quot;en\&quot;>Creative Commons Attribution-ShareAlike 1.0 Generic<\/a><sup class=\&quot;wb-language-fallback-indicator\&quot;>\u00a0\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439<\/sup>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;Creative Commons Attribution-ShareAlike 1.0 Generic&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:152332,\&quot;id\&quot;:\&quot;Q152332\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q152332\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q152332\&quot;>\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u044f Free Art<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u044f Free Art&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:19068220,\&quot;id\&quot;:\&quot;Q19068220\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q19068220\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q19068220\&quot;>Creative Commons Attribution-ShareAlike 2.0 Generic<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;Creative Commons Attribution-ShareAlike 2.0 Generic&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:19113751,\&quot;id\&quot;:\&quot;Q19113751\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q19113751\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q19113751\&quot;>Creative Commons Attribution-ShareAlike 2.5 Generic<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;Creative Commons Attribution-ShareAlike 2.5 Generic&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:18199165,\&quot;id\&quot;:\&quot;Q18199165\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q18199165\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q18199165\&quot;>\u00abAttribution-ShareAlike\u00bb (\u00ab\u0410\u0442\u0440\u0438\u0431\u0443\u0446\u0438\u044f \u2014 \u041d\u0430 \u0442\u0435\u0445 \u0436\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445\u00bb) 4.0 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;\u00abAttribution-ShareAlike\u00bb (\u00ab\u0410\u0442\u0440\u0438\u0431\u0443\u0446\u0438\u044f \u2014 \u041d\u0430 \u0442\u0435\u0445 \u0436\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445\u00bb) 4.0 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:14946043,\&quot;id\&quot;:\&quot;Q14946043\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q14946043\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q14946043\&quot;>Creative Commons Attribution-ShareAlike 3.0 Unported<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;Creative Commons Attribution-ShareAlike 3.0 Unported&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">лицензия</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$53DBB038-AB7B-4296-B5CE-152C7DEB4819" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q47001652" href="https://www.wikidata.org/wiki/Special:EntityPage/Q47001652" lang="en">Creative Commons Attribution-ShareAlike 1.0 Generic</a><sup class="wb-language-fallback-indicator">&nbsp;английский</sup></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$52016CC3-BE19-4917-98A0-8E30F939A7E0" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q152332" href="https://www.wikidata.org/wiki/Special:EntityPage/Q152332">Лицензия Free Art</a></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$944EDF32-C617-4300-ADB3-BC5BA5C9F572" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q19068220" href="https://www.wikidata.org/wiki/Special:EntityPage/Q19068220">Creative Commons Attribution-ShareAlike 2.0 Generic</a></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$643C1CC2-6020-492E-A1F0-F5FCB7D683A7" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q19113751" href="https://www.wikidata.org/wiki/Special:EntityPage/Q19113751">Creative Commons Attribution-ShareAlike 2.5 Generic</a></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$67BD10D0-D0AC-4A64-AA55-00A06916315B" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q18199165" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18199165">«Attribution-ShareAlike» («Атрибуция — На тех же условиях») 4.0 Всемирная</a></bdi></h4></div></div></div></div></div><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$DCFD3C6C-37A7-4784-9BC3-139876FA9CD6" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q14946043" href="https://www.wikidata.org/wiki/Special:EntityPage/Q14946043">Creative Commons Attribution-ShareAlike 3.0 Unported</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P571" data-property="P571" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P571&quot;,&quot;hash&quot;:&quot;e43e277bac893513767addbb48c04148febc1ff7&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;time&quot;:&quot;+2008-05-11T00:00:00Z&quot;,&quot;timezone&quot;:0,&quot;before&quot;:0,&quot;after&quot;:0,&quot;precision&quot;:11,&quot;calendarmodel&quot;:&quot;http:\/\/www.wikidata.org\/entity\/Q1985727&quot;},&quot;type&quot;:&quot;time&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M4026805$01879EAF-AA38-4850-A891-8F803222CD68&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:571,\&quot;id\&quot;:\&quot;P571\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P571\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\&quot;>\u0434\u0430\u0442\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \/ \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \/ \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0434\u0430\u0442\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \/ \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \/ \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;time\&quot;:\&quot;+2008-05-11T00:00:00Z\&quot;,\&quot;timezone\&quot;:0,\&quot;before\&quot;:0,\&quot;after\&quot;:0,\&quot;precision\&quot;:11,\&quot;calendarmodel\&quot;:\&quot;http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\&quot;},\&quot;type\&quot;:\&quot;time\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P571&quot;:&quot;11 \u043c\u0430\u044f 2008&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P571&quot;:&quot;11 \u043c\u0430\u044f 2008&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">дата основания / создания / возникновения</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M4026805$01879EAF-AA38-4850-A891-8F803222CD68" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>11 мая 2008</bdi></h4></div></div></div></div></div></div></div></div></mediainfoviewstatements></mediainfoview>
+<!-- 
+NewPP limit report
+Parsed by mw2303
+Cached time: 20230315044120
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [no‐toc‐conversion]
+CPU time usage: 0.169 seconds
+Real time usage: 0.242 seconds
+Preprocessor visited node count: 4552/1000000
+Post‐expand include size: 68990/2097152 bytes
+Template argument size: 12035/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2808/5000000 bytes
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 2142262/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  214.924      1 -total
+ 81.23%  174.577      1 Template:Information
+ 48.24%  103.680      2 Template:Information_field
+ 34.47%   74.080      4 Template:Autotranslate
+ 24.03%   51.652      1 Template:Inkscape
+ 18.63%   40.050      1 Template:Self
+ 10.15%   21.815      1 Template:Created_with/ru
+  9.30%   19.995      1 Template:Cc-by-sa-all
+  9.10%   19.565      1 Template:Created_with
+  8.56%   18.404      1 Template:Atelier_graphique_carte
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:4026805-0!userlang=ru!wb=3 and timestamp 20230315044120 and revision id 606472350. Rendering was triggered because: page-view
+ -->
+</div></div>
+<h2 id="filehistory">История файла</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Нажмите на дату/время, чтобы посмотреть файл, который был загружен в тот момент.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Дата/время</th><th>Миниатюра</th><th>Размеры</th><th>Участник</th><th>Примечание</th></tr>
+<tr><td>текущий</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/9/9f/Magellan_Elcano_Circumnavigation-ru.svg">12:40, 3 ноября 2008</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/9/9f/Magellan_Elcano_Circumnavigation-ru.svg"><img alt="Миниатюра для версии от 12:40, 3 ноября 2008" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Magellan_Elcano_Circumnavigation-ru.svg/120px-Magellan_Elcano_Circumnavigation-ru.svg.png" decoding="async" width="120" height="63" data-file-width="2249" data-file-height="1181" /></a></td><td>2249 × 1181 <span style="white-space: nowrap;">(224 Кб)</span></td><td>Sémhur</td><td dir="ltr">Black boxes bug corrected</td></tr>
+<tr><td></td><td style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/9f/20081103124007%21Magellan_Elcano_Circumnavigation-ru.svg">10:03, 11 мая 2008</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/9f/20081103124007%21Magellan_Elcano_Circumnavigation-ru.svg"><img alt="Миниатюра для версии от 10:03, 11 мая 2008" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20081103124007%21Magellan_Elcano_Circumnavigation-ru.svg/120px-Magellan_Elcano_Circumnavigation-ru.svg.png" decoding="async" width="120" height="63" data-file-width="2249" data-file-height="1181" /></a></td><td>2249 × 1181 <span style="white-space: nowrap;">(228 Кб)</span></td><td>Mitrius</td><td dir="ltr">== Description == {{Information |Description= {{en|Russian map of the first world <a href="https://en.wikipedia.org/wiki/Circumnavigation" class="extiw" title="en:Circumnavigation">circumnavigation</a> of <a href="https://en.wikipedia.org/wiki/Ferdinand_de_Magellan" class="extiw" title="en:Ferdinand de Magellan">Ferdinand de Magellan</a> and <a href="https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano" class="extiw" title="en:Juan Sebastián Elcano">Juan Sebastián Elcano</a>, from 1519 to 1522</td></tr>
+<tr><td></td><td style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/9f/20080511100327%21Magellan_Elcano_Circumnavigation-ru.svg">21:08, 10 мая 2008</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/9f/20080511100327%21Magellan_Elcano_Circumnavigation-ru.svg"><img alt="Миниатюра для версии от 21:08, 10 мая 2008" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20080511100327%21Magellan_Elcano_Circumnavigation-ru.svg/85px-Magellan_Elcano_Circumnavigation-ru.svg.png" decoding="async" width="85" height="120" data-file-width="744" data-file-height="1052" /></a></td><td>744 × 1052 <span style="white-space: nowrap;">(220 Кб)</span></td><td>Mitrius</td><td dir="ltr">== Description == {{Information |Description= {{en|Russian map of the first world <a href="https://en.wikipedia.org/wiki/Circumnavigation" class="extiw" title="en:Circumnavigation">circumnavigation</a> of <a href="https://en.wikipedia.org/wiki/Ferdinand_de_Magellan" class="extiw" title="en:Ferdinand de Magellan">Ferdinand de Magellan</a> and <a href="https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano" class="extiw" title="en:Juan Sebastián Elcano">Juan Sebastián Elcano</a>, from 1519 to 1522</td></tr>
+<tr><td></td><td style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/9f/20080510210848%21Magellan_Elcano_Circumnavigation-ru.svg">20:58, 10 мая 2008</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/9f/20080510210848%21Magellan_Elcano_Circumnavigation-ru.svg"><img alt="Миниатюра для версии от 20:58, 10 мая 2008" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/9/9f/20080510210848%21Magellan_Elcano_Circumnavigation-ru.svg/85px-Magellan_Elcano_Circumnavigation-ru.svg.png" decoding="async" width="85" height="120" data-file-width="744" data-file-height="1052" /></a></td><td>744 × 1052 <span style="white-space: nowrap;">(229 Кб)</span></td><td>Mitrius</td><td dir="ltr">== Description == {{Information |Description= {{en|Russian map of the first world <a href="https://en.wikipedia.org/wiki/Circumnavigation" class="extiw" title="en:Circumnavigation">circumnavigation</a> of <a href="https://en.wikipedia.org/wiki/Ferdinand_de_Magellan" class="extiw" title="en:Ferdinand de Magellan">Ferdinand de Magellan</a> and <a href="https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano" class="extiw" title="en:Juan Sebastián Elcano">Juan Sebastián Elcano</a>, from 1519 to 1522</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">Использование файла</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>Следующие 7 страниц используют этот файл:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD" title="Магеллан, Фернан">Магеллан, Фернан</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D1%81%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Первое кругосветное плавание">Первое кругосветное плавание</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/%D0%AD%D0%BB%D1%8C%D0%BA%D0%B0%D0%BD%D0%BE,_%D0%A5%D1%83%D0%B0%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD" title="Элькано, Хуан Себастьян">Элькано, Хуан Себастьян</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Mitrius/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D1%82_2_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2009" title="Обсуждение участника:Mitrius/Архив от 2 января 2009">Обсуждение участника:Mitrius/Архив от 2 января 2009</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Заглавная страница/Изображения">Википедия:Заглавная страница/Изображения</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи">Википедия:Избранные статьи</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Шаблон:Текущая избранная статья">Шаблон:Текущая избранная статья</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Глобальное использование файла</h2>
+<div id="mw-imagepage-section-globalusage"><p>Данный файл используется в следующих вики:
+</p><ul>
+<li class='mw-gu-onwiki-ba_wikipedia_org'>Использование в ba.wikipedia.org
+<ul>	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD">Фернан Магеллан</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8C%D0%BA%D0%B0%D0%BD%D0%BE_%D0%A5%D1%83%D0%B0%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD">Элькано Хуан Себастьян</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ce_wikipedia_org'>Использование в ce.wikipedia.org
+<ul>	<li><a class="external" href="https://ce.wikipedia.org/wiki/%D0%94%D1%83%D1%8C%D1%85%D1%85%D1%8C%D0%B0%D1%80%D0%B0_%D0%B4%D1%83%D1%8C%D0%BD%D0%B5%D0%BD%D0%BD%D0%B0_%D0%B3%D1%83%D0%BE_%D0%B1%D0%B0%D0%BA%D0%BA%D1%85%D0%B0%D1%80">Дуьххьара дуьненна гуо баккхар</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ky_wikipedia_org'>Использование в ky.wikipedia.org
+<ul>	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD">Фернан Магеллан</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-os_wikipedia_org'>Использование в os.wikipedia.org
+<ul>	<li><a class="external" href="https://os.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD">Магеллан, Фернан</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-tg_wikipedia_org'>Использование в tg.wikipedia.org
+<ul>	<li><a class="external" href="https://tg.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%B0%D0%BD">Фердинан Магелан</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-uk_wikipedia_org'>Использование в uk.wikipedia.org
+<ul>	<li><a class="external" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%88%D0%B5_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%94_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F">Перше навколосвітнє плавання</a></li>
+</ul></li>
+</ul>
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/wiki/Файл:Magellan_Elcano_Circumnavigation-ru.svg">https://ru.wikipedia.org/wiki/Файл:Magellan_Elcano_Circumnavigation-ru.svg</a></div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3AMagellan+Elcano+Circumnavigation-ru.svg" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3AMagellan+Elcano+Circumnavigation-ru.svg" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg" title="Страница файла [c]" accesskey="c"><span>Файл</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0:Magellan_Elcano_Circumnavigation-ru.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg"><span>Читать</span></a></li><li id="ca-view-foreign" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/File:Magellan_Elcano_Circumnavigation-ru.svg"><span>Посмотреть Викискладе</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Создать локально</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Создать локально как код</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export emptyPortlet vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Magellan_Elcano_Circumnavigation-ru.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":2,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw2339","timestamp":"20230322074932","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2339","wgBackendResponseTime":166});});</script>
+</body>
+</html>

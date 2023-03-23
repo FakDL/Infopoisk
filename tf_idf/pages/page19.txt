@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Файл:Small skew star.gif — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"4636a1c4-6c9d-4108-b02a-ce8026848a23","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"Файл:Small_skew_star.gif","wgTitle":"Small skew star.gif","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,
+"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Файл:Small_skew_star.gif","wgRelevantArticleId":0,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":true,
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming"
+,"ext.cx.eventlogging.campaigns","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cjquery.makeCollapsible.styles%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1200"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="800"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="640"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Файл:Small skew star.gif — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Small_skew_star.gif"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-Файл_Small_skew_star_gif rootpage-Файл_Small_skew_star_gif skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-commons" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:Small_skew_star.gif?uselang=ru" title="Этот файл находится на Викискладе"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" decoding="async" width="14" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Файл:Small skew star.gif</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">Файл</a></li>
+<li><a href="#filehistory">История файла</a></li>
+<li><a href="#filelinks">Использование файла</a></li>
+<li><a href="#globalusage">Глобальное использование файла</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif"><img alt="Файл:Small skew star.gif" src="//upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif" decoding="async" width="14" height="14" data-file-width="14" data-file-height="14" /></a><div class="mw-filepage-resolutioninfo">Нет версии с бо́льшим разрешением.</div></div>
+<div class="fullMedia"><p><a href="//upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif" class="internal" title="Small skew star.gif">Small_skew_star.gif</a> &#8206;<span class="fileInfo">(14 × 14 пкс, размер файла: 941 байт, MIME-тип: <span class="mime-type">image/gif</span>)</span>
+</p></div><div class="sharedUploadNotice">
+<table class="plainlinks fmbox fmbox-system" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png" decoding="async" width="32" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/64px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text"><div class="mbox-text-div"><div><b><a class="external text" href="https://commons.wikimedia.org/wiki/File:Small_skew_star.gif?uselang=ru"><span title="Перейти на страницу файла на Викискладе">Этот файл находится на Викискладе.</span></a></b> Сведения о нём показаны ниже.</div>
+<div style="font-size:85%; padding:0.1412em 0; margin-bottom:0.5em;">Викисклад — централизованное хранилище для свободных файлов, используемых в проектах Викимедиа.</div>
+<span class="plainlinks ruwiki-addTopicLink" style=""><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85_%D0%B2_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D1%85_%D1%81_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0&amp;action=edit&amp;section=action=edit&amp;section=new&amp;preloadtitle=%5B%5B:%D0%A4%D0%B0%D0%B9%D0%BB%3ASmall+skew+star.gif%5D%5D&amp;preload=Шаблон:Preload/СОО"><span class="plainlinks mw-ui-button" style=""><span class="nowrap">Сообщить об ошибке с файлом</span></span></a></span></div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table>
+</div>
+<div id="shared-image-desc"><div class="mw-parser-output"><div class="layouttemplate" style="clear:both; direction: ltr">
+<table style="width:100%; margin:0.5em auto; border-spacing:8px; background: #f7f8ff; border: 2px solid #5580b4">
+<tbody><tr>
+<td><a href="//commons.wikimedia.org/wiki/File:Gnome-x-office-drawing.svg" class="image"><img alt="Gnome-x-office-drawing.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gnome-x-office-drawing.svg/70px-Gnome-x-office-drawing.svg.png" decoding="async" width="70" height="70" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gnome-x-office-drawing.svg/105px-Gnome-x-office-drawing.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gnome-x-office-drawing.svg/140px-Gnome-x-office-drawing.svg.png 2x" data-file-width="48" data-file-height="48"></a>
+</td>
+<td><div lang="ru" dir="ltr" class="description ru" style="display:inline;"><b>Существует <a href="//commons.wikimedia.org/wiki/File:Small_Skew_Star_SVG.svg" title="File:Small Skew Star SVG.svg">векторная версия</a> этого изображения</b>. Её следует использовать, если качество её не хуже, чем эта растровая версия.</div><div style="clear:both;"></div>
+<hr>
+<div style="margin-left:auto margin-right:auto; text-align:center; font-size:90%;">File:Small skew star.gif → <a href="//commons.wikimedia.org/wiki/File:Small_Skew_Star_SVG.svg" title="File:Small Skew Star SVG.svg">File:Small Skew Star SVG.svg</a></div><span id="field-vva" title="Small Skew Star SVG.svg"></span>
+<hr>
+<div style="font-size:90%;"><div lang="ru" dir="ltr" class="description ru" style="display:inline;">Подробнее о векторной графике в статье «<a href="//commons.wikimedia.org/wiki/Commons:%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4_%D0%BA_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%83_SVG" title="Commons:Переход к формату SVG">Перевод изображений в формат SVG</a>».<br>Также доступна <a href="https://meta.wikimedia.org/wiki/SVG_image_support" class="extiw" title="m:SVG image support">информация о поддержке формата SVG</a> в MediaWiki.</div></div>
+<hr>
+<div lang="">
+<table class="mw-collapsible mw-collapsed" style="background:#FFF;border:1px solid #AAA;clear:both;color:#222;margin:auto;padding:1px;width:100%">
+
+<tbody><tr>
+<th style="background:#F0F2F5;color:#000;font-size:88%;text-align:centerpadding-left:.5em;padding-right:.2em;"><span style="font-weight:normal"><a href="//commons.wikimedia.org/wiki/Template:Vector_version_available/lang" title="Template:Vector version available/lang">На других языках</a></span>
+</th></tr>
+<tr>
+<td class="mw-collapsible-content" style="font-size:88%;border:none;padding:0;">
+<p><span style="font-size:small;line-height:1.4" class="plainlinks noprint"><a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/als"><bdi class="language lang-als" lang="als">Alemannisch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ar"><bdi class="language lang-ar" lang="ar">العربية</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/be-tarask"><bdi class="language lang-be-tarask" lang="be-tarask">беларуская (тарашкевіца)</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/bg"><bdi class="language lang-bg" lang="bg">български</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/bn"><bdi class="language lang-bn" lang="bn">বাংলা</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ca"><bdi class="language lang-ca" lang="ca">català</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ce"><bdi class="language lang-ce" lang="ce">нохчийн</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/cs"><bdi class="language lang-cs" lang="cs">čeština</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/da"><bdi class="language lang-da" lang="da">dansk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/de"><bdi class="language lang-de" lang="de">Deutsch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/el"><bdi class="language lang-el" lang="el">Ελληνικά</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/en"><bdi class="language lang-en" lang="en">English</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/en-gb"><bdi class="language lang-en-gb" lang="en-gb">British English</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/eo"><bdi class="language lang-eo" lang="eo">Esperanto</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/es"><bdi class="language lang-es" lang="es">español</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/et"><bdi class="language lang-et" lang="et">eesti</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/eu"><bdi class="language lang-eu" lang="eu">euskara</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fa"><bdi class="language lang-fa" lang="fa">فارسی</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fi"><bdi class="language lang-fi" lang="fi">suomi</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fr"><bdi class="language lang-fr" lang="fr">français</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/fy"><bdi class="language lang-fy" lang="fy">Frysk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/gl"><bdi class="language lang-gl" lang="gl">galego</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/he"><bdi class="language lang-he" lang="he">עברית</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hr"><bdi class="language lang-hr" lang="hr">hrvatski</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hu"><bdi class="language lang-hu" lang="hu">magyar</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/hy"><bdi class="language lang-hy" lang="hy">հայերեն</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/id"><bdi class="language lang-id" lang="id">Bahasa Indonesia</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/io"><bdi class="language lang-io" lang="io">Ido</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/it"><bdi class="language lang-it" lang="it">italiano</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ja"><bdi class="language lang-ja" lang="ja">日本語</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ka"><bdi class="language lang-ka" lang="ka">ქართული</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ko"><bdi class="language lang-ko" lang="ko">한국어</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/lt"><bdi class="language lang-lt" lang="lt">lietuvių</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/mk"><bdi class="language lang-mk" lang="mk">македонски</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ml"><bdi class="language lang-ml" lang="ml">മലയാളം</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ms"><bdi class="language lang-ms" lang="ms">Bahasa Melayu</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nb"><bdi class="language lang-nb" lang="nb">norsk bokmål</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nds"><bdi class="language lang-nds" lang="nds">Plattdüütsch</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nl"><bdi class="language lang-nl" lang="nl">Nederlands</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/nn"><bdi class="language lang-nn" lang="nn">norsk nynorsk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/no"><bdi class="language lang-no" lang="no">norsk</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/oc"><bdi class="language lang-oc" lang="oc">occitan</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/pl"><bdi class="language lang-pl" lang="pl">polski</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/pt"><bdi class="language lang-pt" lang="pt">português</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/pt-br"><bdi class="language lang-pt-br" lang="pt-br">português do Brasil</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ro"><bdi class="language lang-ro" lang="ro">română</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ru"><bdi class="language lang-ru" lang="ru">русский</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/scn"><bdi class="language lang-scn" lang="scn">sicilianu</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sco"><bdi class="language lang-sco" lang="sco">Scots</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sk"><bdi class="language lang-sk" lang="sk">slovenčina</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sl"><bdi class="language lang-sl" lang="sl">slovenščina</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sr"><bdi class="language lang-sr" lang="sr">српски / srpski</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/sv"><bdi class="language lang-sv" lang="sv">svenska</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/ta"><bdi class="language lang-ta" lang="ta">தமிழ்</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/th"><bdi class="language lang-th" lang="th">ไทย</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/tr"><bdi class="language lang-tr" lang="tr">Türkçe</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/tt"><bdi class="language lang-tt" lang="tt">татарча/tatarça</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/uk"><bdi class="language lang-uk" lang="uk">українська</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/vec"><bdi class="language lang-vec" lang="vec">vèneto</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/vi"><bdi class="language lang-vi" lang="vi">Tiếng Việt</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-hans"><bdi class="language lang-zh-hans" lang="zh-hans">中文（简体）</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Vector_version_available/zh-hant"><bdi class="language lang-zh-hant" lang="zh-hant">中文（繁體）</bdi></a>&nbsp;<b>∙</b> <small class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/w/index.php?title=Template:Vector_version_available/lang&amp;action=edit">+/−</a></small></span>
+</p>
+</td></tr></tbody></table></div>
+</td>
+<td style="background:transparent; text-align:center; vertical-align:middle"><div class="wpImageAnnotatorControl wpImageAnnotatorOff"><div class="com-checker" style="display:inline-block;box-shadow: 1px 3px 5px #888;"><a href="//commons.wikimedia.org/wiki/File:Small_Skew_Star_SVG.svg" class="image" title="Новое изображение"><img alt="Новое изображение" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/140px-Small_Skew_Star_SVG.svg.png" decoding="async" width="140" height="150" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/210px-Small_Skew_Star_SVG.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/280px-Small_Skew_Star_SVG.svg.png 2x" data-file-width="14" data-file-height="15"></a></div></div>
+</td></tr></tbody></table>
+<p><span class="layouttemplateargs" style="display:none;speak:none;" title="template=Vector+version+available 1%3DSmall+Skew+Star+SVG.svg 2%3D 3%3D">&nbsp;</span>
+</p>
+</div>
+<div class="hproduct commons-file-information-table">
+<style data-mw-deduplicate="TemplateStyles:r726982256">.mw-parser-output table.commons-file-information-table,.mw-parser-output .fileinfotpl-type-information{border:1px solid #a2a9b1;background-color:#f8f9fa;padding:5px;font-size:95%;border-spacing:2px;box-sizing:border-box;margin:0;width:100%}.mw-parser-output table.commons-file-information-table>tbody>tr,.mw-parser-output .fileinfotpl-type-information>tbody>tr{vertical-align:top}.mw-parser-output table.commons-file-information-table>tbody>tr>td,.mw-parser-output table.commons-file-information-table>tbody>tr>th,.mw-parser-output .fileinfotpl-type-information>tbody>tr>td,.mw-parser-output .fileinfotpl-type-information>tbody>tr>th{padding:4px}.mw-parser-output .fileinfo-paramfield{background:#ccf;text-align:right;padding-right:0.4em;width:15%;font-weight:bold}.mw-parser-output .commons-file-information-table+table.commons-file-information-table,.mw-parser-output .commons-file-information-table+div.commons-file-information-table>table{border-top:0;padding-top:0;margin-top:-8px}@media only screen and (max-width:719px){.mw-parser-output table.commons-file-information-table,.mw-parser-output .commons-file-information-table .fileinfotpl-type-information{border-spacing:0;padding:0;word-break:break-word;width:100%!important}.mw-parser-output .commons-file-information-table>tbody,.mw-parser-output .fileinfotpl-type-information>tbody{display:block}.mw-parser-output .commons-file-information-table>tbody>tr>td,.mw-parser-output .commons-file-information-table>tbody>tr>th,.mw-parser-output .fileinfotpl-type-information>tbody>tr>td,.mw-parser-output .fileinfotpl-type-information>tbody>tr>th{padding:0.2em 0.4em;text-align:left;text-align:start}.mw-parser-output .commons-file-information-table>tbody>tr,.mw-parser-output .fileinfotpl-type-information>tbody>tr{display:flex;flex-direction:column}.mw-parser-output .commons-file-information-table+table.commons-file-information-table,.mw-parser-output .commons-file-information-table+div.commons-file-information-table>table{margin-top:-1px}.mw-parser-output .fileinfo-paramfield{box-sizing:border-box;flex:1 0 100%;width:100%}}</style>
+<table class="fileinfotpl-type-information vevent mw-content-ltr" style="direction: ltr;">
+
+<tbody><tr>
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="ru">Описание<span class="summary fn" style="display:none">Small skew star.gif</span></td>
+<td class="description">
+Звезда для обозначения <a href="https://en.wikipedia.org/wiki/ru:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" class="extiw" title="w:ru:Википедия:Избранные статьи">избранных статей</a></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="ru">Источник</td>
+<td>
+<span class="int-own-work" lang="ru">Собственная работа</span></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="ru">Автор</td>
+<td>
+<a href="//commons.wikimedia.org/wiki/User:Nesusvet" title="User:Nesusvet">Nesusvet</a></td>
+</tr>
+
+<tr>
+<td id="fileinfotpl_perm" class="fileinfo-paramfield" lang="ru">Права<br><small>(<a href="//commons.wikimedia.org/wiki/Commons:%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D0%BE%D0%B3%D0%BE_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0_%D0%B2%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0" class="mw-redirect" title="Commons:Использование содержимого Викисклада вне проектов Викимедиа">Повторное использование этого файла</a>)</small></td>
+<td>
+<table class="licensetpl" style="display:none">
+<tbody><tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
+</td></tr></tbody></table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="ru">
+<tbody><tr>
+<td><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" decoding="async" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196">
+</td>
+<td>Автор этого произведения, <b><span class="licensetpl_attr"><a href="//commons.wikimedia.org/wiki/User:Nesusvet" title="User:Nesusvet">Nesusvet</a></span></b>, передаёт его в <b><a href="https://en.wikipedia.org/wiki/ru:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="extiw" title="w:ru:Общественное достояние">общественное достояние</a></b>. Это разрешение действует по всему миру.<br>
+<p><small>В некоторых странах это не может быть возможно юридически, в таком случае:</small><br>
+<i><span class="licensetpl_attr"><a href="//commons.wikimedia.org/wiki/User:Nesusvet" title="User:Nesusvet">Nesusvet</a></span> предоставляет любому право использовать данное произведение <b>в любых целях</b>, без каких-либо условий, если только такие условия не требуются по закону.</i>
+</p>
+</td></tr></tbody></table></td>
+</tr>
+
+
+</tbody></table>
+</div><h1 class="mw-slot-header"><mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none"><mediainfoviewcaptions><div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><h3 class="wbmi-entityview-captions-header">Краткие подписи</h3><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">русский</label><div lang="ru" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">Добавьте однострочное описание того, что собой представляет этот файл</div></div></div></mediainfoviewcaptions><mediainfoviewstatements><div id="P180" data-property="P180" data-statements="[]" data-formatvalue="[]" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h3 class="wbmi-statements-title">Элементы, изображённые на этом файле</h3><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">изображённый объект</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"></div></div></div><div id="P170" data-property="P170" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;somevalue&quot;,&quot;property&quot;:&quot;P170&quot;,&quot;hash&quot;:&quot;d3550e860f988c6675fff913440993f58f5c40c5&quot;},&quot;type&quot;:&quot;statement&quot;,&quot;qualifiers&quot;:{&quot;P4174&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P4174&quot;,&quot;hash&quot;:&quot;e9b3406aefae761c432f74ada115a9af9daacd7b&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;Nesusvet&quot;,&quot;type&quot;:&quot;string&quot;}}],&quot;P2093&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2093&quot;,&quot;hash&quot;:&quot;bf98664c1ab553583ade1b35b5aef70f4082d9f3&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;Nesusvet&quot;,&quot;type&quot;:&quot;string&quot;}}],&quot;P2699&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2699&quot;,&quot;hash&quot;:&quot;bf0265bfe985cee5cbb75c8385bad22d4c08b2c0&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Nesusvet&quot;,&quot;type&quot;:&quot;string&quot;}}]},&quot;qualifiers-order&quot;:[&quot;P4174&quot;,&quot;P2093&quot;,&quot;P2699&quot;],&quot;id&quot;:&quot;M2935402$56377108-67AD-4D26-AA92-2A07049961F3&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:170,\&quot;id\&quot;:\&quot;P170\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P170\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P170\&quot;>\u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:4174,\&quot;id\&quot;:\&quot;P4174\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P4174\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4174\&quot;>\u043b\u043e\u0433\u0438\u043d \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u043e\u0433\u0438\u043d \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430&quot;}}},&quot;{\&quot;value\&quot;:\&quot;Nesusvet\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P4174&quot;:&quot;<a target=\&quot;_blank\&quot; class=\&quot;wb-external-id external\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:CentralAuth?target=Nesusvet\&quot; rel=\&quot;nofollow\&quot;>Nesusvet<\/a>&quot;,&quot;P2093&quot;:&quot;Nesusvet&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P4174&quot;:&quot;Nesusvet&quot;,&quot;P2093&quot;:&quot;Nesusvet&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2093,\&quot;id\&quot;:\&quot;P2093\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2093\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2093\&quot;>\u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430 (\u0441\u0442\u0440\u043e\u043a\u0430)<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430 (\u0441\u0442\u0440\u043e\u043a\u0430)&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2699,\&quot;id\&quot;:\&quot;P2699\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2699\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2699\&quot;>URL<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;URL&quot;}}},&quot;{\&quot;value\&quot;:\&quot;https:\\\/\\\/commons.wikimedia.org\\\/wiki\\\/user:Nesusvet\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P2699&quot;:&quot;<a target=\&quot;_blank\&quot; rel=\&quot;nofollow\&quot; class=\&quot;external free\&quot; href=\&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Nesusvet\&quot;>https:\/\/commons.wikimedia.org\/wiki\/user:Nesusvet<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P2699&quot;:&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Nesusvet&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P170 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P170" href="https://www.wikidata.org/wiki/Special:EntityPage/P170">создатель</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M2935402$56377108-67AD-4D26-AA92-2A07049961F3" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>У этого свойства есть некоторое значение без элемента в </bdi></h4></div></div></div><div class="wbmi-item-qualifiers"><div class="wbmi-snaklist-container"><div class="wbmi-snaklist-content"><div class="wbmi-snak"><div class="wbmi-snak-value"><a target="_blank" title="d:Special:EntityPage/P4174" href="https://www.wikidata.org/wiki/Special:EntityPage/P4174">логин в проектах Викимедиа</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" class="wb-external-id external" href="https://www.wikidata.org/wiki/Special:CentralAuth?target=Nesusvet" rel="nofollow">Nesusvet</a></span></div></div><div class="wbmi-snak"><div class="wbmi-snak-value"><a target="_blank" title="d:Special:EntityPage/P2093" href="https://www.wikidata.org/wiki/Special:EntityPage/P2093">имя автора (строка)</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value">Nesusvet</span></div></div><div class="wbmi-snak"><div class="wbmi-snak-value"><a target="_blank" title="d:Special:EntityPage/P2699" href="https://www.wikidata.org/wiki/Special:EntityPage/P2699">URL</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" rel="nofollow" class="external free" href="https://commons.wikimedia.org/wiki/user:Nesusvet">https://commons.wikimedia.org/wiki/user:Nesusvet</a></span></div></div></div></div></div></div></div></div></div></div><div id="P6216" data-property="P6216" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6216&quot;,&quot;hash&quot;:&quot;f88a8b9472789ca66067ed50ce20dc2650af5744&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:88088423,&quot;id&quot;:&quot;Q88088423&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M2935402$C30D9B4B-F6A8-4E00-984E-7293DA8A8CB5&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6216,\&quot;id\&quot;:\&quot;P6216\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6216\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\&quot;>\u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u0442\u0443\u0441<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043f\u0440\u0430\u0432\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u0442\u0443\u0441&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:88088423,\&quot;id\&quot;:\&quot;Q88088423\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q88088423\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q88088423\&quot;>\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c\u0438 \u043f\u0440\u0430\u0432\u0430\u043c\u0438, \u043d\u043e \u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c\u0438 \u043f\u0440\u0430\u0432\u0430\u043c\u0438, \u043d\u043e \u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">правовой статус</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M2935402$C30D9B4B-F6A8-4E00-984E-7293DA8A8CB5" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q88088423" href="https://www.wikidata.org/wiki/Special:EntityPage/Q88088423">защищено авторскими правами, но передано в общественное достояние владельцем авторских прав</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P275" data-property="P275" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;c50f467f552350584a199dd3c9ceadf026c05180&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:98592850,&quot;id&quot;:&quot;Q98592850&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M2935402$A127E184-2E74-4959-8340-A860EA498B9F&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:275,\&quot;id\&quot;:\&quot;P275\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P275\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\&quot;>\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:98592850,\&quot;id\&quot;:\&quot;Q98592850\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q98592850\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q98592850\&quot;>\u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;\u043f\u0435\u0440\u0435\u0434\u0430\u043d\u043e \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0432&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">лицензия</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M2935402$A127E184-2E74-4959-8340-A860EA498B9F" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q98592850" href="https://www.wikidata.org/wiki/Special:EntityPage/Q98592850">передано в общественное достояние владельцем авторских прав</a></bdi></h4></div></div></div></div></div></div></div></div></mediainfoviewstatements></mediainfoview>
+<!-- 
+NewPP limit report
+Parsed by mw2391
+Cached time: 20230305085106
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [no‐toc‐conversion]
+CPU time usage: 0.107 seconds
+Real time usage: 0.141 seconds
+Preprocessor visited node count: 1588/1000000
+Post‐expand include size: 76491/2097152 bytes
+Template argument size: 21211/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2190/5000000 bytes
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 888826/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  112.767      1 -total
+ 57.96%   65.365      1 Template:Information
+ 41.96%   47.315      1 Template:Vector_version_available
+ 39.47%   44.508      1 Template:Autotranslate
+ 22.33%   25.185      1 Template:Vector_version_available/layout
+ 18.24%   20.571      1 Template:PD-user
+ 10.42%   11.753      1 Template:SDC_statement_has_value
+  7.78%    8.776      1 Template:Collapse
+  6.14%    6.921      5 Template:Dir
+  5.22%    5.890      1 Template:PD-Layout
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:2935402-0!userlang=ru!wb=3 and timestamp 20230305085106 and revision id 457478216. Rendering was triggered because: page-view
+ -->
+</div></div>
+<h2 id="filehistory">История файла</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Нажмите на дату/время, чтобы посмотреть файл, который был загружен в тот момент.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Дата/время</th><th>Миниатюра</th><th>Размеры</th><th>Участник</th><th>Примечание</th></tr>
+<tr><td>текущий</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif">04:34, 18 октября 2007</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif"><img alt="Миниатюра для версии от 04:34, 18 октября 2007" src="//upload.wikimedia.org/wikipedia/commons/3/33/Small_skew_star.gif" decoding="async" width="120" height="120" data-file-width="14" data-file-height="14" /></a></td><td>14 × 14 <span style="white-space: nowrap;">(941 байт)</span></td><td>Rocket000</td><td dir="ltr">{{Изображение  |Описание       = Звезда для обозначения <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи">избраннных статей</a>  |Автор          = <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Nesusvet" title="Участник:Nesusvet">Nesusvet</a>  |Время соз�</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">Использование файла</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>Более 100 страниц используют этот файл.
+В данном списке представлены только 100 страниц, использующих этот файл.
+Доступен также <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif" title="Служебная:Ссылки сюда/Файл:Small skew star.gif">полный список</a>.
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Crysis" title="Обсуждение:Crysis">Обсуждение:Crysis</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Rurouni_Kenshin" title="Обсуждение:Rurouni Kenshin">Обсуждение:Rurouni Kenshin</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D1%81%D0%BA%D0%B0_%D0%9B%D1%8D%D0%BD%D0%B3%D0%BB%D0%B8_%D0%A1%D0%BE%D1%80%D1%8C%D1%8E" title="Обсуждение:Аска Лэнгли Сорью">Обсуждение:Аска Лэнгли Сорью</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6/%D0%90%D1%80%D1%85%D0%B8%D0%B2_(2006%E2%80%942008)" title="Обсуждение:Воронеж/Архив (2006—2008)">Обсуждение:Воронеж/Архив (2006—2008)</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8" title="Обсуждение:История математики">Обсуждение:История математики</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0%D0%B0%D0%B9%D1%81,_%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D0%BB%D0%B8%D0%B7%D0%B0" title="Обсуждение:Райс, Кондолиза">Обсуждение:Райс, Кондолиза</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Обсуждение:Реформация">Обсуждение:Реформация</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Assedo" title="Участник:Assedo">Участник:Assedo</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Bot-Schafter" title="Участник:Bot-Schafter">Участник:Bot-Schafter</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Ghirlandajo" title="Участник:Ghirlandajo">Участник:Ghirlandajo</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Jaspe" title="Участник:Jaspe">Участник:Jaspe</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Levg" title="Участник:Levg">Участник:Levg</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Sibeaster" title="Участник:Sibeaster">Участник:Sibeaster</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Soul_Train" title="Участник:Soul Train">Участник:Soul Train</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Tools~ruwiki/%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Участник:Tools~ruwiki/Мой вклад">Участник:Tools~ruwiki/Мой вклад</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Assedo" title="Обсуждение участника:Assedo">Обсуждение участника:Assedo</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Cs%C3%B6rf%C3%B6ly_D" title="Обсуждение участника:Csörföly D">Обсуждение участника:Csörföly D</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D1%86%D1%8B:Lvova" title="Обсуждение участницы:Lvova">Обсуждение участницы:Lvova</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Schwarzkaiser" title="Обсуждение участника:Schwarzkaiser">Обсуждение участника:Schwarzkaiser</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Vald/Archive/14-12-2009" title="Обсуждение участника:Vald/Archive/14-12-2009">Обсуждение участника:Vald/Archive/14-12-2009</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%B1%D0%BE%D1%82%D0%B0/Bot-Schafter" title="Википедия:Заявки на статус бота/Bot-Schafter">Википедия:Заявки на статус бота/Bot-Schafter</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи">Википедия:Избранные статьи</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E/8_%D0%BC%D0%B0%D1%8F_2007" title="Википедия:К удалению/8 мая 2007">Википедия:К удалению/8 мая 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/152-%D0%BC%D0%BC_%D0%B3%D0%B0%D1%83%D0%B1%D0%B8%D1%86%D0%B0_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1938_%D0%B3%D0%BE%D0%B4%D0%B0_(%D0%9C-10)" title="Википедия:Кандидаты в избранные статьи/152-мм гаубица образца 1938 года (М-10)">Википедия:Кандидаты в избранные статьи/152-мм гаубица образца 1938 года (М-10)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/152-%D0%BC%D0%BC_%D0%B3%D0%B0%D1%83%D0%B1%D0%B8%D1%86%D0%B0_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1943_%D0%B3%D0%BE%D0%B4%D0%B0_(%D0%94-1)" title="Википедия:Кандидаты в избранные статьи/152-мм гаубица образца 1943 года (Д-1)">Википедия:Кандидаты в избранные статьи/152-мм гаубица образца 1943 года (Д-1)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%92%D0%B0%D0%BD_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)" title="Википедия:Кандидаты в избранные статьи/Ван (озеро)">Википедия:Кандидаты в избранные статьи/Ван (озеро)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8_1135%E2%80%941154_%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2" title="Википедия:Кандидаты в избранные статьи/Гражданская война в Англии 1135—1154 годов">Википедия:Кандидаты в избранные статьи/Гражданская война в Англии 1135—1154 годов</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%9F%D1%91%D1%82%D1%80_I" title="Википедия:Кандидаты в избранные статьи/Пётр I">Википедия:Кандидаты в избранные статьи/Пётр I</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82_%D0%94%D1%8F%D0%B3%D0%B8%D0%BB%D0%B5%D0%B2%D0%B0" title="Википедия:Кандидаты в избранные статьи/Русский балет Дягилева">Википедия:Кандидаты в избранные статьи/Русский балет Дягилева</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5" title="Википедия:Кандидаты в избранные статьи/Русский язык на Украине">Википедия:Кандидаты в избранные статьи/Русский язык на Украине</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9" title="Википедия:Кандидаты в избранные статьи/Санкт-Петербургский трамвай">Википедия:Кандидаты в избранные статьи/Санкт-Петербургский трамвай</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD,_%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%92%D0%B8%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Википедия:Кандидаты в избранные статьи/Сталин, Иосиф Виссарионович">Википедия:Кандидаты в избранные статьи/Сталин, Иосиф Виссарионович</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A2-40" title="Википедия:Кандидаты в избранные статьи/Т-40">Википедия:Кандидаты в избранные статьи/Т-40</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%A3%D1%80%D0%B0%D1%80%D1%82%D1%83" title="Википедия:Кандидаты в избранные статьи/Урарту">Википедия:Кандидаты в избранные статьи/Урарту</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B8%D0%B5_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Википедия:Кандидаты в устаревшие избранные статьи/Архив">Википедия:Кандидаты в устаревшие избранные статьи/Архив</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/12_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2007" title="Википедия:Кандидаты в хорошие статьи/12 марта 2007">Википедия:Кандидаты в хорошие статьи/12 марта 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/12_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/12 января 2007">Википедия:Кандидаты в хорошие статьи/12 января 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/13_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0_2007" title="Википедия:Кандидаты в хорошие статьи/13 августа 2007">Википедия:Кандидаты в хорошие статьи/13 августа 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/13 сентября 2007">Википедия:Кандидаты в хорошие статьи/13 сентября 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/13_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/13 февраля 2007">Википедия:Кандидаты в хорошие статьи/13 февраля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/13_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/13 января 2007">Википедия:Кандидаты в хорошие статьи/13 января 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/14_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2007" title="Википедия:Кандидаты в хорошие статьи/14 марта 2007">Википедия:Кандидаты в хорошие статьи/14 марта 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/14_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/14 января 2007">Википедия:Кандидаты в хорошие статьи/14 января 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/15_%D0%B8%D1%8E%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/15 июля 2007">Википедия:Кандидаты в хорошие статьи/15 июля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/16_%D0%BC%D0%B0%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/16 мая 2007">Википедия:Кандидаты в хорошие статьи/16 мая 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/16_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/16 января 2007">Википедия:Кандидаты в хорошие статьи/16 января 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/19_%D0%B8%D1%8E%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/19 июля 2007">Википедия:Кандидаты в хорошие статьи/19 июля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/1_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/1 февраля 2007">Википедия:Кандидаты в хорошие статьи/1 февраля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/25_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/25 января 2007">Википедия:Кандидаты в хорошие статьи/25 января 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/26_%D0%B8%D1%8E%D0%BD%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/26 июня 2007">Википедия:Кандидаты в хорошие статьи/26 июня 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/26_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2007" title="Википедия:Кандидаты в хорошие статьи/26 марта 2007">Википедия:Кандидаты в хорошие статьи/26 марта 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/26_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/26 сентября 2007">Википедия:Кандидаты в хорошие статьи/26 сентября 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/28_%D0%BC%D0%B0%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/28 мая 2007">Википедия:Кандидаты в хорошие статьи/28 мая 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/28_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/28 сентября 2007">Википедия:Кандидаты в хорошие статьи/28 сентября 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/31_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/31 января 2007">Википедия:Кандидаты в хорошие статьи/31 января 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/3_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/3 апреля 2007">Википедия:Кандидаты в хорошие статьи/3 апреля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/5_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2007" title="Википедия:Кандидаты в хорошие статьи/5 марта 2007">Википедия:Кандидаты в хорошие статьи/5 марта 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/5_%D0%BC%D0%B0%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/5 мая 2007">Википедия:Кандидаты в хорошие статьи/5 мая 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/5 сентября 2007">Википедия:Кандидаты в хорошие статьи/5 сентября 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/6_%D0%B8%D1%8E%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/6 июля 2007">Википедия:Кандидаты в хорошие статьи/6 июля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/6_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/6 февраля 2007">Википедия:Кандидаты в хорошие статьи/6 февраля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/9_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F_2007" title="Википедия:Кандидаты в хорошие статьи/9 апреля 2007">Википедия:Кандидаты в хорошие статьи/9 апреля 2007</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2006/12" title="Википедия:Форум/Архив/Предложения/2006/12">Википедия:Форум/Архив/Предложения/2006/12</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%90%D1%80%D1%85%D0%B8%D0%B2/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2007/02" title="Википедия:Форум/Архив/Предложения/2007/02">Википедия:Форум/Архив/Предложения/2007/02</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Шаблоны/Обсуждения">Википедия:Шаблоны/Обсуждения</a></li>
+<li class="mw-imagepage-linkstoimage-ns9"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_MediaWiki:Common.css/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Обсуждение MediaWiki:Common.css/Архив">Обсуждение MediaWiki:Common.css/Архив</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5" title="Шаблон:В избранные">Шаблон:В избранные</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BE%D0%B7%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%81%D1%8C" title="Шаблон:Воздерживаюсь">Шаблон:Воздерживаюсь</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C" title="Шаблон:Восстановить">Шаблон:Восстановить</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%97%D0%B0" title="Шаблон:За">Шаблон:За</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" title="Шаблон:Комментарий">Шаблон:Комментарий</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9D%D0%B5_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B2%D0%B0%D1%82%D1%8C" title="Шаблон:Не восстанавливать">Шаблон:Не восстанавливать</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9D%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D1%82%D1%8C" title="Шаблон:Не объединять">Шаблон:Не объединять</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9D%D0%B5_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8F%D1%82%D1%8C" title="Шаблон:Не разделять">Шаблон:Не разделять</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9D%D0%B5_%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE" title="Шаблон:Не сделано">Шаблон:Не сделано</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C" title="Шаблон:Объединить">Шаблон:Объединить</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C" title="Шаблон:Оставить">Шаблон:Оставить</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8C" title="Шаблон:Переименовать">Шаблон:Переименовать</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C" title="Шаблон:Перенаправить">Шаблон:Перенаправить</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2" title="Шаблон:Против">Шаблон:Против</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C" title="Шаблон:Разделить">Шаблон:Разделить</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%B4%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE" title="Шаблон:Сделано">Шаблон:Сделано</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE" title="Шаблон:Спасибо">Шаблон:Спасибо</a></li>
+<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A3%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D1%8C" title="Шаблон:Удалить">Шаблон:Удалить</a></li>
+<li class="mw-imagepage-linkstoimage-ns11"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Обсуждение шаблона:Избранная статья">Обсуждение шаблона:Избранная статья</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:Half-Life" title="Портал:Half-Life">Портал:Half-Life</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:Half-Life/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Портал:Half-Life/Избранная статья">Портал:Half-Life/Избранная статья</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%80%D0%BD%D0%B0%D1%83%D0%BB/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Портал:Барнаул/Лучшие статьи">Портал:Барнаул/Лучшие статьи</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Портал:Вторая мировая война">Портал:Вторая мировая война</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Портал:Греция/Лучшие статьи">Портал:Греция/Лучшие статьи</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Избранное содержание">Портал:Избранное содержание</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Портал:Москва">Портал:Москва</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D0%B8_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5" title="Портал:Музыка/Хорошие и избранные статьи о музыке">Портал:Музыка/Хорошие и избранные статьи о музыке</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%A8%D0%90/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:США/Избранная статья/Архив">Портал:США/Избранная статья/Архив</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%B0%D1%82%D1%80" title="Портал:Театр">Портал:Театр</a></li>
+<li class="mw-imagepage-linkstoimage-ns100"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%B0%D1%82%D1%80/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Портал:Театр/Статьи">Портал:Театр/Статьи</a></li>
+<li class="mw-imagepage-linkstoimage-ns104"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Проект:Военная история">Проект:Военная история</a></li>
+<li class="mw-imagepage-linkstoimage-ns104"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Проект:Вторая мировая война/Примечательные статьи">Проект:Вторая мировая война/Примечательные статьи</a></li>
+<li class="mw-imagepage-linkstoimage-ns104"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Проект:Города Израиля">Проект:Города Израиля</a></li>
+<li class="mw-imagepage-linkstoimage-ns104"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Проект:История России">Проект:История России</a></li>
+</ul>
+<p>Просмотреть <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif" title="Служебная:Ссылки сюда/Файл:Small skew star.gif">остальные ссылки</a> на этот файл.
+</p></div>
+<h2 id="globalusage">Глобальное использование файла</h2>
+<div id="mw-imagepage-section-globalusage"><p>Данный файл используется в следующих вики:
+</p><ul>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Использование в ar.wikipedia.org
+<ul>	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1_%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9_2009/%D9%85%D9%82%D8%AA%D8%B1%D8%AD4">ويكيبيديا:تغيير تصميم الصفحة الرئيسية 2009/مقترح4</a></li>
+	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1_%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9_2009/%D9%85%D9%82%D8%AA%D8%B1%D8%AD4.1">ويكيبيديا:تغيير تصميم الصفحة الرئيسية 2009/مقترح4.1</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-av_wikipedia_org'>Использование в av.wikipedia.org
+<ul>	<li><a class="external" href="https://av.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Icon/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F">Шаблон:Icon/Документация</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ba_wikipedia_org'>Использование в ba.wikipedia.org
+<ul>	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D3%99%D1%80_%D1%82%D0%B5%D0%BB_%D0%B1%D2%AF%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D3%99_%D0%B1%D1%83%D0%BB%D1%8B%D1%80%D2%93%D0%B0_%D1%82%D0%B5%D0%B9%D0%B5%D1%88_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80_%D0%B8%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%B3%D0%B5">Википедия:Һәр тел бүлегендә булырға тейеш мәҡәләләр исемлеге</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D1%82%D0%BD%D0%B0%D1%88%D1%8B%D1%83%D1%81%D1%8B:Comp1089/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF%D1%82%D0%B0%D1%80%D1%8B%D0%BC/%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80">Ҡатнашыусы:Comp1089/Ҡалыптарым/Һайланған мәҡәләләр</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:FA-navigation">Ҡалып:FA-navigation</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D1%82%D0%BD%D0%B0%D1%88%D1%8B%D1%83%D1%81%D1%8B:Comp1089/%D0%91%D0%B0%D1%88%D2%A1%D0%B0%D0%BB%D0%B0%D1%80/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82%D1%82%D0%B5%D2%A3_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B">Ҡатнашыусы:Comp1089/Башҡалар/Баш биттең проекты</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D1%82%D0%BD%D0%B0%D1%88%D1%8B%D1%83%D1%81%D1%8B:Tlustulimu/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82%D1%82%D0%B5%D2%A3_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B">Ҡатнашыусы:Tlustulimu/Баш биттең проекты</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/Wikipedia:%D0%AF%D2%A1%D1%88%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80_(%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA_%D1%84%D0%B5%D0%BA%D0%B5%D1%80%D0%BB%D3%99%D1%88%D0%B5%D2%AF)">Wikipedia:Яҡшы мәҡәләләр (тематик фекерләшеү)</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%91%D1%8B%D0%BB_%D2%BB%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99">Ҡалып:Был һайланған мәҡәлә</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D1%8D%D1%81%D1%82%D3%99%D0%BB%D0%B5%D0%BA">Портал:Һайланған эстәлек</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%B9%D0%BE%D0%BD%D0%B4%D0%BE%D2%99">Ҡалып:Һайланған йондоҙ</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%82%D0%B0%D1%80/%D0%90%D1%80%D1%85%D0%B8%D0%B21">Википедия:Һайланған мәҡәләләр/Кандидаттар/Архив1</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%B8%D0%BA%D0%B8-%D1%8F%D2%99_2016">Проект:Вики-яҙ 2016</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%B8%D0%BA%D0%B8-%D1%8F%D2%99_2016/%D0%98%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%BA">Проект:Вики-яҙ 2016/Исемлек</a></li>
+	<li><a class="external" href="https://ba.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%B8%D0%BA%D0%B8-%D1%8F%D2%99_2016/%D2%A0%D0%B0%D1%82%D0%BD%D0%B0%D1%88%D1%8B%D1%83%D1%81%D1%8B%D0%BB%D0%B0%D1%80">Проект:Вики-яҙ 2016/Ҡатнашыусылар</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-be-tarask_wikipedia_org'>Использование в be-tarask.wikipedia.org
+<ul>	<li><a class="external" href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%90%D1%80%D1%85%D1%96%D1%9E_4">Вікіпэдыя:Форум/Архіў 4</a></li>
+	<li><a class="external" href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%90%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D1%8C%D0%BD%D1%96/%D0%91%D0%BB%D1%91%D0%BA%D1%96_%D0%B3%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D0%B9_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D1%96">Вікіпэдыя:Апытаньні/Блёкі галоўнай старонкі</a></li>
+	<li><a class="external" href="https://be-tarask.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B7%D0%B5%D0%BB%D1%8C%D0%BD%D1%96%D0%BA:Jauhienij">Удзельнік:Jauhienij</a></li>
+	<li><a class="external" href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%90%D1%80%D1%85%D1%96%D1%9E_6">Вікіпэдыя:Форум/Архіў 6</a></li>
+	<li><a class="external" href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%90%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D1%8C%D0%BD%D1%96/%D0%AD%D0%BB%D0%B5%D0%BC%D1%8D%D0%BD%D1%82%D1%8B_%D0%B0%D1%84%D0%B0%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D1%8C%D0%BD%D1%8F_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%96">Вікіпэдыя:Апытаньні/Элемэнты афармленьня Вікіпэдыі</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-be_wikipedia_org'>Использование в be.wikipedia.org
+<ul>	<li><a class="external" href="https://be.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Icon">Шаблон:Icon</a></li>
+	<li><a class="external" href="https://be.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Icon/%D0%94%D0%B0%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%8B%D1%8F">Шаблон:Icon/Дакументацыя</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ce_wikipedia_org'>Использование в ce.wikipedia.org
+<ul>	<li><a class="external" href="https://ce.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%A5%D0%B0%D1%8C%D1%80%D0%B6%D0%B8%D0%BD%D0%B0_%D0%B9%D0%B0%D0%B7%D0%B7%D0%B0%D0%BC%D0%B0%D1%88">Википеди:Хаьржина йаззамаш</a></li>
+	<li><a class="external" href="https://ce.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BF:Icon">Кеп:Icon</a></li>
+	<li><a class="external" href="https://ce.wikipedia.org/wiki/%D0%94%D0%B0%D0%BA%D1%8A%D0%B0:Icon/doc">Дакъа:Icon/doc</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-crh_wikipedia_org'>Использование в crh.wikipedia.org
+<ul>	<li><a class="external" href="https://crh.wikipedia.org/wiki/Vikipediya:N%C3%BCm%C3%BCneviy_maqaleler">Vikipediya:Nümüneviy maqaleler</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-cv_wikipedia_org'>Использование в cv.wikipedia.org
+<ul>	<li><a class="external" href="https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9F%D0%B0%D1%80%D0%BD%D0%B5%D1%81%D0%B5%D0%BC">Википеди:Парнесем</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Использование в en.wikipedia.org
+<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/Drafts/OtherWikis">Wikipedia:Wikipedia Signpost/Drafts/OtherWikis</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ka_wikipedia_org'>Использование в ka.wikipedia.org
+<ul>	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%96_II_(%E1%83%A0%E1%83%A3%E1%83%A1%E1%83%94%E1%83%97%E1%83%98)">ნიკოლოზ II (რუსეთი)</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%A0%E1%83%98%E1%83%92%E1%83%9D%E1%83%9A_%E1%83%A0%E1%83%90%E1%83%A1%E1%83%9E%E1%83%A3%E1%83%A2%E1%83%98%E1%83%9C%E1%83%98">გრიგოლ რასპუტინი</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%90%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A1%E1%83%98%E1%83%90_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%9D%E1%83%95%E1%83%90">ანასტასია რომანოვა</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A1%E1%83%90%E1%83%9C%E1%83%93%E1%83%A0%E1%83%90_%E1%83%97%E1%83%94%E1%83%93%E1%83%9D%E1%83%A0%E1%83%94%E1%83%A1_%E1%83%90%E1%83%A1%E1%83%A3%E1%83%9A%E1%83%98_(%E1%83%9C%E1%83%98%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%96_II-%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%94%E1%83%A3%E1%83%A6%E1%83%9A%E1%83%94)">ალექსანდრა თედორეს ასული (ნიკოლოზ II-ის მეუღლე)</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%90_%E1%83%90%E1%83%9C%E1%83%93%E1%83%94%E1%83%A0%E1%83%A1%E1%83%9D%E1%83%9C%E1%83%98">ანა ანდერსონი</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%90%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A1%E1%83%98%E1%83%90_(%E1%83%90%E1%83%9C%E1%83%98%E1%83%9B%E1%83%90%E1%83%AA%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A4%E1%83%98%E1%83%9A%E1%83%9B%E1%83%98)">ანასტასია (ანიმაციური ფილმი)</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%9E%E1%83%90%E1%83%A2%E1%83%98%E1%83%94%E1%83%95%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%AE%E1%83%9A%E1%83%98">იპატიევის სახლი</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%A2%E1%83%9B%E1%83%90">ოტმა</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98%E1%83%90%E1%83%9C%E1%83%90_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%9D%E1%83%95%E1%83%90">ტატიანა რომანოვა</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%90_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%9D%E1%83%95%E1%83%90">მარია რომანოვა</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%98:%E1%83%91%E1%83%9D%E1%83%9A%E1%83%9D_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%9D%E1%83%95%E1%83%94%E1%83%91%E1%83%98">თარგი:ბოლო რომანოვები</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%9A%E1%83%A6%E1%83%90_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%9D%E1%83%95%E1%83%90">ოლღა რომანოვა</a></li>
+	<li><a class="external" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A1%E1%83%94%E1%83%98_%E1%83%9C%E1%83%98%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%96%E1%83%98%E1%83%A1_%E1%83%AB%E1%83%94_%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%9D%E1%83%95%E1%83%98">ალექსეი ნიკოლოზის ძე რომანოვი</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ky_wikipedia_org'>Использование в ky.wikipedia.org
+<ul>	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B0%D1%82">Климат</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%96%D0%B0%D1%80%D0%B0%D1%82%D1%8B%D0%BB%D1%8B%D1%88">Жаратылыш</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D1%8B%D0%BA%D1%82%D1%8B_%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D1%80">Википедия:Мыкты макалалар</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8B%D0%BF:%D0%96%D0%B5%D1%80">Калып:Жер</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8B%D0%BF:Icon">Калып:Icon</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8B%D0%BF:Icon/doc">Калып:Icon/doc</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0_%D0%BF%D0%BB%D0%B8%D1%82%D0%B0%D0%BB%D0%B0%D1%80%D1%8B">Литосфера плиталары</a></li>
+	<li><a class="external" href="https://ky.wikipedia.org/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D1%8B">Атлантика океаны</a></li>
+</ul></li>
+</ul>
+<p>Просмотреть <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/Small_skew_star.gif" title="Служебная:Глобальное использование/Small skew star.gif">глобальное использование</a> этого файла.
+</p></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/wiki/Файл:Small_skew_star.gif">https://ru.wikipedia.org/wiki/Файл:Small_skew_star.gif</a></div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3ASmall+skew+star.gif" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3ASmall+skew+star.gif" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif" title="Страница файла [c]" accesskey="c"><span>Файл</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0:Small_skew_star.gif&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif"><span>Читать</span></a></li><li id="ca-view-foreign" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/File:Small_skew_star.gif"><span>Посмотреть Викискладе</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Создать локально</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Создать локально как код</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export emptyPortlet vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Small_skew_star.gif&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":3,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw2325","timestamp":"20230322074920","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2325","wgBackendResponseTime":222});});</script>
+</body>
+</html>

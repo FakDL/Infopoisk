@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Мактан — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"068f6146-e058-4013-a1fe-244a9bf59c5b","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Мактан","wgTitle":"Мактан","wgCurRevisionId":118193468,"wgRevisionId":118193468,"wgArticleId":2214759,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups"
+:["*"],"wgCategories":["Природные географические объекты по алфавиту","ПРО:ГЕО:Размер статьи: менее 1000 символов","ПРО:ГЕО:Последняя правка: более года назад","Карточка на Геокаре: исправить: устаревший формат координат","Википедия:Статьи без ссылок на источники с июня 2018 года","Википедия:Статьи без источников (страна: Филиппины)","Википедия:Статьи без источников (тип: остров)","Википедия:Статьи без источников (не распределённые по типам)","Википедия:Страницы с картами","Острова по алфавиту","Острова Филиппин","Места для дайвинга"],"wgPageContentLanguage":"ru","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Мактан","wgRelevantArticleId":2214759,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":118193468,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgCoordinates":{"lat":10.28333,"lon":123.98333},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q685318",
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.kartographer.style":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ph_locator_cebu_mactan.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1400"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ph_locator_cebu_mactan.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="933"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="747"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Мактан — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Мактан rootpage-Мактан skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><span class="coordinates plainlinks nourlexpansion" data-param="10_17_00_N_123_59_00_E_region:PH_type:landmark"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/15/10.28333/123.98333/ru" data-zoom="15" data-lat="10.28333" data-lon="123.98333" data-lang="ru" data-overlays="[&quot;_99af384e32a9bd2e9999259936bd233bb6827227&quot;]">10°17′00″&#160;с.&#160;ш. 123°59′00″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;params=10_17_00_N_123_59_00_E_region:PH_type:landmark"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=10.28333,123.98333&amp;q=10.28333,123.98333&amp;spn=0.01,0.01&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=123.98333,10.28333&amp;pt=123.98333,10.28333&amp;spn=0.01,0.01&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=10.28333&amp;mlon=123.98333&amp;zoom=15"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Мактан</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r127600486">.mw-parser-output .t-geoinfobox td,.mw-parser-output .t-geoinfobox th{min-width:120px}.mw-parser-output .t-geoinfobox td:only-child,.mw-parser-output .t-geoinfobox th:only-child{text-align:center}.mw-parser-output .t-geoinfobox-nickname{font-style:italic}.mw-parser-output .t-geoinfobox-cave .infobox-above,.mw-parser-output .t-geoinfobox-cave .infobox-header,.mw-parser-output .t-geoinfobox-cave .infobox-below,.mw-parser-output .t-geoinfobox-mount .infobox-above,.mw-parser-output .t-geoinfobox-mount .infobox-header,.mw-parser-output .t-geoinfobox-mount .infobox-below{background:#e7dcc3}.mw-parser-output .t-geoinfobox-surface .infobox-above,.mw-parser-output .t-geoinfobox-surface .infobox-header,.mw-parser-output .t-geoinfobox-surface .infobox-below{background:#ffe4c4}.mw-parser-output .t-geoinfobox-blue .infobox-above,.mw-parser-output .t-geoinfobox-blue .infobox-header,.mw-parser-output .t-geoinfobox-blue .infobox-below,.mw-parser-output .t-geoinfobox-water .infobox-above,.mw-parser-output .t-geoinfobox-water .infobox-header,.mw-parser-output .t-geoinfobox-water .infobox-below{background:#c0daff}.mw-parser-output .t-geoinfobox-underwater .infobox-above,.mw-parser-output .t-geoinfobox-underwater .infobox-header,.mw-parser-output .t-geoinfobox-underwater .infobox-below{background:#b0e0e6}.mw-parser-output .t-geoinfobox-green .infobox-above,.mw-parser-output .t-geoinfobox-green .infobox-header,.mw-parser-output .t-geoinfobox-green .infobox-below{background:#d0f0c0}.mw-parser-output .t-geoinfobox-yellow .infobox-above,.mw-parser-output .t-geoinfobox-yellow .infobox-header,.mw-parser-output .t-geoinfobox-yellow .infobox-below{background:#eeeea7}.mw-parser-output .t-geoinfobox-grey .infobox-above,.mw-parser-output .t-geoinfobox-grey .infobox-header,.mw-parser-output .t-geoinfobox-grey .infobox-below{background:#eaecf0}</style><span class="no-wikidata" data-wikidata-property-id="P625"></span><table class="infobox t-geoinfobox t-geoinfobox-surface" data-name="Остров">
+<tbody><tr style="display:none;"><td colspan="2"></td></tr><tr><th colspan="2" scope="colgroup" class="infobox-above t-geoinfobox-name">Мактан</th></tr><tr><td colspan="2" class="t-geoinfobox-nickname"><a href="/wiki/%D0%A2%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Тагальский язык">тагальск.</a>&#160;<span dir="auto" lang="tl">Mactan</span></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><td class="infobox-image" colspan="2"><span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ph_locator_cebu_mactan.png" class="image"><img alt="Ph locator cebu mactan.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ph_locator_cebu_mactan.png/280px-Ph_locator_cebu_mactan.png" decoding="async" width="280" height="327" srcset="//upload.wikimedia.org/wikipedia/commons/f/f0/Ph_locator_cebu_mactan.png 1.5x" data-file-width="300" data-file-height="350" /></a></span></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><th scope="colgroup" class="infobox-header" colspan="2">Характеристики</th></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><th scope="row">Площадь</th><td><span data-wikidata-property-id="P2046" class="no-wikidata">65&#160;км²</span></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><th scope="row">Население</th><td><span data-wikidata-property-id="P1082" class="no-wikidata">251&#160;051&#160;чел. (2000)</span></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><th scope="row">Плотность населения</th><td>3862,32&#160;чел./км²</td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><th scope="colgroup" class="infobox-header" colspan="2">Расположение</th></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><td colspan="2"><span class="no-wikidata" data-wikidata-property-id="P625"><span class="coordinates plainlinks nourlexpansion" data-param="10_17_00_N_123_59_00_E_region:PH_type:landmark"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/15/10.28333/123.98333/ru" data-zoom="15" data-lat="10.28333" data-lon="123.98333" data-lang="ru" data-overlays="[&quot;_99af384e32a9bd2e9999259936bd233bb6827227&quot;]">10°17′00″&#160;с.&#160;ш. 123°59′00″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;params=10_17_00_N_123_59_00_E_region:PH_type:landmark"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=10.28333,123.98333&amp;q=10.28333,123.98333&amp;spn=0.01,0.01&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=123.98333,10.28333&amp;pt=123.98333,10.28333&amp;spn=0.01,0.01&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=10.28333&amp;mlon=123.98333&amp;zoom=15"><span>O</span></a></span></sup></span></span></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><th scope="row">Страна</th><td><span data-wikidata-property-id="P17" class="no-wikidata"><ul><li><span class="nowrap" data-sort-value="Филиппины"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/22px-Flag_of_the_Philippines.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/33px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/44px-Flag_of_the_Philippines.svg.png 2x" data-file-width="1200" data-file-height="600" /></span>&#160;<a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B" title="Филиппины"><span class="wrap">Филиппины</span></a></span></li></ul></span></td></tr>
+<tr><th scope="row"><a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD" title="Административное деление Филиппин">Регион</a></th><td><a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Себу (провинция)">Себу</a></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr><td colspan="2"><style data-mw-deduplicate="TemplateStyles:r117334243">.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map" style="width:280px; max-width:100%; margin:0 auto; overflow:hidden; position:relative;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%BE%D0%B7%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B" title="Филиппины"><img alt="Филиппины" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippines_relief_location_map.jpg/280px-Philippines_relief_location_map.jpg" decoding="async" width="280" height="369" class="notpageimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippines_relief_location_map.jpg/420px-Philippines_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippines_relief_location_map.jpg/560px-Philippines_relief_location_map.jpg 2x" data-file-width="1871" data-file-height="2468" /></a><div class="ts-ПозКарта-метка" style="left:74.87%; top:64.6%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><img alt="Красная точка" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png" decoding="async" title="Красная точка" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/18px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: right; left: -162.5px">Мактан</div></div></div></td></tr>
+<tr style="display:none;"><td colspan="2"></td></tr><tr style="display:none;"><td colspan="2"></td></tr><tr><td class="infobox-below" colspan="2"><span data-wikidata-claim-id="q685318$27C1BCD3-20CC-4FDE-8B63-CE5DCF358D7A" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Mactan" title="commons:Category:Mactan"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Mactan" class="extiw" title="commons:Category:Mactan">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><br />
+<b>Мактан</b> (<a href="/wiki/%D0%A2%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Тагальский язык">тагальск.</a> <span lang="tl" style="font-style:italic;"></span>и <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Mactan</span>)&#160;— <a href="/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Остров">остров</a> в филиппинской провинции <a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Себу (провинция)">Себу</a>, входит в группу <a href="/wiki/%D0%92%D0%B8%D1%81%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Висайские острова">Висайских островов</a>. Расположен неподалёку от острова <a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83" title="Себу">Себу</a> напротив города <a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Себу (город)">Себу</a>.
+</p><p>Административно делится на город <a href="/wiki/%D0%9B%D0%B0%D0%BF%D1%83-%D0%9B%D0%B0%D0%BF%D1%83_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Лапу-Лапу (город)">Лапу-Лапу</a> и муниципалитет Кордова.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Промышленность_и_экономика"><span class="tocnumber">2</span> <span class="toctext">Промышленность и экономика</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Транспорт"><span class="tocnumber">3</span> <span class="toctext">Транспорт</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Туризм"><span class="tocnumber">4</span> <span class="toctext">Туризм</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>На Мактане в <a href="/wiki/1521_%D0%B3%D0%BE%D0%B4" title="1521 год">1521 году</a> <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD%D0%B5" title="Битва при Мактане">произошло сражение</a> между испанцами из экспедиции <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD" title="Магеллан, Фернан">Фернана Магеллана</a> и местным населением под руководством <a href="/wiki/%D0%9B%D0%B0%D0%BF%D1%83-%D0%9B%D0%B0%D0%BF%D1%83" title="Лапу-Лапу">Лапу-Лапу</a>, в ходе которого Магеллан был убит.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.BC.D1.8B.D1.88.D0.BB.D0.B5.D0.BD.D0.BD.D0.BE.D1.81.D1.82.D1.8C_.D0.B8_.D1.8D.D0.BA.D0.BE.D0.BD.D0.BE.D0.BC.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Промышленность_и_экономика">Промышленность и экономика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Промышленность и экономика»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit&amp;section=2" title="Редактировать раздел «Промышленность и экономика»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>На Мактане расположена фабрика по производству <a href="/wiki/%D0%93%D0%B8%D1%82%D0%B0%D1%80%D0%B0" title="Гитара">гитар</a>.
+</p>
+<h2><span id=".D0.A2.D1.80.D0.B0.D0.BD.D1.81.D0.BF.D0.BE.D1.80.D1.82"></span><span class="mw-headline" id="Транспорт">Транспорт</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Транспорт»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit&amp;section=3" title="Редактировать раздел «Транспорт»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Мактан соединён с островом Себу двумя мостами.
+</p><p>На Мактане находится международный аэропорт Себу-Мактан, второй по величине аэропорт Филиппин.
+</p>
+<h2><span id=".D0.A2.D1.83.D1.80.D0.B8.D0.B7.D0.BC"></span><span class="mw-headline" id="Туризм">Туризм</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Туризм»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit&amp;section=4" title="Редактировать раздел «Туризм»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Мактан известен, как объект <a href="/wiki/%D0%A2%D1%83%D1%80%D0%B8%D0%B7%D0%BC" title="Туризм">туризма</a>, имеет сравнительно развитую сеть <a href="/wiki/%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0" title="Гостиница">отелей</a> и развлекательные учреждения. У берегов Мактана находится несколько популярных <a href="/wiki/%D0%A0%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B0%D0%B9%D0%B2%D0%B8%D0%BD%D0%B3" title="Рекреационный дайвинг">дайв-сайтов</a>.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit&amp;section=5" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD" title="Список островов Филиппин">Список островов Филиппин</a></li></ul>
+<table class="mbox-Нет_ссылок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/48px-Question_book-4.svg.png" decoding="async" width="48" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/72px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/96px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></div></td><td class="mbox-text"><div class="mbox-text-div">В статье <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span>  <span class="mbox-date"><i>(<span class="date">21 июня 2018</span>)</i></span></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2290
+Cached time: 20230321165850
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [no‐toc‐conversion, show‐toc]
+CPU time usage: 0.316 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 3506/1000000
+Post‐expand include size: 45836/2097152 bytes
+Template argument size: 4185/2097152 bytes
+Highest expansion depth: 23/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3145/5000000 bytes
+Lua time usage: 0.171/10.000 seconds
+Lua memory usage: 5323376/52428800 bytes
+Number of Wikibase entities loaded: 4/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  377.415      1 -total
+ 65.49%  247.170      1 Шаблон:Остров
+ 43.29%  163.394     15 Шаблон:Геокар
+ 32.98%  124.488     31 Шаблон:Wikidata
+ 32.32%  121.999      1 Шаблон:Нет_ссылок
+ 21.15%   79.830      1 Шаблон:Сортировка:_статьи_без_источников
+ 19.19%   72.410      2 Шаблон:Wikidata-coords
+ 15.68%   59.184      1 Шаблон:Сортировка:_по_типам
+ 15.26%   57.576      1 Шаблон:Геокар/Общие_проверки
+ 14.33%   54.101     15 Шаблон:,→/
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:2214759-0!canonical and timestamp 20230321165850 and revision id 118193468. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Мактан&amp;oldid=118193468">https://ru.wikipedia.org/w/index.php?title=Мактан&amp;oldid=118193468</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Острова по алфавиту">Острова по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD" title="Категория:Острова Филиппин">Острова Филиппин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B5%D1%81%D1%82%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B0%D0%B9%D0%B2%D0%B8%D0%BD%D0%B3%D0%B0" title="Категория:Места для дайвинга">Места для дайвинга</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Природные географические объекты по алфавиту">Природные географические объекты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%95%D0%9E:%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8:_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5_1000_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2" title="Категория:ПРО:ГЕО:Размер статьи: менее 1000 символов">ПРО:ГЕО:Размер статьи: менее 1000 символов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%95%D0%9E:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4" title="Категория:ПРО:ГЕО:Последняя правка: более года назад">ПРО:ГЕО:Последняя правка: более года назад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%93%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D0%B5:_%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C:_%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B8%D0%B9_%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82" title="Категория:Карточка на Геокаре: исправить: устаревший формат координат">Карточка на Геокаре: исправить: устаревший формат координат</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D0%B8%D1%8E%D0%BD%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без ссылок на источники с июня 2018 года">Википедия:Статьи без ссылок на источники с июня 2018 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0:_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B)" title="Категория:Википедия:Статьи без источников (страна: Филиппины)">Википедия:Статьи без источников (страна: Филиппины)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Категория:Википедия:Статьи без источников (тип: остров)">Википедия:Статьи без источников (тип: остров)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;oldid=118193468" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;id=118193468&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q685318" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Mactan" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A7%D9%83%D8%AA%D8%A7%D9%86" title="جزيرة ماكتان — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D9%87_%D9%85%D8%A7%D9%83%D8%AA%D8%A7%D9%86" title="جزيره ماكتان — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Maktan_adas%C4%B1" title="Maktan adası — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/Mactan" title="Mactan — Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Мактан — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Mactan" title="Mactan — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Mactan" title="Mactan — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Mactan" title="Mactan — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Mactan" title="Mactan — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Mactan" title="Mactan — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BA%CF%84%CE%AC%CE%BD" title="Μακτάν — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Mactan" title="Mactan — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Maktano" title="Maktano — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Mact%C3%A1n" title="Mactán — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%DA%A9%D8%AA%D8%A7%D9%86" title="ماکتان — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/%C3%8Ele_de_Mactan" title="Île de Mactan — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Mactan" title="Mactan — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Mactan" title="Mactan — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Mactan" title="Mactan — илоко" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Mactan" title="Mactan — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%82%BF%E3%83%B3%E5%B3%B6" title="マクタン島 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A7%89%ED%83%84%EC%84%AC" title="막탄섬 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Maktanas" title="Maktanas — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%9F%E0%B5%BB" title="മാക്ടൻ — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Mactan" title="Mactan — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Mactan" title="Mactan — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Mactan" title="Mactan — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Mact%C3%A1n" title="Mactán — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Mact%C3%A1n" title="Mactán — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Mactan" title="Mactan — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Mactan" title="Mactan — тагалог" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Maktan" title="Maktan — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD" title="Мактан — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Mactan" title="Mactan — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Mactan" title="Mactan — варай" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%85%8B%E5%9D%A6%E5%B3%B6" title="麥克坦島 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Mactan" title="Mactan — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q685318#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 ноября 2021 в 17:08.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.424","ppvisitednodes":{"value":3506,"limit":1000000},"postexpandincludesize":{"value":45836,"limit":2097152},"templateargumentsize":{"value":4185,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3145,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  377.415      1 -total"," 65.49%  247.170      1 Шаблон:Остров"," 43.29%  163.394     15 Шаблон:Геокар"," 32.98%  124.488     31 Шаблон:Wikidata"," 32.32%  121.999      1 Шаблон:Нет_ссылок"," 21.15%   79.830      1 Шаблон:Сортировка:_статьи_без_источников"," 19.19%   72.410      2 Шаблон:Wikidata-coords"," 15.68%   59.184      1 Шаблон:Сортировка:_по_типам"," 15.26%   57.576      1 Шаблон:Геокар/Общие_проверки"," 14.33%   54.101     15 Шаблон:,→/"]},"scribunto":{"limitreport-timeusage":{"value":"0.171","limit":"10.000"},"limitreport-memusage":{"value":5323376,"limit":52428800},"limitreport-logs":"Loaded datatype external-id of P1397 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7678 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P376 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw2290","timestamp":"20230321165850","ttl":86400,"transientcontent":true}},"wgHostname":"mw2433","wgBackendResponseTime":118});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041c\u0430\u043a\u0442\u0430\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q685318","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q685318","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-16T11:48:20Z","dateModified":"2021-11-29T17:08:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f0\/Ph_locator_cebu_mactan.png"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041c\u0430\u043a\u0442\u0430\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q685318","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q685318","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-16T11:48:20Z","dateModified":"2021-11-29T17:08:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f0\/Ph_locator_cebu_mactan.png"}</script>
+</body>
+</html>

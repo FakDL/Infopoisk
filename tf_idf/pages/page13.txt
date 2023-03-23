@@ -1,0 +1,1564 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Википедия:ВП — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9fa4bd85-02bf-4746-aa58-4f8c3e862508","wgCSPNonce":false,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Википедия:ВП","wgTitle":"ВП","wgCurRevisionId":126519338,"wgRevisionId":126519338,"wgArticleId":17889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,
+"wgUserGroups":["*"],"wgCategories":["Википедия:Внутренние"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Википедия:ВП","wgRelevantArticleId":17889,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgDiscussionToolsFeaturesEnabled":{"replytool":true,"newtopictool":true,
+"sourcemodetoolbar":true,"topicsubscription":false,"autotopicsub":false,"visualenhancements":false,"visualenhancements_reply":false,"visualenhancements_pageframe":false},"wgDiscussionToolsFallbackEditMode":"visual","wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q620197","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.discussionTools.init.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready",
+"ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.discussionTools.init","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.discussionTools.init.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Википедия:ВП — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="ext-discussiontools-replytool-enabled ext-discussiontools-newtopictool-enabled ext-discussiontools-sourcemodetoolbar-enabled skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Википедия_ВП rootpage-Википедия_ВП skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Википедия</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">ВП</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r117688592">.mw-parser-output .shortcutbox{border-spacing:0;float:right;margin:1px 0 1px 0.75em;border:1px solid #afcff2;font-size:83.33%}.mw-parser-output .shortcutbox td{background-color:#eaf3ff;padding:4px;vertical-align:middle}.mw-parser-output .shortcutbox-shortcutsCell.shortcutbox-shortcutsCell{background-color:white;line-height:1.25em;font-weight:800}</style><div class="shortcut-anchors"><span id=".D0.92.D0.9F:.D0.92.D0.9F"><span id="ВП:ВП"></span></span></div><table role="note" class="shortcutbox plainlist noprint" style=""><tbody><tr><td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F" title="Короткая ссылка-перенаправление"><img alt="↱" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/OOjs_UI_icon_articleRedirect-ltr-progressive.svg/20px-OOjs_UI_icon_articleRedirect-ltr-progressive.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/OOjs_UI_icon_articleRedirect-ltr-progressive.svg/30px-OOjs_UI_icon_articleRedirect-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/OOjs_UI_icon_articleRedirect-ltr-progressive.svg/40px-OOjs_UI_icon_articleRedirect-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"/></a></td><td class="shortcutbox-shortcutsCell"><ul><li>ВП:ВП</li></ul></td></tr></tbody></table>
+<div class="hatnote navigation-not-searchable dabhide">Эта статья — о сокращениях имён страниц пространства имён «Википедия». О понятии «война правок» см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F%D0%A0" class="mw-redirect" title="Википедия:ВПР">Википедия:ВПР</a>.</div>
+<p>Здесь перечислены аббревиатуры для быстрой ссылки на страницы из пространства имён «Википедия» (всегда начинаются с «ВП:»). Страницы, на которые установлены <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Перенаправления">перенаправления</a> с тех или иных аббревиатур, следует помечать шаблоном <style data-mw-deduplicate="TemplateStyles:r117895138">.mw-parser-output .ts-templateCallCode-weak{color:#72777d}.mw-parser-output .ts-templateCallCode-pipe{margin:0 2px}.mw-parser-output .ts-templateCallCode-pipe+.ts-templateCallCode-pipe,.mw-parser-output .ts-templateCallCode-pipe+.ts-templateCallCode-param>.ts-templateCallCode-weak:first-child>.ts-templateCallCode-pipe:first-child{margin-left:0}.mw-parser-output .ts-templateCallCode-param+.ts-templateCallCode-closing{margin-left:2px}.mw-parser-output span.ts-templateCallCode>.ts-templateCallCode-templateName a{padding:0 0.5em!important;position:relative;margin:-0.5em}</style><span class="ts-templateCallCode"><span class="ts-templateCallCode-opening ts-templateCallCode-weak">{{</span><span class="ts-templateCallCode-templateName" data-navboxnavigation-link="0"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Shortcut" title="Шаблон:Shortcut">shortcut</a></span><span class="ts-templateCallCode-closing ts-templateCallCode-weak">}}</span></span>. Инструкции и примеры использования можно найти на <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Shortcut" title="Шаблон:Shortcut">странице шаблона</a>.
+</p><p>Стоит заметить, что некоторые статьи шуточные, и их не стоит воспринимать всерьёз. Такие статьи помечены шаблоном {{<a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%AE%D0%BC%D0%BE%D1%80_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Шаблон:Юмор Википедии">Юмор Википедии</a>}} или {{<a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%98%D1%80%D0%BE%D0%BD%D0%B8%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Шаблон:Ирония Википедии">Ирония Википедии</a>}}.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Легенда"><span class="tocnumber">1</span> <span class="toctext">Легенда</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Общее"><span class="tocnumber">1.1</span> <span class="toctext">Общее</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Участники_и_их_специальные_права"><span class="tocnumber">1.2</span> <span class="toctext">Участники и их специальные права</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Текущая_работа_викисообщества"><span class="tocnumber">1.3</span> <span class="toctext">Текущая работа викисообщества</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Технические_справки_и_руководства"><span class="tocnumber">1.4</span> <span class="toctext">Технические справки и руководства</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Правила_и_руководства"><span class="tocnumber">1.5</span> <span class="toctext">Правила и руководства</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Статьи"><span class="tocnumber">1.6</span> <span class="toctext">Статьи</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Статистика"><span class="tocnumber">1.7</span> <span class="toctext">Статистика</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Шаблоны"><span class="tocnumber">1.8</span> <span class="toctext">Шаблоны</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Проекты"><span class="tocnumber">1.9</span> <span class="toctext">Проекты</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#См._также"><span class="tocnumber">2</span> <span class="toctext">См. также</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2 ext-discussiontools-init-section"><h2><span id=".D0.9B.D0.B5.D0.B3.D0.B5.D0.BD.D0.B4.D0.B0"></span><span class="mw-headline" id="Легенда" data-mw-thread-id="h-Легенда"><span data-mw-comment-start="" id="h-Легенда"></span>Легенда<span data-mw-comment-end="h-Легенда"></span></span></h2><!--__DTELLIPSISBUTTON__--></div>
+<p>* — подстраница или подпроект
+</p>
+<h3><span id=".D0.9E.D0.B1.D1.89.D0.B5.D0.B5"></span><span class="mw-headline" id="Общее" data-mw-thread-id="h-Общее-Легенда"><span data-mw-comment-start="" id="h-Общее-Легенда"></span>Общее<span data-mw-comment-end="h-Общее-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<td><b>ВП:ВП</b></td>
+<td>Википедия: ВП (эта страница)
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">О Википедии
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%9F" class="mw-redirect" title="Википедия:ДП">ВП:ДП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE_%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8E" title="Википедия:Добро пожаловать в Википедию">Википедия:Добро пожаловать в Википедию</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%92" class="mw-redirect" title="Википедия:КВ">ВП:КВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Википедия:Критика Википедии">Википедия:Критика Википедии</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%9A" class="mw-redirect" title="Википедия:ОК">ВП:ОК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D1%83" title="Википедия:Ответы на критику">Википедия:Ответы на критику</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%9D%D0%A0" class="mw-redirect" title="Википедия:ИНР">ВП:ИНР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0" title="Википедия:История русскоязычного раздела">Википедия:История русскоязычного раздела</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9E%D0%92" class="mw-redirect" title="Википедия:ПОВ">ВП:ПОВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D1%81%D1%81%D0%B0_%D0%BE_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Википедия:Пресса о Википедии">Википедия:Пресса о Википедии</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:300%D0%9A" class="mw-redirect" title="Википедия:300К">ВП:300К</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D1%81%D1%81-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/300K" title="Википедия:Пресс-релизы/300K">Википедия:Пресс-релизы/300K</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:400%D0%9A" class="mw-redirect" title="Википедия:400К">ВП:400К</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D1%81%D1%81-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/400K" title="Википедия:Пресс-релизы/400K">Википедия:Пресс-релизы/400K</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:1%D0%9C" class="mw-redirect" title="Википедия:1М">ВП:1М</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D1%81%D1%81-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/1%D0%9C" title="Википедия:Пресс-релизы/1М">Википедия:Пресс-релизы/1М</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Отказ от ответственности
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%9C%D0%95%D0%94%D0%98%D0%9A" class="mw-redirect" title="Википедия:НЕМЕДИК">ВП:НЕМЕДИК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B5_%D0%B4%D0%B0%D1%91%D1%82_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2" title="Википедия:Википедия не даёт медицинских советов">Википедия:Википедия не даёт медицинских советов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%AE%D0%A0%D0%98%D0%A1%D0%A2" class="mw-redirect" title="Википедия:НЕЮРИСТ">ВП:НЕЮРИСТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%BD%D0%B5_%D0%B4%D0%B0%D1%91%D1%82_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2" title="Википедия:Википедия не даёт юридических советов">Википедия:Википедия не даёт юридических советов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%A2%D0%9A%D0%90%D0%97" class="mw-redirect" title="Википедия:ОТКАЗ">ВП:ОТКАЗ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%9E" class="mw-redirect" title="Википедия:ОО">ВП:ОО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Википедия:Отказ от ответственности</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E%D0%A2%D0%95%D0%A1%D0%A2" class="mw-redirect" title="Википедия:ПРОТЕСТ">ВП:ПРОТЕСТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%BC%D0%BE%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8_%D0%BC%D0%BE%D0%B6%D0%B5%D1%82_%D0%B2%D1%8B%D0%B7%D0%B2%D0%B0%D1%82%D1%8C_%D1%83_%D0%B2%D0%B0%D1%81_%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82" title="Википедия:Содержимое Википедии может вызвать у вас протест">Википедия:Содержимое Википедии может вызвать у вас протест</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A1%D0%A0" class="mw-redirect" title="Википедия:ПСР">ВП:ПСР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D1%8B_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D0%B5%D1%81%D1%8C_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B5%D0%B9_%D0%BD%D0%B0_%D1%81%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D1%85_%D0%B8_%D1%80%D0%B8%D1%81%D0%BA" title="Википедия:Вы пользуетесь Википедией на свой страх и риск">Википедия:Вы пользуетесь Википедией на свой страх и риск</a>
+</td></tr></tbody></table>
+<h3><span id=".D0.A3.D1.87.D0.B0.D1.81.D1.82.D0.BD.D0.B8.D0.BA.D0.B8_.D0.B8_.D0.B8.D1.85_.D1.81.D0.BF.D0.B5.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BF.D1.80.D0.B0.D0.B2.D0.B0"></span><span class="mw-headline" id="Участники_и_их_специальные_права" data-mw-thread-id="h-Участники_и_их_специальные_права-Легенда"><span data-mw-comment-start="" id="h-Участники_и_их_специальные_права-Легенда"></span>Участники и их специальные права<span data-mw-comment-end="h-Участники_и_их_специальные_права-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Администраторы
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90" class="mw-redirect" title="Википедия:А">ВП:А</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B" title="Википедия:Администраторы">Википедия:Администраторы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%A1" class="mw-redirect" title="Википедия:АС">ВП:АС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%B2_%D1%81%D0%B5%D1%82%D0%B8" class="mw-redirect" title="Википедия:Администраторы в сети">Википедия:Администраторы в сети</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9A%D0%90" class="mw-redirect" title="Википедия:ЗКА">ВП:ЗКА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%BA_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D0%BC" title="Википедия:Запросы к администраторам">Википедия:Запросы к администраторам</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%97" class="mw-redirect" title="Википедия:УЗ">ВП:УЗ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%A1" class="mw-redirect" title="Википедия:ЗС">ВП:ЗС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B" title="Википедия:Установка защиты">Википедия:Установка защиты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%97%D0%90" class="mw-redirect" title="Википедия:СЗА">ВП:СЗА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B" title="Википедия:Снятие защиты">Википедия:Снятие защиты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9B" class="mw-redirect" title="Википедия:СЛ">ВП:СЛ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%A1" class="mw-redirect" title="Википедия:ЧС">ВП:ЧС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BF%D0%B0%D0%BC-%D0%BB%D0%B8%D1%81%D1%82%D0%B0" title="Википедия:Изменение спам-листа">Википедия:Изменение спам-листа</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%A1%D0%90" class="mw-redirect" title="Википедия:ЗСА">ВП:ЗСА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0" title="Википедия:Заявки на статус администратора">Википедия:Заявки на статус администратора</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%90" class="mw-redirect" title="Википедия:ФА">ВП:ФА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2" title="Википедия:Форум администраторов">Википедия:Форум администраторов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%90" class="mw-redirect" title="Википедия:ПА">ВП:ПА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%83" title="Википедия:Памятка администратору">Википедия:Памятка администратору</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Арбитраж
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9A" class="mw-redirect" title="Википедия:АК">ВП:АК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D1%82" title="Википедия:Арбитражный комитет">Википедия:Арбитражный комитет</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%90" class="mw-redirect" title="Википедия:ВА">ВП:ВА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B0%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%BE%D0%B2" title="Википедия:Выборы арбитров">Википедия:Выборы арбитров</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%90" class="mw-redirect" title="Википедия:ЗА">ВП:ЗА</a></td>
+<td><a href="/wiki/%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8" title="Арбитраж:Заявки">Арбитраж:Заявки</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%90%D0%9A" class="mw-redirect" title="Википедия:РАК">ВП:РАК</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%95%D0%A8" class="mw-redirect" title="Википедия:РЕШ">ВП:РЕШ</a></td>
+<td><a href="/wiki/%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6:%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" title="Арбитраж:Решения">Арбитраж:Решения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9E%D0%98" class="mw-redirect" title="Википедия:АОИ">ВП:АОИ</a></td>
+<td><a href="/wiki/%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6:%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D1%8F%D0%B2%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B0%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6" title="Арбитраж:Архив отклонённых заявок на арбитраж">Арбитраж:Архив отклонённых заявок на арбитраж</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%90%D0%A0%D0%91" class="mw-redirect" title="Википедия:ФАРБ">ВП:ФАРБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC_%D0%B0%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%BE%D0%B2" title="Википедия:Форум арбитров">Википедия:Форум арбитров</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Бюрократы
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91" class="mw-redirect" title="Википедия:Б">ВП:Б</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D1%8E%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D1%8B" title="Википедия:Бюрократы">Википедия:Бюрократы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%A1%D0%91%D0%9A" class="mw-redirect" title="Википедия:ЗСБК">ВП:ЗСБК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%B1%D1%8E%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0" title="Википедия:Заявки на статус бюрократа">Википедия:Заявки на статус бюрократа</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9A%D0%91" class="mw-redirect" title="Википедия:ЗКБ">ВП:ЗКБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%BA_%D0%B1%D1%8E%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0%D0%BC" title="Википедия:Запросы к бюрократам">Википедия:Запросы к бюрократам</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Чекъюзеры
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9F" class="mw-redirect" title="Википедия:ПП">ВП:ПП</a> и <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%AE" class="mw-redirect" title="Википедия:ЧЮ">ВП:ЧЮ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Проверка участников">Википедия:Проверка участников</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9F%D0%9F" class="mw-redirect" title="Википедия:КПП">ВП:КПП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8" title="Википедия:Как проверить на прокси">Википедия:Как проверить на прокси</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Патрулирующие
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%90%D0%A2" class="mw-redirect" title="Википедия:ПАТ">ВП:ПАТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">Википедия:Патрулирование</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%A1%D0%9F" class="mw-redirect" title="Википедия:ЗСП">ВП:ЗСП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE" title="Википедия:Заявки на статус патрулирующего">Википедия:Заявки на статус патрулирующего</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9A%D0%9F" class="mw-redirect" title="Википедия:ЗКП">ВП:ЗКП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%BA_%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Запросы к патрулирующим">Википедия:Запросы к патрулирующим</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%9F" class="mw-redirect" title="Википедия:ФП">ВП:ФП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC_%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D1%85" title="Википедия:Форум патрулирующих">Википедия:Форум патрулирующих</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9F%D0%90%D0%A2" class="mw-redirect" title="Википедия:ППАТ">ВП:ППАТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0_%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%BC%D1%83" title="Википедия:Памятка патрулирующему">Википедия:Памятка патрулирующему</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Автопатрулируемые
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9F%D0%90%D0%A2" class="mw-redirect" title="Википедия:АПАТ">ВП:АПАТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#Флаг_автопатрулируемого" title="Википедия:Патрулирование">Википедия:Патрулирование#Флаг автопатрулируемого</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%A1%D0%90%D0%9F" class="mw-redirect" title="Википедия:ЗСАП">ВП:ЗСАП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE" title="Википедия:Заявки на статус автопатрулируемого">Википедия:Заявки на статус автопатрулируемого</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Боты
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%9E%D0%A2" class="mw-redirect" title="Википедия:БОТ">ВП:БОТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%BE%D1%82" class="mw-redirect" title="Википедия:Бот">Википедия:Бот</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%A1%D0%91" class="mw-redirect" title="Википедия:ЗСБ">ВП:ЗСБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%B1%D0%BE%D1%82%D0%B0" title="Википедия:Заявки на статус бота">Википедия:Заявки на статус бота</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Участники
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9F%D0%A3" class="mw-redirect" title="Википедия:АПУ">ВП:АПУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Автоподтверждённые участники">Википедия:Автоподтверждённые участники</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%A2%D0%9B" class="mw-redirect" title="Википедия:АТЛ">ВП:АТЛ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%81%D1%82%D0%BE%D0%B2" title="Википедия:Атлас википедистов">Википедия:Атлас википедистов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%A1" class="mw-redirect" title="Википедия:ЛС">ВП:ЛС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0" title="Википедия:Личная страница участника">Википедия:Личная страница участника</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%95%D0%93" class="mw-redirect" title="Википедия:РЕГ">ВП:РЕГ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Википедия:Регистрация">Википедия:Регистрация</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AE%D0%91" class="mw-redirect" title="Википедия:ЮБ">ВП:ЮБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AE%D0%B7%D0%B5%D1%80%D0%B1%D0%BE%D0%BA%D1%81%D1%8B" title="Википедия:Юзербоксы">Википедия:Юзербоксы</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B0%D1%83%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Категория:Фауна Википедии">Фауна Википедии</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%99%D0%91%D0%9E%D0%9B%D0%98%D0%A2" class="mw-redirect" title="Википедия:АЙБОЛИТ">ВП:АЙБОЛИТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%90%D0%B9%D0%B1%D0%BE%D0%BB%D0%B8%D1%82" class="mw-redirect" title="Википедия:ВикиАйболит">Википедия:ВикиАйболит</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%9D%D0%9E%D0%9C" class="mw-redirect" title="Википедия:ГНОМ">ВП:ГНОМ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%B3%D0%BD%D0%BE%D0%BC" title="Википедия:Викигном">Википедия:Викигном</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%A0%D0%95%D0%9C%D0%9B%D0%98%D0%9D" class="mw-redirect" title="Википедия:ГРЕМЛИН">ВП:ГРЕМЛИН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9" title="Википедия:Викидомовой">Википедия:Викидомовой</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%9E%D0%9C%D0%9E%D0%92%D0%9E%D0%99" class="mw-redirect" title="Википедия:ДОМОВОЙ">ВП:ДОМОВОЙ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9" title="Википедия:Викидомовой">Википедия:Викидомовой</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%A0%D0%90%D0%9A%D0%9E%D0%9D" class="mw-redirect" title="Википедия:ДРАКОН">ВП:ДРАКОН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD" title="Википедия:Викидракон">Википедия:Викидракон</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%95%D0%9D%D0%98%D0%92%D0%95%D0%A6" class="mw-redirect" title="Википедия:ЛЕНИВЕЦ">ВП:ЛЕНИВЕЦ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BB%D0%B5%D0%BD%D0%B8%D0%B2%D0%B5%D1%86" title="Википедия:Викиленивец">Википедия:Викиленивец</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%93%D0%A0" class="mw-redirect" title="Википедия:ОГР">ВП:ОГР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BE%D0%B3%D1%80" title="Википедия:Викиогр">Википедия:Викиогр</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%A1%D0%81%D0%9B" class="mw-redirect" title="Википедия:ОСЁЛ">ВП:ОСЁЛ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BE%D1%81%D1%91%D0%BB" title="Википедия:Викиосёл">Википедия:Викиосёл</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%AB%D0%A6%D0%90%D0%A0%D0%AC" class="mw-redirect" title="Википедия:РЫЦАРЬ">ВП:РЫЦАРЬ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C" title="Википедия:Викирыцарь">Википедия:Викирыцарь</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%A2%D0%9A%D0%9E%D0%9D%D0%9E%D0%A1" class="mw-redirect" title="Википедия:УТКОНОС">ВП:УТКОНОС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%83%D1%82%D0%BA%D0%BE%D0%BD%D0%BE%D1%81" title="Википедия:Викиутконос">Википедия:Викиутконос</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%95%D0%AF" class="mw-redirect" title="Википедия:ФЕЯ">ВП:ФЕЯ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%84%D0%B5%D1%8F" title="Википедия:Викифея">Википедия:Викифея</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%9B%D0%98%D0%91%D0%A3%D0%A1%D0%A2%D0%AC%D0%95%D0%A0" class="mw-redirect" title="Википедия:ФЛИБУСТЬЕР">ВП:ФЛИБУСТЬЕР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8-%D1%84%D0%BB%D0%B8%D0%B1%D1%83%D1%81%D1%82%D1%8C%D0%B5%D1%80" class="mw-redirect" title="Википедия:Вики-флибустьер">Википедия:Вики-флибустьер</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%9E%D0%91%D0%91%D0%98%D0%A2" class="mw-redirect" title="Википедия:ХОББИТ">ВП:ХОББИТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%85%D0%BE%D0%B1%D0%B1%D0%B8%D1%82" title="Википедия:Викихоббит">Википедия:Викихоббит</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D0%9B%D0%AC%D0%A4" class="mw-redirect" title="Википедия:ЭЛЬФ">ВП:ЭЛЬФ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%8D%D0%BB%D1%8C%D1%84" title="Википедия:Викиэльф">Википедия:Викиэльф</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D0%9D%D0%A2" class="mw-redirect" title="Википедия:ЭНТ">ВП:ЭНТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%8D%D0%BD%D1%82" title="Википедия:Викиэнт">Википедия:Викиэнт</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0%D0%98%D0%97%D0%A0%D0%90%D0%9A" class="mw-redirect" title="Википедия:ПРИЗРАК">ВП:ПРИЗРАК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D0%BA" title="Википедия:Википризрак">Википедия:Википризрак</a>
+</td></tr></tbody></table>
+<h3><span id=".D0.A2.D0.B5.D0.BA.D1.83.D1.89.D0.B0.D1.8F_.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.B0_.D0.B2.D0.B8.D0.BA.D0.B8.D1.81.D0.BE.D0.BE.D0.B1.D1.89.D0.B5.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Текущая_работа_викисообщества" data-mw-thread-id="h-Текущая_работа_викисообщества-Легенда"><span data-mw-comment-start="" id="h-Текущая_работа_викисообщества-Легенда"></span>Текущая работа викисообщества<span data-mw-comment-end="h-Текущая_работа_викисообщества-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Сверка
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%A1%D0%A2" class="mw-redirect" title="Википедия:ВСТ">ВП:ВСТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Сверка статей">Википедия:Сверка статей</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Голосования
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93" class="mw-redirect" title="Википедия:Г">ВП:Г</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Голосования">Википедия:Голосования</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E" class="mw-redirect" title="Википедия:О">ВП:О</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%9F" class="mw-redirect" title="Википедия:ОП">ВП:ОП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Опросы">Википедия:Опросы</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Газета
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A" class="mw-redirect" title="Википедия:К">ВП:К</a> и <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%90%D0%97%D0%95%D0%A2%D0%90" class="mw-redirect" title="Википедия:ГАЗЕТА">ВП:ГАЗЕТА</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%B8%D0%BA%D0%B8-%D0%9A%D1%83%D1%80%D1%8C%D0%B5%D1%80" title="Проект:Вики-Курьер">Проект:Вики-Курьер</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A-%D0%9B%D0%9D" class="mw-redirect" title="Википедия:К-ЛН">ВП:К-ЛН</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%B8%D0%BA%D0%B8-%D0%9A%D1%83%D1%80%D1%8C%D0%B5%D1%80/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9" title="Проект:Вики-Курьер/Лента новостей">Проект:Вики-Курьер/Лента новостей</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Запросы — обсуждения
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A3" class="mw-redirect" title="Википедия:КУ">ВП:КУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E" title="Википедия:К удалению">Википедия:К удалению</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%A3%D0%A1" class="mw-redirect" title="Википедия:ВУС">ВП:ВУС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E" title="Википедия:К восстановлению">Википедия:К восстановлению</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A1%D0%9E" class="mw-redirect" title="Википедия:КСО">ВП:КСО</a>
+<p> *<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A1%D0%9E15" class="mw-redirect" title="Википедия:КСО15">ВП:КСО15</a><br/>
+ *<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A1%D0%9E30" class="mw-redirect" title="Википедия:КСО30">ВП:КСО30</a>
+</p>
+</td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E" title="Википедия:К созданию">Википедия:К созданию</a>
+<p><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/15_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86" title="Википедия:К созданию/15 статей в месяц">Википедия:К созданию/15 статей в месяц</a><br/>
+<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/30_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%D0%B7%D0%B0_45_%D0%B4%D0%BD%D0%B5%D0%B9" title="Википедия:К созданию/30 статей за 45 дней">Википедия:К созданию/30 статей за 45 дней</a>
+</p>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A3%D0%9B" class="mw-redirect" title="Википедия:КУЛ">ВП:КУЛ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8E" title="Википедия:К улучшению">Википедия:К улучшению</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9F%D0%9C" class="mw-redirect" title="Википедия:КПМ">ВП:КПМ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9F%D0%A0" class="mw-redirect" title="Википедия:КПР">ВП:КПР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E" title="Википедия:К переименованию">Википедия:К переименованию</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9E%D0%91" class="mw-redirect" title="Википедия:КОБ">ВП:КОБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8E" title="Википедия:К объединению">Википедия:К объединению</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A0" class="mw-redirect" title="Википедия:КР">ВП:КР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E" title="Википедия:К разделению">Википедия:К разделению</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9E%D0%98" class="mw-redirect" title="Википедия:КОИ">ВП:КОИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:К оценке источников">Википедия:К оценке источников</a>
+</td></tr>
+
+<tr>
+<th colspan="2" class="highlight">Посредничество
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9E%D0%A1" class="mw-redirect" title="Википедия:ПОС">ВП:ПОС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Википедия:Посредничество">Википедия:Посредничество</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9F" class="mw-redirect" title="Википедия:КП">ВП:КП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83" title="Википедия:К посредничеству">Википедия:К посредничеству</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%90%D0%9A" class="mw-redirect" title="Википедия:ААК">ВП:ААК</a></td>
+<td> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D0%BE-%D0%B0%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82" title="Википедия:К посредничеству/Армяно-азербайджанский конфликт">Википедия:К посредничеству/Армяно-азербайджанский конфликт</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%92%D0%9A" class="mw-redirect" title="Википедия:БВК">ВП:БВК</a></td>
+<td> <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C/%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B5%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82" title="Проект:Израиль/Ближневосточный конфликт">Проект:Израиль/Ближневосточный конфликт</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%A2%D0%92" class="mw-redirect" title="Википедия:БТВ">ВП:БТВ</a></td>
+<td> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D0%BE-%D1%82%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81" title="Википедия:К посредничеству/Башкиро-татарский вопрос">Википедия:К посредничеству/Башкиро-татарский вопрос</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%92%D0%A0" class="mw-redirect" title="Википедия:ГВР">ВП:ГВР</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8/%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83" title="Проект:Гражданская война в России/К посредничеству">Проект:Гражданская война в России/К посредничеству</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A0%D0%AB%D0%9C" class="mw-redirect" title="Википедия:КРЫМ">ВП:КРЫМ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83/%D0%9A%D1%80%D1%8B%D0%BC/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:К посредничеству/Крым/Запросы">Википедия:К посредничеству/Крым/Запросы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%93%D0%91%D0%A2" class="mw-redirect" title="Википедия:ЛГБТ">ВП:ЛГБТ</a></td>
+<td> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83/%D0%9B%D0%93%D0%91%D0%A2" title="Википедия:К посредничеству/ЛГБТ">Википедия:К посредничеству/ЛГБТ</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%90%D0%A0%D0%9A" class="mw-redirect" title="Википедия:НЕАРК">ВП:НЕАРК</a></td>
+<td> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83/%D0%9D%D0%B5%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C,_%D0%B0%D1%82%D0%B5%D0%B8%D0%B7%D0%BC_%D0%B8_%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Википедия:К посредничеству/Неакадемичность, атеизм и религия">Википедия:К посредничеству/Неакадемичность, атеизм и религия</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%9A%D0%A0" class="mw-redirect" title="Википедия:УКР">ВП:УКР</a></td>
+<td> <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Википедия:К посредничеству/Украина">Википедия:К посредничеству/Украина</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">_
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%97" class="mw-redirect" title="Википедия:ИЗ">ВП:ИЗ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BD%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC" title="Википедия:Инклюзионизм">Википедия:Инклюзионизм</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Инструменты
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%92%D0%91" class="mw-redirect" title="Википедия:АВБ">ВП:АВБ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:AWB" class="mw-redirect" title="Википедия:AWB">ВП:AWB</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:AutoWikiBrowser" title="Википедия:AutoWikiBrowser">Википедия:AutoWikiBrowser</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%A4" class="mw-redirect" title="Википедия:ВФ">ВП:ВФ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80" title="Википедия:Викификатор">Википедия:Викификатор</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Форумы
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4" class="mw-redirect" title="Википедия:Ф">ВП:Ф</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Википедия:Форум">Википедия:Форум</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%90%D0%9F" class="mw-redirect" title="Википедия:Ф-АП">ВП:Ф-АП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE" title="Википедия:Форум/Авторское право">Википедия:Форум/Авторское право</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%90%D0%9F/%D0%A7%D0%90%D0%92%D0%9E" class="mw-redirect" title="Википедия:Ф-АП/ЧАВО">ВП:Ф-АП/ЧАВО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE/FAQ" title="Википедия:Форум/Авторское право/FAQ">Википедия:Форум/Авторское право/FAQ</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%92%D0%A3" class="mw-redirect" title="Википедия:Ф-ВУ">ВП:Ф-ВУ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%A3" class="mw-redirect" title="Википедия:ВУ">ВП:ВУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%92%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8E_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Форум/Вниманию участников">Википедия:Форум/Вниманию участников</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%92" class="mw-redirect" title="Википедия:Ф-В">ВП:Ф-В</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Форум/Вопросы">Википедия:Форум/Вопросы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%93%D0%95%D0%9E" class="mw-redirect" title="Википедия:Ф-ГЕО">ВП:Ф-ГЕО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9" title="Википедия:Форум/Географический">Википедия:Форум/Географический</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%98%D0%AF" class="mw-redirect" title="Википедия:Ф-ИЯ">ВП:Ф-ИЯ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%98%D0%BD%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D1%8B%D0%B9" title="Википедия:Форум/Иноязычный">Википедия:Форум/Иноязычный</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%9D" class="mw-redirect" title="Википедия:Ф-Н">ВП:Ф-Н</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Форум/Новости">Википедия:Форум/Новости</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%9D/%D0%A7%D0%90%D0%92%D0%9E" class="mw-redirect" title="Википедия:Ф-Н/ЧАВО">ВП:Ф-Н/ЧАВО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/FAQ" title="Википедия:Форум/Новости/FAQ">Википедия:Форум/Новости/FAQ</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%9E" class="mw-redirect" title="Википедия:Ф-О">ВП:Ф-О</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9" title="Википедия:Форум/Общий">Википедия:Форум/Общий</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%9F%D0%9E%D0%9C" class="mw-redirect" title="Википедия:Ф-ПОМ">ВП:Ф-ПОМ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4/%D0%9F%D0%9E%D0%9C" class="mw-redirect" title="Википедия:Ф/ПОМ">ВП:Ф/ПОМ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%9F%D0%9E%D0%9C" class="mw-redirect" title="Википедия:ФПОМ">ВП:ФПОМ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Форум/Помощь начинающим">Википедия:Форум/Помощь начинающим</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%9F%D0%A0%D0%90" class="mw-redirect" title="Википедия:Ф-ПРА">ВП:Ф-ПРА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0" title="Википедия:Форум/Правила">Википедия:Форум/Правила</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%9F%D0%A0%D0%95" class="mw-redirect" title="Википедия:Ф-ПРЕ">ВП:Ф-ПРЕ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Форум/Предложения">Википедия:Форум/Предложения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%A2" class="mw-redirect" title="Википедия:Ф-Т">ВП:Ф-Т</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9" title="Википедия:Форум/Технический">Википедия:Форум/Технический</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4-%D0%A2/%D0%A7%D0%90%D0%92%D0%9E" class="mw-redirect" title="Википедия:Ф-Т/ЧАВО">ВП:Ф-Т/ЧАВО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9/FAQ" title="Википедия:Форум/Технический/FAQ">Википедия:Форум/Технический/FAQ</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D1%81%D1%81%D0%B5" title="Википедия:Эссе">Эссе о Википедии</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9A%D0%90%D0%94%D0%95%D0%9C%D0%98%D0%9A" class="mw-redirect" title="Википедия:АКАДЕМИК">ВП:АКАДЕМИК</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%90%D0%A5%D0%A2%D0%95%D0%A0" class="mw-redirect" title="Википедия:ВАХТЕР">ВП:ВАХТЕР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%85%D1%82%D1%91%D1%80%D0%B0" title="Википедия:Академик против вахтёра">Википедия:Академик против вахтёра</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9A%D0%A1%D0%98" class="mw-redirect" title="Википедия:АКСИ">ВП:АКСИ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9A%D0%A1%D0%98%D0%9E" class="mw-redirect" title="Википедия:АКСИО">ВП:АКСИО</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%9F%D0%9E%D0%99%D0%94%D0%81%D0%A2" class="mw-redirect" title="Википедия:НЕПОЙДЁТ">ВП:НЕПОЙДЁТ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%95%D0%9A%D0%90%D0%A2%D0%98%D0%A2" class="mw-redirect" title="Википедия:НЕКАТИТ">ВП:НЕКАТИТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85_%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D0%B5%D1%82_%D0%B8%D0%B7%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C" title="Википедия:Аргументы, которых следует избегать">Википедия:Аргументы, которых следует избегать</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%9E%D0%93" class="mw-redirect" title="Википедия:БОГ">ВП:БОГ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%BE%D0%B3_%D0%B8%D0%BB%D0%B8_%D0%B1%D0%BE%D0%B3" class="mw-redirect" title="Википедия:Бог или бог">Википедия:Бог или бог</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%A2%D0%9A%D0%90" class="mw-redirect" title="Википедия:УТКА">ВП:УТКА</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A0%D0%AF" class="mw-redirect" title="Википедия:КРЯ">ВП:КРЯ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Duck-%D1%82%D0%B5%D1%81%D1%82" class="mw-redirect" title="Википедия:Duck-тест">Википедия:Duck-тест</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A2%D0%A0%D0%90%D0%A8%D0%9D%D0%9E" class="mw-redirect" title="Википедия:СТРАШНО">ВП:СТРАШНО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE" title="Википедия:Страшное место">Википедия:Страшное место</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9E%D0%9D%D0%A4%D0%A0%D0%95%D0%94" class="mw-redirect" title="Википедия:КОНФРЕД">ВП:КОНФРЕД</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Конфликт редактирования">Википедия:Конфликт редактирования</a>
+</td></tr></tbody></table>
+<h3><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.BF.D1.80.D0.B0.D0.B2.D0.BA.D0.B8_.D0.B8_.D1.80.D1.83.D0.BA.D0.BE.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Технические_справки_и_руководства" data-mw-thread-id="h-Технические_справки_и_руководства-Легенда"><span data-mw-comment-start="" id="h-Технические_справки_и_руководства-Легенда"></span>Технические справки и руководства<span data-mw-comment-end="h-Технические_справки_и_руководства-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th colspan="2" class="highlight">Справка
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%91" class="mw-redirect" title="Википедия:АБ">ВП:АБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Википедия:Автоблокировка">Википедия:Автоблокировка</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9E%D0%9F" class="mw-redirect" title="Википедия:АОП">ВП:АОП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Википедия:Автоматическое описание правки">Википедия:Автоматическое описание правки</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9F" class="mw-redirect" title="Википедия:АП">ВП:АП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0" title="Википедия:Авторские права">Википедия:Авторские права</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92" class="mw-redirect" title="Википедия:В">ВП:В</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Википедия:Вандализм">Википедия:Вандализм</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%A0%D0%92" class="mw-redirect" title="Википедия:ВРВ">ВП:ВРВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BC%D0%B5%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8#Возврат_к_ранней_версии" title="Википедия:Отмена правки">Википедия:Отмена правки#Возврат к ранней версии</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%A0" class="mw-redirect" title="Википедия:ГР">ВП:ГР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9" title="Википедия:Глоссарий">Википедия:Глоссарий</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%90%D0%93" class="mw-redirect" title="Википедия:ЗАГ">ВП:ЗАГ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D0%B1" class="mw-redirect" title="Википедия:Стаб">ВП:Стаб</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">Википедия:Заготовка статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%92" class="mw-redirect" title="Википедия:ИВ">ВП:ИВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BA%D0%B8" title="Википедия:Интервики">Википедия:Интервики</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%A0%D0%9E" class="mw-redirect" title="Википедия:ИРО">ВП:ИРО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D0%B5%D0%B3%D0%B0%D0%B9%D1%82%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA" title="Википедия:Избегайте распространённых ошибок">Википедия:Избегайте распространённых ошибок</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9F%D0%A1" class="mw-redirect" title="Википедия:КПС">ВП:КПС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Как править статьи">Википедия:Как править статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A1%D0%A1" class="mw-redirect" title="Википедия:КСС">ВП:КСС</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A12" class="mw-redirect" title="Википедия:КС2">ВП:КС2</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8E" title="Википедия:Как создать статью">Википедия:Как создать статью</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%98" class="mw-redirect" title="Википедия:МИ">ВП:МИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%B0%D0%BB%D1%8B%D0%B5_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Малые изменения">Википедия:Малые изменения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%98%D0%A1" class="mw-redirect" title="Википедия:НИС">ВП:НИС</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%9D%D0%A1" class="mw-redirect" title="Википедия:ННС">ВП:ННС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D0%BB%D0%BE%D0%B2" class="mw-redirect" title="Википедия:Написание нерусских слов">Википедия:Написание нерусских слов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%A2" class="mw-redirect" title="Википедия:ОТ">ВП:ОТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86" class="mw-redirect" title="Википедия:Оформление таблиц">Википедия:Оформление таблиц</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9B" class="mw-redirect" title="Википедия:ПЛ">ВП:ПЛ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B" title="Википедия:Порталы">Википедия:Порталы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9C" class="mw-redirect" title="Википедия:ПМ">ВП:ПМ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5" title="Википедия:Переменные">Википедия:Переменные</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9E%D0%A4" class="mw-redirect" title="Википедия:ПОФ">ВП:ПОФ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Википедия:Персональное оформление">Википедия:Персональное оформление</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%98" class="mw-redirect" title="Википедия:ПИ">ВП:ПИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0_%D0%B8%D0%BC%D1%91%D0%BD" title="Википедия:Пространства имён">Википедия:Пространства имён</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%98%D0%9D%D0%93" class="mw-redirect" title="Википедия:ПИНГ">ВП:ПИНГ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B8%D0%BD%D0%B3" title="Википедия:Пинг">Википедия:Пинг</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%90%D0%97%D0%9C" class="mw-redirect" title="Википедия:РАЗМ">ВП:РАЗМ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8#Вики-разметка" title="Википедия:Как править статьи">Википедия:Как править статьи#Вики-разметка</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%90%D0%91" class="mw-redirect" title="Википедия:ТАБ">ВП:ТАБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B" class="mw-redirect" title="Википедия:Как делать таблицы">Википедия:Как делать таблицы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%A0" class="mw-redirect" title="Википедия:ТР">ВП:ТР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D1%8F" title="Википедия:Транскрипция">Википедия:Транскрипция</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9D" class="mw-redirect" title="Википедия:СН">ВП:СН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">Википедия:Сноски</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9F%D0%90%D0%A1%D0%98%D0%91%D0%9E" class="mw-redirect" title="Википедия:СПАСИБО">ВП:СПАСИБО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B8%D0%BD%D0%B3#Благодарность_за_правку" title="Википедия:Пинг">Википедия:Пинг#Благодарность за правку</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A1" class="mw-redirect" title="Википедия:СС">ВП:СС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B" title="Википедия:Специальные символы">Википедия:Специальные символы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9F%D0%95%D0%A6" class="mw-redirect" title="Википедия:СПЕЦ">ВП:СПЕЦ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Википедия:Спецстраницы">Википедия:Спецстраницы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%98" class="mw-redirect" title="Википедия:СИ">ВП:СИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">Википедия:Ссылки на источники</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A1%D0%A1" class="mw-redirect" title="Википедия:ССС">ВП:ССС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8-%D1%81%D0%B8%D1%80%D0%BE%D1%82%D1%8B" title="Википедия:Статьи-сироты">Википедия:Статьи-сироты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%A1%D0%A2" class="mw-redirect" title="Википедия:ТСТ">ВП:ТСТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D1%83%D0%BF%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Тупиковые статьи">Википедия:Тупиковые статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D1%83%D0%9F" class="mw-redirect" title="Википедия:ФуП">ВП:ФуП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80%D0%B0" title="Википедия:Функции парсера">Википедия:Функции парсера</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%9F%D0%9E%D0%A0%D0%90" class="mw-redirect" title="Википедия:ШПОРА">ВП:ШПОРА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0" title="Википедия:Шпаргалка">Википедия:Шпаргалка</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%9E%D0%94" class="mw-redirect" title="Википедия:ГОД">ВП:ГОД</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2" title="Википедия:Списки годов">Википедия:Списки годов</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Источники
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%98" class="mw-redirect" title="Википедия:АИ">ВП:АИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">Википедия:Авторитетные источники</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%98" class="mw-redirect" title="Википедия:ИИ">ВП:ИИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Источники изображений">Википедия:Источники изображений</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%98%D0%9D" class="mw-redirect" title="Википедия:ИИН">ВП:ИИН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Википедия:Источники информации">Википедия:Источники информации</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%98%D0%9D-%D0%9E%D0%94" class="mw-redirect" title="Википедия:ИИН-ОД">ВП:ИИН-ОД</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%A7%D1%82%D0%BE_%D0%BC%D1%8B_%D1%85%D0%BE%D1%82%D0%B8%D0%BC_%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C_%D0%B2_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%BC_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B5" title="Википедия:Источники информации/Что мы хотим видеть в открытом доступе">Википедия:Источники информации/Что мы хотим видеть в открытом доступе</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%9A" class="mw-redirect" title="Википедия:ИК">ВП:ИК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3" title="Википедия:Источники книг">Википедия:Источники книг</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A2" class="mw-redirect" title="Википедия:КТ">ВП:КТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:CommonsTicker" title="Википедия:CommonsTicker">Википедия:CommonsTicker</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Изображения
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98" class="mw-redirect" title="Википедия:И">ВП:И</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%97%D0%9E" class="mw-redirect" title="Википедия:ИЗО">ВП:ИЗО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Иллюстрирование">Википедия:Иллюстрирование</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%94" class="mw-redirect" title="Википедия:ИД">ВП:ИД</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BD%D1%8F" title="Википедия:Изображение дня">Википедия:Изображение дня</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%98" class="mw-redirect" title="Википедия:ЛИ">ВП:ЛИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Лицензирование изображений">Википедия:Лицензирование изображений</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%98-%D0%9A%D0%A1" class="mw-redirect" title="Википедия:ЛИ-КС">ВП:ЛИ-КС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Википедия:Лицензирование изображений/Краткий справочник">Википедия:Лицензирование изображений/Краткий справочник</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%98-%D0%A0%D0%9E" class="mw-redirect" title="Википедия:ЛИ-РО">ВП:ЛИ-РО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8" title="Википедия:Лицензирование изображений/Распространённые ошибки">Википедия:Лицензирование изображений/Распространённые ошибки</a>
+</td></tr></tbody></table>
+<h3><span id=".D0.9F.D1.80.D0.B0.D0.B2.D0.B8.D0.BB.D0.B0_.D0.B8_.D1.80.D1.83.D0.BA.D0.BE.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Правила_и_руководства" data-mw-thread-id="h-Правила_и_руководства-Легенда"><span data-mw-comment-start="" id="h-Правила_и_руководства-Легенда"></span>Правила и руководства<span data-mw-comment-end="h-Правила_и_руководства-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Общие правила и руководства
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F" class="mw-redirect" title="Википедия:П">ВП:П</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A3" title="Википедия:ПУ">ВП:ПУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B8_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Википедия:Правила и указания">Википедия:Правила и указания</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:5%D0%A1" class="mw-redirect" title="Википедия:5С">ВП:5С</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%8F%D1%82%D1%8C_%D1%81%D1%82%D0%BE%D0%BB%D0%BF%D0%BE%D0%B2" title="Википедия:Пять столпов">Википедия:Пять столпов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%92%D0%9F" class="mw-redirect" title="Википедия:ИВП">ВП:ИВП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B3%D0%BD%D0%BE%D1%80%D0%B8%D1%80%D1%83%D0%B9%D1%82%D0%B5_%D0%B2%D1%81%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0" title="Википедия:Игнорируйте все правила">Википедия:Игнорируйте все правила</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Правила поведения участников
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%95%D0%96" class="mw-redirect" title="Википедия:ВЕЖ">ВП:ВЕЖ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D0%9F" class="mw-redirect" title="Википедия:ЭП">ВП:ЭП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Википедия:Этичное поведение">Википедия:Этичное поведение</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%98%D0%A0%D0%A2" class="mw-redirect" title="Википедия:ВИРТ">ВП:ВИРТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%B8%D0%BA%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Многоликость">Википедия:Многоликость</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9E%D0%99" class="mw-redirect" title="Википедия:ВОЙ">ВП:ВОЙ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA" title="Википедия:Война правок">Википедия:Война правок</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%94%D0%90" class="mw-redirect" title="Википедия:НДА">ВП:НДА</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%94%D0%94%D0%90" class="mw-redirect" title="Википедия:НДДА">ВП:НДДА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5_%D0%B4%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5_%D0%B4%D0%BE_%D0%B0%D0%B1%D1%81%D1%83%D1%80%D0%B4%D0%B0" title="Википедия:Не доводите до абсурда">Википедия:Не доводите до абсурда</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%9E" class="mw-redirect" title="Википедия:НО">ВП:НО</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%9B%D0%9E" class="mw-redirect" title="Википедия:НЛО">ВП:НЛО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%BE%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9,_%D1%83%D0%B3%D1%80%D0%BE%D0%B7_%D0%B8_%D0%B0%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8" title="Википедия:Недопустимость оскорблений, угроз и агрессии">Википедия:Недопустимость оскорблений, угроз и агрессии</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%9E%D0%9F" class="mw-redirect" title="Википедия:НОП">ВП:НОП</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E%D0%9A%D0%A1%D0%98" class="mw-redirect" title="Википедия:ПРОКСИ">ВП:ПРОКСИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2" title="Википедия:Недопустимость использования открытых прокси-серверов">Википедия:Недопустимость использования открытых прокси-серверов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%A6%D0%9D" class="mw-redirect" title="Википедия:НЦН">ВП:НЦН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5_%D1%86%D0%B5%D0%BF%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%D1%81%D1%8C_%D0%BA_%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%B0%D0%BC" title="Википедия:Не цепляйтесь к новичкам">Википедия:Не цепляйтесь к новичкам</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%91" class="mw-redirect" title="Википедия:ПБ">ВП:ПБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA" title="Википедия:Правила блокировок">Википедия:Правила блокировок</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%94%D0%9D" class="mw-redirect" title="Википедия:ПДН">ВП:ПДН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D0%BE%D0%BB%D0%B0%D0%B3%D0%B0%D0%B9%D1%82%D0%B5_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B5_%D0%BD%D0%B0%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Предполагайте добрые намерения">Википедия:Предполагайте добрые намерения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%9A" class="mw-redirect" title="Википедия:РК">ВП:РК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2" title="Википедия:Разрешение конфликтов">Википедия:Разрешение конфликтов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A3%D0%94" class="mw-redirect" title="Википедия:СУД">ВП:СУД</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%A3%D0%A1%D0%98" class="mw-redirect" title="Википедия:НУСИ">ВП:НУСИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5_%D1%83%D0%B3%D1%80%D0%BE%D0%B6%D0%B0%D0%B9%D1%82%D0%B5_%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B8%D1%81%D0%BA%D0%B0%D0%BC%D0%B8" title="Википедия:Не угрожайте судебными исками">Википедия:Не угрожайте судебными исками</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D0%A2" class="mw-redirect" title="Википедия:ЭТ">ВП:ЭТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AD%D1%82%D0%B8%D0%BA%D0%B5%D1%82" title="Википедия:Этикет">Википедия:Этикет</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Правила написания статей
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%95%D0%A1" class="mw-redirect" title="Википедия:ВЕС">ВП:ВЕС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%B7%D0%B2%D0%B5%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B8%D0%B7%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Взвешенность изложения">Википедия:Взвешенность изложения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%A1" class="mw-redirect" title="Википедия:ВС">ВП:ВС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внешние ссылки">Википедия:Внешние ссылки</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9D%D0%A1" class="mw-redirect" title="Википедия:ВНС">ВП:ВНС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Википедия:Внутренние ссылки">Википедия:Внутренние ссылки</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%98%D0%A4" class="mw-redirect" title="Википедия:ДИФ">ВП:ДИФ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%98%D0%A4%D0%A4" class="mw-redirect" title="Википедия:ДИФФ">ВП:ДИФФ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9" title="Википедия:Сравнение версий">Википедия:Сравнение версий</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%91%D0%A3" class="mw-redirect" title="Википедия:КБУ">ВП:КБУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE_%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Критерии быстрого удаления">Википедия:Критерии быстрого удаления</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%94%D0%98" class="mw-redirect" title="Википедия:КДИ">ВП:КДИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Критерии добросовестного использования">Википедия:Критерии добросовестного использования</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%90%D0%A0%D0%93" class="mw-redirect" title="Википедия:МАРГ">ВП:МАРГ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%B0%D1%80%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8" title="Википедия:Маргинальные теории">Википедия:Маргинальные теории</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%A2%D0%97" class="mw-redirect" title="Википедия:НТЗ">ВП:НТЗ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B9%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Нейтральная точка зрения">Википедия:Нейтральная точка зрения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%98" class="mw-redirect" title="Википедия:ОИ">ВП:ОИ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%A0%D0%98%D0%A1%D0%A1" class="mw-redirect" title="Википедия:ОРИСС">ВП:ОРИСС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Википедия:Недопустимость оригинальных исследований">Википедия:Недопустимость оригинальных исследований</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%A1" class="mw-redirect" title="Википедия:ОС">ВП:ОС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Оформление статей">Википедия:Оформление статей</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D1%80%D0%B5%D0%BC%D1%8F" class="mw-redirect" title="Википедия:Время">ВП:Время</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9#Дата_и_время" title="Википедия:Оформление статей">Википедия:Оформление статей#Дата и время</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%B0%D1%82%D0%B0" class="mw-redirect" title="Википедия:Дата">ВП:Дата</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%B0%D1%82%D1%8B" class="mw-redirect" title="Википедия:Даты">ВП:Даты</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9#Дата_и_время" title="Википедия:Оформление статей">Википедия:Оформление статей#Дата и время</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7" class="mw-redirect" title="Википедия:Ч">ВП:Ч</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9#Числа" title="Википедия:Оформление статей">Википедия:Оформление статей#Числа</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9D" class="mw-redirect" title="Википедия:ПН">ВП:ПН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Перенаправления">Википедия:Перенаправления</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E%D0%92" class="mw-redirect" title="Википедия:ПРОВ">ВП:ПРОВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">Википедия:Проверяемость</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:3%D0%9E" class="mw-redirect" title="Википедия:3О">ВП:3О</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F3%D0%9E" class="mw-redirect" title="Википедия:П3О">ВП:П3О</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A2%D0%9E" class="mw-redirect" title="Википедия:ПТО">ВП:ПТО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D1%82%D1%80%D1%91%D1%85_%D0%BE%D1%82%D0%BA%D0%B0%D1%82%D0%BE%D0%B2" class="mw-redirect" title="Википедия:Правило трёх откатов">Википедия:Правило трёх откатов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A1" class="mw-redirect" title="Википедия:ПС">ВП:ПС</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9C%D0%95%D0%9B%D0%9E" class="mw-redirect" title="Википедия:СМЕЛО">ВП:СМЕЛО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D1%8C%D1%82%D0%B5_%D1%81%D0%BC%D0%B5%D0%BB%D0%BE" title="Википедия:Правьте смело">Википедия:Правьте смело</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%A1" class="mw-redirect" title="Википедия:РС">ВП:РС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Размер статей">Википедия:Размер статей</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A6%D0%98%D0%A2" class="mw-redirect" title="Википедия:ЦИТ">ВП:ЦИТ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D1%8B" class="mw-redirect" title="Википедия:Цитаты">ВП:Цитаты</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A6%D0%B8%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Цитирование">Википедия:Цитирование</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%97%D0%A1" class="mw-redirect" title="Википедия:ЧЗС">ВП:ЧЗС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86" title="Википедия:Частичная защита страниц">Википедия:Частичная защита страниц</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%9D%D0%AF%D0%92" class="mw-redirect" title="Википедия:ЧНЯВ">ВП:ЧНЯВ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%9D%D0%92" class="mw-redirect" title="Википедия:ЧНВ">ВП:ЧНВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%B5%D0%BC_%D0%BD%D0%B5_%D1%8F%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия:Чем не является Википедия">Википедия:Чем не является Википедия</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Правила и руководства: именование статей
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%9C" class="mw-redirect" title="Википедия:ИМ">ВП:ИМ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%90%D0%A0%D0%9D%D0%90%D0%9F" class="mw-redirect" title="Википедия:ВАРНАП">ВП:ВАРНАП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2_%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Список рекомендованных вариантов написания">Википедия:Список рекомендованных вариантов написания</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%A1" class="mw-redirect" title="Википедия:ИС">ВП:ИС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Именование статей">Википедия:Именование статей</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%9D" class="mw-redirect" title="Википедия:ГН">ВП:ГН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Википедия:Именование статей/Географические названия">Википедия:Именование статей/Географические названия</a>
+</td></tr>
+<tr>
+<td>**<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%9D-%D0%98" class="mw-redirect" title="Википедия:ГН-И">ВП:ГН-И</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Именование статей/Географические названия/Список исключений">Википедия:Именование статей/Географические названия/Список исключений</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Правила и руководства: критерии значимости
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9D" class="mw-redirect" title="Википедия:ЗН">ВП:ЗН</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%97" class="mw-redirect" title="Википедия:КЗ">ВП:КЗ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Значимость">Википедия:Значимость</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%98%D0%9E" class="mw-redirect" title="Википедия:БИО">ВП:БИО</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%97%D0%9F" class="mw-redirect" title="Википедия:КЗП">ВП:КЗП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B9" title="Википедия:Критерии значимости персоналий">Википедия:Критерии значимости персоналий</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%95%D0%91" class="mw-redirect" title="Википедия:ВЕБ">ВП:ВЕБ</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%97%D0%A1" class="mw-redirect" title="Википедия:КЗС">ВП:КЗС</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%97%D0%92%D0%A1" class="mw-redirect" title="Википедия:КЗВС">ВП:КЗВС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%B2%D0%B5%D0%B1-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2" title="Википедия:Критерии значимости веб-сайтов">Википедия:Критерии значимости веб-сайтов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9F" class="mw-redirect" title="Википедия:ЗП">ВП:ЗП</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9E%D0%A4%D0%A2" class="mw-redirect" title="Википедия:СОФТ">ВП:СОФТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC" title="Википедия:Критерии значимости программ">Википедия:Критерии значимости программ</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%97%D0%A2" class="mw-redirect" title="Википедия:КЗТ">ВП:КЗТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B9,_%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B9_%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Критерии значимости теорий, понятий и изобретений">Википедия:Критерии значимости теорий, понятий и изобретений</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E%D0%A8%D0%9B%D0%9E%D0%95" class="mw-redirect" title="Википедия:ПРОШЛОЕ">ВП:ПРОШЛОЕ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B9#Персоналии_прошлого" title="Википедия:Критерии значимости персоналий">Википедия:Критерии значимости персоналий#Персоналии прошлого</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%A3%D0%A2" class="mw-redirect" title="Википедия:ФУТ">ВП:ФУТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2" title="Википедия:Критерии значимости футболистов">Википедия:Критерии значимости футболистов</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB" title="Категория:Википедия:Разрабатываемые проекты правил">Разрабатывамые проекты правил</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9A%D0%A2" class="mw-redirect" title="Википедия:АКТ">ВП:АКТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Википедия:Актуальность информации">Википедия:Актуальность информации</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9B%D0%9E" class="mw-redirect" title="Википедия:ЗЛО">ВП:ЗЛО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%E2%80%94_%D0%BD%D0%B5_%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC" title="Википедия:Голосования — не замена обсуждениям">Википедия:Голосования — не замена обсуждениям</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%92%D0%97%D0%A1" class="mw-redirect" title="Википедия:ИВЗС">ВП:ИВЗС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5" title="Википедия:Интервики на заглавной странице">Википедия:Интервики на заглавной странице</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%90%D0%A2" class="mw-redirect" title="Википедия:КАТ">ВП:КАТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Википедия:Категоризация">Википедия:Категоризация</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%97%D0%9E" class="mw-redirect" title="Википедия:КЗО">ВП:КЗО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9" title="Википедия:Критерии значимости организаций">Википедия:Критерии значимости организаций</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A3%D0%A1" class="mw-redirect" title="Википедия:КУС">ВП:КУС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86" title="Википедия:Критерии удаления страниц">Википедия:Критерии удаления страниц</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%94%D0%98-%D0%9A%D0%98" class="mw-redirect" title="Википедия:КДИ-КИ">ВП:КДИ-КИ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85" title="Википедия:Критерии добросовестного использования для статей о компьютерных играх">Википедия:Критерии добросовестного использования для статей о компьютерных играх</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%9F%D0%A3" class="mw-redirect" title="Википедия:НПУ">ВП:НПУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5_%D0%BF%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D0%B9%D1%82%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Не преследуйте участников">Википедия:Не преследуйте участников</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%9F%D0%91" class="mw-redirect" title="Википедия:ППБ">ВП:ППБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B1%D0%BE%D1%82%D0%BE%D0%B2" title="Википедия:Правила применения ботов">Википедия:Правила применения ботов</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%9E" class="mw-redirect" title="Википедия:ЧО">ВП:ЧО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%B8%D1%81%D1%82%D0%BA%D0%B0_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Чистка обсуждений">Википедия:Чистка обсуждений</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1" class="mw-redirect" title="Википедия:С">ВП:С</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Википедия:Списки">Википедия:Списки</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9E%D0%A1" class="mw-redirect" title="Википедия:СОС">ВП:СОС</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%9E%D0%91%D0%A1" class="mw-redirect" title="Википедия:СОБС">ВП:СОБС</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%9E%D0%81" class="mw-redirect" title="Википедия:МОЁ">ВП:МОЁ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Собственность на статьи">Википедия:Собственность на статьи</a>
+</td></tr>
+</tbody></table>
+<h3><span id=".D0.A1.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Статьи" data-mw-thread-id="h-Статьи-Легенда"><span data-mw-comment-start="" id="h-Статьи-Легенда"></span>Статьи<span data-mw-comment-end="h-Статьи-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Статьи
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:1000" class="mw-redirect" title="Википедия:1000">ВП:1000</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%9E%D0%9B%D0%96%D0%9D%D0%9E" class="mw-redirect" title="Википедия:ДОЛЖНО">ВП:ДОЛЖНО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5_%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B_%D0%B1%D1%8B%D1%82%D1%8C_%D0%B2%D0%BE_%D0%B2%D1%81%D0%B5%D1%85_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D1%85" title="Википедия:Список статей, которые должны быть во всех языковых версиях">Википедия:Список статей, которые должны быть во всех языковых версиях</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%A1" class="mw-redirect" title="Википедия:ДС">ВП:ДС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Добротные статьи">Википедия:Добротные статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%97%D0%91" class="mw-redirect" title="Википедия:ИЗБ">ВП:ИЗБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи">Википедия:Избранные статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%94%D0%A1" class="mw-redirect" title="Википедия:КДС">ВП:КДС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Кандидаты в добротные статьи">Википедия:Кандидаты в добротные статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%98%D0%A1" class="mw-redirect" title="Википедия:КИС">ВП:КИС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Кандидаты в избранные статьи">Википедия:Кандидаты в избранные статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A5%D0%A1" class="mw-redirect" title="Википедия:КХС">ВП:КХС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Кандидаты в хорошие статьи">Википедия:Кандидаты в хорошие статьи</a>
+</td></tr>
+<tr>
+<td>*<a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A5%D0%A1-%D0%96%D0%98" class="mw-redirect" title="Википедия:КХС-ЖИ">ВП:КХС-ЖИ</a> и <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%A5%D0%A1-%D0%9B%D0%9E%D0%93" class="mw-redirect" title="Википедия:КХС-ЛОГ">ВП:КХС-ЛОГ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B9" title="Википедия:Кандидаты в хорошие статьи/Журнал избраний">Википедия:Кандидаты в хорошие статьи/Журнал избраний</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9B%D0%A1%D0%94%D0%A1" class="mw-redirect" title="Википедия:КЛСДС">ВП:КЛСДС</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%9A_%D0%BB%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D1%8E_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0" title="Проект:Добротные статьи/К лишению статуса">Проект:Добротные статьи/К лишению статуса</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%9B%D0%A1%D0%A5%D0%A1" class="mw-redirect" title="Википедия:КЛСХС">ВП:КЛСХС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%9A_%D0%BB%D0%B8%D1%88%D0%B5%D0%BD%D0%B8%D1%8E_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B0" title="Википедия:Кандидаты в хорошие статьи/К лишению статуса">Википедия:Кандидаты в хорошие статьи/К лишению статуса</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%94%D0%A0" class="mw-redirect" title="Википедия:СДР">ВП:СДР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Рецензирование">Википедия:Рецензирование</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A3%D0%9B" class="mw-redirect" title="Википедия:СУЛ">ВП:СУЛ</a></td>
+<td><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B4%D0%BB%D1%8F_%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Википедия:Статьи для улучшения">Категория:Википедия:Статьи для улучшения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%94%D0%A1" class="mw-redirect" title="Википедия:ТДС">ВП:ТДС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8#Критерии" title="Википедия:Кандидаты в добротные статьи">Википедия:Кандидаты в добротные статьи#Критерии</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%9E%D0%A0" class="mw-redirect" title="Википедия:ХОР">ВП:ХОР</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%A1" class="mw-redirect" title="Википедия:ХС">ВП:ХС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">Википедия:Хорошие статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%A1%D0%9F" class="mw-redirect" title="Википедия:ИСП">ВП:ИСП</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%97%D0%A1%D0%9F" class="mw-redirect" title="Википедия:ИЗСП">ВП:ИЗСП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B" title="Википедия:Избранные списки и порталы">Википедия:Избранные списки и порталы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%98%D0%A1%D0%9F" class="mw-redirect" title="Википедия:КИСП">ВП:КИСП</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%98%D0%97%D0%A1%D0%9F" class="mw-redirect" title="Википедия:КИЗСП">ВП:КИЗСП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B" title="Википедия:Кандидаты в избранные списки и порталы">Википедия:Кандидаты в избранные списки и порталы</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%98%D0%A1%D0%9F" class="mw-redirect" title="Википедия:ТИСП">ВП:ТИСП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B#Требования" title="Википедия:Кандидаты в избранные списки и порталы">Википедия:Кандидаты в избранные списки и порталы#Требования</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Перевод
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9D%D0%9F" class="mw-redirect" title="Википедия:ЗНП">ВП:ЗНП</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4" title="Проект:Переводы/Запросы на перевод">Проект:Переводы/Запросы на перевод</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9D%D0%A22" class="mw-redirect" title="Википедия:ЗНТ2">ВП:ЗНТ2</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_%D0%BD%D0%B0_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%86%D0%B8%D1%8E_%D0%B8_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8E" title="Википедия:Запросы на транскрипцию и транслитерацию">Википедия:Запросы на транскрипцию и транслитерацию</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%9F" class="mw-redirect" title="Википедия:ТП">ВП:ТП</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%A2%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0" title="Википедия:Форум/Трудности перевода">Википедия:Форум/Трудности перевода</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Орфо-ошибки
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%A0%D0%A4%D0%9E" class="mw-redirect" title="Википедия:ОРФО">ВП:ОРФО</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F" title="Википедия:Корректорская">Википедия:Корректорская</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%A0%D0%90%D0%9C" class="mw-redirect" title="Википедия:ГРАМ">ВП:ГРАМ</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%93%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Проект:Грамотность/Запросы">Проект:Грамотность/Запросы</a>
+</td></tr>
+</tbody></table>
+<h3><span id=".D0.A1.D1.82.D0.B0.D1.82.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Статистика" data-mw-thread-id="h-Статистика-Легенда"><span data-mw-comment-start="" id="h-Статистика-Легенда"></span>Статистика<span data-mw-comment-end="h-Статистика-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Статистика
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%A1%D0%92/%D0%A0" class="mw-redirect" title="Википедия:АСВ/Р">ВП:АСВ/Р</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B" class="mw-redirect" title="Википедия:Анализ состояния Википедии/Результаты">Википедия:Анализ состояния Википедии/Результаты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A2" class="mw-redirect" title="Википедия:СТ">ВП:СТ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Википедия:Статистика">Википедия:Статистика</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%92" class="mw-redirect" title="Википедия:СВ">ВП:СВ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9" title="Википедия:Список Википедий">Википедия:Список Википедий</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%90%D0%A3" class="mw-redirect" title="Википедия:САУ">ВП:САУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC_%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%BC_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA" class="mw-redirect" title="Википедия:Участники с наибольшим числом правок">Википедия:Участники с наибольшим числом правок</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%9F%D0%90" class="mw-redirect" title="Википедия:АПА">ВП:АПА</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Администраторы по активности">Википедия:Администраторы по активности</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%90%D0%91" class="mw-redirect" title="Википедия:САБ">ВП:САБ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D1%82%D1%8B" title="Википедия:Самые активные боты">Википедия:Самые активные боты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%9F%D0%A7%D0%A1" class="mw-redirect" title="Википедия:УПЧС">ВП:УПЧС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D1%87%D0%B8%D1%81%D0%BB%D1%83_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" class="mw-redirect" title="Википедия:Участники по числу статей">Википедия:Участники по числу статей</a>
+</td></tr></tbody></table>
+<h3><span id=".D0.A8.D0.B0.D0.B1.D0.BB.D0.BE.D0.BD.D1.8B"></span><span class="mw-headline" id="Шаблоны" data-mw-thread-id="h-Шаблоны-Легенда"><span data-mw-comment-start="" id="h-Шаблоны-Легенда"></span>Шаблоны<span data-mw-comment-end="h-Шаблоны-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Шаблоны
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8" class="mw-redirect" title="Википедия:Ш">ВП:Ш</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B" title="Википедия:Шаблоны">Википедия:Шаблоны</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8-%D0%9D%D0%A1" class="mw-redirect" title="Википедия:Ш-НС">ВП:Ш-НС</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Шаблоны/Незавершённые статьи">Википедия:Шаблоны/Незавершённые статьи</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8-%D0%9E%D0%9D" class="mw-redirect" title="Википедия:Ш-ОН">ВП:Ш-ОН</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%9E%D0%B1%D1%89%D0%B5%D0%B3%D0%BE_%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Википедия:Шаблоны/Общего назначения">Википедия:Шаблоны/Общего назначения</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8-%D0%9E%D0%A3" class="mw-redirect" title="Википедия:Ш-ОУ">ВП:Ш-ОУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BA_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC" title="Википедия:Шаблоны/Обращения к участникам">Википедия:Шаблоны/Обращения к участникам</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8-%D0%A4" class="mw-redirect" title="Википедия:Ш-Ф">ВП:Ш-Ф</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Шаблоны/Форматирование">Википедия:Шаблоны/Форматирование</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8-%D0%AF" class="mw-redirect" title="Википедия:Ш-Я">ВП:Ш-Я</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" title="Википедия:Шаблоны/Языки">Википедия:Шаблоны/Языки</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8-%D0%91" class="mw-redirect" title="Википедия:Ш-Б">ВП:Ш-Б</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Википедия:Шаблоны/Библиография">Википедия:Шаблоны/Библиография</a>
+</td></tr>
+<tr>
+<th colspan="2" class="highlight">Разное
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%A3" class="mw-redirect" title="Википедия:АУ">ВП:АУ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Википедия:Алфавитный указатель">Википедия:Алфавитный указатель</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D0%A4" class="mw-redirect" title="Википедия:ЯФ">ВП:ЯФ</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0" title="Википедия:Перевод интерфейса">Википедия:Перевод интерфейса</a>
+</td></tr></tbody></table>
+<h3><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Проекты" data-mw-thread-id="h-Проекты-Легенда"><span data-mw-comment-start="" id="h-Проекты-Легенда"></span>Проекты<span data-mw-comment-end="h-Проекты-Легенда"></span></span></h3>
+<table class="wide">
+<tbody><tr>
+<th>Ссылка</th>
+<th>Полное название
+</th></tr>
+<tr>
+<th colspan="2" class="highlight">Проекты
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%9A" class="mw-redirect" title="Википедия:ГК">ВП:ГК</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B" title="Википедия:Географические координаты">Википедия:Географические координаты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%9B%D0%92" class="mw-redirect" title="Википедия:ЗЛВ">ВП:ЗЛВ</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0" title="Проект:Знаете ли вы/Подготовка следующего выпуска">Проект:Знаете ли вы/Подготовка следующего выпуска</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0" class="mw-redirect" title="Википедия:ПР">ВП:ПР</a></td>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">Википедия:Проекты</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A1%D0%9E" class="mw-redirect" title="Википедия:ССО">ВП:ССО</a></td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:Check_Wikipedia" title="Проект:Check Wikipedia">Проект:Check Wikipedia</a>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2 ext-discussiontools-init-section"><h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также" data-mw-thread-id="h-См._также"><span data-mw-comment-start="" id="h-См._также"></span>См. также<span data-mw-comment-end="h-См._также"></span></span></h2><!--__DTELLIPSISBUTTON__--></div>
+<ul><li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9" title="Википедия:Глоссарий">Википедия:Глоссарий</a></li></ul><!--__DTHASLEDECONTENT__-->
+<!-- 
+NewPP limit report
+Parsed by mw2379
+Cached time: 20230317194450
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc, no‐toc‐conversion]
+DiscussionTools time usage: 0.045 seconds
+CPU time usage: 0.195 seconds
+Real time usage: 0.247 seconds
+Preprocessor visited node count: 777/1000000
+Post‐expand include size: 3333/2097152 bytes
+Template argument size: 702/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1132/5000000 bytes
+Lua time usage: 0.016/10.000 seconds
+Lua memory usage: 1306427/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   62.335      1 -total
+ 50.44%   31.440      1 Шаблон:Shortcut
+ 33.25%   20.727      1 Шаблон:О
+ 30.67%   19.117      1 Шаблон:Rellink
+ 29.05%   18.110      1 Шаблон:Якорь
+ 16.07%   10.019      1 Шаблон:Tl
+ 12.38%    7.719      2 Шаблон:О/бо
+  9.23%    5.751      1 Шаблон:В_2_кв._скобках
+  2.17%    1.351      1 Шаблон:Yesno
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:17889-0!canonical and timestamp 20230317194450 and revision id 126519338. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Википедия:ВП&amp;oldid=126519338">https://ru.wikipedia.org/w/index.php?title=Википедия:ВП&amp;oldid=126519338</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5" title="Категория:Википедия:Внутренние">Википедия:Внутренние</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3A%D0%92%D0%9F" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3A%D0%92%D0%9F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-project" class="selected mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F" title="Страница проекта [a]" accesskey="a"><span>Википедия</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8:%D0%92%D0%9F" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F"><span>Читать</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F&amp;action=edit" title="Эта страница защищена от изменений.&#10;Вы можете посмотреть её исходный текст. [e]" accesskey="e"><span>Просмотр кода</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F&amp;oldid=126519338" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q620197" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3A%D0%92%D0%9F" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%3A%D0%92%D0%9F&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Redirects_from_shortcuts" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Meta:Shortcut" hreflang="en"><span>Мета-вики</span></a></li><li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Wikisource:Shortcut" hreflang="en"><span>Многоязычная Викитека</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://ru.wikibooks.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA:%D0%92%D0%A3" hreflang="ru"><span>Викиучебник</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Help:Shortcut" hreflang="en"><span>Викиданные</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://ru.wikisource.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D0%BE%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B9" hreflang="ru"><span>Викитека</span></a></li><li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item"><a href="https://ru.wiktionary.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C:%D0%92%D0%A1" hreflang="ru"><span>Викисловарь</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Wikipedia:Kortpad" title="Wikipedia:Kortpad — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Wikipedia:Abk%C3%BCrzungen" title="Wikipedia:Abkürzungen — Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1" title="ويكيبيديا:اختصار — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%9A%E0%A6%AE%E0%A7%81%E0%A6%AA%E0%A6%A5" title="ৱিকিপিডিয়া:চমুপথ — ассамский" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Wikipedia:Ayuda:Atayos" title="Wikipedia:Ayuda:Atayos — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Vikipediya:Q%C4%B1sayollar" title="Vikipediya:Qısayollar — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%82%DB%8C%D8%B3%D8%A7%DB%8C%D9%88%D9%84" title="ویکی‌پدیا:قیسایول — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F" title="Википедия:ВП — башкирский" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F:%D0%A1%D0%BA%D0%B0%D1%80%D0%B0%D1%87%D1%8D%D0%BD%D0%BD%D0%B5" title="Вікіпедыя:Скарачэнне — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%A1%D0%BA%D0%B0%D1%80%D0%B0%D1%87%D1%8D%D0%BD%D1%8C%D0%BD%D0%B5" title="Вікіпэдыя:Скарачэньне — Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%8A%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Уикипедия:Съкращения — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B6%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%9F" title="विकिपीडिया:शार्टकट — Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%AA%E0%A7%8D%E0%A6%A4" title="উইকিপিডিয়া:সংক্ষিপ্ত — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Drecera" title="Viquipèdia:Drecera — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Wikipedie:Zkratka_n%C3%A1zvu_str%C3%A1nky" title="Wikipedie:Zkratka názvu stránky — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Hj%C3%A6lp:Genveje" title="Hjælp:Genveje — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Wikipedia:Shortcuts" title="Wikipedia:Shortcuts — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-dsb mw-list-item"><a href="https://dsb.wikipedia.org/wiki/Wikipedija:Skrotconki" title="Wikipedija:Skrotconki — нижнелужицкий" lang="dsb" hreflang="dsb" class="interlanguage-link-target"><span>Dolnoserbski</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%A3%CF%85%CE%BD%CF%84%CF%8C%CE%BC%CE%B5%CF%85%CF%83%CE%B7" title="Βικιπαίδεια:Συντόμευση — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Vikipedio:Simbola_ligilo" title="Vikipedio:Simbola ligilo — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ayuda:Atajos" title="Ayuda:Atajos — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%85%DB%8C%D8%A7%D9%86%D8%A8%D8%B1" title="ویکی‌پدیا:میانبر — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Wikipedia:Oikopolku" title="Wikipedia:Oikopolku — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Wikipedia:Snarvegir" title="Wikipedia:Snarvegir — фарерский" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Aide:Raccourcis_Wikip%C3%A9dia" title="Aide:Raccourcis Wikipédia — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Vicip%C3%A9id:Aicearra" title="Vicipéid:Aicearra — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gan mw-list-item"><a href="https://gan.wikipedia.org/wiki/Wikipedia:%E6%8D%B7%E5%BE%91" title="Wikipedia:捷徑 — гань" lang="gan" hreflang="gan" class="interlanguage-link-target"><span>贛語</span></a></li><li class="interlanguage-link interwiki-gor mw-list-item"><a href="https://gor.wikipedia.org/wiki/Wikipedia:Mongabuto" title="Wikipedia:Mongabuto — горонтало" lang="gor" hreflang="gor" class="interlanguage-link-target"><span>Bahasa Hulontalo</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AA%BF%E0%AA%AA%E0%AB%80%E0%AA%A1%E0%AA%BF%E0%AA%AF%E0%AA%BE:Shortcut" title="વિકિપીડિયા:Shortcut — гуджарати" lang="gu" hreflang="gu" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%A7%D7%99%D7%A6%D7%95%D7%A8%D7%99_%D7%93%D7%A8%D7%9A" title="ויקיפדיה:קיצורי דרך — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B2%E0%A4%98%E0%A5%81_%E0%A4%AA%E0%A4%A5" title="विकिपीडिया:लघु पथ — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Wikipedija:Pre%C4%8Dac" title="Wikipedija:Prečac — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wikipedia.org/wiki/Wikipedija:Skr%C3%B3t%C5%A1enki" title="Wikipedija:Skrótšenki — верхнелужицкий" lang="hsb" hreflang="hsb" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:WP" title="Wikipédia:WP — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Wikipedia:Pintasan" title="Wikipedia:Pintasan — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Wikipedia:Apat" title="Wikipedia:Apat — илоко" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-inh mw-list-item"><a href="https://inh.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%92%D0%9F" title="Википеди:ВП — ингушский" lang="inh" hreflang="inh" class="interlanguage-link-target"><span>ГӀалгӀай</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Wikipedia:Fl%C3%BDtilei%C3%B0" title="Wikipedia:Flýtileið — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Wikipedia:Abbreviazioni" title="Wikipedia:Abbreviazioni — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88" title="Wikipedia:ショートカット — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Wikip%C3%A9dia:Sidhatan" title="Wikipédia:Sidhatan — яванский" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:%E1%83%9B%E1%83%90%E1%83%9A%E1%83%A1%E1%83%90%E1%83%AE%E1%83%9B%E1%83%9D%E1%83%91%E1%83%98" title="ვიკიპედია:მალსახმობი — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%9A%D1%8B%D1%81%D2%9B%D0%B0_%D1%81%D1%96%D0%BB%D1%82%D0%B5%D0%BC%D0%B5" title="Уикипедия:Қысқа сілтеме — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8B%A8%EC%B6%95" title="위키백과:단축 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ks mw-list-item"><a href="https://ks.wikipedia.org/wiki/%D9%88%D9%90%DA%A9%DB%8C%D9%96%D9%BE%DB%8C%D9%96%DA%88%DB%8C%D8%A7:%D9%85%D9%8F%D8%AE%D8%AA%D8%B5%D9%8E%D8%B1_%D9%88%D8%AA%DA%BE" title="وِکیٖپیٖڈیا:مُختصَر وتھ — кашмири" lang="ks" hreflang="ks" class="interlanguage-link-target"><span>कॉशुर / کٲشُر</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F" title="Википедия:ВП — киргизский" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Vicipaedia:Compendium" title="Vicipaedia:Compendium — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF:Shortcut" title="വിക്കിപീഡിയ:Shortcut — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Wikipedia:Jalan_pintas" title="Wikipedia:Jalan pintas — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-mt mw-list-item"><a href="https://mt.wikipedia.org/wiki/Wikipedija:Abbrevjazzjoni" title="Wikipedija:Abbrevjazzjoni — мальтийский" lang="mt" hreflang="mt" class="interlanguage-link-target"><span>Malti</span></a></li><li class="interlanguage-link interwiki-mwl mw-list-item"><a href="https://mwl.wikipedia.org/wiki/Biquip%C3%A9dia:Atalho" title="Biquipédia:Atalho — мирандский" lang="mwl" hreflang="mwl" class="interlanguage-link-target"><span>Mirandés</span></a></li><li class="interlanguage-link interwiki-mzn mw-list-item"><a href="https://mzn.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AF%D9%84%D9%87_%D8%B1%D8%A7%D9%87" title="ویکی‌پدیا:دله راه — мазандеранский" lang="mzn" hreflang="mzn" class="interlanguage-link-target"><span>مازِرونی</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%A4_%E0%A4%B0%E0%A5%82%E0%A4%AA" title="विकिपिडिया:सङ्क्षिप्त रूप — непальский" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Wikipedia:Verwijzing" title="Wikipedia:Verwijzing — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Wikipedia:Snarvegar" title="Wikipedia:Snarvegar — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Wikipedia:Snarvei" title="Wikipedia:Snarvei — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%89%E0%AC%87%E0%AC%95%E0%AC%BF%E0%AC%AA%E0%AC%BF%E0%AC%A1%E0%AC%BC%E0%AC%BF%E0%AC%86:Shortcut" title="ଉଇକିପିଡ଼ିଆ:Shortcut — ория" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Wikipedia:WP" title="Wikipedia:WP — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D9%88%D9%8A%DA%A9%D9%8A%D9%BE%DB%90%DA%89%D9%8A%D8%A7:%D9%85%DB%90%D9%86%DA%81%D9%BE%D8%A7%DA%BC%D9%87" title="ويکيپېډيا:مېنځپاڼه — пушту" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Atalho" title="Wikipédia:Atalho — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Ajutor:Comenzi_rapide" title="Ajutor:Comenzi rapide — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut — шотландский" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%D9%88%DA%AA%D9%8A%D9%BE%D9%8A%DA%8A%D9%8A%D8%A7:%D8%B4%D8%A7%D8%B1%D9%BD_%DA%AA%D9%BD" title="وڪيپيڊيا:شارٽ ڪٽ — синдхи" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Wikipedia:Pre%C4%8Dica" title="Wikipedia:Prečica — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F:%E0%B6%9A%E0%B7%99%E0%B6%A7%E0%B7%92_%E0%B6%B8%E0%B7%8F%E0%B6%BB%E0%B7%8A%E0%B6%9C" title="විකිපීඩියා:කෙටි මාර්ග — сингальский" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Wikip%C3%A9dia:Skratka" title="Wikipédia:Skratka — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Wikipedija:Bli%C5%BEnjica" title="Wikipedija:Bližnjica — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Wikipedia:Ereygaaban" title="Wikipedia:Ereygaaban — сомали" lang="so" hreflang="so" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D1%80%D0%B5%D1%87%D0%B8%D1%86%D0%B0" title="Википедија:Пречица — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Wikipedia:Genv%C3%A4gar" title="Wikipedia:Genvägar — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/Wikipedyjo:WP" title="Wikipedyjo:WP — Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target"><span>Ślůnski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%B5%E0%AE%B4%E0%AE%BF" title="விக்கிப்பீடியா:குறுக்கு வழி — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:Shortcut" title="వికీపీడియా:Shortcut — телугу" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0:%D0%9C%D0%B8%D1%91%D0%BD%D0%B1%D1%83%D1%80" title="Википедиа:Миёнбур — таджикский" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%A2%E0%B9%88%E0%B8%AD" title="วิกิพีเดีย:เว็บย่อ — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Vikipedi:K%C4%B1sayol" title="Vikipedi:Kısayol — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D1%96%D0%BA_%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%B5%D0%BD%D1%8C" title="Вікіпедія:Перелік скорочень — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7:%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1" title="ویکیپیڈیا:اختصار — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Vikipediya:Qisqartma" title="Vikipediya:Qisqartma — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Wikipedia:Vi%E1%BA%BFt_t%E1%BA%AFt" title="Wikipedia:Viết tắt — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:%E1%83%9B%E1%83%90%E1%83%9A%E1%83%9B%E1%83%90%E1%83%AD%E1%83%90%E1%83%9C%E1%83%90%E1%83%A4%E1%83%A3" title="ვიკიპედია:მალმაჭანაფუ — Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E6%8D%B7%E5%BE%91" title="Wikipedia:捷徑 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Wikipedia:K%C4%ABn-l%C5%8D%CD%98" title="Wikipedia:Kīn-lō͘ — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/Wikipedia:%E6%8D%B7%E5%BE%91" title="Wikipedia:捷徑 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q620197#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 7 ноября 2022 в 17:18.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D0%9F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgDiscussionToolsPageThreads":[{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Легенда","replies":[{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Общее-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Участники_и_их_специальные_права-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Текущая_работа_викисообщества-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Технические_справки_и_руководства-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Правила_и_руководства-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Статьи-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Статистика-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Шаблоны-Легенда","replies":[]},{"headingLevel":3,"name":"h-","type":"heading","level":0,"id":"h-Проекты-Легенда","replies":[]}]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-См._также","replies":[]}],"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.045"},"limitreport":{"cputime":"0.195","walltime":"0.247","ppvisitednodes":{"value":777,"limit":1000000},"postexpandincludesize":{"value":3333,"limit":2097152},"templateargumentsize":{"value":702,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1132,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   62.335      1 -total"," 50.44%   31.440      1 Шаблон:Shortcut"," 33.25%   20.727      1 Шаблон:О"," 30.67%   19.117      1 Шаблон:Rellink"," 29.05%   18.110      1 Шаблон:Якорь"," 16.07%   10.019      1 Шаблон:Tl"," 12.38%    7.719      2 Шаблон:О/бо","  9.23%    5.751      1 Шаблон:В_2_кв._скобках","  2.17%    1.351      1 Шаблон:Yesno"]},"scribunto":{"limitreport-timeusage":{"value":"0.016","limit":"10.000"},"limitreport-memusage":{"value":1306427,"limit":52428800}},"cachereport":{"origin":"mw2379","timestamp":"20230317194450","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2441","wgBackendResponseTime":72});});</script>
+</body>
+</html>

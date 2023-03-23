@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Санлукар-де-Баррамеда — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"77fd0989-bb87-48ff-a14b-4c3190906cf1","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Санлукар-де-Баррамеда","wgTitle":"Санлукар-де-Баррамеда","wgCurRevisionId":118209088,"wgRevisionId":118209088,"wgArticleId":1043412,"wgIsArticle":true,"wgIsRedirect":
+false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы с графиками","Википедия:Статьи с источниками из Викиданных","ПРО:Города:Последняя правка: в позапрошлом году","Википедия:Страницы с картами","Населённые пункты по алфавиту","Города Кадиса","Муниципалитеты Кадиса"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Санлукар-де-Баррамеда","wgRelevantArticleId":1043412,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":118209088,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true
+,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgCoordinates":{"lat":36.77889,"lon":-6.35389},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q210887","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":
+"ready","oojs-ui-core.icons":"ready","ext.kartographer.style":"ready","ext.cite.styles":"ready","ext.graph.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.cite.ux-enhancements","ext.scribunto.logs","ext.graph.vega2","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs",
+"ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.graph.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_Santiago_Sanlucar.JPG/1200px-Castillo_Santiago_Sanlucar.JPG"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="797"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_Santiago_Sanlucar.JPG/800px-Castillo_Santiago_Sanlucar.JPG"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="531"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_Santiago_Sanlucar.JPG/640px-Castillo_Santiago_Sanlucar.JPG"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="425"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Санлукар-де-Баррамеда — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Санлукар-де-Баррамеда rootpage-Санлукар-де-Баррамеда skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><span class="coordinates plainlinks nourlexpansion" data-param="36_46_44_N_6_21_14_W_scale:100000_region:ES_type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/36.77889/-6.35389/ru" data-zoom="12" data-lat="36.77889" data-lon="-6.35389" data-lang="ru" data-overlays="[&quot;_cf9ead41ac87d3154c80efa641fad64bfc930f3a&quot;]">36°46′44″&#160;с.&#160;ш. 6°21′14″&#160;з.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;params=36_46_44_N_6_21_14_W_scale:100000_region:ES_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=36.77889,-6.35389&amp;q=36.77889,-6.35389&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=-6.35389,36.77889&amp;pt=-6.35389,36.77889&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=36.77889&amp;mlon=-6.35389&amp;zoom=12"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Санлукар-де-Баррамеда</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox infobox-7784710d5cc38e35" style="" data-name="НП"><tbody><tr><td colspan="2" class="" style="text-align:center;">Город</td></tr><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Санлу́кар-де-Баррамеда</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata"><span data-wikidata-property-id="P1448" class="no-wikidata">Sanlúcar de Barrameda</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Castillo_Santiago_Sanlucar.JPG" class="image"><img alt="Castillo Santiago Sanlucar.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_Santiago_Sanlucar.JPG/290px-Castillo_Santiago_Sanlucar.JPG" decoding="async" width="290" height="193" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_Santiago_Sanlucar.JPG/435px-Castillo_Santiago_Sanlucar.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Castillo_Santiago_Sanlucar.JPG/580px-Castillo_Santiago_Sanlucar.JPG 2x" data-file-width="4288" data-file-height="2848" /></a></span> </td></tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding:0;">
+<table role="presentation" style="background:inherit; border-collapse:collapse; width:100%; display:table; text-align:center;">
+<tbody><tr>
+<td style="vertical-align: middle"><span data-wikidata-claim-id="q210887$432D9D14-E048-41B7-A01B-7E51875ECD44" class="wikidata-claim" data-wikidata-property-id="P41"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg" class="image"><img alt="Флаг" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg/160px-Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg.png" decoding="async" width="160" height="96" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg/240px-Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg/320px-Bandera_de_Sanl%C3%BAcar_de_Barrameda.svg.png 2x" data-file-width="834" data-file-height="500" /></a></span></span></td>
+<td style="vertical-align: middle"><span data-wikidata-claim-id="q210887$84E23B51-FCDE-44E4-99FE-B12EAF60402E" class="wikidata-claim" data-wikidata-property-id="P94"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Escudo_de_Sanlucar_de_Barrameda.svg" class="image"><img alt="Герб" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Escudo_de_Sanlucar_de_Barrameda.svg/90px-Escudo_de_Sanlucar_de_Barrameda.svg.png" decoding="async" width="90" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Escudo_de_Sanlucar_de_Barrameda.svg/135px-Escudo_de_Sanlucar_de_Barrameda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Escudo_de_Sanlucar_de_Barrameda.svg/180px-Escudo_de_Sanlucar_de_Barrameda.svg.png 2x" data-file-width="550" data-file-height="975" /></a></span></span></td>
+</tr>
+<tr>
+<td>Флаг</td>
+<td>Герб</td>
+</tr></tbody></table></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;text-align: center; padding-bottom:0.25em;">
+<span class="coordinates plainlinks nourlexpansion" data-param="36_46_44_N_6_21_14_W_scale:100000_region:ES_type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/36.77889/-6.35389/ru" data-zoom="12" data-lat="36.77889" data-lon="-6.35389" data-lang="ru" data-overlays="[&quot;_cf9ead41ac87d3154c80efa641fad64bfc930f3a&quot;]">36°46′44″&#160;с.&#160;ш. 6°21′14″&#160;з.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;params=36_46_44_N_6_21_14_W_scale:100000_region:ES_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=36.77889,-6.35389&amp;q=36.77889,-6.35389&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=-6.35389,36.77889&amp;pt=-6.35389,36.77889&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=36.77889&amp;mlon=-6.35389&amp;zoom=12"><span>O</span></a></span></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Страна</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P17" class="no-wikidata"><span class="nowrap" data-sort-value="Испания"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></span>&#160;<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания"><span class="wrap">Испания</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Автономное сообщество (Испания)">Автономное сообщество</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B0%D0%BB%D1%83%D1%81%D0%B8%D1%8F" class="mw-redirect" title="Андалусия">Андалусия</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="mw-redirect" title="Провинция Испании">Провинция</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%B8%D1%81_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Кадис (провинция)">Кадис</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" class="mw-redirect" title="Район Испании">Район</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%9D%D0%BE%D1%80%D0%BE%D1%8D%D1%81%D1%82%D0%B5-%D0%B4%D0%B5-%D0%9A%D0%B0%D0%B4%D0%B8%D1%81" title="Коста-Нороэсте-де-Кадис">Коста-Нороэсте-де-Кадис</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Глава</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="q210887$65D4A198-E342-450B-93FE-C2CDB705F7B2" class="wikidata-claim" data-wikidata-property-id="P6&#91;!P582&#93;"><span class="wikidata-snak wikidata-main-snak"><span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%98%D1%80%D0%B5%D0%BD%D0%B5+%D0%93%D0%B0%D1%80%D1%81%D0%B8%D1%8F&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q5920166&amp;preloadparams%5B%5D=%D0%98%D1%80%D0%B5%D0%BD%D0%B5+%D0%93%D0%B0%D1%80%D1%81%D0%B8%D1%8F&amp;preloadparams%5B%5D=Персона"><span style="color: #ba0000; text-decoration: inherit; -moz-text-decoration-color: #ba0000; text-decoration-color: #ba0000;">Ирене Гарсия</span></a></span><sup><a href="https://www.wikidata.org/wiki/Q5920166" class="extiw" title="d:Q5920166">[d]</a></sup></span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">История и география</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Площадь</th>
+<td class="plainlist" style="width:60%;">
+<ul><li><span data-wikidata-claim-id="Q210887$15815863-16CF-477F-97B5-3307F9C8D0F5" class="wikidata-claim" data-wikidata-property-id="P2046"><span class="wikidata-snak wikidata-main-snak">170,93&#160;км²</span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Высота</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q210887$DEFD3E96-4D97-4A68-88E4-5BBD548792C4" class="wikidata-claim" data-wikidata-property-id="P2044"><span class="wikidata-snak wikidata-main-snak">30&#160;± 1&#160;м</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" title="Часовой пояс">Часовой пояс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P421" class="no-wikidata"><a href="/wiki/UTC%2B1:00" title="UTC+1:00">UTC+1:00</a>, <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Летнее время">летом</a> <a href="/wiki/UTC%2B2:00" title="UTC+2:00">UTC+2:00</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Население</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Население</th>
+<td class="plainlist" style="width:60%;">
+<ul><li><span style="color: #0c0; font-size: larger;">▲</span><span class="wikidata-snak wikidata-main-snak">69&#160;727&#160;чел.</span> (<span data-wikidata-hash="eb044c6603f8f079d380e4a7e99dfe58e7dfa9ce" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2022_%D0%B3%D0%BE%D0%B4" title="2022 год">2022</a></span></span>)<sup id="cite_ref-_ec127e9639dd1eff_1-0" class="reference"><a href="#cite_note-_ec127e9639dd1eff-1">&#91;1&#93;</a></sup></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%BD%D0%B8%D0%BC" class="mw-redirect" title="Катойконим">Катойконим</a></th>
+<td class="plainlist" style="width:60%;">
+sanluqueño o sanluqueña</td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Цифровые идентификаторы</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Почтовый индекс">Почтовый индекс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="q210887$3998E45A-1974-4634-8355-5038850CA860" class="wikidata-claim" data-wikidata-property-id="P281"><span class="wikidata-snak wikidata-main-snak">11540</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Автомобильный номер">Автомобильный код</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q210887$6C7F8F90-3CD5-447B-A9E4-88F7D8DBF994" class="wikidata-claim" data-wikidata-property-id="P395"><span class="wikidata-snak wikidata-main-snak">CA</span></span></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;">
+<span data-wikidata-claim-id="Q210887$5D01394A-68E3-45B9-85B7-05A4DEF2C038" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://www.aytosanlucar.org/">aytosanlucar.org</a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header mw-customtoggle-maps1 nomobile noprint" style="min-width: 297px; font-weight:normal;"><span style="border-bottom:1px dotted;">Показать/скрыть карты</span></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding: 0 1px 1px 0;">
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-maps1">
+<div class="mw-collapsible-content" style="margin-top: 2px;"><style data-mw-deduplicate="TemplateStyles:r117334243">.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map" style="width:290px; ;;margin:0 auto"><div class=""><div class="thumbimage" style="overflow:hidden;max-width:100%;width:290px;position:relative; ;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Spain_location_map.svg" class="image" title="Санлу́кар-де-Баррамеда на карте"><img alt="Санлу́кар-де-Баррамеда на карте" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/290px-Spain_location_map.svg.png" decoding="async" width="290" height="249" class="notpageimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/435px-Spain_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/580px-Spain_location_map.svg.png 2x" data-file-width="1184" data-file-height="1016" /></a><div class="ts-ПозКарта-метка" style="left:24.12%; top:78.57%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><img alt="Санлу́кар-де-Баррамеда" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/9px-Red_pog.png" decoding="async" title="Санлу́кар-де-Баррамеда" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/14px-Red_pog.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/18px-Red_pog.png 2x" data-file-width="64" data-file-height="64" /></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">Санлу́кар-де-Баррамеда</div></div></div></div></div></div></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q210887$C6775183-3C0A-4CB7-A52B-08604A908BD4" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Sanl%C3%BAcar_de_Barrameda" title="commons:Category:Sanlúcar de Barrameda"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Sanl%C3%BAcar_de_Barrameda" class="extiw" title="commons:Category:Sanlúcar de Barrameda">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Санлу́кар-де-Барраме́да</b> (<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Испанский язык">исп.</a>&#160;<span lang="es"><i>Sanlúcar de Barrameda</i></span>)&#160;— город и <a href="/wiki/%D0%9C%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82_(%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" title="Муниципалитет (Испания)">муниципалитет</a> в <a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">Испании</a>, входит в провинцию <a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%B8%D1%81_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Кадис (провинция)">Кадис</a>, в составе автономного сообщества <a href="/wiki/%D0%90%D0%BD%D0%B4%D0%B0%D0%BB%D1%83%D1%81%D0%B8%D1%8F" class="mw-redirect" title="Андалусия">Андалусия</a>. Муниципалитет находится в составе <a href="/wiki/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Районы Испании">района (комарки)</a> <a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%9D%D0%BE%D1%80%D0%BE%D1%8D%D1%81%D1%82%D0%B5-%D0%B4%D0%B5-%D0%9A%D0%B0%D0%B4%D0%B8%D1%81" title="Коста-Нороэсте-де-Кадис">Коста-Нороэсте-де-Кадис</a>. Занимает площадь 174 км². Население&#160;— 66 541 человек (на <a href="/wiki/2010_%D0%B3%D0%BE%D0%B4" title="2010 год">2010 год</a>). Расстояние&#160;— 44&#160;км до административного центра провинции.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Население"><span class="tocnumber">2</span> <span class="toctext">Население</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Примечания"><span class="tocnumber">3</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ссылки"><span class="tocnumber">4</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>С XIII века город принадлежал герцогам из знатного дома <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0-%D0%A1%D0%B8%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F_(%D1%80%D0%BE%D0%B4)" class="mw-redirect" title="Медина-Сидония (род)">Медина-Сидония</a>. В XVI веке из Санлукара отплывали многие знаменитые экспедиции, включая те, которыми командовали <a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%BE_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD" class="mw-redirect" title="Фернандо Магеллан">Фернандо Магеллан</a> и <a href="/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D1%8D%D1%81,_%D0%9F%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%BE_%D0%B4%D0%B5" title="Нарваэс, Панфило де">Панфило де Нарваэс</a>. Отсюда отправился в своё третье плавание к берегам Америки <a href="/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%BE%D1%80_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1" class="mw-redirect" title="Христофор Колумб">Христофор Колумб</a>. С середины XVII века город и порт постепенно приходят в упадок.
+</p>
+<h2><span id=".D0.9D.D0.B0.D1.81.D0.B5.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Население">Население</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Население»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=edit&amp;section=2" title="Редактировать раздел «Население»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r128571364"></style><div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><div style="display: inline-block; vertical-align: bottom;"><div class="mw-graph mw-graph-always mw-graph-nofallback" style="min-width:500px;min-height:250px" data-graph-id="90aa2057b47a4328d950ee160d7d800a06893db5"></div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r129147673">.mw-parser-output .ts-wikidata-population-table{padding-top:2em;margin-top:1em;margin-bottom:1em;column-width:12em;max-width:60em}.mw-parser-output .ts-wikidata-population-table.cols-1{max-width:12em}.mw-parser-output .ts-wikidata-population-table.cols-2{max-width:24em}.mw-parser-output .ts-wikidata-population-table.cols-3{max-width:36em}.mw-parser-output .ts-wikidata-population-table.cols-4{max-width:48em}.mw-parser-output .ts-wikidata-population-table table{display:block;margin-top:0;border:0;background:transparent}.mw-parser-output .ts-wikidata-population-table caption{white-space:nowrap;margin-top:-2em}.mw-parser-output .ts-wikidata-population-table tbody,.mw-parser-output .ts-wikidata-population-table tr{display:block}.mw-parser-output .ts-wikidata-population-table tr{margin-bottom:-1px}.mw-parser-output .ts-wikidata-population-table tr:last-child{margin-bottom:0}.mw-parser-output .ts-wikidata-population-table tr,.mw-parser-output .ts-wikidata-population-table th,.mw-parser-output .ts-wikidata-population-table td{break-inside:avoid}.mw-parser-output .ts-wikidata-population-table th{width:3em}.mw-parser-output .ts-wikidata-population-table th+th{width:8em}.mw-parser-output .ts-wikidata-population-table td{width:6em;background:#f8f9fa}.mw-parser-output .ts-wikidata-population-table td+td{width:2em}</style><div class="ts-wikidata-population-table">
+<table class="wikitable mw-collapsible">
+<caption>Статистика численности населения с <span data-wikidata-hash="016a1a6e205a0226d5970575e1d1b7a4cd6ed23c" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001</a></span></span> по <span data-wikidata-hash="eb044c6603f8f079d380e4a7e99dfe58e7dfa9ce" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2022_%D0%B3%D0%BE%D0%B4" title="2022 год">2022</a></span></span>
+
+</caption>
+<tbody><tr>
+<th scope="col">Год</th>
+<th scope="colgroup" colspan="2">Численность
+</th></tr>
+
+<tr>
+<th scope="row"><span data-wikidata-hash="016a1a6e205a0226d5970575e1d1b7a4cd6ed23c" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">61&#160;737</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_3bf8689f78acef2f_2-0" class="reference"><a href="#cite_note-_3bf8689f78acef2f-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="4f58ad05753cffe89d89cdb5a4558fa88fd1b3c2" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2002_%D0%B3%D0%BE%D0%B4" title="2002 год">2002</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">61&#160;908</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_275a9cf075d47b75_3-0" class="reference"><a href="#cite_note-_275a9cf075d47b75-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="056ee6becab0ac8a8ced425f016e0637eb57f3a1" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2003_%D0%B3%D0%BE%D0%B4" title="2003 год">2003</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">62&#160;308</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_7dde42e451697d5b_4-0" class="reference"><a href="#cite_note-_7dde42e451697d5b-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="b70477aaf090b46b9ad56abbe700307fb9b253e5" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2004_%D0%B3%D0%BE%D0%B4" title="2004 год">2004</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">62&#160;662</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_8a95e5e330f2004a_5-0" class="reference"><a href="#cite_note-_8a95e5e330f2004a-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="b2d590169589c914a9cc979977d42279a385a31f" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2005_%D0%B3%D0%BE%D0%B4" title="2005 год">2005</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">63&#160;187</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_878db93d488934eb_6-0" class="reference"><a href="#cite_note-_878db93d488934eb-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="f458de1f8f5b928bfa0920a625e2e75d7dfe2ee2" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">63&#160;509</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_d9f4e7c3702f74ca_7-0" class="reference"><a href="#cite_note-_d9f4e7c3702f74ca-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="2db64585e3bb2e3f4da3bcebabcfcdc7c83770f9" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2007_%D0%B3%D0%BE%D0%B4" title="2007 год">2007</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">63&#160;968</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_babca39b828cbab2_8-0" class="reference"><a href="#cite_note-_babca39b828cbab2-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="547e8b5851f897e5290f20e065f51a75cf81391d" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2008_%D0%B3%D0%BE%D0%B4" title="2008 год">2008</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">64&#160;434</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_4ce74be0dc03976b_9-0" class="reference"><a href="#cite_note-_4ce74be0dc03976b-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="2543fbf74a78d2c4db022f7d5805377fef8f0638" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2009_%D0%B3%D0%BE%D0%B4" title="2009 год">2009</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">65&#160;805</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_fd75ad9d96d839b5_10-0" class="reference"><a href="#cite_note-_fd75ad9d96d839b5-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="f685a3b38f035c344da64e6c1dc211dd86558ae5" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2010_%D0%B3%D0%BE%D0%B4" title="2010 год">2010</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">66&#160;541</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_3ae681eaee7c537e_11-0" class="reference"><a href="#cite_note-_3ae681eaee7c537e-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="6ec462f88c98b4b9745dcd1da760caf6b5d3b332" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2011_%D0%B3%D0%BE%D0%B4" title="2011 год">2011</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">66&#160;944</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_e7888fbaf73ad6cd_12-0" class="reference"><a href="#cite_note-_e7888fbaf73ad6cd-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="8f3565657428592dc1dd7f92da0f734724d987d7" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2012_%D0%B3%D0%BE%D0%B4" title="2012 год">2012</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">61&#160;908</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_5dd716ffefb5a06b_13-0" class="reference"><a href="#cite_note-_5dd716ffefb5a06b-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="1e2a78761fecc9e5ba1ba772d86ba7dbf29fe467" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2013_%D0%B3%D0%BE%D0%B4" title="2013 год">2013</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">67&#160;301</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_774c446f5254e4cd_14-0" class="reference"><a href="#cite_note-_774c446f5254e4cd-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="6ff65bd3064746deb3dd55f22d947731e580cf43" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">67&#160;385</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_4f5c3ecd6e660a94_15-0" class="reference"><a href="#cite_note-_4f5c3ecd6e660a94-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="b6849eb7f635c6ee36b75d8adf7e3f89c6624101" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2015_%D0%B3%D0%BE%D0%B4" title="2015 год">2015</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">67&#160;433</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_835a03ee46711380_16-0" class="reference"><a href="#cite_note-_835a03ee46711380-16">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="3517d81837773a2a728b6be0a23fe9de5d60e598" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2016_%D0%B3%D0%BE%D0%B4" title="2016 год">2016</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">67&#160;620</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_619e03f40e06d63c_17-0" class="reference"><a href="#cite_note-_619e03f40e06d63c-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="c34a8cfb745b0cda47dffa6967839b8f92bcb653" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2017_%D0%B3%D0%BE%D0%B4" title="2017 год">2017</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">67&#160;640</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_fc7070050fb46bab_18-0" class="reference"><a href="#cite_note-_fc7070050fb46bab-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="60634bc4e9846fc33bc656ddcba7ec09b07bc1b4" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2018_%D0%B3%D0%BE%D0%B4" title="2018 год">2018</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">68&#160;037</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6be3d96d277e31a1_19-0" class="reference"><a href="#cite_note-_6be3d96d277e31a1-19">&#91;19&#93;</a></sup><sup id="cite_ref-_b3e7a52f17cc6b2c_20-0" class="reference"><a href="#cite_note-_b3e7a52f17cc6b2c-20">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="77f348fcb49110a0de3c2faf4865527dc30dcbc9" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2019_%D0%B3%D0%BE%D0%B4" title="2019 год">2019</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">68&#160;684</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_555420357f1f7095_21-0" class="reference"><a href="#cite_note-_555420357f1f7095-21">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="09f85c089438e099c1cd33998f5c59a57729afd2" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2020_%D0%B3%D0%BE%D0%B4" title="2020 год">2020</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">69&#160;205</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_271c702ae63ce4e1_22-0" class="reference"><a href="#cite_note-_271c702ae63ce4e1-22">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="cb1ac6691bdeb277d9719ae07540aab07458e04d" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2021_%D0%B3%D0%BE%D0%B4" title="2021 год">2021</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">69&#160;507</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_90545ad5b3ac4107_23-0" class="reference"><a href="#cite_note-_90545ad5b3ac4107-23">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="eb044c6603f8f079d380e4a7e99dfe58e7dfa9ce" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2022_%D0%B3%D0%BE%D0%B4" title="2022 год">2022</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">69&#160;727</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_ec127e9639dd1eff_1-1" class="reference"><a href="#cite_note-_ec127e9639dd1eff-1">&#91;1&#93;</a></sup>
+</td></tr></tbody></table>
+</div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-_ec127e9639dd1eff-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_ec127e9639dd1eff_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_ec127e9639dd1eff_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q111983091"><i class="wef_low_priority_links"><a href="https://www.wikidata.org/wiki/Q845937" class="extiw" title="d:Q845937">Национальный институт статистики</a></i> <a href="https://www.wikidata.org/wiki/Q111983091" class="extiw" title="d:Q111983091">Municipal Register of Spain of 2022</a><span class="wef_low_priority_links"> — 2022. — Т.&#160;90. — С.&#160;1,235.</span></span></span>
+</li>
+<li id="cite_note-_3bf8689f78acef2f-2"><span class="mw-cite-backlink"><a href="#cite_ref-_3bf8689f78acef2f_2-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17597573"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun01.xls">список жителей муниципальных округов Испании 2001 года</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2002. — вып.&#160;5. — P.&#160;642. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_275a9cf075d47b75-3"><span class="mw-cite-backlink"><a href="#cite_ref-_275a9cf075d47b75_3-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17597571"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun02.xls">Муниципальный реестр Испании 2002</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2002. — вып.&#160;311. — P.&#160;45846. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_7dde42e451697d5b-4"><span class="mw-cite-backlink"><a href="#cite_ref-_7dde42e451697d5b_4-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17597570"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun03.xls">Муниципальный реестр Испании 2003</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2003. — вып.&#160;304. — P.&#160;45352. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_8a95e5e330f2004a-5"><span class="mw-cite-backlink"><a href="#cite_ref-_8a95e5e330f2004a_5-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17597578"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun04.xls">Муниципальный реестр Испании 2004</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2004. — вып.&#160;314. — P.&#160;42356. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_878db93d488934eb-6"><span class="mw-cite-backlink"><a href="#cite_ref-_878db93d488934eb_6-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17597568"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun05.xls">Муниципальный реестр Испании 2005</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2005. — вып.&#160;287. — P.&#160;39422. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_d9f4e7c3702f74ca-7"><span class="mw-cite-backlink"><a href="#cite_ref-_d9f4e7c3702f74ca_7-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17591758"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun06.xls">Муниципальный реестр Испании 2006</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2006. — вып.&#160;312. — P.&#160;46628. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_babca39b828cbab2-8"><span class="mw-cite-backlink"><a href="#cite_ref-_babca39b828cbab2_8-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17591756">III // Municipal Register of Spain 2007&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2007. — вып.&#160;311. — P.&#160;53566. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_4ce74be0dc03976b-9"><span class="mw-cite-backlink"><a href="#cite_ref-_4ce74be0dc03976b_9-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17591753"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun08.xls">Муниципальный реестр Испании 2008</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2008. — вып.&#160;312. — P.&#160;52072. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_fd75ad9d96d839b5-10"><span class="mw-cite-backlink"><a href="#cite_ref-_fd75ad9d96d839b5_10-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17582342"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun09.xls">Муниципальный реестр Испании 2009</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2009. — вып.&#160;309. — P.&#160;109453. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_3ae681eaee7c537e-11"><span class="mw-cite-backlink"><a href="#cite_ref-_3ae681eaee7c537e_11-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17562358"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun10.xls">Муниципальный реестр Испании 2010</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2010. — вып.&#160;311. — P.&#160;106195. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_e7888fbaf73ad6cd-12"><span class="mw-cite-backlink"><a href="#cite_ref-_e7888fbaf73ad6cd_12-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17560796"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun11.xls">Муниципальный реестр Испании 2011</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2011. — вып.&#160;303. — P.&#160;138416. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_5dd716ffefb5a06b-13"><span class="mw-cite-backlink"><a href="#cite_ref-_5dd716ffefb5a06b_13-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17544623"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun12.xls">Муниципальный реестр Испании 2012</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2012. — вып.&#160;313. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_774c446f5254e4cd-14"><span class="mw-cite-backlink"><a href="#cite_ref-_774c446f5254e4cd_14-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q17539639"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun13.xls">Муниципальный реестр Испании 2013</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2013. — вып.&#160;311. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_4f5c3ecd6e660a94-15"><span class="mw-cite-backlink"><a href="#cite_ref-_4f5c3ecd6e660a94_15-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q18745698"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun14.xlsx">Municipal Register of Spain 2014</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2014. — вып.&#160;308. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_835a03ee46711380-16"><span class="mw-cite-backlink"><a href="#cite_ref-_835a03ee46711380_16-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q21994078"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun15.xlsx">Municipal Register of Spain 2015</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2015. — вып.&#160;301. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_619e03f40e06d63c-17"><span class="mw-cite-backlink"><a href="#cite_ref-_619e03f40e06d63c_17-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q28100898"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="http://www.ine.es/pob_xls/pobmun16.xlsx">Municipal Register of Spain 2016</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2016. — вып.&#160;304. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_fc7070050fb46bab-18"><span class="mw-cite-backlink"><a href="#cite_ref-_fc7070050fb46bab_18-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q47005544"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="https://www.boe.es/eli/es/rd/2018/12/14/1458">Municipal Register of Spain 2017</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2017. — вып.&#160;316. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_6be3d96d277e31a1-19"><span class="mw-cite-backlink"><a href="#cite_ref-_6be3d96d277e31a1_19-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q60332597"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="https://www.ine.es/daco/inebase_mensual/enero_2019/cifras_padron.zip">Municipal Register of Spain 2018</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2018. — вып.&#160;314. — P.&#160;130903. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_b3e7a52f17cc6b2c-20"><span class="mw-cite-backlink"><a href="#cite_ref-_b3e7a52f17cc6b2c_20-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ine.es/dynt3/inebase/index.htm?padre=525">Cifras oficiales de población resultantes de la revisión del Padrón municipal a 1 de enero</a><span class="wef_low_priority_links"> — <a href="https://www.wikidata.org/wiki/Q845937" class="extiw" title="d:Q845937">Национальный институт статистики</a>.</span></span>
+</li>
+<li id="cite_note-_555420357f1f7095-21"><span class="mw-cite-backlink"><a href="#cite_ref-_555420357f1f7095_21-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q81187217"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="https://www.boe.es/eli/es/rd/2019/12/20/743">Municipal Register of Spain 2019</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2019. — вып.&#160;311. — P.&#160;141278. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_271c702ae63ce4e1-22"><span class="mw-cite-backlink"><a href="#cite_ref-_271c702ae63ce4e1_22-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q104641554"><i class="wef_low_priority_links"><a href="https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Espa%C3%B1a)" class="extiw" title="es:Instituto Nacional de Estadística (España)">Instituto Nacional de Estadística</a></i> III // <a rel="nofollow" class="external text" href="https://www.ine.es/dynt3/inebase/index.htm?padre=525">Municipal Register of Spain 2020</a>&#160;<span class="ref-info" style="cursor:help;" title="на испанском языке">(исп.)</span> // <i><a href="https://es.wikipedia.org/wiki/Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Boletín Oficial del Estado">Boletín oficial del Estado</a></i><span class="wef_low_priority_links"> — <a href="https://es.wikipedia.org/wiki/Agencia_Estatal_Bolet%C3%ADn_Oficial_del_Estado" class="extiw" title="es:Agencia Estatal Boletín Oficial del Estado">Agencia Estatal Boletín Oficial del Estado</a>, 2020. — вып.&#160;340. — P.&#160;125898. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0212-033X">0212-033X</a></span></span></span>
+</li>
+<li id="cite_note-_90545ad5b3ac4107-23"><span class="mw-cite-backlink"><a href="#cite_ref-_90545ad5b3ac4107_23-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q110313893"><i class="wef_low_priority_links"><a href="https://www.wikidata.org/wiki/Q845937" class="extiw" title="d:Q845937">Национальный институт статистики</a></i> <a rel="nofollow" class="external text" href="https://www.ine.es/dynt3/inebase/index.htm?padre=525">Municipal Register of Spain of 2021</a><span class="wef_low_priority_links"> — 2021.</span></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=edit&amp;section=4" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.aytosanlucar.org/">Ayuntamiento de Sanlúcar</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.infosanlucar.com/">Información de Sanlúcar en internet</a></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q210887#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0058759.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Sanlucar-de-Barrameda">Britannica (онлайн)</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb133307192">133307192</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4470095-7">4470095-7</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007564207805171">987007564207805171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n80150467">n80150467</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/127845200/">127845200</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/127845200">127845200</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q210887#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0058759.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Sanlucar-de-Barrameda">Britannica (онлайн)</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113287755"/></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb133307192">133307192</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4470095-7">4470095-7</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007564207805171">987007564207805171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n80150467">n80150467</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/127845200/">127845200</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/127845200">127845200</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Муниципалитеты_района_Коста-Нороэсте-де-Кадис_(Кадис)" data-name="Муниципалитеты района Коста-Нороэсте-де-Кадис"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9C%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82%D1%8B_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0_%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%9D%D0%BE%D1%80%D0%BE%D1%8D%D1%81%D1%82%D0%B5-%D0%B4%D0%B5-%D0%9A%D0%B0%D0%B4%D0%B8%D1%81" title="Перейти к шаблону «Муниципалитеты района Коста-Нороэсте-де-Кадис»"><img alt="Перейти к шаблону «Муниципалитеты района Коста-Нороэсте-де-Кадис»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Муниципалитеты_района_Коста-Нороэсте-де-Кадис_(Кадис)" style="font-size:114%;margin:0 5em">Муниципалитеты района <a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%9D%D0%BE%D1%80%D0%BE%D1%8D%D1%81%D1%82%D0%B5-%D0%B4%D0%B5-%D0%9A%D0%B0%D0%B4%D0%B8%D1%81" title="Коста-Нороэсте-де-Кадис">Коста-Нороэсте-де-Кадис</a> (<a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%B8%D1%81_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Кадис (провинция)">Кадис</a>)</div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
+<ul><li><a href="/wiki/%D0%A7%D0%B8%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0" title="Чипиона">Чипиона</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%82%D0%B0_(%D0%9A%D0%B0%D0%B4%D0%B8%D1%81)" class="mw-redirect" title="Рота (Кадис)">Рота</a></li>
+<li><a class="mw-selflink selflink">Санлукар-де-Баррамеда</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B5%D0%B1%D1%83%D1%85%D0%B5%D0%BD%D0%B0" title="Требухена">Требухена</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2441
+Cached time: 20230322074935
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [no‐toc‐conversion, show‐toc]
+CPU time usage: 0.501 seconds
+Real time usage: 0.746 seconds
+Preprocessor visited node count: 3721/1000000
+Post‐expand include size: 108406/2097152 bytes
+Template argument size: 8358/2097152 bytes
+Highest expansion depth: 27/100
+Expensive parser function count: 37/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 23912/5000000 bytes
+Lua time usage: 0.377/10.000 seconds
+Lua memory usage: 9657768/52428800 bytes
+Number of Wikibase entities loaded: 33/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  682.168      1 -total
+ 46.33%  316.042      1 Шаблон:НП
+ 42.19%  287.799      1 Шаблон:Карточка
+ 40.60%  276.941      1 Шаблон:Wikidata/Population
+ 38.67%  263.800      1 Шаблон:Wikidata/Population/Table
+ 18.14%  123.753     39 Шаблон:Wikidata
+  8.83%   60.209      2 Шаблон:Внешние_ссылки
+  6.55%   44.699      2 Шаблон:Wikidata-coords
+  6.21%   42.347     10 Шаблон:If-wikidata
+  5.98%   40.768      1 Шаблон:Карточка/флаг_и_герб
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1043412-0!canonical and timestamp 20230322074935 and revision id 118209088. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Санлукар-де-Баррамеда&amp;oldid=118209088">https://ru.wikipedia.org/w/index.php?title=Санлукар-де-Баррамеда&amp;oldid=118209088</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Населённые пункты по алфавиту">Населённые пункты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%9A%D0%B0%D0%B4%D0%B8%D1%81%D0%B0" title="Категория:Города Кадиса">Города Кадиса</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82%D1%8B_%D0%9A%D0%B0%D0%B4%D0%B8%D1%81%D0%B0" title="Категория:Муниципалитеты Кадиса">Муниципалитеты Кадиса</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Страницы с графиками">Страницы с графиками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:Города:Последняя правка: в позапрошлом году">ПРО:Города:Последняя правка: в позапрошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;oldid=118209088" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;id=118209088&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q210887" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — арагонский" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D9%88%D9%82%D8%A9_(%D9%82%D8%A7%D8%AF%D8%B3)" title="شلوقة (قادس) — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%D9%84%D9%88%D9%83%D8%A7%D8%B1_%D8%AF%D9%89_%D8%A8%D8%A7%D8%B1%D8%B1%D8%A7%D9%85%D9%8A%D8%AF%D8%A7" title="سانلوكار دى بارراميدا — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%B3%D9%86%D9%84%D9%88%DA%A9%D8%A7%D8%B1_%D8%AF_%D8%A8%D8%B1%D8%A7%D9%85%D8%AF%D8%A7" title="سنلوکار د برامدا — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D1%8D-%D0%91%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар-дэ-Барамеда — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80_%D0%B4%D0%B5_%D0%91%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар де Барамеда — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — бретонский" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар-де-Баррамеда — чеченский" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda_(munisipyo)" title="Sanlúcar de Barrameda (munisipyo) — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B1%CE%BD%CE%BB%CE%BF%CF%8D%CE%BA%CE%B1%CF%81_%CE%B4%CE%B5_%CE%9C%CF%80%CE%B1%CF%81%CE%B1%CE%BC%CE%AD%CE%B4%CE%B1" title="Σανλούκαρ δε Μπαραμέδα — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a href="https://es.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D9%84%D9%88%DA%A9%D8%A7%D8%B1_%D8%AF_%D8%A8%D8%B1%D8%A7%D9%85%D8%AF%D8%A7" title="سنلوکار د برامدا — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — северный фризский" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda_(Cadix)" title="Sanlúcar de Barrameda (Cadix) — гаитянский" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A1%D5%B6%D5%AC%D5%B8%D6%82%D5%AF%D5%A1%D6%80_%D5%A4%D5%A5_%D4%B2%D5%A1%D5%BC%D5%A1%D5%B4%D5%A5%D5%A4%D5%A1" title="Սանլուկար դե Բառամեդա — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — интерлингва" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Sanlucar_de_Barrameda" title="Sanlucar de Barrameda — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ie mw-list-item"><a href="https://ie.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — интерлингве" lang="ie" hreflang="ie" class="interlanguage-link-target"><span>Interlingue</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%90%E3%83%A9%E3%83%A1%E3%83%BC%E3%83%80" title="サンルーカル・デ・バラメーダ — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%9C%E1%83%9A%E1%83%A3%E1%83%99%E1%83%90%E1%83%A0-%E1%83%93%E1%83%94-%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%9B%E1%83%94%E1%83%93%E1%83%90" title="სანლუკარ-დე-ბარამედა — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%82%B0%EB%A3%A8%EC%B9%B4%EB%A5%B4%EB%8D%B0%EB%B0%94%EB%9D%BC%EB%A9%94%EB%8B%A4" title="산루카르데바라메다 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Luciferi_Fanum" title="Luciferi Fanum — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lld mw-list-item"><a href="https://lld.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target"><span>Ladin</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Sanlukar_de_Barameda" title="Sanlukar de Barameda — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — малагасийский" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80_%D0%B4%D0%B5_%D0%91%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар де Барамеда — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda_(kommun)" title="Sanlúcar de Barrameda (kommun) — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target"><span>Ślůnski</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%B2" title="ซันลูการ์เดบาร์ราเมดา — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар-де-Баррамеда — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар-де-Баррамеда — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — варай" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%A1%91%E5%8D%A2%E5%8D%A1%E5%B0%94-%E5%BE%B7%E5%B7%B4%E6%8B%89%E6%A2%85%E8%BE%BE" title="桑卢卡尔-德巴拉梅达 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda" title="Sanlúcar de Barrameda — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q210887#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 ноября 2021 в 06:10.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgGraphSpecs":{"90aa2057b47a4328d950ee160d7d800a06893db5":{"version":2,"width":500,"height":250,"data":[{"name":"table","values":"year,month,day,population,formatted\n2001,07,01,61737,61 737\n2002,07,01,61908,61 908\n2003,07,01,62308,62 308\n2004,07,01,62662,62 662\n2005,07,01,63187,63 187\n2006,07,01,63509,63 509\n2007,07,01,63968,63 968\n2008,07,01,64434,64 434\n2009,07,01,65805,65 805\n2010,07,01,66541,66 541\n2011,07,01,66944,66 944\n2012,07,01,61908,61 908\n2013,07,01,67301,67 301\n2014,07,01,67385,67 385\n2015,07,01,67433,67 433\n2016,07,01,67620,67 620\n2017,07,01,67640,67 640\n2018,07,01,68037,68 037\n2019,07,01,68684,68 684\n2020,07,01,69205,69 205\n2021,07,01,69507,69 507\n2022,07,01,69727,69 727","format":{"parse":{"year":"integer","month":"integer","day":"integer","population":"integer","formatted":"string"},"type":"csv"},"transform":[{"type":"formula","field":"date","expr":"datetime(datum.year,datum.month-1,datum.day)"}]}],"scales":[{"name":"x","type":"time","range":"width","nice":"year","domain":{"data":"table","field":"date"}},{"name":"y","type":"linear","range":"height","domain":{"data":"table","field":"population"}}],"axes":[{"type":"x","scale":"x","ticks":10},{"type":"y","scale":"y","ticks":5,"grid":true,"orient":"right","format":"d"}],"marks":[{"type":"area","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","value":0},"y2":{"scale":"y","field":"population"},"fill":{"value":"#99B2CC"},"fillOpacity":{"value":0.35},"interpolate":{"value":"linear"}}}},{"type":"line","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"population"},"stroke":{"value":"#99B2CC"},"strokeWidth":{"value":3},"interpolate":{"value":"linear"}}}},{"type":"symbol","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"population"},"stroke":{"value":"#99B2CC"},"fill":{"value":"#fff"},"size":{"value":10}}}},{"type":"text","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date","offset":-5},"y":{"scale":"y","field":"population","offset":-1},"align":{"value":"left"},"opacity":{"value":"0"},"fill":{"value":"#000000"},"size":{"value":4},"text":{"template":"{{datum.formatted}}  ({{datum.year}})"}},"hover":{"opacity":{"value":"1"}},"update":{"opacity":{"value":"0"}}}}]}},"wgPageParseReport":{"limitreport":{"cputime":"0.501","walltime":"0.746","ppvisitednodes":{"value":3721,"limit":1000000},"postexpandincludesize":{"value":108406,"limit":2097152},"templateargumentsize":{"value":8358,"limit":2097152},"expansiondepth":{"value":27,"limit":100},"expensivefunctioncount":{"value":37,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":23912,"limit":5000000},"entityaccesscount":{"value":33,"limit":400},"timingprofile":["100.00%  682.168      1 -total"," 46.33%  316.042      1 Шаблон:НП"," 42.19%  287.799      1 Шаблон:Карточка"," 40.60%  276.941      1 Шаблон:Wikidata/Population"," 38.67%  263.800      1 Шаблон:Wikidata/Population/Table"," 18.14%  123.753     39 Шаблон:Wikidata","  8.83%   60.209      2 Шаблон:Внешние_ссылки","  6.55%   44.699      2 Шаблон:Wikidata-coords","  6.21%   42.347     10 Шаблон:If-wikidata","  5.98%   40.768      1 Шаблон:Карточка/флаг_и_герб"]},"scribunto":{"limitreport-timeusage":{"value":"0.377","limit":"10.000"},"limitreport-memusage":{"value":9657768,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P2564 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P585 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nGot person name of Q845937 from label: «Национальный институт статистики»\nEntity Q845937 is not a person\nLoaded datatype external-id of P1397 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7678 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot title of Q845937 from label: «Национальный институт статистики»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Instituto Nacional de Estadística»\nEntity Q845937 is not a person\nGot title of Q5659724 from label: «Agencia Estatal Boletín Oficial del Estado»\nGot person name of Q845937 from label: «Национальный институт статистики»\nEntity Q845937 is not a person\nGot person name of Q845937 from label: «Национальный институт статистики»\nEntity Q845937 is not a person\n"},"cachereport":{"origin":"mw2441","timestamp":"20230322074935","ttl":86400,"transientcontent":true}},"wgHostname":"mw2441","wgBackendResponseTime":854});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0430\u043d\u043b\u0443\u043a\u0430\u0440-\u0434\u0435-\u0411\u0430\u0440\u0440\u0430\u043c\u0435\u0434\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q210887","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q210887","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-07T00:29:02Z","dateModified":"2021-11-30T06:10:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1e\/Castillo_Santiago_Sanlucar.JPG"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0430\u043d\u043b\u0443\u043a\u0430\u0440-\u0434\u0435-\u0411\u0430\u0440\u0440\u0430\u043c\u0435\u0434\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q210887","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q210887","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-07T00:29:02Z","dateModified":"2021-11-30T06:10:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1e\/Castillo_Santiago_Sanlucar.JPG"}</script>
+</body>
+</html>

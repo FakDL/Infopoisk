@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Шибаниды — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"044c4cc5-a5ce-4d83-b142-8b98141037ac","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Шибаниды","wgTitle":"Шибаниды","wgCurRevisionId":129275484,"wgRevisionId":129275484,"wgArticleId":168391,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,
+"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Правители Золотой Орды","Правители Сибирского ханства","Шибаниды"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Шибаниды","wgRelevantArticleId":168391,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":129275484,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":
+"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q32360669","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=[
+"ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Шибаниды — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Шибаниды rootpage-Шибаниды skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Шибаниды</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable dabhide">Не следует путать с <a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Шейбаниды">Шейбаниды</a>.</div>
+<table class="infobox infobox-bb976ba699f8267d" style="" data-name="Королевский дом"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background: #eaecf0;">Шибаниды</th></tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P17" class="no-wikidata">
+<p><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F_%D0%9E%D1%80%D0%B4%D0%B0" title="Золотая Орда">Золотая Орда</a><br />
+<a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Казанское ханство">Казанское ханство</a><br />
+<a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Сибирское ханство">Сибирское ханство</a><br />
+<a href="/wiki/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Узбекское ханство">Узбекское ханство</a><br />
+<a href="/wiki/%D0%91%D1%83%D1%85%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Бухарское ханство">Бухарское ханство</a><br />
+<a href="/wiki/%D0%A5%D0%B8%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Хивинское ханство">Хивинское ханство</a><br />
+</p>
+<a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Русское царство">Русское царство</a></div></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Родоначальный дом</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q32360669$97d8850d-4408-b26d-7791-bdfe1b78c490" class="wikidata-claim" data-wikidata-property-id="P361"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D0%B7%D0%B8%D0%B4%D1%8B" title="Чингизиды">Чингизиды</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Основатель</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P112" class="no-wikidata"><a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD" title="Шибан">Шибан</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Год основания</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P571" class="no-wikidata"><a href="/wiki/1266" class="mw-redirect" title="1266">1266</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Младшие линии</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P527" class="no-wikidata"><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%88%D0%B0%D1%85%D0%B8%D0%B4%D1%8B" title="Арабшахиды">Арабшахиды</a>, <a href="/wiki/%D0%9A%D1%83%D1%87%D1%83%D0%BC%D0%BE%D0%B2%D0%B8%D1%87%D0%B8" title="Кучумовичи">Кучумовичи</a>, <a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Шейбаниды">Шейбаниды</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background: #eaecf0;">Титулы</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;text-align: left;">
+оглан, <a href="/wiki/%D0%A5%D0%B0%D0%BD_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Хан (титул)">хан</a></td>
+</tr>
+</tbody></table>
+<p><b>Шибани́ды</b> (<i>Сибани́ды</i>) — <a href="/wiki/%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D0%B7%D0%B8%D0%B4%D1%8B" title="Чингизиды">чингизиды</a>, потомки <a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD" title="Шибан">Шибана</a>, пятого сына <a href="/wiki/%D0%94%D0%B6%D1%83%D1%87%D0%B8" title="Джучи">Джучи</a> от главной жены. После окончания западного похода, в <a href="/wiki/1241_%D0%B3%D0%BE%D0%B4" title="1241 год">1241 году</a> Бату передал Шибану титул орлок (у <a href="/wiki/%D0%AF%D0%BD,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Ян, Василий Григорьевич">Василия Яна</a> — джихангир), главнокомандующего армией <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Монгольская империя">Монгольской империи</a>.
+</p><p>Когда во времена <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8F" class="mw-redirect" title="Великая замятня">Великой замятни</a> в улусе Джучи почти одновременно вымерли линии <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B0-%D0%AD%D0%B4%D0%B6%D0%B5%D0%BD" title="Орда-Эджен">Орды-Эджена</a>, старшего сына Джучи, правившая в <a href="/wiki/%D0%9A%D0%BE%D0%BA_%D0%9E%D1%80%D0%B4%D0%B0" class="mw-redirect" title="Кок Орда">Кок Орде</a>, и линия Бату—верховных ханов улуса Джучи, Шибаниды остались единственными представителями законной линии потомков Джучи. Претендуя на всё наследие улуса Джучи, Шибаниды вели непримиримую борьбу с <a href="/wiki/%D0%A2%D1%83%D0%BA%D0%B0%D1%82%D0%B8%D0%BC%D1%83%D1%80%D0%B8%D0%B4%D1%8B" title="Тукатимуриды">Тукатимуридами</a>, потомками тринадцатого сына Джучи от наложницы Тукай Тимура, утвердившимися в улусе Джучи, Большой Орде, <a href="/wiki/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Крымское ханство">Крымском</a>, <a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Казанское ханство">Казанском</a>, <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Астраханское ханство">Астраханском</a> ханствах и в Казахском ханстве <a href="/wiki/%D0%90%D0%BA_%D0%9E%D1%80%D0%B4%D0%B0" class="mw-redirect" title="Ак Орда">Ак Орда</a>. Различные представители династии Шибанидов несколько раз захватывали престол улуса Джучи, однако удержаться на нём не смогли. Старшая линия Шибанидов захватила власть в Сибири, с перерывами царствуя до присоединения к России. 
+</p><p>В России потомки последнего хана Сибири Али стали последними ханами  Касимовского ханства. Их потомки носили титулы царевичей Касимовских и Сибирских (с <a href="/wiki/1718_%D0%B3%D0%BE%D0%B4" title="1718 год">1718 года</a> князья Сибирские). Представители средней линии захватили власть в <a href="/wiki/%D0%9A%D0%BE%D0%BA_%D0%9E%D1%80%D0%B4%D0%B0" class="mw-redirect" title="Кок Орда">Кок Орде</a>, свергнув Тукайтимуридов, потомков Урус-хана, позднее основавших Казахское ханство Ак Орда. В борьбу с ними вступили представители младшей линии Шибанидов, захватившие власть на части территории Кок Орды, и в <a href="/wiki/1511_%D0%B3%D0%BE%D0%B4" title="1511 год">1511 году</a> завоевашие Хорезм, основав линию Хивинских ханов. К средней линии Шибанидов относился основатель узбекской династии Шибанидов — <a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Шейбаниды">Шейбанидов</a> — <a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4" class="mw-redirect" title="Шейбани, Мухаммед">Мухаммед Шейбани</a> (<a href="/wiki/1451" class="mw-redirect" title="1451">1451</a>—<a href="/wiki/1510" class="mw-redirect" title="1510">1510</a>), сын Шахбудаг-султана, внук <a href="/wiki/%D0%90%D0%B1%D1%83-%D0%BB-%D1%85%D0%B0%D0%B9%D1%80" class="mw-redirect" title="Абу-л-хайр">Абулхайра</a>.
+</p><p>Согласно Т.Султанову, Шибаниды — династия потомков Шибана, разные ветви которой управляли Синей Ордой (1361—1368), Золотой Ордой (1361—1494, с перерывами), <a href="/wiki/%D0%94%D0%B0%D1%88%D1%82%D0%B8-%D0%BA%D0%B8%D0%BF%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8" title="Дашти-кипчакские узбеки">кочевыми узбеками</a> (1417—1500), Тюменской Ордой и <a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Сибирское ханство">Сибирским ханством</a> (1457—1664), <a href="/wiki/%D0%91%D1%83%D1%85%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Бухарское ханство">Бухарским ханством</a> (1500—1601) и <a href="/wiki/%D0%A5%D0%B8%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Хивинское ханство">Хивинским ханством</a> (<a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%88%D0%B0%D1%85%D0%B8%D0%B4%D1%8B" title="Арабшахиды">Арабшахиды</a>, 1511—1728).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Шибаниды_Сибири"><span class="tocnumber">1</span> <span class="toctext">Шибаниды Сибири</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Шибаниды_Улуса_Джучи"><span class="tocnumber">2</span> <span class="toctext">Шибаниды Улуса Джучи</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Шибаниды_Казани"><span class="tocnumber">3</span> <span class="toctext">Шибаниды Казани</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Шибаниды_Касимова"><span class="tocnumber">4</span> <span class="toctext">Шибаниды Касимова</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Шибаниды_Кок_Орды"><span class="tocnumber">5</span> <span class="toctext">Шибаниды Кок Орды</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Параллельно_правили_в_части_Кок_Орды"><span class="tocnumber">5.1</span> <span class="toctext">Параллельно правили в части Кок Орды</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Шибаниды_Мавераннахра"><span class="tocnumber">6</span> <span class="toctext">Шибаниды Мавераннахра</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Шибаниды_Хорезма_(1511—1728)"><span class="tocnumber">7</span> <span class="toctext">Шибаниды Хорезма (1511—1728)</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#См._также"><span class="tocnumber">8</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Литература"><span class="tocnumber">10</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.A1.D0.B8.D0.B1.D0.B8.D1.80.D0.B8"></span><span class="mw-headline" id="Шибаниды_Сибири">Шибаниды Сибири</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Сибири»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=1" title="Редактировать раздел «Шибаниды Сибири»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=%D0%98%D0%B1%D1%80%D0%B0%D1%85%D0%B8%D0%BC_(%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BD)&amp;action=edit&amp;redlink=1" class="new" title="Ибрахим (сибирский хан) (страница отсутствует)">Ибрахим</a>, сын <a href="/wiki/%D0%9C%D0%B8%D1%80_%D0%9F%D1%83%D0%BB%D0%B0%D0%B4" title="Мир Пулад">Пулада</a>&#160;— хан <a href="/wiki/%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8-%D0%A2%D1%83%D1%80%D0%B0" title="Чинги-Тура">Чинги-Туры</a>, ум. ок. <a href="/wiki/1410" class="mw-redirect" title="1410">1410</a></li>
+<li><a href="/w/index.php?title=%D0%94%D0%B0%D1%83%D0%BB%D0%B0%D1%82_%D0%A8%D0%B0%D0%B9%D1%85_%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Даулат Шайх оглан (страница отсутствует)">Даулат Шайх оглан</a>, сын <a href="/w/index.php?title=%D0%98%D0%B1%D1%80%D0%B0%D1%85%D0%B8%D0%BC_(%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BD)&amp;action=edit&amp;redlink=1" class="new" title="Ибрахим (сибирский хан) (страница отсутствует)">Ибрахима</a>&#160;— хан Сибири <a href="/wiki/1410" class="mw-redirect" title="1410">1410</a>—<a href="/wiki/1426" class="mw-redirect" title="1426">1426</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0_%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Мустафа хан (страница отсутствует)">Мустафа хан</a>, сын <a href="/w/index.php?title=%D0%9C%D1%83%D1%81%D0%B0_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Муса султана (страница отсутствует)">Муса султана</a>&#160;— хан Сибири до <a href="/wiki/1420" class="mw-redirect" title="1420">1420</a>—<a href="/wiki/1431" class="mw-redirect" title="1431">1431</a></li>
+<li><a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4" title="Хаджи-Мухаммад">Хаджи-Мухаммад</a>, сын Али, потомка <a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD" title="Шибан">Шибана</a> в седьмом поколении,&#160;— хан Сибири <a href="/wiki/1421" class="mw-redirect" title="1421">1421</a>— ок.<a href="/wiki/1428" class="mw-redirect" title="1428">1428</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D1%83-%D0%BB-%D1%85%D0%B0%D0%B9%D1%80" class="mw-redirect" title="Абу-л-хайр">Абу-л-Хайр Убайдаллах хан</a>, сын <a href="/w/index.php?title=%D0%94%D0%B0%D1%83%D0%BB%D0%B0%D1%82_%D0%A8%D0%B0%D0%B9%D1%85_%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Даулат Шайх оглан (страница отсутствует)">Даулат Шайх оглана</a>&#160;— хан Сибири <a href="/wiki/1428" class="mw-redirect" title="1428">1428</a>—<a href="/wiki/1468" class="mw-redirect" title="1468">1468</a>, хан <a href="/wiki/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Узбекское ханство">узбеков</a></li>
+<li><a href="/wiki/%D0%98%D0%B1%D0%B0%D0%BA" title="Ибак">Ибак</a> (Сайид Ибрахим хан), сын Махмудека, внук <a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4" title="Хаджи-Мухаммад">Хаджи-Мухаммада</a>&#160;— хан Сибири ок. <a href="/wiki/1448" class="mw-redirect" title="1448">1448</a>—<a href="/wiki/1495" class="mw-redirect" title="1495">1495</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BC%D1%83%D0%BA" title="Мамук">Мамук-хан</a>, сын Махмудека, внук <a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4" title="Хаджи-Мухаммад">Хаджи-Мухаммада</a>&#160;— хан Сибири <a href="/wiki/1495" class="mw-redirect" title="1495">1495</a>&#160;— ок. <a href="/wiki/1496" class="mw-redirect" title="1496">1496</a></li>
+<li><a href="/wiki/%D0%90%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA" title="Агалак">Агалак султан</a>, сын Махмудека, внук <a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4" title="Хаджи-Мухаммад">Хаджи-Мухаммада</a>&#160;— хан Сибири ок. <a href="/wiki/1497" class="mw-redirect" title="1497">1497</a>&#160;— ок.<a href="/wiki/1500" class="mw-redirect" title="1500">1500</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%83%D0%BB%D1%83%D0%BA-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Кулук-Султан (страница отсутствует)">Кутлук-хан</a>, сын <a href="/wiki/%D0%98%D0%B1%D0%B0%D0%BA" title="Ибак">Ибака</a>&#160;— хан Сибири ок. <a href="/wiki/1500" class="mw-redirect" title="1500">1500</a>&#160;— после <a href="/wiki/1506" class="mw-redirect" title="1506">1506</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D1%83%D1%80%D1%82%D0%B0%D0%B7%D0%B0-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Муртаза-хан (страница отсутствует)">Муртаза-хан</a>, сын Махмудека&#160;— претендент на престол Сибири</li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%87%D1%83%D0%BC" title="Кучум">Кучум</a>-хан, сын <a href="/w/index.php?title=%D0%9C%D1%83%D1%80%D1%82%D0%B0%D0%B7%D0%B0-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Муртаза-хан (страница отсутствует)">Муртаза-хана</a>&#160;— хан Сибири <a href="/wiki/1563" class="mw-redirect" title="1563">1563</a>—<a href="/wiki/1598" class="mw-redirect" title="1598">1598</a></li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%B8_(%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BD)" title="Али (сибирский хан)">Али</a>-хан, сын <a href="/wiki/%D0%9A%D1%83%D1%87%D1%83%D0%BC" title="Кучум">Кучум</a>-хана&#160;— хан Сибири <a href="/wiki/1601" class="mw-redirect" title="1601">1601</a>—<a href="/wiki/1608" class="mw-redirect" title="1608">1608</a>, ум. после <a href="/wiki/1645" class="mw-redirect" title="1645">1645</a></li></ul>
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.A3.D0.BB.D1.83.D1.81.D0.B0_.D0.94.D0.B6.D1.83.D1.87.D0.B8"></span><span class="mw-headline" id="Шибаниды_Улуса_Джучи">Шибаниды Улуса Джучи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Улуса Джучи»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=2" title="Редактировать раздел «Шибаниды Улуса Джучи»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%A5%D0%B8%D0%B7%D1%80-%D1%85%D0%B0%D0%BD" title="Хизр-хан">Хизр-хан</a>, сын <a href="/w/index.php?title=%D0%9C%D0%B0%D0%BD%D0%B3%D1%83%D1%82%D0%B0%D0%B9-%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Мангутай-оглана (страница отсутствует)">Мангутай-оглана</a>, хан Улуса Джучи <a href="/wiki/1360" class="mw-redirect" title="1360">1360</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BC%D1%83%D1%80-%D0%A5%D0%BE%D0%B4%D0%B6%D0%B0-%D1%85%D0%B0%D0%BD" title="Тимур-Ходжа-хан">Тимур-Ходжа-хан</a>, сын <a href="/wiki/%D0%A5%D0%B8%D0%B7%D1%80-%D1%85%D0%B0%D0%BD" title="Хизр-хан">Хизр-хана</a>, хан Улуса Джучи <a href="/wiki/1360" class="mw-redirect" title="1360">1360</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8_%D0%9C%D1%83%D1%80%D0%B0%D0%B4-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Хаджи Мурад-хан (страница отсутствует)">Хаджи Мурад-хан</a>, сын <a href="/w/index.php?title=%D0%9C%D0%B0%D0%BD%D0%B3%D1%83%D1%82%D0%B0%D0%B9-%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Мангутай-оглана (страница отсутствует)">Мангутай-оглана</a>, хан Улуса Джучи <a href="/wiki/1360" class="mw-redirect" title="1360">1360</a></li>
+<li><a href="/w/index.php?title=%D0%90%D0%BB%D0%B8%D0%B1%D0%B5%D0%BA-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Алибек-хан (страница отсутствует)">Алибек-хан</a>, сын <a href="/w/index.php?title=%D0%9C%D1%83%D0%BD%D0%BA%D1%8D_%D0%A2%D1%8D%D0%BC%D1%83%D1%80-%D1%85%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Мункэ Тэмур-хана (страница отсутствует)">Мункэ Тэмур-хана</a>, хан Сибири <a href="/wiki/1359" class="mw-redirect" title="1359">1359</a>—<a href="/wiki/1375" class="mw-redirect" title="1375">1375</a>, хан Улуса Джучи <a href="/wiki/1374" class="mw-redirect" title="1374">1374</a>—<a href="/wiki/1375" class="mw-redirect" title="1375">1375</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B3%D0%B0%D0%BD%D0%B1%D0%B5%D0%BA" title="Каганбек">Каганбек-хан</a>, сын <a href="/w/index.php?title=%D0%90%D0%BB%D0%B8%D0%B1%D0%B5%D0%BA-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Алибек-хан (страница отсутствует)">Алибек-хана</a>, хан Сибири <a href="/wiki/1375" class="mw-redirect" title="1375">1375</a>—<a href="/wiki/1377" class="mw-redirect" title="1377">1377</a>, хан Улуса Джучи <a href="/wiki/1375" class="mw-redirect" title="1375">1375</a>—<a href="/wiki/1377" class="mw-redirect" title="1377">1377</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B0%D0%BF%D1%88%D0%B0" title="Арапша">Арабшах</a> хан, сын <a href="/wiki/%D0%9C%D0%B8%D1%80_%D0%9F%D1%83%D0%BB%D0%B0%D0%B4" title="Мир Пулад">Пулад султана</a>, хан Улуса Джучи <a href="/wiki/1377" class="mw-redirect" title="1377">1377</a>—<a href="/wiki/1378" class="mw-redirect" title="1378">1378</a></li></ul>
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.9A.D0.B0.D0.B7.D0.B0.D0.BD.D0.B8"></span><span class="mw-headline" id="Шибаниды_Казани">Шибаниды Казани</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Казани»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=3" title="Редактировать раздел «Шибаниды Казани»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9C%D0%B0%D0%BC%D1%83%D0%BA" title="Мамук">Мамук-хан</a>, сын Махмудека, хан Казани <a href="/wiki/1495" class="mw-redirect" title="1495">1495</a>—<a href="/wiki/1496" class="mw-redirect" title="1496">1496</a>, ум.<a href="/wiki/1502" class="mw-redirect" title="1502">1502</a></li></ul>
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.9A.D0.B0.D1.81.D0.B8.D0.BC.D0.BE.D0.B2.D0.B0"></span><span class="mw-headline" id="Шибаниды_Касимова">Шибаниды Касимова</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Касимова»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=4" title="Редактировать раздел «Шибаниды Касимова»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%90%D1%80%D1%81%D0%BB%D0%B0%D0%BD_%D1%85%D0%B0%D0%BD" title="Арслан хан">Алп Арслан-хан</a>, сын <a href="/wiki/%D0%90%D0%BB%D0%B8_(%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BD)" title="Али (сибирский хан)">Али-хана</a>, хан Касимова <a href="/wiki/1614" class="mw-redirect" title="1614">1614</a>—<a href="/wiki/1626" class="mw-redirect" title="1626">1626</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B8%D0%B4-%D0%91%D1%83%D1%80%D1%85%D0%B0%D0%BD" title="Сеид-Бурхан">Сайид Бурхан-хан</a>, сын <a href="/wiki/%D0%90%D1%80%D1%81%D0%BB%D0%B0%D0%BD_%D1%85%D0%B0%D0%BD" title="Арслан хан">Алп Арслан-хана</a>, хан Касимова <a href="/wiki/1626" class="mw-redirect" title="1626">1626</a>—<a href="/wiki/1679" class="mw-redirect" title="1679">1679</a></li></ul>
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.9A.D0.BE.D0.BA_.D0.9E.D1.80.D0.B4.D1.8B"></span><span class="mw-headline" id="Шибаниды_Кок_Орды">Шибаниды Кок Орды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Кок Орды»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=5" title="Редактировать раздел «Шибаниды Кок Орды»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%94%D0%B6%D1%83%D0%BC%D0%B0%D0%B4%D1%83%D0%BA" title="Джумадук">Джумадук</a>, сын <a href="/w/index.php?title=%D0%A1%D1%83%D1%84%D0%B8-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Суфи-султана (страница отсутствует)">Суфи-султана</a>, хан Кок Орды <a href="/wiki/1425" class="mw-redirect" title="1425">1425</a>—<a href="/wiki/1428" class="mw-redirect" title="1428">1428</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D1%83-%D0%BB-%D1%85%D0%B0%D0%B9%D1%80" class="mw-redirect" title="Абу-л-хайр">Абу-л-Хайр Убайдулла-хан</a>, сын <a href="/w/index.php?title=%D0%94%D0%B0%D1%83%D0%BB%D0%B0%D1%82_%D0%A8%D0%B5%D0%B9%D1%85-%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Даулат Шейх-оглан (страница отсутствует)">Даулат Шейх-оглана</a>, хан Кок Орды <a href="/wiki/1428" class="mw-redirect" title="1428">1428</a>—<a href="/wiki/1468" class="mw-redirect" title="1468">1468</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D0%B9%D1%85-%D0%A5%D0%B0%D0%B9%D0%B4%D0%B0%D1%80" title="Шайх-Хайдар">Шайх-Хайдар</a>, сын <a href="/wiki/%D0%90%D0%B1%D1%83-%D0%BB-%D1%85%D0%B0%D0%B9%D1%80" class="mw-redirect" title="Абу-л-хайр">Абу-л-хайра</a>, хан Кок Орды <a href="/wiki/1468" class="mw-redirect" title="1468">1468</a>—<a href="/wiki/1469" class="mw-redirect" title="1469">1469</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D1%83%D1%88_%D0%A5%D0%B0%D0%B9%D0%B4%D0%B0%D1%80-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Хуш Хайдар-хан (страница отсутствует)">Хуш Хайдар-хан</a>, сын <a href="/wiki/%D0%A8%D0%B0%D0%B9%D1%85-%D0%A5%D0%B0%D0%B9%D0%B4%D0%B0%D1%80" title="Шайх-Хайдар">Шайх-Хайдара</a>, хан Кок Орды <a href="/wiki/1469" class="mw-redirect" title="1469">1469</a></li></ul>
+<h3><span id=".D0.9F.D0.B0.D1.80.D0.B0.D0.BB.D0.BB.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE_.D0.BF.D1.80.D0.B0.D0.B2.D0.B8.D0.BB.D0.B8_.D0.B2_.D1.87.D0.B0.D1.81.D1.82.D0.B8_.D0.9A.D0.BE.D0.BA_.D0.9E.D1.80.D0.B4.D1.8B"></span><span class="mw-headline" id="Параллельно_правили_в_части_Кок_Орды">Параллельно правили в части Кок Орды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Параллельно правили в части Кок Орды»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=6" title="Редактировать раздел «Параллельно правили в части Кок Орды»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/%D0%99%D0%B0%D0%B4%D0%B3%D0%B0%D1%80-%D1%85%D0%B0%D0%BD" title="Йадгар-хан">Йадгар-хан</a> (Жадигер), сын <a href="/w/index.php?title=%D0%A2%D1%8D%D0%BC%D1%83%D1%80_%D0%A8%D0%B5%D0%B9%D1%85-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Тэмур Шейх-султана (страница отсутствует)">Тэмур Шейх-султана</a>, хан Кок Орды <a href="/wiki/1458" class="mw-redirect" title="1458">1458</a>—<a href="/wiki/1468" class="mw-redirect" title="1468">1468</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BA%D0%B5-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Буреке-султан">Буреке-султан</a>, сын <a href="/wiki/%D0%99%D0%B0%D0%B4%D0%B3%D0%B0%D1%80-%D1%85%D0%B0%D0%BD" title="Йадгар-хан">Йадгар-хана</a>, хан Кок Орды <a href="/wiki/1468" class="mw-redirect" title="1468">1468</a>—<a href="/wiki/1469" class="mw-redirect" title="1469">1469</a></li>
+<li><a href="/w/index.php?title=%D0%98%D0%BB%D0%B0%D0%BA-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Илак-хан (страница отсутствует)">Илак-хан</a>, сын <a href="/wiki/%D0%99%D0%B0%D0%B4%D0%B3%D0%B0%D1%80-%D1%85%D0%B0%D0%BD" title="Йадгар-хан">Йадгар-хана</a>, хан Кок Орды <a href="/wiki/1469" class="mw-redirect" title="1469">1469</a>—<a href="/wiki/1484" class="mw-redirect" title="1484">1484</a></li>
+<li><a href="/w/index.php?title=%D0%90%D0%BC%D0%B8%D0%BD%D0%B5%D0%BA-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Аминек-хан (страница отсутствует)">Аминек-хан</a>, сын <a href="/wiki/%D0%99%D0%B0%D0%B4%D0%B3%D0%B0%D1%80-%D1%85%D0%B0%D0%BD" title="Йадгар-хан">Йадгар-хана</a>, хан Кок Орды <a href="/wiki/1484" class="mw-redirect" title="1484">1484</a>—</li>
+<li><a href="/wiki/%D0%98%D0%BB%D1%8C%D0%B1%D0%B0%D1%80%D1%81" title="Ильбарс">Ильбарс</a>-хан, сын <a href="/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BA%D0%B5-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Буреке-султан">Буреке-султана</a>, хан Кок Орды —<a href="/wiki/1511" class="mw-redirect" title="1511">1511</a>, хан <a href="/wiki/%D0%A5%D0%BE%D1%80%D0%B5%D0%B7%D0%BC" title="Хорезм">Хорезма</a> <a href="/wiki/1511" class="mw-redirect" title="1511">1511</a>—<a href="/wiki/1538" class="mw-redirect" title="1538">1538</a></li></ul>
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.9C.D0.B0.D0.B2.D0.B5.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.85.D1.80.D0.B0"></span><span class="mw-headline" id="Шибаниды_Мавераннахра">Шибаниды <a href="/wiki/%D0%9C%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%85%D1%80" title="Мавераннахр">Мавераннахра</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Мавераннахра»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=7" title="Редактировать раздел «Шибаниды Мавераннахра»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B_%D0%9C%D0%B0%D0%B2%D0%B5%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%85%D1%80%D0%B0" class="mw-redirect" title="Шибаниды Мавераннахра">Шибаниды Мавераннахра</a></b></div>
+<ul><li><a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8-%D1%85%D0%B0%D0%BD" class="mw-redirect" title="Шейбани-хан">Шейбани-хан</a>, сын Шахбудаг-султана, хан Мавераннахра <a href="/wiki/1501" class="mw-redirect" title="1501">1501</a>—<a href="/wiki/1510" class="mw-redirect" title="1510">1510</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%87%D0%BA%D1%83%D0%BD%D0%B4%D0%B6%D0%B8-%D1%85%D0%B0%D0%BD" title="Кучкунджи-хан">Кучкунджи-хан</a>, сын <a href="/wiki/%D0%90%D0%B1%D1%83-%D0%BB-%D1%85%D0%B0%D0%B9%D1%80" class="mw-redirect" title="Абу-л-хайр">Абулхайр-хана</a>, султан Туркестана <a href="/wiki/1501" class="mw-redirect" title="1501">1501</a>—<a href="/wiki/1512" class="mw-redirect" title="1512">1512</a>, хан Мавераннахра <a href="/wiki/1512" class="mw-redirect" title="1512">1512</a>—<a href="/wiki/1530" class="mw-redirect" title="1530">1530</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D1%83_%D0%A1%D0%B0%D0%B8%D0%B4-%D1%85%D0%B0%D0%BD" title="Абу Саид-хан">Абу Саид-хан</a>, сын <a href="/wiki/%D0%9A%D1%83%D1%87%D0%BA%D1%83%D0%BD%D0%B4%D0%B6%D0%B8-%D1%85%D0%B0%D0%BD" title="Кучкунджи-хан">Кучкунджи-хана</a>, хан Мавераннахра <a href="/wiki/1530" class="mw-redirect" title="1530">1530</a>—<a href="/wiki/1533" class="mw-redirect" title="1533">1533</a></li>
+<li><a href="/wiki/%D0%A3%D0%B1%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%B0-%D1%85%D0%B0%D0%BD" title="Убайдулла-хан">Убайдулла-хан</a>, сын <a href="/wiki/%D0%9C%D0%B0%D1%85%D0%BC%D1%83%D0%B4-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Махмуд-султан">Махмуд-султана</a>, султан Бухары <a href="/wiki/1512" class="mw-redirect" title="1512">1512</a>—<a href="/wiki/1533" class="mw-redirect" title="1533">1533</a>, хан Мавераннахра <a href="/wiki/1533" class="mw-redirect" title="1533">1533</a>—<a href="/wiki/1539" class="mw-redirect" title="1539">1539</a></li>
+<li><a href="/wiki/%D0%9F%D0%B8%D1%80%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4-%D1%85%D0%B0%D0%BD" title="Пирмухаммед-хан">Пирмухаммед-хан</a>, сын <a href="/wiki/%D0%94%D0%B6%D0%B0%D0%BD%D0%B8%D0%B1%D0%B5%D0%BA-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Джанибек-султан">Джанибек-султана</a>, султан Балха <a href="/wiki/1546" class="mw-redirect" title="1546">1546</a>—<a href="/wiki/1566" class="mw-redirect" title="1566">1566</a>, султан Бухары <a href="/wiki/1550" class="mw-redirect" title="1550">1550</a>—<a href="/wiki/1551" class="mw-redirect" title="1551">1551</a>, хан Мавераннахра <a href="/wiki/1556" class="mw-redirect" title="1556">1556</a>—<a href="/wiki/1561" class="mw-redirect" title="1561">1561</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80-%D1%85%D0%B0%D0%BD" title="Искандер-хан">Искандер-хан</a>, сын <a href="/wiki/%D0%94%D0%B6%D0%B0%D0%BD%D0%B8%D0%B1%D0%B5%D0%BA-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Джанибек-султан">Джанибек-султана</a>, султан Мианкалы <a href="/wiki/1512" class="mw-redirect" title="1512">1512</a>—<a href="/wiki/1533" class="mw-redirect" title="1533">1533</a>, султан Керминэ <a href="/wiki/1529" class="mw-redirect" title="1529">1529</a>—<a href="/wiki/1533" class="mw-redirect" title="1533">1533</a>, хан Мавераннахра <a href="/wiki/1561" class="mw-redirect" title="1561">1561</a>—<a href="/wiki/1583" class="mw-redirect" title="1583">1583</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B0-%D1%85%D0%B0%D0%BD_II" title="Абдулла-хан II">Абдулла-хан II</a>, сын <a href="/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80-%D1%85%D0%B0%D0%BD" title="Искандер-хан">Искандер-хана</a>, султан Карши <a href="/wiki/1552" class="mw-redirect" title="1552">1552</a>—<a href="/wiki/1554" class="mw-redirect" title="1554">1554</a>, султан Бухары <a href="/wiki/1555" class="mw-redirect" title="1555">1555</a>—<a href="/wiki/1556" class="mw-redirect" title="1556">1556</a>, <a href="/wiki/1557" class="mw-redirect" title="1557">1557</a>—<a href="/wiki/1561" class="mw-redirect" title="1561">1561</a>, султан Керминэ <a href="/wiki/1556" class="mw-redirect" title="1556">1556</a>—<a href="/wiki/1561" class="mw-redirect" title="1561">1561</a>, хан Бухары <a href="/wiki/1561" class="mw-redirect" title="1561">1561</a>—<a href="/wiki/1583" class="mw-redirect" title="1583">1583</a>, хан Мавераннахра <a href="/wiki/1583" class="mw-redirect" title="1583">1583</a>—<a href="/wiki/1598" class="mw-redirect" title="1598">1598</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D0%B4%D0%B0%D0%BB%D0%BC%D1%83%D0%BC%D0%B8%D0%BD-%D1%85%D0%B0%D0%BD" title="Абдалмумин-хан">Абдалмумин-хан</a>, сын <a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B0-%D1%85%D0%B0%D0%BD_II" title="Абдулла-хан II">Абдуллы-хана II</a>, султан Балха <a href="/wiki/1582" class="mw-redirect" title="1582">1582</a>—<a href="/wiki/1583" class="mw-redirect" title="1583">1583</a>, хан Балха <a href="/wiki/1583" class="mw-redirect" title="1583">1583</a>—<a href="/wiki/1598" class="mw-redirect" title="1598">1598</a>, хан Мавераннахра <a href="/wiki/1598" class="mw-redirect" title="1598">1598</a></li>
+<li><a href="/wiki/%D0%9F%D0%B8%D1%80%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4-%D1%85%D0%B0%D0%BD_II" title="Пирмухаммед-хан II">Пирмухаммед-хан II</a>, сын Исфандийар-султана, хан Мавераннахра <a href="/wiki/1598" class="mw-redirect" title="1598">1598</a>—<a href="/wiki/1601" class="mw-redirect" title="1601">1601</a></li></ul>
+<h2><span id=".D0.A8.D0.B8.D0.B1.D0.B0.D0.BD.D0.B8.D0.B4.D1.8B_.D0.A5.D0.BE.D1.80.D0.B5.D0.B7.D0.BC.D0.B0_.281511.E2.80.941728.29"></span><span class="mw-headline" id="Шибаниды_Хорезма_(1511—1728)">Шибаниды <a href="/wiki/%D0%A5%D0%BE%D1%80%D0%B5%D0%B7%D0%BC" title="Хорезм">Хорезма</a> (1511—1728)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Шибаниды Хорезма (1511—1728)»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=8" title="Редактировать раздел «Шибаниды Хорезма (1511—1728)»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B_%D0%A5%D0%BE%D1%80%D0%B5%D0%B7%D0%BC%D0%B0" class="mw-redirect" title="Шибаниды Хорезма">Шибаниды Хорезма</a></b></div>
+<ul><li><a href="/wiki/%D0%98%D0%BB%D1%8C%D0%B1%D0%B0%D1%80%D1%81" title="Ильбарс">Ильбарс-хан</a>, сын <a href="/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%BA%D0%B5-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Буреке-султан">Буреке-султана</a>, хан Кок Орды —<a href="/wiki/1511" class="mw-redirect" title="1511">1511</a>, хан Хорезма <a href="/wiki/1511" class="mw-redirect" title="1511">1511</a>—<a href="/wiki/1518" class="mw-redirect" title="1518">1518</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8-%D1%85%D0%B0%D0%BD" title="Султан Хаджи-хан">Султан Хаджи-хан</a>, сын <a href="/w/index.php?title=%D0%91%D0%B8%D0%BB%D1%8C%D0%B1%D0%B0%D1%80%D1%81_%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D0%B4%D0%B6-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Бильбарс Паландж-султан (страница отсутствует)">Бильбарс Паландж-султана</a>, хан Хорезма <a href="/wiki/1518" class="mw-redirect" title="1518">1518</a>—<a href="/wiki/1519" class="mw-redirect" title="1519">1519</a></li>
+<li><a href="/wiki/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BA%D1%83%D0%BB%D0%B8-%D1%85%D0%B0%D0%BD" title="Хасанкули-хан">Хасанкули-хан</a>, сын <a href="/w/index.php?title=%D0%90%D0%B1%D1%83%D0%BB%D0%B5%D0%BA-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Абулек-хан (страница отсутствует)">Абулек-хана</a>, хан Хорезма <a href="/wiki/1519" class="mw-redirect" title="1519">1519</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D1%84%D0%B8%D1%8F%D0%BD-%D1%85%D0%B0%D0%BD" title="Суфиян-хан">Суфиян-хан</a>, сын <a href="/w/index.php?title=%D0%90%D0%BC%D0%B8%D0%BD%D0%B5%D0%BA-%D1%85%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Аминек-хан (страница отсутствует)">Аминек-хана</a>, хан Хорезма <a href="/wiki/1519" class="mw-redirect" title="1519">1519</a>—<a href="/wiki/1522" class="mw-redirect" title="1522">1522</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D0%B4%D0%B6%D1%83%D0%B3%D0%B0-%D1%85%D0%B0%D0%BD" title="Буджуга-хан">Буджуга-хан</a>, сын Аминек-хана, хан Хорезма <a href="/wiki/1522" class="mw-redirect" title="1522">1522</a>—<a href="/wiki/1526" class="mw-redirect" title="1526">1526</a></li>
+<li><a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D0%B5%D1%88-%D1%85%D0%B0%D0%BD" title="Аванеш-хан">Аванеш-хан</a>, сын Аминек-хана, хан Хорезма <a href="/wiki/1526" class="mw-redirect" title="1526">1526</a>—<a href="/wiki/1538" class="mw-redirect" title="1538">1538</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BB-%D1%85%D0%B0%D0%BD" title="Кал-хан">Кал-хан</a>, сын Аминек-хана, хан Хорезма <a href="/wiki/1541" class="mw-redirect" title="1541">1541</a>—<a href="/wiki/1547" class="mw-redirect" title="1547">1547</a></li>
+<li><a href="/wiki/%D0%90%D0%B3%D0%B0%D1%82%D0%B0%D0%B9-%D1%85%D0%B0%D0%BD" title="Агатай-хан">Агатай-хан</a>, сын Аминек-хана, хан Хорезма <a href="/wiki/1547" class="mw-redirect" title="1547">1547</a>—<a href="/wiki/1557" class="mw-redirect" title="1557">1557</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D1%81%D1%82-%D1%85%D0%B0%D0%BD" title="Дост-хан">Дост-хан</a>, сын Агатай-хана, хан Хорезма <a href="/wiki/1557" class="mw-redirect" title="1557">1557</a>—<a href="/wiki/1558" class="mw-redirect" title="1558">1558</a></li>
+<li><a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4-%D1%85%D0%B0%D0%BD" title="Хаджи Мухаммад-хан">Хаджи Мухаммад-хан</a>, сын <a href="/wiki/%D0%90%D0%B3%D0%B0%D1%82%D0%B0%D0%B9-%D1%85%D0%B0%D0%BD" title="Агатай-хан">Агатай-хана</a>, хан Хорезма <a href="/wiki/1558" class="mw-redirect" title="1558">1558</a>—<a href="/wiki/1603" class="mw-redirect" title="1603">1603</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4-%D1%85%D0%B0%D0%BD" title="Араб Мухаммад-хан">Араб Мухаммад-хан</a>, сын Хаджи Мухаммад-хана, хан Хорезма <a href="/wiki/1603" class="mw-redirect" title="1603">1603</a>—<a href="/wiki/1621" class="mw-redirect" title="1621">1621</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D0%B0%D0%B1%D0%B0%D1%88_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Хабаш султан (страница отсутствует)">Хабаш султан</a> и <a href="/w/index.php?title=%D0%98%D0%BB%D1%8C%D0%B1%D0%B0%D1%80%D1%81_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Ильбарс султан (страница отсутствует)">Ильбарс султан</a>, сыновья Араб Мухаммад-хана <a href="/wiki/1621" class="mw-redirect" title="1621">1621</a>—<a href="/wiki/1623" class="mw-redirect" title="1623">1623</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%84%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F%D1%80-%D1%85%D0%B0%D0%BD" title="Исфандияр-хан">Исфандияр-хан</a>, сын Араб Мухаммад-хана, хан Хорезма <a href="/wiki/1623" class="mw-redirect" title="1623">1623</a>—<a href="/wiki/1643" class="mw-redirect" title="1643">1643</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D1%83%D0%BB%D0%B3%D0%B0%D0%B7%D0%B8" class="mw-redirect" title="Абулгази">Абу-л-Гази-хан</a>, сын Араб Мухаммад-хана, хан Хорезма <a href="/wiki/1643" class="mw-redirect" title="1643">1643</a>—<a href="/wiki/1663" class="mw-redirect" title="1663">1663</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D1%83%D1%88%D0%B0-%D1%85%D0%B0%D0%BD" title="Ануша-хан">Абу-л-Музаффар Мухаммад Ануша-хан</a>, сын Абу-л-Гази-хана, хан Хорезма <a href="/wiki/1663" class="mw-redirect" title="1663">1663</a>—<a href="/wiki/1686" class="mw-redirect" title="1686">1686</a></li>
+<li><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%B0%D0%B9%D0%B4%D0%B0%D0%B4-%D1%85%D0%B0%D0%BD" title="Худайдад-хан">Худайдад-хан</a>, сын Мухаммад Ануша-хана, хан Хорезма <a href="/wiki/1686" class="mw-redirect" title="1686">1686</a>—<a href="/wiki/1689" class="mw-redirect" title="1689">1689</a></li>
+<li><a href="/wiki/%D0%AD%D1%80%D0%B5%D0%BD%D0%B3-%D1%85%D0%B0%D0%BD" title="Эренг-хан">Эренг-хан</a>, сын Мухаммад Ануша-хана, хан Хорезма <a href="/wiki/1689" class="mw-redirect" title="1689">1689</a>—<a href="/wiki/1694" class="mw-redirect" title="1694">1694</a></li>
+<li><a href="/wiki/%D0%94%D0%B6%D0%BE%D1%87%D0%B8-%D1%85%D0%B0%D0%BD" title="Джочи-хан">Джочи-хан</a>, сын Хаджи Мухаммад-хана, хан Хорезма <a href="/wiki/1694" class="mw-redirect" title="1694">1694</a>—<a href="/wiki/1697" class="mw-redirect" title="1697">1697</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%B8%D1%85%D0%B0%D0%BD" title="Валихан">Валихан</a>, сын Хаджи Мухаммад-хана, хан Хорезма <a href="/wiki/1697" class="mw-redirect" title="1697">1697</a>—<a href="/wiki/1698" class="mw-redirect" title="1698">1698</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%85%D0%BD%D0%B8%D1%8F%D0%B7-%D1%85%D0%B0%D0%BD" title="Шахнияз-хан">Шахнияз-хан</a>, сын Джочи-хана, хан Хорезма <a href="/wiki/1698" class="mw-redirect" title="1698">1698</a>—<a href="/wiki/1702" class="mw-redirect" title="1702">1702</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%85%D0%B1%D0%B0%D1%85%D1%82-%D1%85%D0%B0%D0%BD" title="Шахбахт-хан">Шахбахт-хан</a>, сын Шахнияз-хана, хан Хорезма <a href="/wiki/1702" class="mw-redirect" title="1702">1702</a>—<a href="/wiki/1703" class="mw-redirect" title="1703">1703</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%B9%D0%B8%D0%B4_%D0%90%D0%BB%D0%B8-%D1%85%D0%B0%D0%BD" title="Сайид Али-хан">Сайид Али-хан</a>, сын Шахнияз-хана, хан Хорезма <a href="/wiki/1703" class="mw-redirect" title="1703">1703</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D0%B0%D1%85%D0%B0%D0%BD" title="Мусахан">Мусахан</a>, сын Джочи-хана, хан Хорезма <a href="/wiki/1703" class="mw-redirect" title="1703">1703</a>—<a href="/wiki/1704" class="mw-redirect" title="1704">1704</a></li>
+<li><a href="/wiki/%D0%99%D0%B0%D0%B4%D0%B8%D0%B3%D0%B0%D1%80-%D1%85%D0%B0%D0%BD" title="Йадигар-хан">Йадигар-хан</a>, сын Хаджи Мухаммад-хана, хан Хорезма <a href="/wiki/1704" class="mw-redirect" title="1704">1704</a>—<a href="/wiki/1714" class="mw-redirect" title="1714">1714</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D1%80%D0%B3%D0%B0%D0%B7%D0%B8-%D1%85%D0%B0%D0%BD" title="Шергази-хан">Шергази-хан</a>, хан Хорезма <a href="/wiki/1714" class="mw-redirect" title="1714">1714</a>—<a href="/wiki/1728" class="mw-redirect" title="1728">1728</a></li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=9" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Шейбаниды">Шейбаниды</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=10" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Султанов Т. И., Чингиз-хан и чингизиды. Москва: АСТ, 2006,с.218</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=11" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Абд ал-Кадир ибн Мухаммад-Амин.</i>&#32;<span data-wikidata-qualifier-id="P248">Маджма ал-ансаб ва-л-ашджар</span>&#32;&#47;&#47;&#32;История Казахстана в персидских источниках&#32;&#47;&#32;Отв. ред. А. К. Муминов.&#160;— Алма-Ата: Дайк-Пресс, 2005.&#160;— Т.&#160;2.&#160;— С.&#160;276—277.&#160;— 692&#160;с.&#160;— <span class="nowrap">3,000 экз.</span>&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9965699895" class="internal mw-magiclink-isbn">ISBN 9965-699-89-5</a>.</span></li>
+<li><i><a href="/wiki/%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D1%8C%D0%B4,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бартольд, Василий Владимирович">Бартольд В. В.</a></i> Соч. Т. 2, ч. 2. М., 1964.</li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/%D0%91%D0%BE%D1%81%D0%B2%D0%BE%D1%80%D1%82,_%D0%9A%D0%BB%D0%B8%D1%84%D1%84%D0%BE%D1%80%D0%B4_%D0%AD%D0%B4%D0%BC%D1%83%D0%BD%D0%B4" class="mw-redirect" title="Босворт, Клиффорд Эдмунд">Босворт К. Э.</a></i>&#32;Мусульманские династии. Справочник по хронологии и генеалогии&#32;&#61;&#32;The Islamic Dynasties. A Chronological and Genealogical Handbook.&#160;— <abbr title="Москва">М.</abbr>: Наука, 1971.&#160;— С.&#160;207—208.&#160;— 324&#160;с.&#160;— <span class="nowrap">14,000 экз.</span></span></li>
+<li>История Узбекской ССР. Т. 1. Ташкент, 1967.</li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B0%D0%BB_%D0%B0%D0%B4-%D0%B4%D0%B8%D0%BD_%D0%91%D0%B8%D0%BD%D0%B0%D0%B8" class="mw-redirect" title="Камал ад-дин Бинаи">Камал ад-дин Бинаи</a>.</i>&#32;<span data-wikidata-qualifier-id="P248"><a rel="nofollow" class="external text" href="http://www.vostlit.info/Texts/rus15/Binai/frametext.htm">Шайбани-наме</a></span>&#32;&#47;&#47;&#32;Материалы по истории казахских ханств XV-XVIII веков (Извлечения из персидских и тюркских сочинений).&#160;— Алма-Ата: Наука, 1969.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Махмуд бен Вали.</i>&#32;<span data-wikidata-qualifier-id="P248"><a rel="nofollow" class="external text" href="http://www.vostlit.info/Texts/rus15/Machmud_ben_Vali/frametext.htm">Море тайн, относительно доблестей благородных</a></span>&#32;&#47;&#47;&#32;Материалы по истории казахских ханств XV-XVIII веков (Извлечения из персидских и тюркских сочинений).&#160;— Алма-Ата, 1969.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Сабитов Ж. М.</i>&#32;<a rel="nofollow" class="external text" href="http://files.istorichka.ru/FTP/Vostokovedenie/sabitov_genealogy_juchid.pdf">Генеалогия Торе</a>.&#160;— 3-е изд.&#160;— Алма-Ата: Наука, 2008.&#160;— С.&#160;24—26, 31.&#160;— 326&#160;с.&#160;— <span class="nowrap">1,000 экз.</span>&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9965941629" class="internal mw-magiclink-isbn">ISBN 9965-9416-2-9</a>.</span> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120127230618/http://files.istorichka.ru/FTP/Vostokovedenie/sabitov_genealogy_juchid.pdf">Архивная копия</a> от 27 января 2012 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;section=12" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.hrono.ru/geneal/geanl_chx_11.html">Дом Джучи. Потомки Шейбана (генеалогические таблицы).</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Династии_тюрко-монгольского_происхождения" data-name="Династии тюрко-монгольского происхождения"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%94%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%B8_%D1%82%D1%8E%D1%80%D0%BA%D0%BE-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Перейти к шаблону «Династии тюрко-монгольского происхождения»"><img alt="Перейти к шаблону «Династии тюрко-монгольского происхождения»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Династии_тюрко-монгольского_происхождения" style="font-size:114%;margin:0 5em">Династии тюрко-монгольского происхождения</div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
+<ul><li><a href="/wiki/%D0%90%D0%B6%D1%8D" title="Ажэ">Ажэ</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%88%D0%B0%D1%85%D0%B8%D0%B4%D1%8B" title="Арабшахиды">Арабшахиды</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B3%D1%83%D0%BD_(%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F)" title="Аргун (династия)">Аргуны</a></li>
+<li><a href="/wiki/%D0%90%D1%88%D1%82%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Аштарханиды">Аштарханиды</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5_%D0%9C%D0%BE%D0%B3%D0%BE%D0%BB%D1%8B" title="Великие Моголы">Великие Моголы</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D1%80%D0%B5%D0%B8" title="Гиреи">Гиреи</a></li>
+<li><a href="/wiki/%D0%94%D0%B6%D0%B0%D0%BB%D0%B0%D0%B8%D1%80%D0%B8%D0%B4%D1%8B" title="Джалаириды">Джалаириды</a></li>
+<li><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%8B" title="Османы">Османы</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D0%B4%D0%B6%D1%83%D0%BA%D0%B8%D0%B4%D1%8B" title="Сельджукиды">Сельджукиды</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D1%84%D0%B8%D0%B4%D1%8B" title="Суфиды">Суфиды</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%B9%D0%B1%D1%83%D0%B3%D0%B8%D0%BD%D1%8B" title="Тайбугины">Тайбугины</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BC%D1%83%D1%80%D0%B8%D0%B4%D1%8B" title="Тимуриды">Тимуриды</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D1%80%D0%B5" title="Торе">Торе</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%B3%D0%BB%D1%83%D0%BA%D1%82%D0%B8%D0%BC%D1%83%D1%80%D0%B8%D0%B4%D1%8B" title="Туглуктимуриды">Туглуктимуриды</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%BA%D0%B0%D1%82%D0%B8%D0%BC%D1%83%D1%80%D0%B8%D0%B4%D1%8B" title="Тукатимуриды">Тукатимуриды</a></li>
+<li><a href="/wiki/%D0%A5%D1%83%D0%BB%D0%B0%D0%B3%D1%83%D0%B8%D0%B4%D1%8B" title="Хулагуиды">Хулагуиды</a></li>
+<li><a href="/wiki/%D0%A7%D0%B0%D0%B3%D0%B0%D1%82%D0%B0%D0%B8%D0%B4%D1%8B" title="Чагатаиды">Чагатаиды</a></li>
+<li><a href="/wiki/%D0%A7%D0%BE%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Чобаниды">Чобаниды</a></li>
+<li><a href="/wiki/%D0%A8%D0%B5%D0%B9%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Шейбаниды">Шейбаниды</a></li>
+<li><a class="mw-selflink selflink">Шибаниды</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2304
+Cached time: 20230317101916
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc, no‐toc‐conversion]
+CPU time usage: 0.177 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 2671/1000000
+Post‐expand include size: 24246/2097152 bytes
+Template argument size: 6264/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 384/5000000 bytes
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 3494630/52428800 bytes
+Number of Wikibase entities loaded: 4/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  189.883      1 -total
+ 48.26%   91.636      1 Шаблон:Королевский_дом
+ 47.37%   89.953      1 Шаблон:Карточка
+ 18.38%   34.902      3 Шаблон:Wikidata
+ 16.23%   30.821      1 Шаблон:Карточка/оригинал_названия
+ 16.22%   30.802      5 Шаблон:Книга
+ 15.72%   29.858      1 Шаблон:Не_путать
+ 14.46%   27.449      1 Шаблон:Другое_значение
+  9.30%   17.660      1 Шаблон:Династии_тюрко-монгольского_происхождения
+  8.38%   15.907      1 Шаблон:Навигационная_полоса
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:168391-0!canonical and timestamp 20230317101916 and revision id 129275484. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Шибаниды&amp;oldid=129275484">https://ru.wikipedia.org/w/index.php?title=Шибаниды&amp;oldid=129275484</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%9E%D1%80%D0%B4%D1%8B" title="Категория:Правители Золотой Орды">Правители Золотой Орды</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Правители Сибирского ханства">Правители Сибирского ханства</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Категория:Шибаниды">Шибаниды</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;oldid=129275484" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;id=129275484&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q32360669" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q32360669#sitelinks-wikipedia" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 17 марта 2023 в 10:19.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.177","walltime":"0.244","ppvisitednodes":{"value":2671,"limit":1000000},"postexpandincludesize":{"value":24246,"limit":2097152},"templateargumentsize":{"value":6264,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":384,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  189.883      1 -total"," 48.26%   91.636      1 Шаблон:Королевский_дом"," 47.37%   89.953      1 Шаблон:Карточка"," 18.38%   34.902      3 Шаблон:Wikidata"," 16.23%   30.821      1 Шаблон:Карточка/оригинал_названия"," 16.22%   30.802      5 Шаблон:Книга"," 15.72%   29.858      1 Шаблон:Не_путать"," 14.46%   27.449      1 Шаблон:Другое_значение","  9.30%   17.660      1 Шаблон:Династии_тюрко-монгольского_происхождения","  8.38%   15.907      1 Шаблон:Навигационная_полоса"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":3494630,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P527 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw2304","timestamp":"20230317101916","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2336","wgBackendResponseTime":101});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0428\u0438\u0431\u0430\u043d\u0438\u0434\u044b","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B","sameAs":"http:\/\/www.wikidata.org\/entity\/Q32360669","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q32360669","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-15T12:23:10Z","dateModified":"2023-03-17T10:19:14Z","headline":"\u0447\u0438\u043d\u0433\u0438\u0437\u0438\u0434\u044b, \u043f\u043e\u0442\u043e\u043c\u043a\u0438 \u0428\u0438\u0431\u0430\u043d\u0430, \u043f\u044f\u0442\u043e\u0433\u043e \u0441\u044b\u043d\u0430 \u0414\u0436\u0443\u0447\u0438"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0428\u0438\u0431\u0430\u043d\u0438\u0434\u044b","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B","sameAs":"http:\/\/www.wikidata.org\/entity\/Q32360669","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q32360669","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-15T12:23:10Z","dateModified":"2023-03-17T10:19:14Z","headline":"\u0447\u0438\u043d\u0433\u0438\u0437\u0438\u0434\u044b, \u043f\u043e\u0442\u043e\u043c\u043a\u0438 \u0428\u0438\u0431\u0430\u043d\u0430, \u043f\u044f\u0442\u043e\u0433\u043e \u0441\u044b\u043d\u0430 \u0414\u0436\u0443\u0447\u0438"}</script>
+</body>
+</html>

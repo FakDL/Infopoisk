@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Пигафетта, Антонио — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9abe160a-0b76-4043-89c0-598b93e91689","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Пигафетта,_Антонио","wgTitle":"Пигафетта, Антонио","wgCurRevisionId":128458384,"wgRevisionId":128458384,"wgArticleId":725162,"wgIsArticle":true,"wgIsRedirect":false,
+"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Локальная подпись у изображения из Викиданных","Родившиеся в 1492 году","Родившиеся в Виченце","Умершие в 1531 году","Умершие в Виченце","Мальтийские рыцари","Персоналии по алфавиту","Персоналии:История Италии","Мореплаватели Италии","Исследователи Южной Америки","История Чили","История Аргентины","Путешественники XVI века","Участники кругосветных путешествий","Авторы дневников"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Пигафетта,_Антонио","wgRelevantArticleId":725162,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":128458384,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q310922","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8c/Antonio_pigafetta.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1680"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8c/Antonio_pigafetta.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1120"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="896"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Пигафетта, Антонио — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Пигафетта_Антонио rootpage-Пигафетта_Антонио skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Пигафетта, Антонио</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox infobox-fdca5fc038e341d6" style="" data-name="Персона"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Антонио Пигафетта</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-claim-id="Q310922$bd621fa5-4eaa-76c4-c15a-12e8913467b9" class="wikidata-claim" data-wikidata-property-id="P1559&#91;LANGUAGE!:RU&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;">Antonio Pigafetta</span></span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="q310922$03315A3B-2C72-4639-B75A-72BBA1D5978D" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Antonio_pigafetta.png" class="image"><img alt="Antonio pigafetta.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Antonio_pigafetta.png/274px-Antonio_pigafetta.png" decoding="async" width="274" height="384" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Antonio_pigafetta.png/411px-Antonio_pigafetta.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8c/Antonio_pigafetta.png 2x" data-file-width="445" data-file-height="623" /></a><br /></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q310922$E2E4CD75-4F1F-412D-BB82-303409735DF4" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak">около <span class="nowrap"><a href="/wiki/1492_%D0%B3%D0%BE%D0%B4" title="1492 год">1492</a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q310922$53E80346-9BE7-4A67-AD09-E622CD381220" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B8%D1%87%D0%B5%D0%BD%D1%86%D0%B0" title="Виченца">Виченца</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F_(%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Венеция (область)">Венеция</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;смерти</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q310922$BFA5458C-71DC-45BB-A070-F87ECC67D863" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1531_%D0%B3%D0%BE%D0%B4" title="1531 год">1531</a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место смерти</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q310922$2C84C5A1-8FE4-4A58-B6C4-60F538A574E3" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B8%D1%87%D0%B5%D0%BD%D1%86%D0%B0" title="Виченца">Виченца</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F_(%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Венеция (область)">Венеция</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q310922$DB4DA088-660B-4B7F-822E-67F78D116C35" class="wikidata-claim" data-wikidata-property-id="P27"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Most_Serene_Republic_of_Venice.svg/20px-Flag_of_Most_Serene_Republic_of_Venice.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Most_Serene_Republic_of_Venice.svg/30px-Flag_of_Most_Serene_Republic_of_Venice.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Most_Serene_Republic_of_Venice.svg/40px-Flag_of_Most_Serene_Republic_of_Venice.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Венецианская республика">Венецианская республика</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="q310922$3EE97A34-FD72-45EA-AF83-B0A736F4C0FC" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Территориальное исследование">путешественник-исследователь</a></span></span>,&#32;<span data-wikidata-claim-id="Q310922$CE3112B4-67E6-455C-AE34-C1B2A8982943" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Писатель">писатель</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Награды и премии</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P166" class="no-wikidata">
+<div>
+<table>
+<tbody><tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD" title="Рыцарь Мальтийского ордена"><img alt="Рыцарь Мальтийского ордена" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Order_of_St._Giovanni_of_Gerusalem-Rhodes-Malta_BAR.svg/60px-Order_of_St._Giovanni_of_Gerusalem-Rhodes-Malta_BAR.svg.png" decoding="async" width="60" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Order_of_St._Giovanni_of_Gerusalem-Rhodes-Malta_BAR.svg/90px-Order_of_St._Giovanni_of_Gerusalem-Rhodes-Malta_BAR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Order_of_St._Giovanni_of_Gerusalem-Rhodes-Malta_BAR.svg/120px-Order_of_St._Giovanni_of_Gerusalem-Rhodes-Malta_BAR.svg.png 2x" data-file-width="218" data-file-height="60" /></a>
+</td></tr></tbody></table>
+</div></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q310922$4BE46089-68A5-475E-8B24-F7D37CBFA5AD" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Antonio_Pigafetta" title="commons:Category:Antonio Pigafetta"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Antonio_Pigafetta" class="extiw" title="commons:Category:Antonio Pigafetta">Медиафайлы на Викискладе</a></span></span></td></tr><tr><td colspan="2" class="infobox-below" style=";"><a href="https://ru.wikisource.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0" title="Логотип Викитеки"><img alt="Логотип Викитеки" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" decoding="async" width="15" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a> <a href="https://ru.wikisource.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0" class="extiw" title="s:Антонио Пигафетта">Произведения в Викитеке</a></td></tr>
+</tbody></table>
+<p><b>Анто́нио Франче́ско Пигафе́тта</b> (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;">Antonio Pigafetta</span>) — итальянский мореплаватель, участник <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D1%81%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Первое кругосветное плавание">первого в истории кругосветного плавания</a>
+— экспедиции <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD" class="mw-redirect" title="Магеллан">Магеллана</a>-<a href="/wiki/%D0%AD%D0%BB%D1%8C%D0%BA%D0%B0%D0%BD%D0%BE" class="mw-redirect" title="Элькано">Элькано</a> (1519—1522). Дневники Пигафетта стали основным источником сведений об экспедиции Магеллана, а также первым доступным в Европе документом о <a href="/wiki/%D0%A1%D0%B5%D0%B1%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Себуанский язык">себуанском языке</a> <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B" title="Филиппины">Филиппинских островов</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Путешествие"><span class="tocnumber">2</span> <span class="toctext">Путешествие</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#«Путешествие_Магеллана»"><span class="tocnumber">3</span> <span class="toctext">«Путешествие Магеллана»</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span><span class="mw-headline" id="Биография">Биография</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Биография»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit&amp;section=1" title="Редактировать раздел «Биография»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>О жизни мореплавателя известно очень мало. Антонио Пигафетта родился между 1480 и 1491 годом в республике Венеция, в городе <a href="/wiki/%D0%92%D0%B8%D1%87%D0%B5%D0%BD%D1%86%D0%B0" title="Виченца">Виченца</a>, был родом из богатой семьи. Отцом его был Джованни Антонио Пигафетта, достоверных сведений о том, кем являлась мать путешественника, не сохранилось. Сам Антонио Пигафетта утверждал, что в молодости он занимался изучением <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Астрономия">астрономии</a>, <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="География">географии</a> и <a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Картография">картографии</a>, и преуспевал в этом начинании. В <a href="/wiki/1518_%D0%B3%D0%BE%D0%B4" title="1518 год">1518 году</a> сопровождал <a href="/wiki/%D0%9D%D1%83%D0%BD%D1%86%D0%B8%D0%B9" class="mw-redirect" title="Нунций">нунция</a> <a href="/wiki/%D0%9B%D0%B5%D0%B2_X" title="Лев X">папы Льва X</a>, <a href="https://en.wikipedia.org/wiki/Francesco_Chieregati" class="extiw" title="en:Francesco Chieregati">Франческо Кьерикати</a>, по пути в Испанию<sup id="cite_ref-autogenerated1_2-0" class="reference"><a href="#cite_note-autogenerated1-2">&#91;2&#93;</a></sup>. В начале своей карьеры служил на кораблях <a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D1%80%D1%8B" title="Госпитальеры">госпитальеров</a>.
+</p>
+<h2><span id=".D0.9F.D1.83.D1.82.D0.B5.D1.88.D0.B5.D1.81.D1.82.D0.B2.D0.B8.D0.B5"></span><span class="mw-headline" id="Путешествие">Путешествие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Путешествие»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit&amp;section=2" title="Редактировать раздел «Путешествие»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Находясь в Севилье, Пигафетта узнал о планируемой экспедиции под руководством <a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD" class="mw-redirect" title="Фернан Магеллан">Магеллана</a>, целью которой было открытие краткого пути к Индии, и принял решение наняться в качестве внештатного члена команды, добровольца с низким окладом в 1000 <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%B8" title="Мараведи">мараведи</a>. В документах он значился как пассажир и был записан как «Антонио Ломбардо», «Антонио из Ломбардии». В начале плавания у Антонио были трудные отношения с <a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD" class="mw-redirect" title="Фернан Магеллан">Магелланом</a>, но позже Пигафетта смог завоевать его доверие, служил картографом и лингвистом<sup id="cite_ref-autogenerated1_2-1" class="reference"><a href="#cite_note-autogenerated1-2">&#91;2&#93;</a></sup>.
+</p><p>Экспедиция, состоявшая из пяти кораблей и 256 человек, отправившись из Севильи, достигла устья <a href="/wiki/%D0%9B%D0%B0-%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_(%D1%8D%D1%81%D1%82%D1%83%D0%B0%D1%80%D0%B8%D0%B9)" title="Ла-Плата (эстуарий)">Рио-де-ла-Плата</a>, обогнула берега <a href="/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B8%D1%8F" title="Патагония">Патагонии</a>, 18 октября вышла ко входу в пролив.
+</p><p>В <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9C%D0%B0%D0%BA%D1%82%D0%B0%D0%BD%D0%B5" title="Битва при Мактане">битве при Мактане</a>, в которой Магеллан был убит, Антонио Пигафетта был ранен, но сумел выжить и под командованием нового капитана <a href="/wiki/%D0%AD%D0%BB%D1%8C%D0%BA%D0%B0%D0%BD%D0%BE,_%D0%A5%D1%83%D0%B0%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD" title="Элькано, Хуан Себастьян">Хуана Себастьяна Элькано</a> продолжил обратный путь. Последняя запись в дневнике А. Пигафетты была внесена 8 сентября 1522 года<sup id="cite_ref-autogenerated1_2-2" class="reference"><a href="#cite_note-autogenerated1-2">&#91;2&#93;</a></sup>. Он оказался среди 18 человек, вернувшихся вместе с Элькано обратно в Европу на борту «Виктории». Высадившись в испанском порту <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BB%D1%83%D0%BA%D0%B0%D1%80-%D0%B4%D0%B5-%D0%91%D0%B0%D1%80%D1%80%D0%B0%D0%BC%D0%B5%D0%B4%D0%B0" title="Санлукар-де-Баррамеда">Санлукар-де-Баррамеда</a> в современной провинции <a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%B8%D1%81" title="Кадис">Кадис</a> в сентябре 1522 года, спустя 3 года после отплытия, Пигафетта вернулся в Венецианскую республику.
+</p><p>После путешествия Пигафетта использовал связи, установленные до путешествия с <a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%B5%D1%80%D1%8B" title="Госпитальеры">Рыцарями Родоса</a>, чтобы стать членом ордена.
+</p>
+<h2><span id=".C2.AB.D0.9F.D1.83.D1.82.D0.B5.D1.88.D0.B5.D1.81.D1.82.D0.B2.D0.B8.D0.B5_.D0.9C.D0.B0.D0.B3.D0.B5.D0.BB.D0.BB.D0.B0.D0.BD.D0.B0.C2.BB"></span><span class="mw-headline" id="«Путешествие_Магеллана»">«Путешествие Магеллана»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел ««Путешествие Магеллана»»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit&amp;section=3" title="Редактировать раздел ««Путешествие Магеллана»»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>«Отчет о первом кругосветном путешествии» (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;">Relazione del primo viaggio intorno al mondo</span>) был составлен на итальянском языке и первоначально распространялся среди европейских монархов в рукописной форме, прежде чем был опубликован в конечном виде итальянским историком <a href="/wiki/%D0%A0%D0%B0%D0%BC%D1%83%D0%B7%D0%B8%D0%BE,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8_%D0%91%D0%B0%D1%82%D1%82%D0%B8%D1%81%D1%82%D0%B0" title="Рамузио, Джованни Баттиста">Джованни Баттистой Рамузио</a> в 1550–1559 гг.
+</p><p>Сегодня сохранились четыре рукописи, три написаны на французском языке (две хранятся в Национальной библиотеке Франции и одна в Челтенхэме), а одна — на итальянском; а также три печатные книги, одна написана на французском языке, две остальные — на итальянском. Оригинальное произведение не сохранилось.
+</p><p>Отчет сосредоточен на событиях на Марианских островах и на Филиппинах, хотя включает также несколько карт других областей, в том числе первое известное использование слова «Тихий океан» (Oceano Pacifico) на картах.
+</p><p>В письменном труде Пигафетты были собраны многочисленные и уникальные данные о <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="География">географии</a>, <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B0" title="Флора">флоре</a>, <a href="/wiki/%D0%A4%D0%B0%D1%83%D0%BD%D0%B0" title="Фауна">фауне</a>, <a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B0%D1%82" title="Климат">климате</a> и жителях тех мест, в которых он побывал в рамках экспедиции. Сведения, содержащиеся в его дневнике, а также детальные и красочные описания, играют важную роль в изучении первого кругосветного мореплавания, без них представление о путешествии Магеллана было бы неполным.
+</p><p>Однако европейцы впервые узнали о кругосветном плавании не через сочинения Пигафетты, а вскоре после завершения экспедиции, через отчет, написанный писателем из <a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%8F_(%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Фландрия (историческая область)">Фландрии</a> <a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD" title="Максимилиан Трансильван">Максимилианом Трансильванусом</a>, опубликованным в 1523 году. Трансильвану было поручено взять интервью у некоторых из оставшихся в живых после путешествия в сентябре 1522 года.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit&amp;section=4" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Объяснение на итальянском сайте</span>
+</li>
+<li id="cite_note-autogenerated1-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-autogenerated1_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-autogenerated1_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-autogenerated1_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><i>Пигафетта А.</i> Путешествие Магеллана. — М.: <a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BC%D0%BE" title="Эксмо">Эксмо</a>, 2009. — 478 с.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit&amp;section=5" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Magellan’s Voyage around the World by Antonio Pigafetta — The original text of the Ambrosian ms. translated by James Alexander Robertson, Cleveland&#160;: The Arthur H. Clark Company (1906); Vol 1, Vol. 2, Vol. 3</li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit&amp;section=6" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.vostlit.info/haupt-Dateien/index-Dateien/P.phtml?id=2056">Пигафетта, Антонио</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_(%D1%81%D0%B0%D0%B9%D1%82)" title="Восточная литература (сайт)">Восточная литература</a>.&#32;<small>Дата обращения: 16 апреля 2011.</small></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.memoriachilena.cl//temas/documento_detalle.asp?id=MC0000793">Pigafetta, Antonio. Primer viaje alrededor del mundo</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vostlit.info/Texts/rus7/Pigafetta/frametext1.htm">А. Пигафетта. «ПУТЕШЕСТВИЕ МАГЕЛЛАНА» (часть 1)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vostlit.info/Texts/rus7/Pigafetta/frametext2.htm">А. Пигафетта. «ПУТЕШЕСТВИЕ МАГЕЛЛАНА» (часть 2)</a></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q310922#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.gutenberg.org/ebooks/author/41908">Проект «Гутенберг»</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.treccani.it/enciclopedia/antonio-pigafetta_(Dizionario-Biografico)">Биографический итальянцев</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0050896.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://snl.no/Antonio_Pigafetta">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="https://old.bigenc.ru/text/3138080">Большая российская</a></li>
+<li><a rel="nofollow" class="external text" href="https://dbe.rah.es/biografias/14159/antonio-pigafetta-vicentino">Испанский биографический</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.treccani.it/enciclopedia/antonio-pigafetta_(Enciclopedia-Italiana)">Итальянская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Antonio-Pigafetta">Britannica (онлайн)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.treccani.it/enciclopedia/antonio-pigafetta">Treccani</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>BIBSYS: <a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90527546">90527546</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8" title="Библиотека Каталонии">BNC</a>: <a rel="nofollow" class="external text" href="https://cantic.bnc.cat/registres/CUCId/a20118284">a20118284</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Национальная библиотека Испании">BNE</a>: <a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX889523">XX889523</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12002909h">12002909h</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/119316498">119316498</a></li>
+<li><span title="Istituto Centrale per il Catalogo Unico" style="border-bottom: 1px dotted; cursor: help;">ICCU</span>: <a rel="nofollow" class="external text" href="https://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=PUVV357331">PUVV357331</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/000000012096717X">0000 0001 2096 717X</a>, <a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000118621161">0000 0001 1862 1161</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007506192505171">987007506192505171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n50036742">n50036742</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn19981001980&amp;CON_LNG=ENG">jn19981001980</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B8" title="Национальная библиотека Австралии">NLA</a>: <a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35422951">35422951</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Национальная библиотека Польши">NLP</a>: <a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=5&amp;WI=A11809073">A11809073</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p069567379">069567379</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%20%2097035304">n97035304</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8" title="Национальная библиотека Португалии">PTBNP</a>: <a rel="nofollow" class="external text" href="https://viaf.org/processed/PTBNP%7C193671">193671</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8" title="Национальная библиотека Швеции">LIBRIS</a>: <a rel="nofollow" class="external text" href="https://libris.kb.se/xv8bf50g157s7l4">xv8bf50g157s7l4</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/028134060">028134060</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Ватиканская апостольская библиотека">VcBA</a>: <a rel="nofollow" class="external text" href="https://opac.vatlib.it/auth/detail/495_238875">495/238875</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/100176226/">100176226</a>, <a rel="nofollow" class="external text" href="https://viaf.org/viaf/24611390/">24611390</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/100176226">100176226</a>, <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/24611390">24611390</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2416
+Cached time: 20230321212353
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc, no‐toc‐conversion]
+CPU time usage: 0.442 seconds
+Real time usage: 0.634 seconds
+Preprocessor visited node count: 1308/1000000
+Post‐expand include size: 40331/2097152 bytes
+Template argument size: 5330/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1245/5000000 bytes
+Lua time usage: 0.341/10.000 seconds
+Lua memory usage: 8215229/52428800 bytes
+Number of Wikibase entities loaded: 8/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  580.273      1 -total
+ 73.63%  427.281      1 Шаблон:Персона
+ 69.84%  405.270      1 Шаблон:Карточка
+ 19.61%  113.766      8 Шаблон:Wikidata
+ 18.75%  108.782      1 Шаблон:ВС
+  7.93%   46.029      1 Шаблон:Карточка/оригинал_имени
+  4.14%   24.044      1 Шаблон:Wikidata_gender_switch
+  3.88%   22.491      1 Шаблон:Карточка/Викитека
+  3.72%   21.602      1 Шаблон:Cite_web
+  3.45%   20.031      1 Шаблон:Примечания
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:725162-0!canonical and timestamp 20230321212352 and revision id 128458384. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Пигафетта,_Антонио&amp;oldid=128458384">https://ru.wikipedia.org/w/index.php?title=Пигафетта,_Антонио&amp;oldid=128458384</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1492_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1492 году">Родившиеся в 1492 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%92%D0%B8%D1%87%D0%B5%D0%BD%D1%86%D0%B5" title="Категория:Родившиеся в Виченце">Родившиеся в Виченце</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1531_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1531 году">Умершие в 1531 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%92%D0%B8%D1%87%D0%B5%D0%BD%D1%86%D0%B5" title="Категория:Умершие в Виченце">Умершие в Виченце</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D0%B8" title="Категория:Мальтийские рыцари">Мальтийские рыцари</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Персоналии:История Италии">Персоналии:История Италии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Мореплаватели Италии">Мореплаватели Италии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Категория:Исследователи Южной Америки">Исследователи Южной Америки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A7%D0%B8%D0%BB%D0%B8" title="Категория:История Чили">История Чили</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B" title="Категория:История Аргентины">История Аргентины</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8_XVI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Путешественники XVI века">Путешественники XVI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D1%81%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D1%85_%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B9" title="Категория:Участники кругосветных путешествий">Участники кругосветных путешествий</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B_%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Авторы дневников">Авторы дневников</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C_%D1%83_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Локальная подпись у изображения из Викиданных">Википедия:Локальная подпись у изображения из Викиданных</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0%2C+%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0%2C+%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;oldid=128458384" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;id=128458384&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q310922" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0%2C+%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Antonio_Pigafetta" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://ru.wikisource.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0" hreflang="ru"><span>Викитека</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88_%D8%A8%D9%8A%D8%BA%D8%A7%D9%81%D9%8A%D8%AA%D8%A7" title="أنطونيو بيغافيتا — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D1%96%D0%B0_%D0%9F%D1%96%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D0%B0" title="Антоніа Пігафета — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8C%CE%BD%CE%B9%CE%BF_%CE%A0%CE%B9%CE%B3%CE%BA%CE%B1%CF%86%CE%AD%CF%84%CF%84%CE%B1" title="Αντόνιο Πιγκαφέττα — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D9%88%D9%86%DB%8C%D9%88_%D9%BE%DB%8C%DA%AF%D8%A7%D9%81%D8%AA%D8%A7" title="آنتونیو پیگافتا — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a href="https://fr.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%98%D7%95%D7%A0%D7%99%D7%95_%D7%A4%D7%99%D7%92%D7%90%D7%A4%D7%98%D7%94" title="אנטוניו פיגאפטה — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — интерлингва" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%94%E3%82%AC%E3%83%95%E3%82%A7%E3%83%83%E3%82%BF" title="アントニオ・ピガフェッタ — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%95%88%ED%86%A0%EB%8B%88%EC%98%A4_%ED%94%BC%EA%B0%80%ED%8E%98%ED%83%80" title="안토니오 피가페타 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Antonius_Pigafetta" title="Antonius Pigafetta — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D0%B0" title="Антонио Пигафета — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8B%E0%B4%A3%E0%B4%BF%E0%B4%AF%E0%B5%8B_%E0%B4%AA%E0%B4%BF%E0%B4%97%E0%B4%BE%E0%B4%AB%E0%B5%87%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BE" title="അന്തോണിയോ പിഗാഫേറ്റാ — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Antonio_Pigafetta_de_Vicenza" title="Antonio Pigafetta de Vicenza — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sc mw-list-item"><a href="https://sc.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — сардинский" lang="sc" hreflang="sc" class="interlanguage-link-target"><span>Sardu</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D0%B0" title="Антонио Пигафета — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — тагалог" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D1%96%D0%BE_%D0%9F%D1%96%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0" title="Антоніо Пігафетта — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Antonio_Pigafetta" title="Antonio Pigafetta — варай" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E7%9A%AE%E5%8A%A0%E8%B4%B9%E5%A1%94" title="安东尼奥·皮加费塔 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q310922#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 12 февраля 2023 в 03:28.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.442","walltime":"0.634","ppvisitednodes":{"value":1308,"limit":1000000},"postexpandincludesize":{"value":40331,"limit":2097152},"templateargumentsize":{"value":5330,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1245,"limit":5000000},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00%  580.273      1 -total"," 73.63%  427.281      1 Шаблон:Персона"," 69.84%  405.270      1 Шаблон:Карточка"," 19.61%  113.766      8 Шаблон:Wikidata"," 18.75%  108.782      1 Шаблон:ВС","  7.93%   46.029      1 Шаблон:Карточка/оригинал_имени","  4.14%   24.044      1 Шаблон:Wikidata_gender_switch","  3.88%   22.491      1 Шаблон:Карточка/Викитека","  3.72%   21.602      1 Шаблон:Cite_web","  3.45%   20.031      1 Шаблон:Примечания"]},"scribunto":{"limitreport-timeusage":{"value":"0.341","limit":"10.000"},"limitreport-memusage":{"value":8215229,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw2416","timestamp":"20230321212353","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2312","wgBackendResponseTime":119});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0438\u0433\u0430\u0444\u0435\u0442\u0442\u0430, \u0410\u043d\u0442\u043e\u043d\u0438\u043e","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE","sameAs":"http:\/\/www.wikidata.org\/entity\/Q310922","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q310922","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-07-08T19:31:10Z","dateModified":"2023-02-12T03:28:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Antonio_pigafetta.png"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0438\u0433\u0430\u0444\u0435\u0442\u0442\u0430, \u0410\u043d\u0442\u043e\u043d\u0438\u043e","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%B8%D0%B3%D0%B0%D1%84%D0%B5%D1%82%D1%82%D0%B0,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE","sameAs":"http:\/\/www.wikidata.org\/entity\/Q310922","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q310922","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-07-08T19:31:10Z","dateModified":"2023-02-12T03:28:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Antonio_pigafetta.png"}</script>
+</body>
+</html>

@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Гомеш, Эштеван — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"5df06aca-d140-4fe3-984c-3f3b89afc8c4","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Гомеш,_Эштеван","wgTitle":"Гомеш, Эштеван","wgCurRevisionId":129319139,"wgRevisionId":129319139,"wgArticleId":3050295,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view",
+"wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с источниками из Викиданных","Википедия:Карточки без параметров","Википедия:Статьи без изображений (тип: человек; род занятий: путешественник-исследователь)","Родившиеся в 1484 году","Родившиеся в Порту","Умершие в 1538 году","Умершие в Бразилии","Персоналии по алфавиту","Мореплаватели Португалии","Мореплаватели Испании","Персоналии XVI века","Дезертиры","Жертвы убийств"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Гомеш,_Эштеван","wgRelevantArticleId":3050295,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":129319139,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2320176","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Гомеш, Эштеван — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Гомеш_Эштеван rootpage-Гомеш_Эштеван skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Гомеш, Эштеван</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox infobox-a14814e86b97687b" style="" data-name="Персона"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Эштеван Гомеш</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-claim-id="Q2320176$fcaddefb-40ca-b6cc-7eac-ee06414eb99c" class="wikidata-claim" data-wikidata-property-id="P1559&#91;LANGUAGE!:RU&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Estêvão Gomes</span></span></span></td></tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q2320176$4DD80263-C618-4F9A-994B-B220F865A0AE" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak">около <span class="nowrap"><a href="/wiki/1484_%D0%B3%D0%BE%D0%B4" title="1484 год">1484</a></span></span><sup id="cite_ref-_a3bc36cbc57e9d37_1-0" class="reference"><a href="#cite_note-_a3bc36cbc57e9d37-1">&#91;1&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q2320176$0570258B-5C15-47C2-B739-750968A83CC0" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83" title="Порту">Порту</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;смерти</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q2320176$740B9A79-11A8-4DE9-8166-0EBCFB67F030" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1538_%D0%B3%D0%BE%D0%B4" title="1538 год">1538</a></span></span><sup id="cite_ref-_cf1789c0deb6f62d_2-0" class="reference"><a href="#cite_note-_cf1789c0deb6f62d-2">&#91;2&#93;</a></sup><sup id="cite_ref-_5cc30197ab39332d_3-0" class="reference"><a href="#cite_note-_5cc30197ab39332d-3">&#91;3&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место смерти</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q2320176$E7578FFA-82AA-4473-BC0A-043040247EA2" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Парагвай (река)">Парагвай</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%B0%D1%82%D1%83-%D0%93%D1%80%D0%BE%D1%81%D1%83-%D0%B4%D1%83-%D0%A1%D1%83%D0%BB" title="Мату-Гросу-ду-Сул">Мату-Гросу-ду-Сул</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия">Бразилия</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8" title="Колонии Португалии">колонии Португалии</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Королевство Португалия">Королевство Португалия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q2320176$4FC94632-3FD1-4B38-ABF3-5F987AF3CBD7" class="wikidata-claim" data-wikidata-property-id="P27"><span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">Испания</a></span></span></span></li><li><span data-wikidata-claim-id="Q2320176$3633B176-8756-40EF-8659-42BFAD20BE58" class="wikidata-claim" data-wikidata-property-id="P27"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Portugal_%281495%29_alternative.svg/20px-Flag_of_Portugal_%281495%29_alternative.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Portugal_%281495%29_alternative.svg/30px-Flag_of_Portugal_%281495%29_alternative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Portugal_%281495%29_alternative.svg/40px-Flag_of_Portugal_%281495%29_alternative.svg.png 2x" data-file-width="957" data-file-height="638" />&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Королевство Португалия">Королевство Португалия</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="q2320176$5401280C-4D90-496B-97FB-774648B22076" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Территориальное исследование">путешественник-исследователь</a></span></span>,&#32;<span data-wikidata-claim-id="Q2320176$E3B04FF6-4D63-42E5-8770-6E4318F88366" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Картография">картограф</a></span></span></td>
+</tr>
+</tbody></table>
+<p><b>Эштева́н Го́меш (Эстеба́н Го́мес)</b> (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Estêvão Gomes</span>, <a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Испанский язык">исп.</a>&#160;<span lang="es"><i>Esteban Gómez</i></span>; ок. 1483 — 1538)&#160;— <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">португальский</a> и <a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">испанский</a> мореплаватель, открывший значительную часть восточного побережья <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Северная Америка">Северной Америки</a>.
+</p>
+<h2><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span><span class="mw-headline" id="Биография">Биография</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Биография»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=1" title="Редактировать раздел «Биография»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Родился в городе <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83" title="Порту">Порту</a>, в молодости служил в португальском флоте, где и приобрел навыки штурмана. В 1518 году переселился в <a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">Испанию</a>.
+</p><p>В 1519 году Гомеш в качестве кормчего флагманского корабля флотилии <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD" title="Магеллан, Фернан">Магеллана</a> «<a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B8%D0%B4%D0%B0%D0%B4_(%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C)" title="Тринидад (корабль)">Тринидад</a>» отправился на поиски западного пути к <a href="/wiki/%D0%9C%D0%BE%D0%BB%D1%83%D0%BA%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Молуккские острова">Островам пряностей</a>. Во время плавания, (вероятно, после подавления бунта в <a href="/wiki/%D0%91%D1%83%D1%85%D1%82%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D0%B0" title="Бухта Святого Юлиана">бухте Сан-Хулиан</a>) был переведен на «Сан-Антонио». После того, как был открыт <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2" title="Магелланов пролив">Магелланов пролив</a>, капитан-генерал созвал офицеров флотилии на совет, где Эштеван Гомеш не без оснований заявил, что дальнейшее плавание невозможно, поскольку припасов осталось мало, а точное расстояние до <a href="/wiki/%D0%9C%D0%BE%D0%BB%D1%83%D0%BA%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Молуккские острова">Молуккских островов</a> ещё неизвестно, и предложил вернуться в Испанию, объявить о сделанном открытии, после чего вернуться и повторить попытку с новыми кораблями и большим количеством провианта. Однако Магеллан отверг его доводы, и плавание продолжилось.
+</p><p>Вскоре после этого Гомеш и ряд других моряков «Сан-Антонио» подняли бунт, объявили капитана корабля арестованным и направились обратно в Испанию, 6 марта 1521 года достигнув <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C%D1%8F" title="Севилья">Севильи</a>. Однако там кормчего обвинили в дезертирстве и заключили в тюрьму.
+</p><p>После возвращения «<a href="/wiki/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%BA%D0%B0%D1%80%D0%B0%D0%BA%D0%BA%D0%B0)" title="Виктория (каракка)">Виктории</a>», совершившей кругосветное путешествие, на основании отчётов <a href="/wiki/%D0%AD%D0%BB%D1%8C%D0%BA%D0%B0%D0%BD%D0%BE,_%D0%A5%D1%83%D0%B0%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD" title="Элькано, Хуан Себастьян">Хуана Себастьяна Элькано</a> король решил освободить Гомеша и вскоре поручил ему попытаться найти <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4" title="Северо-Западный проход">северо-западный маршрут</a> в Азию. В сентябре 1524 года он на 50-тонной <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0" title="Каравелла">каравелле</a> с 29 членами экипажа отплыл к восточному побережью Северной Америки. Искомый маршрут так и не был найден, но Гомешу удалось разведать большой участок побережья вплоть до <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Новая Шотландия">Новой Шотландии</a>.
+</p><p>В 1535 году Эштеван Гомеш присоединился к экспедиции <a href="/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%BE%D1%81%D0%B0,_%D0%9F%D0%B5%D0%B4%D1%80%D0%BE_%D0%B4%D0%B5" title="Мендоса, Педро де">Педро де Мендосы</a> к <a href="/wiki/%D0%9B%D0%B0-%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_(%D1%8D%D1%81%D1%82%D1%83%D0%B0%D1%80%D0%B8%D0%B9)" title="Ла-Плата (эстуарий)">Рио-де-ла-Плата</a> и в 1538 году был убит туземцами в районе реки <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Парагвай (река)">Парагвай</a>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=2" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_a3bc36cbc57e9d37-1"><span class="mw-cite-backlink"><a href="#cite_ref-_a3bc36cbc57e9d37_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sidcva.com/?news=el-piloto-esteban-gomez-y-el-descubrimiento-de-la-costa-de-nueva-york">http://sidcva.com/?news=el-piloto-esteban-gomez-y-el-descubrimiento-de-la-costa-de-nueva-york</a><span class="wef_low_priority_links"></span></span>
+</li>
+<li id="cite_note-_cf1789c0deb6f62d-2"><span class="mw-cite-backlink"><a href="#cite_ref-_cf1789c0deb6f62d_2-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q17152639 citetype_Q8513" data-entity-id="Q60909659">Estêvão Gomes // <a rel="nofollow" class="external text" href="https://data.cerl.org/thesaurus/cnp00543881">CERL Thesaurus</a>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"> — <a href="https://en.wikipedia.org/wiki/Consortium_of_European_Research_Libraries" class="extiw" title="en:Consortium of European Research Libraries">Consortium of European Research Libraries</a>.</span></span></span>
+</li>
+<li id="cite_note-_5cc30197ab39332d-3"><span class="mw-cite-backlink"><a href="#cite_ref-_5cc30197ab39332d_3-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q7094076 citetype_Q36570165 citetype_Q2217301" data-entity-id="Q838302"><i class="wef_low_priority_links"><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%A2%D0%BE%D1%80%D0%BE%D0%BD%D1%82%D0%BE" title="Университет Торонто">University of Toronto</a>, <a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%9B%D0%B0%D0%B2%D0%B0%D0%BB%D1%8F" title="Университет Лаваля">Laval University</a></i> ESTEVÃO GOMES // <a rel="nofollow" class="external text" href="http://www.biographi.ca/en/bio/gomes_estevao_1E.html">Dictionary of Canadian Biography, Dictionnaire biographique du Canada</a>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"> / <a href="https://en.wikipedia.org/wiki/George_Williams_Brown" class="extiw" title="en:George Williams Brown">G.&#160;Brown</a>, <a href="https://www.wikidata.org/wiki/Q55723359" class="extiw" title="d:Q55723359">D.&#160;Hayne</a>, <a href="https://en.wikipedia.org/wiki/Francess_Halpenny" class="extiw" title="en:Francess Halpenny">F.&#160;Halpenny</a>, <a href="https://en.wikipedia.org/wiki/Ramsay_Cook" class="extiw" title="en:Ramsay Cook">R.&#160;Cook</a>, <a href="https://en.wikipedia.org/wiki/John_English_(Canadian_politician)" class="extiw" title="en:John English (Canadian politician)">J.&#160;English</a>, <a href="https://en.wikipedia.org/wiki/Marcel_Trudel" class="extiw" title="en:Marcel Trudel">M.&#160;Trudel</a>, <a href="https://www.wikidata.org/wiki/Q2848735" class="extiw" title="d:Q2848735">A.&#160;Vachon</a>, <a href="https://www.wikidata.org/wiki/Q3172476" class="extiw" title="d:Q3172476">J.&#160;Hamelin</a> — <a href="/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%A2%D0%BE%D1%80%D0%BE%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Издательство Торонтского университета">UTP</a>, <a href="https://www.wikidata.org/wiki/Q3402572" class="extiw" title="d:Q3402572">Presses de l'Université Laval</a>, 1959. — ISSN <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0420-0446">0420-0446</a>; <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0070-4717">0070-4717</a></span></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=edit&amp;section=3" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.vostlit.info/Texts/rus7/Pigafetta/frametext1.htm">Антонио Пигафетта, «Путешествие Магеллана», часть 1</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2421
+Cached time: 20230320192146
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [no‐toc‐conversion]
+CPU time usage: 0.484 seconds
+Real time usage: 0.663 seconds
+Preprocessor visited node count: 1178/1000000
+Post‐expand include size: 25980/2097152 bytes
+Template argument size: 1944/2097152 bytes
+Highest expansion depth: 23/100
+Expensive parser function count: 22/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2580/5000000 bytes
+Lua time usage: 0.426/10.000 seconds
+Lua memory usage: 12227842/52428800 bytes
+Number of Wikibase entities loaded: 30/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  644.697      1 -total
+ 98.76%  636.725      1 Шаблон:Персона
+ 93.21%  600.944      1 Шаблон:Карточка
+ 28.85%  185.991      1 Шаблон:Wikidata/p570
+ 19.99%  128.899     13 Шаблон:Wikidata
+  4.92%   31.708      1 Шаблон:Карточка/оригинал_имени
+  3.75%   24.153      1 Шаблон:If-wikidata
+  3.24%   20.907      1 Шаблон:Нет_изображения
+  2.81%   18.147      1 Шаблон:Wikidata_gender_switch
+  2.41%   15.542      1 Шаблон:Сортировка:_по_типам
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:3050295-0!canonical and timestamp 20230320192145 and revision id 129319139. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Гомеш,_Эштеван&amp;oldid=129319139">https://ru.wikipedia.org/w/index.php?title=Гомеш,_Эштеван&amp;oldid=129319139</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1484_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1484 году">Родившиеся в 1484 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9F%D0%BE%D1%80%D1%82%D1%83" title="Категория:Родившиеся в Порту">Родившиеся в Порту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1538_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1538 году">Умершие в 1538 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B8" title="Категория:Умершие в Бразилии">Умершие в Бразилии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Мореплаватели Португалии">Мореплаватели Португалии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BE%D1%80%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Мореплаватели Испании">Мореплаватели Испании</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_XVI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Персоналии XVI века">Персоналии XVI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D0%B7%D0%B5%D1%80%D1%82%D0%B8%D1%80%D1%8B" title="Категория:Дезертиры">Дезертиры</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D0%B5%D1%80%D1%82%D0%B2%D1%8B_%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2" title="Категория:Жертвы убийств">Жертвы убийств</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2" title="Категория:Википедия:Карточки без параметров">Википедия:Карточки без параметров</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: путешественник-исследователь)">Википедия:Статьи без изображений (тип: человек; род занятий: путешественник-исследователь)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%BE%D0%BC%D0%B5%D1%88%2C+%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%BE%D0%BC%D0%B5%D1%88%2C+%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;oldid=129319139" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%BE%D0%BC%D0%B5%D1%88%2C_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;id=129319139&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2320176" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%93%D0%BE%D0%BC%D0%B5%D1%88%2C+%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%93%D0%BE%D0%BC%D0%B5%D1%88%2C_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%8A%D8%A8%D8%A7%D9%86_%D8%BA%D9%88%D9%85%D9%8A%D8%B2" title="استيبان غوميز — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Esteban_G%C3%B3mez" title="Esteban Gómez — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes" title="Estêvão Gomes — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes" title="Estêvão Gomes — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes" title="Estêvão Gomes — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Esteban_G%C3%B3mez" title="Esteban Gómez — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes" title="Estêvão Gomes — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Esteban_G%C3%B3mez" title="Esteban Gómez — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Esteban_G%C3%B3mez" title="Esteban Gómez — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%86%E3%83%90%E3%83%B3%E3%83%BB%E3%82%B4%E3%83%A1%E3%82%B9" title="エステバン・ゴメス — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Esteban_G%C3%B3mez" title="Esteban Gómez — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes" title="Estêvão Gomes — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Estevam_Gomes" title="Estevam Gomes — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Esteban_G%C3%B3mez" title="Esteban Gómez — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%95%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD_%D0%93%D0%BE%D0%BC%D1%96%D1%88" title="Ештеван Гоміш — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2320176#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 19 марта 2023 в 13:28.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.663","ppvisitednodes":{"value":1178,"limit":1000000},"postexpandincludesize":{"value":25980,"limit":2097152},"templateargumentsize":{"value":1944,"limit":2097152},"expansiondepth":{"value":23,"limit":100},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2580,"limit":5000000},"entityaccesscount":{"value":30,"limit":400},"timingprofile":["100.00%  644.697      1 -total"," 98.76%  636.725      1 Шаблон:Персона"," 93.21%  600.944      1 Шаблон:Карточка"," 28.85%  185.991      1 Шаблон:Wikidata/p570"," 19.99%  128.899     13 Шаблон:Wikidata","  4.92%   31.708      1 Шаблон:Карточка/оригинал_имени","  3.75%   24.153      1 Шаблон:If-wikidata","  3.24%   20.907      1 Шаблон:Нет_изображения","  2.81%   18.147      1 Шаблон:Wikidata_gender_switch","  2.41%   15.542      1 Шаблон:Сортировка:_по_типам"]},"scribunto":{"limitreport-timeusage":{"value":"0.426","limit":"10.000"},"limitreport-memusage":{"value":12227842,"limit":52428800},"limitreport-logs":"Got title of Q1127581 from label: «Consortium of European Research Libraries»\nGot person name of Q180865 from label: «University of Toronto»\nEntity Q180865 is not a person\nGot person name of Q1067935 from label: «Laval University»\nEntity Q1067935 is not a person\nCustom label provided for Q5546378\ntokenizeName: «George Brown»: have «Im (x1) Fa» match\nCustom label provided for Q55723359\ntokenizeName: «David Hayne»: have «Im (x1) Fa» match\nGot person name of Q5479642 from label: «Francess Halpenny»\ntokenizeName: «Francess Halpenny»: have «Im (x1) Fa» match\nCustom label provided for Q3101851\ntokenizeName: «Ramsay Cook»: have «Im (x1) Fa» match\nGot person name of Q6231803 from label: «John English»\ntokenizeName: «John English»: have «Im (x1) Fa» match\nGot person name of Q3289451 from label: «Marcel Trudel»\ntokenizeName: «Marcel Trudel»: have «Im (x1) Fa» match\nGot person name of Q2848735 from label: «André Vachon»\ntokenizeName: «André Vachon»: have «Im (x1) Fa» match\nGot person name of Q3172476 from label: «Jean Hamelin»\ntokenizeName: «Jean Hamelin»: have «Im (x1) Fa» match\nGot title of Q7896496 from short name claim: «UTP»\nGot title of Q3402572 from label: «Presses de l'Université Laval»\nLoaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw2421","timestamp":"20230320192146","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2392","wgBackendResponseTime":116});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u043e\u043c\u0435\u0448, \u042d\u0448\u0442\u0435\u0432\u0430\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2320176","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2320176","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-02-09T15:14:47Z","dateModified":"2023-03-19T13:28:21Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u043e\u043c\u0435\u0448, \u042d\u0448\u0442\u0435\u0432\u0430\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%93%D0%BE%D0%BC%D0%B5%D1%88,_%D0%AD%D1%88%D1%82%D0%B5%D0%B2%D0%B0%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2320176","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2320176","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-02-09T15:14:47Z","dateModified":"2023-03-19T13:28:21Z"}</script>
+</body>
+</html>

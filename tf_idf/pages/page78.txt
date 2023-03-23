@@ -1,0 +1,1937 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1583 год — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"68e7ce27-42e4-4f0e-ac32-f8bc415081a4","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1583_год","wgTitle":"1583 год","wgCurRevisionId":125483773,"wgRevisionId":125483773,"wgArticleId":4520,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"
+],"wgCategories":["Все хронологические списки","Статьи со ссылками на Викисклад","1583 год"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"1583_год","wgRelevantArticleId":4520,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":125483773,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,
+"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q6726","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready",
+"mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="1583 год — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/1583_%D0%B3%D0%BE%D0%B4"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/1583_%D0%B3%D0%BE%D0%B4"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1583_год rootpage-1583_год skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">1583 год</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox vertical-navbox" data-name="Навигация для года" style="text-align:center">
+<tbody><tr>
+<th scope="col" class="infobox-header"><a href="/wiki/%D0%93%D0%BE%D0%B4" title="Год">Годы</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/1579_%D0%B3%D0%BE%D0%B4" title="1579 год"> 1579 </a> · <a href="/wiki/1580_%D0%B3%D0%BE%D0%B4" title="1580 год"> 1580 </a> · <a href="/wiki/1581_%D0%B3%D0%BE%D0%B4" title="1581 год"> 1581 </a> · <a href="/wiki/1582_%D0%B3%D0%BE%D0%B4" title="1582 год"> 1582 </a> — <b><a class="mw-selflink selflink"> 1583 </a></b> — <a href="/wiki/1584_%D0%B3%D0%BE%D0%B4" title="1584 год"> 1584 </a> · <a href="/wiki/1585_%D0%B3%D0%BE%D0%B4" title="1585 год"> 1585 </a> · <a href="/wiki/1586_%D0%B3%D0%BE%D0%B4" title="1586 год"> 1586 </a> · <a href="/wiki/1587_%D0%B3%D0%BE%D0%B4" title="1587 год"> 1587 </a>
+</td></tr>
+<tr>
+<th scope="col" class="infobox-header"><a href="/wiki/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%B8%D0%B5" title="Десятилетие">Десятилетия</a>
+</th></tr>
+<tr>
+<td><span class="nowrap"><a href="/wiki/1560-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1560-е годы">1560-е</a></span> · <span class="nowrap"><a href="/wiki/1570-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1570-е годы">1570-е</a></span> — <b><span class="nowrap"><a href="/wiki/1580-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1580-е годы">1580-е</a></span></b> — <span class="nowrap"><a href="/wiki/1590-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1590-е годы">1590-е</a></span> · <span class="nowrap"><a href="/wiki/1600-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1600-е годы">1600-е</a></span>
+</td></tr>
+<tr>
+<th scope="col" class="infobox-header"><a href="/wiki/%D0%92%D0%B5%D0%BA" title="Век">Века</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/XV_%D0%B2%D0%B5%D0%BA" title="XV век">XV&#160;век</a> — <b><a href="/wiki/XVI_%D0%B2%D0%B5%D0%BA" title="XVI век">XVI&#160;век</a></b> — <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII&#160;век</a>
+</td></tr></tbody></table>
+<table border="0" width="30%" style="float:right; margin-left:1em; margin-bottom:0.5em; clear:right;;text-align:center">
+<tbody><tr>
+<td><a href="/wiki/2-%D0%B5_%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D0%B5" title="2-е тысячелетие">2-е&#160;тысячелетие</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/XIV_%D0%B2%D0%B5%D0%BA" title="XIV век">XIV&#160;век</a> — <a href="/wiki/XV_%D0%B2%D0%B5%D0%BA" title="XV век">XV&#160;век</a> —  <b><a href="/wiki/XVI_%D0%B2%D0%B5%D0%BA" title="XVI век">XVI&#160;век</a></b> — <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII&#160;век</a> — <a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII&#160;век</a>
+</td></tr>
+<tr>
+<td align="center">
+<table class="standard" style="font-size: 90%; text-align: center;">
+
+ 
+<tbody><tr>
+<th scope="row" class="shadow" style="font-size: 80%;"><span class="nowrap"><a href="/wiki/1490-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1490-е годы">1490-е</a></span>
+</th>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1490_%D0%B3%D0%BE%D0%B4" title="1490 год"> 1490 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1491_%D0%B3%D0%BE%D0%B4" title="1491 год"> 1491 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1492_%D0%B3%D0%BE%D0%B4" title="1492 год"> 1492 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1493_%D0%B3%D0%BE%D0%B4" title="1493 год"> 1493 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1494_%D0%B3%D0%BE%D0%B4" title="1494 год"> 1494 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1495_%D0%B3%D0%BE%D0%B4" title="1495 год"> 1495 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1496_%D0%B3%D0%BE%D0%B4" title="1496 год"> 1496 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1497_%D0%B3%D0%BE%D0%B4" title="1497 год"> 1497 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1498_%D0%B3%D0%BE%D0%B4" title="1498 год"> 1498 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1499_%D0%B3%D0%BE%D0%B4" title="1499 год"> 1499 </a>
+</td></tr>
+<tr>
+<td style="height: 0.1em;" colspan="11">
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1500-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1500-е годы">1500-е</a></span>
+</th>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1500_%D0%B3%D0%BE%D0%B4" title="1500 год"> 1500 </a>
+</td>
+<td><a href="/wiki/1501_%D0%B3%D0%BE%D0%B4" title="1501 год"> 1501 </a>
+</td>
+<td><a href="/wiki/1502_%D0%B3%D0%BE%D0%B4" title="1502 год"> 1502 </a>
+</td>
+<td><a href="/wiki/1503_%D0%B3%D0%BE%D0%B4" title="1503 год"> 1503 </a>
+</td>
+<td><a href="/wiki/1504_%D0%B3%D0%BE%D0%B4" title="1504 год"> 1504 </a>
+</td>
+<td><a href="/wiki/1505_%D0%B3%D0%BE%D0%B4" title="1505 год"> 1505 </a>
+</td>
+<td><a href="/wiki/1506_%D0%B3%D0%BE%D0%B4" title="1506 год"> 1506 </a>
+</td>
+<td><a href="/wiki/1507_%D0%B3%D0%BE%D0%B4" title="1507 год"> 1507 </a>
+</td>
+<td><a href="/wiki/1508_%D0%B3%D0%BE%D0%B4" title="1508 год"> 1508 </a>
+</td>
+<td><a href="/wiki/1509_%D0%B3%D0%BE%D0%B4" title="1509 год"> 1509 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1510-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1510-е годы">1510-е</a></span>
+</th>
+<td><a href="/wiki/1510_%D0%B3%D0%BE%D0%B4" title="1510 год"> 1510 </a>
+</td>
+<td><a href="/wiki/1511_%D0%B3%D0%BE%D0%B4" title="1511 год"> 1511 </a>
+</td>
+<td><a href="/wiki/1512_%D0%B3%D0%BE%D0%B4" title="1512 год"> 1512 </a>
+</td>
+<td><a href="/wiki/1513_%D0%B3%D0%BE%D0%B4" title="1513 год"> 1513 </a>
+</td>
+<td><a href="/wiki/1514_%D0%B3%D0%BE%D0%B4" title="1514 год"> 1514 </a>
+</td>
+<td><a href="/wiki/1515_%D0%B3%D0%BE%D0%B4" title="1515 год"> 1515 </a>
+</td>
+<td><a href="/wiki/1516_%D0%B3%D0%BE%D0%B4" title="1516 год"> 1516 </a>
+</td>
+<td><a href="/wiki/1517_%D0%B3%D0%BE%D0%B4" title="1517 год"> 1517 </a>
+</td>
+<td><a href="/wiki/1518_%D0%B3%D0%BE%D0%B4" title="1518 год"> 1518 </a>
+</td>
+<td><a href="/wiki/1519_%D0%B3%D0%BE%D0%B4" title="1519 год"> 1519 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1520-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1520-е годы">1520-е</a></span>
+</th>
+<td><a href="/wiki/1520_%D0%B3%D0%BE%D0%B4" title="1520 год"> 1520 </a>
+</td>
+<td><a href="/wiki/1521_%D0%B3%D0%BE%D0%B4" title="1521 год"> 1521 </a>
+</td>
+<td><a href="/wiki/1522_%D0%B3%D0%BE%D0%B4" title="1522 год"> 1522 </a>
+</td>
+<td><a href="/wiki/1523_%D0%B3%D0%BE%D0%B4" title="1523 год"> 1523 </a>
+</td>
+<td><a href="/wiki/1524_%D0%B3%D0%BE%D0%B4" title="1524 год"> 1524 </a>
+</td>
+<td><a href="/wiki/1525_%D0%B3%D0%BE%D0%B4" title="1525 год"> 1525 </a>
+</td>
+<td><a href="/wiki/1526_%D0%B3%D0%BE%D0%B4" title="1526 год"> 1526 </a>
+</td>
+<td><a href="/wiki/1527_%D0%B3%D0%BE%D0%B4" title="1527 год"> 1527 </a>
+</td>
+<td><a href="/wiki/1528_%D0%B3%D0%BE%D0%B4" title="1528 год"> 1528 </a>
+</td>
+<td><a href="/wiki/1529_%D0%B3%D0%BE%D0%B4" title="1529 год"> 1529 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1530-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1530-е годы">1530-е</a></span>
+</th>
+<td><a href="/wiki/1530_%D0%B3%D0%BE%D0%B4" title="1530 год"> 1530 </a>
+</td>
+<td><a href="/wiki/1531_%D0%B3%D0%BE%D0%B4" title="1531 год"> 1531 </a>
+</td>
+<td><a href="/wiki/1532_%D0%B3%D0%BE%D0%B4" title="1532 год"> 1532 </a>
+</td>
+<td><a href="/wiki/1533_%D0%B3%D0%BE%D0%B4" title="1533 год"> 1533 </a>
+</td>
+<td><a href="/wiki/1534_%D0%B3%D0%BE%D0%B4" title="1534 год"> 1534 </a>
+</td>
+<td><a href="/wiki/1535_%D0%B3%D0%BE%D0%B4" title="1535 год"> 1535 </a>
+</td>
+<td><a href="/wiki/1536_%D0%B3%D0%BE%D0%B4" title="1536 год"> 1536 </a>
+</td>
+<td><a href="/wiki/1537_%D0%B3%D0%BE%D0%B4" title="1537 год"> 1537 </a>
+</td>
+<td><a href="/wiki/1538_%D0%B3%D0%BE%D0%B4" title="1538 год"> 1538 </a>
+</td>
+<td><a href="/wiki/1539_%D0%B3%D0%BE%D0%B4" title="1539 год"> 1539 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1540-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1540-е годы">1540-е</a></span>
+</th>
+<td><a href="/wiki/1540_%D0%B3%D0%BE%D0%B4" title="1540 год"> 1540 </a>
+</td>
+<td><a href="/wiki/1541_%D0%B3%D0%BE%D0%B4" title="1541 год"> 1541 </a>
+</td>
+<td><a href="/wiki/1542_%D0%B3%D0%BE%D0%B4" title="1542 год"> 1542 </a>
+</td>
+<td><a href="/wiki/1543_%D0%B3%D0%BE%D0%B4" title="1543 год"> 1543 </a>
+</td>
+<td><a href="/wiki/1544_%D0%B3%D0%BE%D0%B4" title="1544 год"> 1544 </a>
+</td>
+<td><a href="/wiki/1545_%D0%B3%D0%BE%D0%B4" title="1545 год"> 1545 </a>
+</td>
+<td><a href="/wiki/1546_%D0%B3%D0%BE%D0%B4" title="1546 год"> 1546 </a>
+</td>
+<td><a href="/wiki/1547_%D0%B3%D0%BE%D0%B4" title="1547 год"> 1547 </a>
+</td>
+<td><a href="/wiki/1548_%D0%B3%D0%BE%D0%B4" title="1548 год"> 1548 </a>
+</td>
+<td><a href="/wiki/1549_%D0%B3%D0%BE%D0%B4" title="1549 год"> 1549 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1550-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1550-е годы">1550-е</a></span>
+</th>
+<td><a href="/wiki/1550_%D0%B3%D0%BE%D0%B4" title="1550 год"> 1550 </a>
+</td>
+<td><a href="/wiki/1551_%D0%B3%D0%BE%D0%B4" title="1551 год"> 1551 </a>
+</td>
+<td><a href="/wiki/1552_%D0%B3%D0%BE%D0%B4" title="1552 год"> 1552 </a>
+</td>
+<td><a href="/wiki/1553_%D0%B3%D0%BE%D0%B4" title="1553 год"> 1553 </a>
+</td>
+<td><a href="/wiki/1554_%D0%B3%D0%BE%D0%B4" title="1554 год"> 1554 </a>
+</td>
+<td><a href="/wiki/1555_%D0%B3%D0%BE%D0%B4" title="1555 год"> 1555 </a>
+</td>
+<td><a href="/wiki/1556_%D0%B3%D0%BE%D0%B4" title="1556 год"> 1556 </a>
+</td>
+<td><a href="/wiki/1557_%D0%B3%D0%BE%D0%B4" title="1557 год"> 1557 </a>
+</td>
+<td><a href="/wiki/1558_%D0%B3%D0%BE%D0%B4" title="1558 год"> 1558 </a>
+</td>
+<td><a href="/wiki/1559_%D0%B3%D0%BE%D0%B4" title="1559 год"> 1559 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1560-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1560-е годы">1560-е</a></span>
+</th>
+<td><a href="/wiki/1560_%D0%B3%D0%BE%D0%B4" title="1560 год"> 1560 </a>
+</td>
+<td><a href="/wiki/1561_%D0%B3%D0%BE%D0%B4" title="1561 год"> 1561 </a>
+</td>
+<td><a href="/wiki/1562_%D0%B3%D0%BE%D0%B4" title="1562 год"> 1562 </a>
+</td>
+<td><a href="/wiki/1563_%D0%B3%D0%BE%D0%B4" title="1563 год"> 1563 </a>
+</td>
+<td><a href="/wiki/1564_%D0%B3%D0%BE%D0%B4" title="1564 год"> 1564 </a>
+</td>
+<td><a href="/wiki/1565_%D0%B3%D0%BE%D0%B4" title="1565 год"> 1565 </a>
+</td>
+<td><a href="/wiki/1566_%D0%B3%D0%BE%D0%B4" title="1566 год"> 1566 </a>
+</td>
+<td><a href="/wiki/1567_%D0%B3%D0%BE%D0%B4" title="1567 год"> 1567 </a>
+</td>
+<td><a href="/wiki/1568_%D0%B3%D0%BE%D0%B4" title="1568 год"> 1568 </a>
+</td>
+<td><a href="/wiki/1569_%D0%B3%D0%BE%D0%B4" title="1569 год"> 1569 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1570-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1570-е годы">1570-е</a></span>
+</th>
+<td><a href="/wiki/1570_%D0%B3%D0%BE%D0%B4" title="1570 год"> 1570 </a>
+</td>
+<td><a href="/wiki/1571_%D0%B3%D0%BE%D0%B4" title="1571 год"> 1571 </a>
+</td>
+<td><a href="/wiki/1572_%D0%B3%D0%BE%D0%B4" title="1572 год"> 1572 </a>
+</td>
+<td><a href="/wiki/1573_%D0%B3%D0%BE%D0%B4" title="1573 год"> 1573 </a>
+</td>
+<td><a href="/wiki/1574_%D0%B3%D0%BE%D0%B4" title="1574 год"> 1574 </a>
+</td>
+<td><a href="/wiki/1575_%D0%B3%D0%BE%D0%B4" title="1575 год"> 1575 </a>
+</td>
+<td><a href="/wiki/1576_%D0%B3%D0%BE%D0%B4" title="1576 год"> 1576 </a>
+</td>
+<td><a href="/wiki/1577_%D0%B3%D0%BE%D0%B4" title="1577 год"> 1577 </a>
+</td>
+<td><a href="/wiki/1578_%D0%B3%D0%BE%D0%B4" title="1578 год"> 1578 </a>
+</td>
+<td><a href="/wiki/1579_%D0%B3%D0%BE%D0%B4" title="1579 год"> 1579 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1580-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1580-е годы">1580-е</a></span>
+</th>
+<td><a href="/wiki/1580_%D0%B3%D0%BE%D0%B4" title="1580 год"> 1580 </a>
+</td>
+<td><a href="/wiki/1581_%D0%B3%D0%BE%D0%B4" title="1581 год"> 1581 </a>
+</td>
+<td><a href="/wiki/1582_%D0%B3%D0%BE%D0%B4" title="1582 год"> 1582 </a>
+</td>
+<td><a class="mw-selflink selflink"> 1583 </a>
+</td>
+<td><a href="/wiki/1584_%D0%B3%D0%BE%D0%B4" title="1584 год"> 1584 </a>
+</td>
+<td><a href="/wiki/1585_%D0%B3%D0%BE%D0%B4" title="1585 год"> 1585 </a>
+</td>
+<td><a href="/wiki/1586_%D0%B3%D0%BE%D0%B4" title="1586 год"> 1586 </a>
+</td>
+<td><a href="/wiki/1587_%D0%B3%D0%BE%D0%B4" title="1587 год"> 1587 </a>
+</td>
+<td><a href="/wiki/1588_%D0%B3%D0%BE%D0%B4" title="1588 год"> 1588 </a>
+</td>
+<td><a href="/wiki/1589_%D0%B3%D0%BE%D0%B4" title="1589 год"> 1589 </a>
+</td></tr>
+ 
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/1590-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1590-е годы">1590-е</a></span>
+</th>
+<td><a href="/wiki/1590_%D0%B3%D0%BE%D0%B4" title="1590 год"> 1590 </a>
+</td>
+<td><a href="/wiki/1591_%D0%B3%D0%BE%D0%B4" title="1591 год"> 1591 </a>
+</td>
+<td><a href="/wiki/1592_%D0%B3%D0%BE%D0%B4" title="1592 год"> 1592 </a>
+</td>
+<td><a href="/wiki/1593_%D0%B3%D0%BE%D0%B4" title="1593 год"> 1593 </a>
+</td>
+<td><a href="/wiki/1594_%D0%B3%D0%BE%D0%B4" title="1594 год"> 1594 </a>
+</td>
+<td><a href="/wiki/1595_%D0%B3%D0%BE%D0%B4" title="1595 год"> 1595 </a>
+</td>
+<td><a href="/wiki/1596_%D0%B3%D0%BE%D0%B4" title="1596 год"> 1596 </a>
+</td>
+<td><a href="/wiki/1597_%D0%B3%D0%BE%D0%B4" title="1597 год"> 1597 </a>
+</td>
+<td><a href="/wiki/1598_%D0%B3%D0%BE%D0%B4" title="1598 год"> 1598 </a>
+</td>
+<td><a href="/wiki/1599_%D0%B3%D0%BE%D0%B4" title="1599 год"> 1599 </a>
+</td></tr>
+<tr>
+<td style="height: 0.1em;" colspan="11">
+</td></tr>
+ 
+<tr>
+<th scope="row" class="shadow" style="font-size: 80%;"><span class="nowrap"><a href="/wiki/1600-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1600-е годы">1600-е</a></span>
+</th>
+<td><a href="/wiki/1600_%D0%B3%D0%BE%D0%B4" title="1600 год"> 1600 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1601_%D0%B3%D0%BE%D0%B4" title="1601 год"> 1601 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1602_%D0%B3%D0%BE%D0%B4" title="1602 год"> 1602 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1603_%D0%B3%D0%BE%D0%B4" title="1603 год"> 1603 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1604_%D0%B3%D0%BE%D0%B4" title="1604 год"> 1604 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1605_%D0%B3%D0%BE%D0%B4" title="1605 год"> 1605 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1606_%D0%B3%D0%BE%D0%B4" title="1606 год"> 1606 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1607_%D0%B3%D0%BE%D0%B4" title="1607 год"> 1607 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1608_%D0%B3%D0%BE%D0%B4" title="1608 год"> 1608 </a>
+</td>
+<td class="shadow" style="font-size: 80%;"><a href="/wiki/1609_%D0%B3%D0%BE%D0%B4" title="1609 год"> 1609 </a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td align="right"><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0" title="Хронологическая таблица">Хронологическая таблица</a>
+</td></tr></tbody></table>
+<table class="infobox" data-name="Год в других календарях">
+<tbody><tr>
+<th colspan="2" class="infobox-header" style="background:transparent">1583 год в различных календарях
+</th></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">Григорианский календарь</a>
+</th>
+<td style="padding: 0.4em 1em 0.4em 0;">1583 <br /> <i>MDLXXXIII</i>
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Юлианский календарь">Юлианский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1582—1583 (с <a href="/wiki/11_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="11 января">11 января</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Юлианский календарь">Юлианский календарь</a><br /> <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" title="Константинопольская эра">с византийской эрой</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">7091—7092 (с <a href="/wiki/11_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="11 сентября">11 сентября</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/Ab_Urbe_condita" title="Ab Urbe condita">От основания Рима</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">2335—2336 (с <a href="/wiki/1_%D0%BC%D0%B0%D1%8F" title="1 мая">1 мая</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Еврейский календарь">Еврейский календарь</a><br />
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">5343—5344 <br />
+<p>ה'שמ"ג&#160;—&#160;ה'שמ"ד
+</p>
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Исламский календарь">Исламский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">991—992
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B0%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Древнеармянский календарь">Древнеармянский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">4075—4076 (с <a href="/wiki/21_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="21 августа">21 августа</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Армянский церковный календарь">Армянский церковный календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1032 <br /> <i>ԹՎ ՌԼԲ</i>
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Китайский календарь">Китайский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">4279—4280  <br /> <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B3%D0%B0%D0%BD%D1%8C-%D1%87%D0%B6%D0%B8" title="Система гань-чжи">壬午&#160;— 癸未<br />чёрная лошадь&#160;— чёрная овца</a>
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%AD%D1%84%D0%B8%D0%BE%D0%BF%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Эфиопский календарь">Эфиопский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">1575&#160;— 1576
+</td></tr>
+<tr style="vertical-align:top">
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0;"><a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B8%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Древнеиндийский календарь">Древнеиндийский календарь</a>
+</td>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0;">
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; padding: 0 1em 0 0;">- <i><a href="/wiki/%D0%92%D0%B8%D0%BA%D1%80%D0%B0%D0%BC-%D1%81%D0%B0%D0%BC%D0%B2%D0%B0%D1%82" title="Викрам-самват">Викрам-самват</a></i>
+</th>
+<td style="padding: 0 1em 0 0;">1639—1640
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; padding: 0 1em 0 0;">- <i><a href="/wiki/%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" title="Сакская эра">Шака самват</a></i>
+</th>
+<td style="padding: 0 1em 0 0;">1505—1506
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; padding: 0 1em 0.4em 0;">- <i><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8-%D1%8E%D0%B3%D0%B0" title="Кали-юга">Кали-юга</a></i>
+</th>
+<td style="padding: 0 1em 0.4em 0;">4684—4685
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%98%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Иранский календарь">Иранский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">961—962
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%91%D1%83%D0%B4%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Буддийский календарь">Буддийский календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">2126
+</td></tr>
+<tr style="vertical-align:top">
+<th style="font-weight:normal; border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D1%86%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%8D%D1%80%D0%B0" title="Голоценовая эра">Голоценовый календарь</a>
+</th>
+<td style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0;">11583
+<p><br />
+</p><p><br />
+</p>
+</td></tr>
+
+</tbody></table>
+<p><b>1583 (ты́сяча&#160;пятьсо́т&#160;во́семьдесят&#160;тре́тий) год </b> по <a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">григорианскому календарю</a> — <a href="/wiki/%D0%9D%D0%B5%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4" title="Невисокосный год">невисокосный год</a>, начинающийся в <a href="/wiki/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0" title="Суббота">субботу</a>. Это 1583 год <a href="/wiki/%D0%9D%D0%B0%D1%88%D0%B0_%D1%8D%D1%80%D0%B0" title="Наша эра">нашей эры</a>, 3 год 9-го десятилетия <a href="/wiki/XVI_%D0%B2%D0%B5%D0%BA" title="XVI век">XVI века</a> <a href="/wiki/2-%D0%B5_%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D0%B5" title="2-е тысячелетие">2-го тысячелетия</a>, 4 год <a href="/wiki/1580-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1580-е годы">1580-х годов</a>. Он закончился 440&#160;лет&#32;назад.
+</p>
+<table class="collapsible standard collapsed" style="min-width:35em">
+<tbody><tr>
+<th class="bright" colspan="4"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Григорианский календарь">Календарь</a> на 1583  год
+</th></tr>
+<tr>
+<td valign="top" align="center">Январь
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span style="color:red">1</span>
+</td>
+<td><span style="color:red">2</span>
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td><span style="color:red">8</span>
+</td>
+<td><span style="color:red">9</span>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td><span style="color:red">15</span>
+</td>
+<td><span style="color:red">16</span>
+</td></tr>
+<tr>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td><span style="color:red">22</span>
+</td>
+<td><span style="color:red">23</span>
+</td></tr>
+<tr>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td><span style="color:red">29</span>
+</td>
+<td><span style="color:red">30</span>
+</td></tr>
+<tr>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Февраль
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td><span style="color:red">5</span>
+</td>
+<td><span style="color:red">6</span>
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td><span style="color:red">12</span>
+</td>
+<td><span style="color:red">13</span>
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td><span style="color:red">19</span>
+</td>
+<td><span style="color:red">20</span>
+</td></tr>
+<tr>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td><span style="color:red">26</span>
+</td>
+<td><span style="color:red">27</span>
+</td></tr>
+<tr>
+<td>28
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Март
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td><span style="color:red">5</span>
+</td>
+<td><span style="color:red">6</span>
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td><span style="color:red">12</span>
+</td>
+<td><span style="color:red">13</span>
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td><span style="color:red">19</span>
+</td>
+<td><span style="color:red">20</span>
+</td></tr>
+<tr>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td><span style="color:red">26</span>
+</td>
+<td><span style="color:red">27</span>
+</td></tr>
+<tr>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td valign="top" align="center">Апрель
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td><span style="color:red">2</span>
+</td>
+<td><span style="color:red">3</span>
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td><span style="color:red">9</span>
+</td>
+<td><span style="color:red">10</span>
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td><span style="color:red">16</span>
+</td>
+<td><span style="color:red">17</span>
+</td></tr>
+<tr>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td><span style="color:red">23</span>
+</td>
+<td><span style="color:red">24</span>
+</td></tr>
+<tr>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td><span style="color:red">30</span>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Май
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span style="color:red">1</span>
+</td></tr>
+<tr>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td><span style="color:red">7</span>
+</td>
+<td><span style="color:red">8</span>
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td><span style="color:red">14</span>
+</td>
+<td><span style="color:red">15</span>
+</td></tr>
+<tr>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td><span style="color:red">21</span>
+</td>
+<td><span style="color:red">22</span>
+</td></tr>
+<tr>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td><span style="color:red">28</span>
+</td>
+<td><span style="color:red">29</span>
+</td></tr>
+<tr>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Июнь
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td><span style="color:red">4</span>
+</td>
+<td><span style="color:red">5</span>
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td><span style="color:red">11</span>
+</td>
+<td><span style="color:red">12</span>
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td><span style="color:red">18</span>
+</td>
+<td><span style="color:red">19</span>
+</td></tr>
+<tr>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td><span style="color:red">25</span>
+</td>
+<td><span style="color:red">26</span>
+</td></tr>
+<tr>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td valign="top" align="center">Июль
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td><span style="color:red">2</span>
+</td>
+<td><span style="color:red">3</span>
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td><span style="color:red">9</span>
+</td>
+<td><span style="color:red">10</span>
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td><span style="color:red">16</span>
+</td>
+<td><span style="color:red">17</span>
+</td></tr>
+<tr>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td><span style="color:red">23</span>
+</td>
+<td><span style="color:red">24</span>
+</td></tr>
+<tr>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td><span style="color:red">30</span>
+</td>
+<td><span style="color:red">31</span>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Август
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td><span style="color:red">6</span>
+</td>
+<td><span style="color:red">7</span>
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td><span style="color:red">13</span>
+</td>
+<td><span style="color:red">14</span>
+</td></tr>
+<tr>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td><span style="color:red">20</span>
+</td>
+<td><span style="color:red">21</span>
+</td></tr>
+<tr>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td><span style="color:red">27</span>
+</td>
+<td><span style="color:red">28</span>
+</td></tr>
+<tr>
+<td>29
+</td>
+<td>30
+</td>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Сентябрь
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td><span style="color:red">3</span>
+</td>
+<td><span style="color:red">4</span>
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td><span style="color:red">10</span>
+</td>
+<td><span style="color:red">11</span>
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td><span style="color:red">17</span>
+</td>
+<td><span style="color:red">18</span>
+</td></tr>
+<tr>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td><span style="color:red">24</span>
+</td>
+<td><span style="color:red">25</span>
+</td></tr>
+<tr>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td valign="top" align="center">Октябрь
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span style="color:red">1</span>
+</td>
+<td><span style="color:red">2</span>
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td><span style="color:red">8</span>
+</td>
+<td><span style="color:red">9</span>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td><span style="color:red">15</span>
+</td>
+<td><span style="color:red">16</span>
+</td></tr>
+<tr>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td><span style="color:red">22</span>
+</td>
+<td><span style="color:red">23</span>
+</td></tr>
+<tr>
+<td>24
+</td>
+<td>25
+</td>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td><span style="color:red">29</span>
+</td>
+<td><span style="color:red">30</span>
+</td></tr>
+<tr>
+<td>31
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Ноябрь
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td><span style="color:red">5</span>
+</td>
+<td><span style="color:red">6</span>
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td><span style="color:red">12</span>
+</td>
+<td><span style="color:red">13</span>
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td><span style="color:red">19</span>
+</td>
+<td><span style="color:red">20</span>
+</td></tr>
+<tr>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td>24
+</td>
+<td>25
+</td>
+<td><span style="color:red">26</span>
+</td>
+<td><span style="color:red">27</span>
+</td></tr>
+<tr>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+</td>
+<td valign="top" align="center">Декабрь
+<table border="0" style="text-align:right">
+<tbody><tr>
+<td>Пн</td>
+<td>Вт</td>
+<td>Ср</td>
+<td>Чт</td>
+<td>Пт</td>
+<td><span style="color:red">Сб</span></td>
+<td><span style="color:red">Вс</span>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td><span style="color:red">3</span>
+</td>
+<td><span style="color:red">4</span>
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td><span style="color:red">10</span>
+</td>
+<td><span style="color:red">11</span>
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td><span style="color:red">17</span>
+</td>
+<td><span style="color:red">18</span>
+</td></tr>
+<tr>
+<td>19
+</td>
+<td>20
+</td>
+<td>21
+</td>
+<td>22
+</td>
+<td>23
+</td>
+<td><span style="color:red">24</span>
+</td>
+<td><span style="color:red">25</span>
+</td></tr>
+<tr>
+<td>26
+</td>
+<td>27
+</td>
+<td>28
+</td>
+<td>29
+</td>
+<td>30
+</td>
+<td><span style="color:red">31</span>
+</td>
+<td>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#События"><span class="tocnumber">1</span> <span class="toctext">События</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Родились"><span class="tocnumber">2</span> <span class="toctext">Родились</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Скончались"><span class="tocnumber">3</span> <span class="toctext">Скончались</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#См._также"><span class="tocnumber">4</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A1.D0.BE.D0.B1.D1.8B.D1.82.D0.B8.D1.8F"></span><span class="mw-headline" id="События">События</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «События»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=1" title="Редактировать раздел «События»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Январь&#160;— <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3_%D0%90%D0%BB%D0%B0%D0%BD%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8_%D0%90%D0%BD%D0%B6%D1%83%D0%B9%D1%81%D0%BA%D0%B8%D0%B9)" title="Франсуа (герцог Алансонский и Анжуйский)">Герцог Франсуа Анжуйский</a>, опираясь на наёмные французские войска, поднял мятеж с целью присоединения <a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Нидерланды">Нидерландов</a> к <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Королевство Франция">Франции</a>. Мятеж подавлен. Испанским наместником назначен Александр <a href="/wiki/%D0%94%D0%BE%D0%BC_%D0%A4%D0%B0%D1%80%D0%BD%D0%B5%D0%B7%D0%B5" title="Дом Фарнезе">Фарнезе</a>.</li>
+<li>Май&#160;— <a href="/wiki/%D0%9F%D0%BB%D1%8E%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B8%D1%80%D0%B8%D0%B5" title="Плюсское перемирие">Плюсское перемирие</a> между <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Русское царство">Россией</a> и <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швецией</a>. Окончание <a href="/wiki/%D0%9B%D0%B8%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Ливонская война">Ливонской войны</a>. Присоединение к Швеции Ивангорода, Копорья, Яма, Корелы.</li>
+<li>Гавань <a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%94%D0%B6%D0%BE%D0%BD%D1%81_(%D0%9D%D1%8C%D1%8E%D1%84%D0%B0%D1%83%D0%BD%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4_%D0%B8_%D0%9B%D0%B0%D0%B1%D1%80%D0%B0%D0%B4%D0%BE%D1%80)" title="Сент-Джонс (Ньюфаундленд и Лабрадор)">Сент-Джонс</a> и прилегающие территории на <a href="/wiki/%D0%9D%D1%8C%D1%8E%D1%84%D0%B0%D1%83%D0%BD%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4" title="Ньюфаундленд">Ньюфаундленде</a> объявлены владениями <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англии</a>.</li>
+<li>Около 1583&#160;— <a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B0-%D1%85%D0%B0%D0%BD_II" title="Абдулла-хан II">Абдулла II</a> просил <a href="/wiki/%D0%98%D0%B2%D0%B0%D0%BD_IV" class="mw-redirect" title="Иван IV">Ивана IV</a> о свободном пропуске его купцов в <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C" title="Астрахань">Астрахань</a>. В ответ Иван IV разрешил торговлю и в других русских городах.</li>
+<li>1583—1598&#160;— хан Бухары и всех <a href="/wiki/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8" title="Узбеки">узбеков</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B0-%D1%85%D0%B0%D0%BD_II" title="Абдулла-хан II">Абдулла II</a> (1534—1598), сын <a href="/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80-%D1%85%D0%B0%D0%BD" title="Искандер-хан">Искандер-хана</a>.</li>
+<li>Основаны города <a href="/wiki/%D0%9A%D0%BE%D0%B7%D1%8C%D0%BC%D0%BE%D0%B4%D0%B5%D0%BC%D1%8C%D1%8F%D0%BD%D1%81%D0%BA" title="Козьмодемьянск">Козьмодемьянск</a> и <a href="/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA" title="Архангельск">Архангельск</a>.</li></ul>
+<h2><span id=".D0.A0.D0.BE.D0.B4.D0.B8.D0.BB.D0.B8.D1.81.D1.8C"></span><span class="mw-headline" id="Родились">Родились</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Родились»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=2" title="Редактировать раздел «Родились»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg/150px-Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg" decoding="async" width="150" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg/225px-Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg/300px-Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg 2x" data-file-width="839" data-file-height="1000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg" class="internal" title="Увеличить"></a></div>Изображение <a href="/wiki/%D0%93%D1%80%D0%BE%D1%86%D0%B8%D0%B9,_%D0%93%D1%83%D0%B3%D0%BE" title="Гроций, Гуго">Гуго Гроция</a></div></div></div>
+<p><i>См. также: <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1583_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1583 году">Категория:Родившиеся в 1583 году</a></i>
+</p>
+<ul><li><a href="/wiki/%D0%90%D1%80%D0%BD%D0%B8%D0%BC-%D0%91%D0%BE%D0%B9%D1%86%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3,_%D0%93%D0%B0%D0%BD%D1%81_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D1%84%D0%BE%D0%BD" title="Арним-Бойценбург, Ганс Георг фон">Арним-Бойценбург, Ганс Георг фон</a>&#160;— <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB-%D1%84%D0%B5%D0%BB%D1%8C%D0%B4%D0%BC%D0%B0%D1%80%D1%88%D0%B0%D0%BB_(%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F)" title="Генерал-фельдмаршал (Австрия)">австрийский генерал-фельдмаршал</a>, приобретший известность во время <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Тридцатилетняя война">Тридцатилетней войны</a>.</li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%BB%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%90%D0%BB%D1%8C%D0%B1%D1%80%D0%B5%D1%85%D1%82_%D1%84%D0%BE%D0%BD" title="Валленштейн, Альбрехт фон">Валленштейн, Альбрехт фон</a>&#160;— герцог <a href="/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D0%BB%D0%B0%D0%BD%D1%82" title="Фридлант">Фридландский</a> и <a href="/wiki/%D0%9C%D0%B5%D0%BA%D0%BB%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Мекленбург">Мекленбургский</a>, имперский <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%81%D0%B8%D0%BC%D1%83%D1%81" title="Генералиссимус">генералиссимус</a>, полководец <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B4%D1%86%D0%B0%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8F%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Тридцатилетняя война">Тридцатилетней войны</a>.</li>
+<li><a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82_%D0%A7%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B8,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4" class="mw-redirect" title="Герберт Чербери, Эдуард">Герберт Чербери, Эдуард</a>&#160;— английский религиозный философ, политический и государственный деятель, младший брат поэта <a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6" class="mw-redirect" title="Герберт, Джордж">Джорджа Герберта</a>. Основоположник <a href="/wiki/%D0%94%D0%B5%D0%B8%D0%B7%D0%BC" title="Деизм">деизма</a> (<a href="/wiki/%D0%95%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Естественная религия">естественной религии</a>).</li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%B1%D0%B1%D0%BE%D0%BD%D1%81,_%D0%9E%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE" title="Гиббонс, Орландо">Гиббонс, Орландо</a>&#160;— <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">английский</a> <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80" title="Композитор">композитор</a>, <a href="/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82)" title="Орган (музыкальный инструмент)">органист</a> и <a href="/wiki/%D0%92%D1%91%D1%80%D0%B4%D0%B6%D0%B8%D0%BD%D0%B5%D0%BB" title="Вёрджинел">клавесинист</a>.</li>
+<li><a href="/wiki/%D0%93%D1%80%D0%BE%D1%86%D0%B8%D0%B9,_%D0%93%D1%83%D0%B3%D0%BE" title="Гроций, Гуго">Гроций, Гуго</a>&#160;— <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" class="mw-redirect" title="Голландия">голландский</a> <a href="/wiki/%D0%AE%D1%80%D0%B8%D1%81%D1%82" title="Юрист">юрист</a> и государственный деятель, <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84" title="Философ">философ</a>, христианский <a href="/wiki/%D0%90%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B5%D1%82" title="Апологет">апологет</a>, <a href="/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" class="mw-redirect" title="Драматург">драматург</a> и <a href="/wiki/%D0%9F%D0%BE%D1%8D%D1%82" title="Поэт">поэт</a>. Заложил основы <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE" title="Международное право">международного права</a>, основываясь на <a href="/wiki/%D0%95%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE" title="Естественное право">естественном праве</a>.</li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D0%B0%D0%B3%D0%B0%D1%80%D0%B4%D0%B8,_%D0%AF%D0%BA%D0%BE%D0%B1_%D0%9F%D0%BE%D0%BD%D1%82%D1%83%D1%81%D1%81%D0%BE%D0%BD" title="Делагарди, Якоб Понтуссон">Делагарди, Якоб Понтуссон</a>&#160;— <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">шведский</a> военный и государственный деятель, активный участник событий <a href="/wiki/%D0%A1%D0%BC%D1%83%D1%82%D0%BD%D0%BE%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Смутное время">Смутного времени</a> (см. <a href="/wiki/%D0%9F%D0%BE%D1%85%D0%BE%D0%B4_%D0%94%D0%B5%D0%BB%D0%B0%D0%B3%D0%B0%D1%80%D0%B4%D0%B8" title="Поход Делагарди">поход Делагарди</a>). В 1620&#160;г. удостоен звания <a href="/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D0%B4%D0%BC%D0%B0%D1%80%D1%88%D0%B0%D0%BB_(%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F)" title="Фельдмаршал (Швеция)">фельдмаршала</a>. Старший сын&#160;— <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D1%81_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C_%D0%94%D0%B5%D0%BB%D0%B0%D0%B3%D0%B0%D1%80%D0%B4%D0%B8" class="mw-redirect" title="Магнус Габриэль Делагарди">Магнус Габриэль Делагарди</a>, риксканцлер Швеции.</li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BE%D0%BD%D0%B8%D1%81%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D0%B0%D0%B2%D0%B8%D0%B9" title="Дионисий Петавий">Дионисий Петавий</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BB" title="Кардинал">кардинал</a>, французский католический богослов и историк, писатель и поэт, учёный-иезуит, один из основоположников современной <a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Хронология">хронологии</a>.</li>
+<li><a href="/w/index.php?title=%D0%95%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D0%B9,_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Епископий, Симон (страница отсутствует)">Епископий, Симон</a>&#160;— немецкий <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2" class="mw-redirect" title="Богослов">богослов</a>. Последователь <a href="/wiki/%D0%90%D1%80%D0%BC%D0%B8%D0%BD%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Арминианство">арминианства</a>, идеи которого были отвергнуты в ходе <a href="/wiki/%D0%94%D0%BE%D1%80%D0%B4%D1%80%D0%B5%D1%85%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D0%BE%D0%B4" title="Дордрехтский синод">Дордрехтского синода</a> прошедшего в 1618/1619 годах.</li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_II_(%D0%BA%D1%83%D1%80%D1%84%D1%8E%D1%80%D1%81%D1%82_%D0%A1%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%B8%D0%B8)" title="Кристиан II (курфюрст Саксонии)">Кристиан II</a>&#160;— <a href="/wiki/%D0%9A%D1%83%D1%80%D1%84%D1%8E%D1%80%D1%81%D1%82" title="Курфюрст">курфюрст</a> саксонский, сын <a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_I_(%D0%BA%D1%83%D1%80%D1%84%D1%8E%D1%80%D1%81%D1%82_%D0%A1%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%B8%D0%B8)" title="Кристиан I (курфюрст Саксонии)">Кристиана I</a> и бранденбургской принцессы <a href="/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_(1568%E2%80%941622)" title="София Бранденбургская (1568—1622)">Софии</a>.</li>
+<li><a href="/wiki/%D0%9B%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D0%BD,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80" title="Ластман, Питер">Ластман, Питер</a>&#160;— <a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Нидерланды">нидерландский</a> живописец.</li>
+<li><a href="/wiki/%D0%9C%D1%8D%D1%81%D1%81%D0%B8%D0%BD%D0%B4%D0%B6%D0%B5%D1%80,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF" title="Мэссинджер, Филипп">Мэссинджер, Филипп</a>&#160;— английский драматург.</li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%81%D0%B5%D0%BD%D1%88%D0%B5%D1%80%D0%BD%D0%B0,_%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8C" title="Оксеншерна, Аксель">Оксеншерна, Аксель</a>&#160;— шведский государственный деятель, <a href="/w/index.php?title=%D0%A0%D0%B8%D0%BA%D1%81%D0%BA%D0%B0%D0%BD%D1%86%D0%BB%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Риксканцлер (страница отсутствует)">риксканцлер</a> (1612-54) при <a href="/wiki/%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_II_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84" title="Густав II Адольф">Густаве II Адольфе</a> и его дочери <a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B0_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8)" title="Кристина (королева Швеции)">Кристине</a>.</li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C,_%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%BD%D1%81" title="Реаль, Лауренс">Реаль, Лауренс</a>&#160;— третий <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB-%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2_%D0%93%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D0%9E%D1%81%D1%82-%D0%98%D0%BD%D0%B4%D0%B8%D0%B8" title="Список генерал-губернаторов Голландской Ост-Индии">генерал-губернатор</a> <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%9E%D1%81%D1%82-%D0%98%D0%BD%D0%B4%D0%B8%D1%8F" title="Голландская Ост-Индия">Голландской Ост-Индии</a> (1616—1617), адмирал нидерландского флота (1625—1627).</li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B5%D1%81%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B8%D1%80%D0%BE%D0%BB%D0%B0%D0%BC%D0%BE" title="Фрескобальди, Джироламо">Фрескобальди, Джироламо</a>&#160;— итальянский композитор, <a href="/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82)" title="Орган (музыкальный инструмент)">органист</a> и <a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B5%D1%81%D0%B8%D0%BD" title="Клавесин">клавесинист</a>.</li>
+<li><a href="/wiki/%D0%A5%D0%B0%D1%8F%D1%81%D0%B8_%D0%A0%D0%B0%D0%B4%D0%B7%D0%B0%D0%BD" title="Хаяси Радзан">Хаяси Радзан</a>&#160;— мыслитель, законодатель и поэт раннего <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BE%D0%B4_%D0%AD%D0%B4%D0%BE" title="Период Эдо">периода Эдо</a>.</li>
+<li><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D1%80%D0%B0_%D0%9F%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F" title="Элеонора Прусская">Элеонора Прусская</a>&#160;— принцесса <a href="/wiki/%D0%9F%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D1%81%D1%82%D0%B2%D0%BE)" title="Пруссия (герцогство)">Прусская</a>, в замужестве <a href="/wiki/%D0%9A%D1%83%D1%80%D1%84%D1%8E%D1%80%D1%81%D1%82" title="Курфюрст">курфюрстина</a> <a href="/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3_(%D0%BC%D0%B0%D1%80%D0%BA%D0%B3%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE)" title="Бранденбург (маркграфство)">Бранденбурга</a>.</li></ul>
+<h2><span id=".D0.A1.D0.BA.D0.BE.D0.BD.D1.87.D0.B0.D0.BB.D0.B8.D1.81.D1.8C"></span><span class="mw-headline" id="Скончались">Скончались</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Скончались»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=3" title="Редактировать раздел «Скончались»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cranach_the_Younger_Catherine_Jagiellon.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cranach_the_Younger_Catherine_Jagiellon.jpg/150px-Cranach_the_Younger_Catherine_Jagiellon.jpg" decoding="async" width="150" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cranach_the_Younger_Catherine_Jagiellon.jpg/225px-Cranach_the_Younger_Catherine_Jagiellon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cranach_the_Younger_Catherine_Jagiellon.jpg/300px-Cranach_the_Younger_Catherine_Jagiellon.jpg 2x" data-file-width="900" data-file-height="1059" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cranach_the_Younger_Catherine_Jagiellon.jpg" class="internal" title="Увеличить"></a></div>Изображение шведской королевы <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D0%BA%D0%B0" title="Катерина Ягеллонка">Катерины Ягеллонки</a></div></div></div>
+<p><i>См. также: <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1583_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1583 году">Категория:Умершие в 1583 году</a></i>
+</p>
+<ul><li><abbr title="по юлианскому календарю">18</abbr>&#160;<a href="/wiki/28_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="28 марта">(28)&#160;марта</a>&#160;— <a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D1%81_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%9B%D0%B8%D0%B2%D0%BE%D0%BD%D0%B8%D0%B8)" title="Магнус (король Ливонии)">Магнус</a>, <a href="/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D1%8F" title="Дания">датский</a> принц из <a href="/wiki/%D0%9E%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F" title="Ольденбургская династия">Ольденбургской династии</a>, брат короля <a href="/wiki/%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA_II_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8)" title="Фредерик II (король Дании)">Фредерика II Датского</a>, <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%9B%D0%B8%D0%B2%D0%BE%D0%BD%D0%B8%D0%B8" class="mw-redirect" title="Король Ливонии">король Ливонии</a> с <a href="/wiki/1570_%D0%B3%D0%BE%D0%B4" title="1570 год">1570 года</a>, <a href="/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B0%D0%BB" class="mw-redirect" title="Вассал">вассал</a> <a href="/wiki/%D0%98%D0%B2%D0%B0%D0%BD_IV_%D0%93%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9" class="mw-redirect" title="Иван IV Грозный">Ивана IV Грозного</a>.</li>
+<li><a href="/wiki/27_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="27 сентября">27 сентября</a>&#160;— <a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%B9%D0%BD%D0%B5%D1%87%D0%B5%D1%80,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82" title="Плейнечер, Элизабет">Элизабет Плейнечер</a>, единственная в Австрии женщина, обвинённая в колдовстве и сожжённая на костре.</li>
+<li><abbr title="по юлианскому календарю">5</abbr>&#160;<a href="/wiki/15_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="15 декабря">(15)&#160;декабря</a>&#160;— <a href="/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2" title="Иван Фёдоров">Иван Фёдоров</a>, русский первопечатник.</li>
+<li><abbr title="по юлианскому календарю">15</abbr>&#160;<a href="/wiki/25_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="25 декабря">(25)&#160;декабря</a>&#160;— <a href="/wiki/%D0%A2%D1%80%D0%B8%D1%84%D0%BE%D0%BD_%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D0%B3%D1%81%D0%BA%D0%B8%D0%B9" title="Трифон Печенгский">Трифон Печенгский</a>, <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Преподобные">преподобный</a> <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Русская православная церковь">Русской церкви</a>, основатель <a href="/wiki/%D0%9F%D0%B5%D1%87%D0%B5%D0%BD%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C" title="Печенгский монастырь">Печенгского монастыря</a>.</li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D1%82,_%D0%A5%D0%B5%D0%BC%D1%84%D1%80%D0%B8" title="Гилберт, Хемфри">Гилберт, Хемфри</a>&#160;— <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">английский</a> военный, член <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82" title="Парламент">парламента</a>, <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Территориальное исследование">исследователь</a> и <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D1%82%D1%8E%D1%80%D0%B8%D1%81%D1%82" class="mw-redirect" title="Авантюрист">авантюрист</a>, пионер <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Английская колонизация Ирландии">английской колонизации Ирландии</a> и Северной Америки.</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D0%BA%D0%B0" title="Катерина Ягеллонка">Катерина Ягеллонка</a>&#160;— герцогиня <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия">Финляндская</a> (<a href="/wiki/1562" class="mw-redirect" title="1562">1562</a>), королева <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеции</a> (<a href="/wiki/1569" class="mw-redirect" title="1569">1569</a>), великая герцогиня Финляндская (<a href="/wiki/1581" class="mw-redirect" title="1581">1581</a>). Из рода <a href="/wiki/%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D1%8B" title="Ягеллоны">Ягеллонов</a>.</li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D0%B1%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Курбский, Андрей Михайлович">Курбский, Андрей Михайлович</a>&#160;— военный и политический деятель, писатель, <a href="/wiki/%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C" title="Князь">князь</a> из <a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C%D1%8F" title="Ярославские князья">смоленско-ярославской</a> линии <a href="/wiki/%D0%A0%D1%8E%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%87%D0%B8" title="Рюриковичи">Рюриковичей</a>, воевода <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Русское царство">Русского Царства</a>, перешедший в 1553/1554 году на службу к <a href="/wiki/%D0%A1%D0%B8%D0%B3%D0%B8%D0%B7%D0%BC%D1%83%D0%BD%D0%B4_II_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82" title="Сигизмунд II Август">Сигизмунду II Августу</a>.</li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B0%D1%82%D0%B0_%D0%9A%D0%B0%D1%86%D1%83%D0%B8%D1%8D" title="Сибата Кацуиэ">Сибата Кацуиэ</a>&#160;— <a href="/wiki/%D0%A1%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B9" title="Самурай">самурайский</a> полководец средневековой <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Японии</a> <a href="/wiki/%D0%A1%D1%8D%D0%BD%D0%B3%D0%BE%D0%BA%D1%83_%D0%94%D0%B7%D0%B8%D0%B4%D0%B0%D0%B9" class="mw-redirect" title="Сэнгоку Дзидай">периода Сэнгоку</a>.</li>
+<li><a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD_%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D1%88_%D0%9F%D0%B8%D0%BD%D1%82%D1%83" class="mw-redirect" title="Фернан Мендеш Пинту">Фернан Мендеш Пинту</a>&#160;— <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">португальский</a> исследователь и <a href="/wiki/%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Писатель">писатель</a>.</li>
+<li><a href="/wiki/%D0%A5%D1%83%D0%B0%D0%BD_%D0%B4%D0%B5_%D0%93%D0%B0%D1%80%D0%B0%D0%B9" title="Хуан де Гарай">Хуан де Гарай</a>&#160;— испанский исследователь и конкистадор.</li>
+<li><a href="/wiki/%D0%9D%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D1%83-%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Нурбану-султан">Нурбану Султан</a>&#160;— жена османского султана <a href="/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Селим II">Селима II</a> и валиде султана <a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мурада III</a>, важная фигура в политике Османской империи 70&#160;— 80-х гг. XVI века.</li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=4" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:1583" class="extiw" title="commons:Category:1583">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<div class="CategoryTreeTag" data-ct-mode="10" data-ct-options="{&quot;mode&quot;:10,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="1583_год" data-ct-state="collapsed"></span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1583_%D0%B3%D0%BE%D0%B4" title="Категория:1583 год">1583 год</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;section=5" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Абусеитова&#160;М.&#160;Х., Казахское ханство во второй половине XVI века / Академия наук Казахской ССР Институт Истории, Археологии и Этнографии им. Ч.&#160;Ч.&#160;Валиханова.- Алма-Ата, 1985, С. 74</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20230322074944
+Cache expiry: 21600
+Reduced expiry: true
+Complications: [show‐toc, no‐toc‐conversion]
+CPU time usage: 0.217 seconds
+Real time usage: 0.291 seconds
+Preprocessor visited node count: 6006/1000000
+Post‐expand include size: 84762/2097152 bytes
+Template argument size: 6650/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2198/5000000 bytes
+Lua time usage: 0.039/10.000 seconds
+Lua memory usage: 1834030/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  196.472      1 -total
+ 32.85%   64.534      1 Шаблон:Навигация
+ 18.90%   37.139      1 Шаблон:Навигация_для_века
+ 16.18%   31.799      1 Шаблон:Год_начинающийся
+ 16.11%   31.660      1 Шаблон:Десятилетия_и_годы_века
+ 15.52%   30.497      1 Шаблон:Год_в_других_календарях
+ 14.92%   29.307     12 Шаблон:Десятилетие_и_годы
+  8.57%   16.843      1 Шаблон:Календарь_на_год
+  8.20%   16.109    129 Шаблон:Год
+  7.56%   14.858      1 Шаблон:Невисокосный_год,_начинающийся_в_субботу
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:4520-0!canonical and timestamp 20230322074944 and revision id 125483773. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=1583_год&amp;oldid=125483773">https://ru.wikipedia.org/w/index.php?title=1583_год&amp;oldid=125483773</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1583_%D0%B3%D0%BE%D0%B4" title="Категория:1583 год">1583 год</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%81%D0%B5_%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Категория:Все хронологические списки">Все хронологические списки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=1583+%D0%B3%D0%BE%D0%B4" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=1583+%D0%B3%D0%BE%D0%B4" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/1583_%D0%B3%D0%BE%D0%B4" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:1583_%D0%B3%D0%BE%D0%B4&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/1583_%D0%B3%D0%BE%D0%B4"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/1583_%D0%B3%D0%BE%D0%B4" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/1583_%D0%B3%D0%BE%D0%B4" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;oldid=125483773" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=1583_%D0%B3%D0%BE%D0%B4&amp;id=125483773&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6726" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=1583+%D0%B3%D0%BE%D0%B4" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=1583_%D0%B3%D0%BE%D0%B4&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:1583" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ab mw-list-item"><a href="https://ab.wikipedia.org/wiki/1583" title="1583 — абхазский" lang="ab" hreflang="ab" class="interlanguage-link-target"><span>Аԥсшәа</span></a></li><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/1583" title="1583 — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/1583" title="1583 — Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/1583_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0." title="1583 እ.ኤ.አ. — амхарский" lang="am" hreflang="am" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/1583" title="1583 — арагонский" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/1583" title="1583 — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/1583" title="1583 — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/1583" title="1583 — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-avk mw-list-item"><a href="https://avk.wikipedia.org/wiki/1583" title="1583 — Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target"><span>Kotava</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/1583" title="1583 — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%DB%B1%DB%B5%DB%B8%DB%B3_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۵۸۳ (میلادی) — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/1583" title="1583 — Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-bcl mw-list-item"><a href="https://bcl.wikipedia.org/wiki/1583" title="1583 — Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target"><span>Bikol Central</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/1583" title="1583 — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/1583" title="1583 — Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/1583" title="1583 — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AB%E0%A7%AE%E0%A7%A9" title="১৫৮৩ — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bpy mw-list-item"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AB%E0%A7%AE%E0%A7%A9" title="মারি ১৫৮৩ — Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target"><span>বিষ্ণুপ্রিয়া মণিপুরী</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/1583" title="1583 — бретонский" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/1583." title="1583. — боснийский" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/1583" title="1583 — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/1583_ni%C3%A8ng" title="1583 nièng — Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/1583" title="1583 — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%A1%D9%A5%D9%A8%D9%A3" title="١٥٨٣ — центральнокурдский" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-crh mw-list-item"><a href="https://crh.wikipedia.org/wiki/1583" title="1583 — крымско-татарский" lang="crh" hreflang="crh" class="interlanguage-link-target"><span>Qırımtatarca</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/1583" title="1583 — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/1583" title="1583 — чувашский" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/1583" title="1583 — валлийский" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/1583" title="1583 — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/1583" title="1583 — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-diq mw-list-item"><a href="https://diq.wikipedia.org/wiki/1583" title="1583 — Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target"><span>Zazaki</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/1583" title="1583 — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-eml mw-list-item"><a href="https://eml.wikipedia.org/wiki/1583" title="1583 — Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target"><span>Emiliàn e rumagnòl</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/1583" title="1583 — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/1583" title="1583 — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/1583" title="1583 — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/1583" title="1583 — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/1583" title="1583 — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%B1%DB%B5%DB%B8%DB%B3_(%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="۱۵۸۳ (میلادی) — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/1583" title="1583 — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/1583" title="1583 — фарерский" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/1583" title="1583 — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/1583" title="1583 — северный фризский" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/1583" title="1583 — западнофризский" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/1583" title="1583 — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gan mw-list-item"><a href="https://gan.wikipedia.org/wiki/1583%E5%B9%B4" title="1583年 — гань" lang="gan" hreflang="gan" class="interlanguage-link-target"><span>贛語</span></a></li><li class="interlanguage-link interwiki-gcr mw-list-item"><a href="https://gcr.wikipedia.org/wiki/1583" title="1583 — Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target"><span>Kriyòl gwiyannen</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/1583" title="1583 — гэльский" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/1583" title="1583 — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/1583" title="1583 — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AB%E0%A5%AE%E0%A5%A9" title="१५८३ — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/1583." title="1583. — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/1583_(almanak_gregoryen)" title="1583 (almanak gregoryen) — гаитянский" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/1583" title="1583 — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/1583" title="1583 — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hyw mw-list-item"><a href="https://hyw.wikipedia.org/wiki/1583_%D5%A9%D5%B8%D6%82%D5%A1%D5%AF%D5%A1%D5%B6" title="1583 թուական — Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target"><span>Արեւմտահայերէն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/1583" title="1583 — интерлингва" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/1583" title="1583 — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/1583" title="1583 — илоко" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/1583" title="1583 — идо" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/1583" title="1583 — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/1583" title="1583 — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/1583%E5%B9%B4" title="1583年 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/1583" title="1583 — яванский" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/1583" title="1583 — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/1583_%D0%B6%D1%8B%D0%BB" title="1583 жыл — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/1583%EB%85%84" title="1583년 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-krc mw-list-item"><a href="https://krc.wikipedia.org/wiki/1583_%D0%B4%D0%B6%D1%8B%D0%BB" title="1583 джыл — карачаево-балкарский" lang="krc" hreflang="krc" class="interlanguage-link-target"><span>Къарачай-малкъар</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/1583" title="1583 — киргизский" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/1583" title="1583 — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/1583" title="1583 — люксембургский" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lij mw-list-item"><a href="https://lij.wikipedia.org/wiki/1583" title="1583 — Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target"><span>Ligure</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/1583" title="1583 — Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a href="https://lo.wikipedia.org/wiki/%E0%BA%84.%E0%BA%AA._1583" title="ຄ.ສ. 1583 — лаосский" lang="lo" hreflang="lo" class="interlanguage-link-target"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/1583_m." title="1583 m. — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/1583._gads" title="1583. gads — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a href="https://mai.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AB%E0%A5%AE%E0%A5%A9" title="१५८३ — майтхили" lang="mai" hreflang="mai" class="interlanguage-link-target"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-map-bms mw-list-item"><a href="https://map-bms.wikipedia.org/wiki/1583" title="1583 — Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target"><span>Basa Banyumasan</span></a></li><li class="interlanguage-link interwiki-mdf mw-list-item"><a href="https://mdf.wikipedia.org/wiki/1583" title="1583 — мокшанский" lang="mdf" hreflang="mdf" class="interlanguage-link-target"><span>Мокшень</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/1583" title="1583 — малагасийский" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/1583" title="1583 — Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-mi mw-list-item"><a href="https://mi.wikipedia.org/wiki/1583" title="1583 — маори" lang="mi" hreflang="mi" class="interlanguage-link-target"><span>Māori</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/1583" title="1583 — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87.%E0%A4%B8._%E0%A5%A7%E0%A5%AB%E0%A5%AE%E0%A5%A9" title="इ.स. १५८३ — маратхи" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-mrj mw-list-item"><a href="https://mrj.wikipedia.org/wiki/1583_%D0%B8" title="1583 и — Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target"><span>Кырык мары</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/1583" title="1583 — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%81%81%E1%81%85%E1%81%88%E1%81%83" title="၁၅၈၃ — бирманский" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nah mw-list-item"><a href="https://nah.wikipedia.org/wiki/1583" title="1583 — Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target"><span>Nāhuatl</span></a></li><li class="interlanguage-link interwiki-nap mw-list-item"><a href="https://nap.wikipedia.org/wiki/1583" title="1583 — неаполитанский" lang="nap" hreflang="nap" class="interlanguage-link-target"><span>Napulitano</span></a></li><li class="interlanguage-link interwiki-nds mw-list-item"><a href="https://nds.wikipedia.org/wiki/1583" title="1583 — нижненемецкий" lang="nds" hreflang="nds" class="interlanguage-link-target"><span>Plattdüütsch</span></a></li><li class="interlanguage-link interwiki-new mw-list-item"><a href="https://new.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AB%E0%A5%AE%E0%A5%A9" title="सन् १५८३ — неварский" lang="new" hreflang="new" class="interlanguage-link-target"><span>नेपाल भाषा</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/1583" title="1583 — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/1583" title="1583 — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/1583" title="1583 — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nrm mw-list-item"><a href="https://nrm.wikipedia.org/wiki/1583" title="1583 — Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target"><span>Nouormand</span></a></li><li class="interlanguage-link interwiki-nso mw-list-item"><a href="https://nso.wikipedia.org/wiki/1583" title="1583 — северный сото" lang="nso" hreflang="nso" class="interlanguage-link-target"><span>Sesotho sa Leboa</span></a></li><li class="interlanguage-link interwiki-oc badge-Q70893996 mw-list-item" title=""><a href="https://oc.wikipedia.org/wiki/1583" title="1583 — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AD%A7%E0%AD%AB%E0%AD%AE%E0%AD%A9" title="୧୫୮୩ — ория" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-os mw-list-item"><a href="https://os.wikipedia.org/wiki/1583-%C3%A6%D0%BC_%D0%B0%D0%B7" title="1583-æм аз — осетинский" lang="os" hreflang="os" class="interlanguage-link-target"><span>Ирон</span></a></li><li class="interlanguage-link interwiki-pi mw-list-item"><a href="https://pi.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AB%E0%A5%AE%E0%A5%A9" title="१५८३ — пали" lang="pi" hreflang="pi" class="interlanguage-link-target"><span>पालि</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/1583" title="1583 — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/1583" title="1583 — Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/1583" title="1583 — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/1583" title="1583 — кечуа" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/1583" title="1583 — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/1583" title="1583 — Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-sa mw-list-item"><a href="https://sa.wikipedia.org/wiki/%E0%A5%A7%E0%A5%AB%E0%A5%AE%E0%A5%A9" title="१५८३ — санскрит" lang="sa" hreflang="sa" class="interlanguage-link-target"><span>संस्कृतम्</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a href="https://sah.wikipedia.org/wiki/1583" title="1583 — саха" lang="sah" hreflang="sah" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/1583" title="1583 — сицилийский" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/1583%D8%B9" title="1583ع — синдхи" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-se mw-list-item"><a href="https://se.wikipedia.org/wiki/1583" title="1583 — северносаамский" lang="se" hreflang="se" class="interlanguage-link-target"><span>Davvisámegiella</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/1583" title="1583 — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-shn mw-list-item"><a href="https://shn.wikipedia.org/wiki/1583" title="1583 — шанский" lang="shn" hreflang="shn" class="interlanguage-link-target"><span>ၽႃႇသႃႇတႆး </span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/1583" title="1583 — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/1583" title="1583 — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/1583" title="1583 — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-smn mw-list-item"><a href="https://smn.wikipedia.org/wiki/1583" title="1583 — инари-саамский" lang="smn" hreflang="smn" class="interlanguage-link-target"><span>Anarâškielâ</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/1583" title="1583 — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/1583" title="1583 — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/1583" title="1583 — сунданский" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/1583" title="1583 — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/1583" title="1583 — суахили" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/1583" title="1583 — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8_1583" title="Соли 1583 — таджикский" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%9E.%E0%B8%A8._2126" title="พ.ศ. 2126 — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tk mw-list-item"><a href="https://tk.wikipedia.org/wiki/1583" title="1583 — туркменский" lang="tk" hreflang="tk" class="interlanguage-link-target"><span>Türkmençe</span></a></li><li class="interlanguage-link interwiki-tl badge-Q70893996 mw-list-item" title=""><a href="https://tl.wikipedia.org/wiki/1583" title="1583 — тагалог" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/1583" title="1583 — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/1583_%D0%B5%D0%BB" title="1583 ел — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/1583" title="1583 — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/1583%D8%A1" title="1583ء — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/1583" title="1583 — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/1583" title="1583 — Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/1583" title="1583 — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vls mw-list-item"><a href="https://vls.wikipedia.org/wiki/1583" title="1583 — West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target"><span>West-Vlams</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/1583" title="1583 — варай" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/1583%E5%B9%B4" title="1583年 — у" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/1583" title="1583 — Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/1583" title="1583 — идиш" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/1583%E5%B9%B4" title="1583年 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/1583_n%C3%AE" title="1583 nî — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/1583%E5%B9%B4" title="1583年 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6726#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 сентября 2022 в 07:31.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=1583_%D0%B3%D0%BE%D0%B4&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.217","walltime":"0.291","ppvisitednodes":{"value":6006,"limit":1000000},"postexpandincludesize":{"value":84762,"limit":2097152},"templateargumentsize":{"value":6650,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2198,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  196.472      1 -total"," 32.85%   64.534      1 Шаблон:Навигация"," 18.90%   37.139      1 Шаблон:Навигация_для_века"," 16.18%   31.799      1 Шаблон:Год_начинающийся"," 16.11%   31.660      1 Шаблон:Десятилетия_и_годы_века"," 15.52%   30.497      1 Шаблон:Год_в_других_календарях"," 14.92%   29.307     12 Шаблон:Десятилетие_и_годы","  8.57%   16.843      1 Шаблон:Календарь_на_год","  8.20%   16.109    129 Шаблон:Год","  7.56%   14.858      1 Шаблон:Невисокосный_год,_начинающийся_в_субботу"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"10.000"},"limitreport-memusage":{"value":1834030,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20230322074944","ttl":21600,"transientcontent":true}},"wgHostname":"mw1395","wgBackendResponseTime":427});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1583 \u0433\u043e\u0434","url":"https:\/\/ru.wikipedia.org\/wiki\/1583_%D0%B3%D0%BE%D0%B4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6726","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6726","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-04T10:56:27Z","dateModified":"2022-09-15T07:31:50Z","headline":"\u0433\u043e\u0434 XVI \u0432\u0435\u043a\u0430"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1583 \u0433\u043e\u0434","url":"https:\/\/ru.wikipedia.org\/wiki\/1583_%D0%B3%D0%BE%D0%B4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6726","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6726","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-04T10:56:27Z","dateModified":"2022-09-15T07:31:50Z","headline":"\u0433\u043e\u0434 XVI \u0432\u0435\u043a\u0430"}</script>
+</body>
+</html>

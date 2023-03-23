@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Список штатов США по дате присоединения — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"722706f9-4de9-47f9-836f-a5185bd7fed3","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Список_штатов_США_по_дате_присоединения","wgTitle":"Список штатов США по дате присоединения","wgCurRevisionId":126607747,"wgRevisionId":
+126607747,"wgArticleId":5800230,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи, требующие внесения ясности","Википедия:Статьи с шаблонами недостатков по алфавиту","Википедия:Шаблон «Внешние ссылки» пуст","История США","Списки по штатам США"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Список_штатов_США_по_дате_присоединения","wgRelevantArticleId":5800230,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":107989031,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search"
+:true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q906228","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons"
+:"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation",
+"ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Список штатов США по дате присоединения — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Список_штатов_США_по_дате_присоединения rootpage-Список_штатов_США_по_дате_присоединения skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Список штатов США по дате присоединения</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'>Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;stable=1">версии</a>, проверенной 19 марта 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;oldid=107989031&amp;diff=cur&amp;diffonly=0">9 правок</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;stable=1">версии</a>, проверенной 19 марта 2023 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;oldid=107989031&amp;diff=cur&amp;diffonly=0">9 правок</a>.</div>
+</div>
+</div>
+</div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><p><b>Список штатов США по дате присоединения</b> — перечень <a href="/wiki/%D0%A8%D1%82%D0%B0%D1%82_%D0%A1%D0%A8%D0%90" title="Штат США">государств (штатов)</a> по дате их <span data-interwiki-lang="en" data-interwiki-article="Admission to the Union"><a href="/w/index.php?title=%D0%9F%D1%80%D0%B8%D1%91%D0%BC_%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2_%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%A8%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Приём в состав Соединённых Штатов Америки (страница отсутствует)">принятия в Союз</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Admission_to_the_Union" class="extiw" title="en:Admission to the Union"><span title="Admission to the Union — версия статьи «Приём в состав Соединённых Штатов Америки» на английском языке">[en]</span></a></sup></span> <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">(государств) Северной Америки</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Комментарии"><span class="tocnumber">2</span> <span class="toctext">Комментарии</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Примечания"><span class="tocnumber">3</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ссылки"><span class="tocnumber">4</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>4 июля 1776 года <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B9" title="Тринадцать колоний">тринадцать колоний</a> подписали <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%A1%D0%A8%D0%90" title="Декларация независимости США">Декларацию независимости</a> и официально объявили о непризнании власти <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Великобритании</a>. Результатом этих шагов явилось создание <b><a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">Соединённых Штатов Америки</a></b> и <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B7%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%A1%D0%A8%D0%90" title="Война за независимость США">война за независимость США</a>. Остальные британские колонии в Северной и <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Центральная Америка">Центральной Америке</a> (пять колоний, расположенных на территории современной <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">Канады</a>, восемь колоний, расположенных на островах <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Карибское море">Карибского моря</a>, и <a href="/wiki/%D0%91%D0%B5%D1%80%D0%BC%D1%83%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Бермудские Острова">Бермудские Острова</a>) к революции не присоединились, сохранив верность британской короне.
+</p><p>К концу июня 1788 года штаты <a href="/wiki/%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4" title="Мэриленд">Мэриленд</a>, <a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" title="Южная Каролина">Южная Каролина</a> и <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%93%D0%B5%D0%BC%D0%BF%D1%88%D0%B8%D1%80" class="mw-redirect" title="Нью-Гемпшир">Нью-Гемпшир</a> дали своё согласие, удовлетворяющее требованиям для ратификации девяти колоний<span style="background: #ffeaea; color: #444444;"></span><sup class="" style="white-space: nowrap">&#91;<i><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D1%8C" title="Шаблон:Прояснить"><span title="Шаблон:Прояснить" style="">прояснить</span></a></i>&#93;</sup>. После этого Конституция юридически вступила в силу. Но избиратели двух крупных штатов&#160;— <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA_(%D1%88%D1%82%D0%B0%D1%82)" title="Нью-Йорк (штат)">Нью-Йорка</a> и <a href="/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F" title="Виргиния">Виргинии</a>&#160;— не приняли решение, так же как и двух небольших штатов&#160;— <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" title="Северная Каролина">Северной Каролины</a> и <a href="/wiki/%D0%A0%D0%BE%D0%B4-%D0%90%D0%B9%D0%BB%D0%B5%D0%BD%D0%B4" title="Род-Айленд">Род-Айленда</a>. Было ясно, что без согласия Нью-Йорка и Виргинии Конституция может быть не принята.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:537px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:US_states_by_date_of_statehood3.gif" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/US_states_by_date_of_statehood3.gif/535px-US_states_by_date_of_statehood3.gif" decoding="async" width="535" height="400" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f2/US_states_by_date_of_statehood3.gif 1.5x" data-file-width="795" data-file-height="595" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:US_states_by_date_of_statehood3.gif" class="internal" title="Увеличить"></a></div>Анимированная карта присоединения штатов (государств) к США с указанием годов.<i></i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:US_states_by_date_of_statehood_RWB_dates.svg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/US_states_by_date_of_statehood_RWB_dates.svg/500px-US_states_by_date_of_statehood_RWB_dates.svg.png" decoding="async" width="500" height="333" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/US_states_by_date_of_statehood_RWB_dates.svg/750px-US_states_by_date_of_statehood_RWB_dates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/US_states_by_date_of_statehood_RWB_dates.svg/1000px-US_states_by_date_of_statehood_RWB_dates.svg.png 2x" data-file-width="972" data-file-height="648" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:US_states_by_date_of_statehood_RWB_dates.svg" class="internal" title="Увеличить"></a></div>Карта присоединения штатов (государств). <table align="center" border="0"> <caption> </caption> <tbody><tr> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #FF0000; background: #FF0000; text-align: center;" title="#FF0000">&#160;&#160;&#160;&#160;</span>&#160;1776–1790</span></td> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #FF6666; background: #FF6666; text-align: center;" title="#FF6666">&#160;&#160;&#160;&#160;</span>&#160;1791–1799</span></td> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #FF9999; background: #FF9999; text-align: center;" title="#FF9999">&#160;&#160;&#160;&#160;</span>&#160;1800–1819</span> </td></tr> <tr> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #FFCCCC; background: #FFCCCC; text-align: center;" title="#FFCCCC">&#160;&#160;&#160;&#160;</span>&#160;1820–1839</span></td> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #CCCCCC; background: #CCCCCC; text-align: center;" title="#CCCCCC">&#160;&#160;&#160;&#160;</span>&#160;1840–1859</span></td> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #CCCCFF; background: #CCCCFF; text-align: center;" title="#CCCCFF">&#160;&#160;&#160;&#160;</span>&#160;1860–1879</span> </td></tr> <tr> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #9999FF; background: #9999FF; text-align: center;" title="#9999FF">&#160;&#160;&#160;&#160;</span>&#160;1880–1899</span></td> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #6666FF; background: #6666FF; text-align: center;" title="#6666FF">&#160;&#160;&#160;&#160;</span>&#160;1900–1950</span></td> <td><span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #0000FF; background: #0000FF; text-align: center;" title="#0000FF">&#160;&#160;&#160;&#160;</span>&#160;1959</span> </td> </tr></tbody><caption> </caption></table></div></div></div>
+<p><br />
+</p>
+<div style="clear:both;"></div>
+<table border="1" align="center" class="wikitable" style="text-align:center;">
+<caption>
+</caption>
+<tbody><tr>
+<th style="width:2%;"><abbr title="Очерёдность">#</abbr>
+</th>
+<th style="width:10%;"><a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%B3" title="Флаг">Флаг</a>
+</th>
+<th style="width:20%;">Штат (государство)
+</th>
+<th style="width:15%;">Дата <a href="/wiki/%D0%A0%D0%B0%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Ратификация">ратификации</a> <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F" title="Конституция">конституции</a>
+</th>
+<th style="width:50%;">Предыдущая история<br /><small>(штаты и территории)</small>
+</th>
+<th style="width:3%;"><abbr title="Ссылка">С.</abbr>
+</th></tr>
+<tr>
+<td style="text-align:center;" colspan="6"><b>Конституция вступила в силу после её ратификации девятью из тринадцати штатов.</b>
+</td></tr>
+<tr>
+<td>1
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Delaware.svg" class="image"><img alt="Flag of Delaware.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/100px-Flag_of_Delaware.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/150px-Flag_of_Delaware.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/200px-Flag_of_Delaware.svg.png 2x" data-file-width="600" data-file-height="400" /></a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B5%D0%BB%D0%B0%D0%B2%D1%8D%D1%80" title="Делавэр">Делавэр</a>
+</td>
+<td>7 декабря 1787
+</td>
+<td>«Нижние графства» <a href="/wiki/%D0%94%D0%B5%D0%BB%D0%B0%D0%B2%D1%8D%D1%80_(%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F)" title="Делавэр (колония)">Делавэрской колонии</a>
+</td>
+<td><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Pennsylvania.svg" class="image"><img alt="Flag of Pennsylvania.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/100px-Flag_of_Pennsylvania.svg.png" decoding="async" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/150px-Flag_of_Pennsylvania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/200px-Flag_of_Pennsylvania.svg.png 2x" data-file-width="740" data-file-height="540" /></a>
+</td>
+<td><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Пенсильвания">Пенсильвания</a>
+</td>
+<td>12 декабря 1787
+</td>
+<td><a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Пенсильвания (провинция)">Провинция Пенсильвания</a>
+</td>
+<td><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_New_Jersey.svg" class="image"><img alt="Flag of New Jersey.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/100px-Flag_of_New_Jersey.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/150px-Flag_of_New_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/200px-Flag_of_New_Jersey.svg.png 2x" data-file-width="512" data-file-height="308" /></a>
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8" title="Нью-Джерси">Нью-Джерси</a>
+</td>
+<td>18 декабря 1787
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Нью-Джерси (провинция)">Провинция Нью-Джерси</a>
+</td>
+<td><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Georgia_(U.S._state).svg" class="image"><img alt="Flag of Georgia (U.S. state).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/100px-Flag_of_Georgia_%28U.S._state%29.svg.png" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/150px-Flag_of_Georgia_%28U.S._state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/200px-Flag_of_Georgia_%28U.S._state%29.svg.png 2x" data-file-width="960" data-file-height="600" /></a>
+</td>
+<td><a href="/wiki/%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%B8%D1%8F" title="Джорджия">Джорджия</a>
+</td>
+<td>2 января 1788
+</td>
+<td><a href="/wiki/%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%B8%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Джорджия (провинция)">Провинция Джорджия</a>
+</td>
+<td><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Connecticut.svg" class="image"><img alt="Flag of Connecticut.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/100px-Flag_of_Connecticut.svg.png" decoding="async" width="100" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/150px-Flag_of_Connecticut.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/200px-Flag_of_Connecticut.svg.png 2x" data-file-width="330" data-file-height="260" /></a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%82" title="Коннектикут">Коннектикут</a>
+</td>
+<td>9 января 1788
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%82_(%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F)" title="Коннектикут (колония)">Колония Коннектикут</a>
+</td>
+<td><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Massachusetts.svg" class="image"><img alt="Flag of Massachusetts.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/100px-Flag_of_Massachusetts.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/150px-Flag_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/200px-Flag_of_Massachusetts.svg.png 2x" data-file-width="1500" data-file-height="900" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D1%87%D1%83%D1%81%D0%B5%D1%82%D1%81" title="Массачусетс">Массачусетс</a>
+</td>
+<td>6 февраля 1788
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D1%87%D1%83%D1%81%D0%B5%D1%82%D1%81-%D0%91%D1%8D%D0%B9_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" class="mw-redirect" title="Массачусетс-Бэй (провинция)">Провинция Массачусетс-Бэй</a>
+</td>
+<td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Maryland.svg" class="image"><img alt="Flag of Maryland.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/100px-Flag_of_Maryland.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/150px-Flag_of_Maryland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/200px-Flag_of_Maryland.svg.png 2x" data-file-width="750" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4" title="Мэриленд">Мэриленд</a>
+</td>
+<td>28 апреля 1788
+</td>
+<td><a href="/wiki/%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Мэриленд (провинция)">Провинция Мэриленд</a>
+</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_South_Carolina.svg" class="image"><img alt="Flag of South Carolina.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/100px-Flag_of_South_Carolina.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/150px-Flag_of_South_Carolina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/200px-Flag_of_South_Carolina.svg.png 2x" data-file-width="750" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" title="Южная Каролина">Южная Каролина</a>
+</td>
+<td>23 мая 1788
+</td>
+<td><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Южная Каролина (провинция)">Провинция Южная Каролина</a>
+</td>
+<td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_New_Hampshire.svg" class="image"><img alt="Flag of New Hampshire.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/100px-Flag_of_New_Hampshire.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/150px-Flag_of_New_Hampshire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/200px-Flag_of_New_Hampshire.svg.png 2x" data-file-width="660" data-file-height="440" /></a>
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%93%D1%8D%D0%BC%D0%BF%D1%88%D0%B8%D1%80" title="Нью-Гэмпшир">Нью-Гэмпшир</a>
+</td>
+<td>21 июня 1788
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%93%D1%8D%D0%BC%D0%BF%D1%88%D0%B8%D1%80_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Нью-Гэмпшир (провинция)">Провинция Нью-Гэмпшир</a>
+</td>
+<td><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Virginia.svg" class="image"><img alt="Flag of Virginia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/100px-Flag_of_Virginia.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/150px-Flag_of_Virginia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/200px-Flag_of_Virginia.svg.png 2x" data-file-width="350" data-file-height="234" /></a>
+</td>
+<td><a href="/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F" title="Виргиния">Виргиния</a>
+</td>
+<td>25 июня 1788
+</td>
+<td><a href="/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F_(%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F)" title="Виргиния (колония)">Колония Виргиния</a>
+</td>
+<td><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_New_York.svg" class="image"><img alt="Flag of New York.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/100px-Flag_of_New_York.svg.png" decoding="async" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/150px-Flag_of_New_York.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/200px-Flag_of_New_York.svg.png 2x" data-file-width="900" data-file-height="450" /></a>
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA_(%D1%88%D1%82%D0%B0%D1%82)" title="Нью-Йорк (штат)">Нью-Йорк</a>
+</td>
+<td>26 июля 1788
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Нью-Йорк (провинция)">Провинция Нью-Йорк</a>
+</td>
+<td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_North_Carolina.svg" class="image"><img alt="Flag of North Carolina.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/100px-Flag_of_North_Carolina.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/150px-Flag_of_North_Carolina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/200px-Flag_of_North_Carolina.svg.png 2x" data-file-width="750" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" title="Северная Каролина">Северная Каролина</a>
+</td>
+<td>21 ноября 1789
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Северная Каролина (провинция)">Провинция Северная Каролина</a>
+</td>
+<td><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Rhode_Island.svg" class="image"><img alt="Flag of Rhode Island.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/100px-Flag_of_Rhode_Island.svg.png" decoding="async" width="100" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/150px-Flag_of_Rhode_Island.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/200px-Flag_of_Rhode_Island.svg.png 2x" data-file-width="660" data-file-height="580" /></a>
+</td>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B4-%D0%90%D0%B9%D0%BB%D0%B5%D0%BD%D0%B4" title="Род-Айленд">Род-Айленд</a>
+</td>
+<td>29 мая 1790
+</td>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B4-%D0%90%D0%B9%D0%BB%D0%B5%D0%BD%D0%B4_(%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F)" title="Род-Айленд (колония)">Колония Род-Айленд и Провиденские плантации</a>
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;К 1&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;16&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td style="text-align:center;" colspan="7"><b>Новые штаты, присоединившиеся к <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B9" title="Тринадцать колоний">тринадцати колониям</a>.</b>
+</td></tr>
+<tr>
+<th style="width:2%;"><abbr title="Очерёдность">#</abbr>
+</th>
+<th style="width:10%;">Флаг
+</th>
+<th style="width:20%;">Штат (государство)
+</th>
+<th style="width:15%;">Дата присоединения
+</th>
+<th style="width:50%;">Предыдущая история<br /><small>(штаты и территории)</small>
+</th>
+<th style="width:3%;"><abbr title="Ссылка">С.</abbr>
+</th></tr>
+<tr>
+<td>14
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Vermont.svg" class="image"><img alt="Flag of Vermont.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/100px-Flag_of_Vermont.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/150px-Flag_of_Vermont.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/200px-Flag_of_Vermont.svg.png 2x" data-file-width="800" data-file-height="480" /></a>
+</td>
+<td><a href="/wiki/%D0%92%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82" title="Вермонт">Вермонт</a>
+</td>
+<td>4 марта 1791
+</td>
+<td><a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82" title="Республика Вермонт">Республика Вермонт</a>
+</td>
+<td><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kentucky.svg" class="image"><img alt="Flag of Kentucky.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/100px-Flag_of_Kentucky.svg.png" decoding="async" width="100" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/150px-Flag_of_Kentucky.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/200px-Flag_of_Kentucky.svg.png 2x" data-file-width="950" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D1%83%D0%BA%D0%BA%D0%B8" title="Кентукки">Кентукки</a>
+</td>
+<td>1 июня 1792
+</td>
+<td>Часть <a href="/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F" title="Виргиния">Виргинии</a>, отделилась с согласия <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%8F_%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D0%B8" title="Генеральная ассамблея Виргинии">Генеральной ассамблеи штата</a>
+</td>
+<td><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Tennessee.svg" class="image"><img alt="Flag of Tennessee.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/100px-Flag_of_Tennessee.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/150px-Flag_of_Tennessee.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/200px-Flag_of_Tennessee.svg.png 2x" data-file-width="500" data-file-height="300" /></a>
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B5%D1%81%D1%81%D0%B8" title="Теннесси">Теннесси</a>
+</td>
+<td>1 июня 1796
+</td>
+<td><a href="/wiki/%D0%AE%D0%B3%D0%BE-%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%A1%D0%A8%D0%90_(1790%E2%80%941796)" title="Юго-Западные территории США (1790—1796)">Юго-западные территории</a>, ранее часть <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0" title="Северная Каролина">Северной Каролины</a>
+</td>
+<td><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<td>17
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Ohio.svg" class="image"><img alt="Flag of Ohio.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/100px-Flag_of_Ohio.svg.png" decoding="async" width="100" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/150px-Flag_of_Ohio.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/200px-Flag_of_Ohio.svg.png 2x" data-file-width="520" data-file-height="320" /></a>
+</td>
+<td><a href="/wiki/%D0%9E%D0%B3%D0%B0%D0%B9%D0%BE" title="Огайо">Огайо</a>
+</td>
+<td>1 марта 1803
+</td>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%97%D0%B0%D0%BF%D0%B0%D0%B4" title="Старый Северо-Запад">Северно-западная территория</a>
+</td>
+<td><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<td>18
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Louisiana.svg" class="image"><img alt="Flag of Louisiana.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/100px-Flag_of_Louisiana.svg.png" decoding="async" width="100" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/150px-Flag_of_Louisiana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/200px-Flag_of_Louisiana.svg.png 2x" data-file-width="7040" data-file-height="4556" /></a>
+</td>
+<td><a href="/wiki/%D0%9B%D1%83%D0%B8%D0%B7%D0%B8%D0%B0%D0%BD%D0%B0" title="Луизиана">Луизиана</a>
+</td>
+<td>30 апреля 1812
+</td>
+<td><a href="/wiki/%D0%9E%D1%80%D0%BB%D0%B5%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Орлеанская территория">Орлеанская территория</a>
+</td>
+<td><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Indiana.svg" class="image"><img alt="Flag of Indiana.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/100px-Flag_of_Indiana.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/150px-Flag_of_Indiana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/200px-Flag_of_Indiana.svg.png 2x" data-file-width="600" data-file-height="400" /></a>
+</td>
+<td><a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0" title="Индиана">Индиана</a>
+</td>
+<td>11 декабря 1816
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%98%D0%BD%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0" title="Территория Индиана">Территория Индиана</a>
+</td>
+<td><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Mississippi_(2001%E2%80%932020).svg" class="image"><img alt="Flag of Mississippi (2001–2020).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Mississippi_%282001%E2%80%932020%29.svg/100px-Flag_of_Mississippi_%282001%E2%80%932020%29.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Mississippi_%282001%E2%80%932020%29.svg/150px-Flag_of_Mississippi_%282001%E2%80%932020%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Mississippi_%282001%E2%80%932020%29.svg/200px-Flag_of_Mississippi_%282001%E2%80%932020%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D1%81%D0%B8%D0%BF%D0%B8_(%D1%88%D1%82%D0%B0%D1%82)" title="Миссисипи (штат)">Миссисипи</a>
+</td>
+<td>10 декабря 1817
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D1%81%D0%B8%D0%BF%D0%B8" title="Территория Миссисипи">Территория Миссисипи</a>
+</td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td>21
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Illinois.svg" class="image"><img alt="Flag of Illinois.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/100px-Flag_of_Illinois.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/150px-Flag_of_Illinois.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/200px-Flag_of_Illinois.svg.png 2x" data-file-width="500" data-file-height="300" /></a>
+</td>
+<td><a href="/wiki/%D0%98%D0%BB%D0%BB%D0%B8%D0%BD%D0%BE%D0%B9%D1%81" title="Иллинойс">Иллинойс</a>
+</td>
+<td>3 декабря 1818
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%98%D0%BB%D0%BB%D0%B8%D0%BD%D0%BE%D0%B9%D1%81" title="Территория Иллинойс">Территория Иллинойс</a>
+</td>
+<td><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td>22
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Alabama.svg" class="image"><img alt="Flag of Alabama.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/100px-Flag_of_Alabama.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/150px-Flag_of_Alabama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/200px-Flag_of_Alabama.svg.png 2x" data-file-width="600" data-file-height="400" /></a>
+</td>
+<td><a href="/wiki/%D0%90%D0%BB%D0%B0%D0%B1%D0%B0%D0%BC%D0%B0" title="Алабама">Алабама</a>
+</td>
+<td>14 декабря 1819
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D0%BB%D0%B0%D0%B1%D0%B0%D0%BC%D0%B0" title="Территория Алабама">Территория Алабама</a>
+</td>
+<td><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td>23
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Maine.svg" class="image"><img alt="Flag of Maine.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/100px-Flag_of_Maine.svg.png" decoding="async" width="100" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/150px-Flag_of_Maine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/200px-Flag_of_Maine.svg.png 2x" data-file-width="6336" data-file-height="4992" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D1%8D%D0%BD_(%D1%88%D1%82%D0%B0%D1%82)" title="Мэн (штат)">Мэн</a>
+</td>
+<td>15 марта 1820
+</td>
+<td>Часть Массачусетса, отделившаяся с согласия <span data-interwiki-lang="en" data-interwiki-article="Massachusetts General Court"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D1%87%D1%83%D1%81%D0%B5%D1%82%D1%81%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Законодательное собрание Массачусетса (страница отсутствует)">законодательного собрания штата</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Massachusetts_General_Court" class="extiw" title="en:Massachusetts General Court"><span title="Massachusetts General Court — версия статьи «Законодательное собрание Массачусетса» на английском языке">[en]</span></a></sup></span>
+</td>
+<td><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td>24
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Missouri.svg" class="image"><img alt="Flag of Missouri.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/100px-Flag_of_Missouri.svg.png" decoding="async" width="100" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/150px-Flag_of_Missouri.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/200px-Flag_of_Missouri.svg.png 2x" data-file-width="2400" data-file-height="1400" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%81%D1%83%D1%80%D0%B8_(%D1%88%D1%82%D0%B0%D1%82)" title="Миссури (штат)">Миссури</a>
+</td>
+<td>10 августа 1821
+</td>
+<td>Юго-восточная часть <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%B8%D1%81%D1%81%D1%83%D1%80%D0%B8" title="Территория Миссури">территории Миссури</a>
+</td>
+<td><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Arkansas.svg" class="image"><img alt="Flag of Arkansas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/100px-Flag_of_Arkansas.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/150px-Flag_of_Arkansas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/200px-Flag_of_Arkansas.svg.png 2x" data-file-width="450" data-file-height="300" /></a>
+</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D1%81" title="Арканзас">Арканзас</a>
+</td>
+<td>15 июня 1836
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D1%80%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D1%81" title="Территория Арканзас">Территория Арканзас</a>
+</td>
+<td><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td>26
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Michigan.svg" class="image"><img alt="Flag of Michigan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/100px-Flag_of_Michigan.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/150px-Flag_of_Michigan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/200px-Flag_of_Michigan.svg.png 2x" data-file-width="685" data-file-height="457" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%B8%D1%87%D0%B8%D0%B3%D0%B0%D0%BD" title="Мичиган">Мичиган</a>
+</td>
+<td>26 января 1837
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%B8%D1%87%D0%B8%D0%B3%D0%B0%D0%BD" title="Территория Мичиган">Территория Мичиган</a>
+</td>
+<td><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<td>27
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Florida.svg" class="image"><img alt="Flag of Florida.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/100px-Flag_of_Florida.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/150px-Flag_of_Florida.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/200px-Flag_of_Florida.svg.png 2x" data-file-width="300" data-file-height="200" /></a>
+</td>
+<td><a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флорида</a>
+</td>
+<td>3 марта 1845
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Территория Флорида">Территория Флорида</a>
+</td>
+<td><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;31&#93;</a></sup>
+</td></tr>
+<tr>
+<td>28
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Texas.svg" class="image"><img alt="Flag of Texas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/100px-Flag_of_Texas.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/150px-Flag_of_Texas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/200px-Flag_of_Texas.svg.png 2x" data-file-width="1080" data-file-height="720" /></a>
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%85%D0%B0%D1%81" title="Техас">Техас</a>
+</td>
+<td>29 декабря 1845
+</td>
+<td><a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A2%D0%B5%D1%85%D0%B0%D1%81" title="Республика Техас">Республика Техас</a>
+</td>
+<td><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td>29
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Iowa.svg" class="image"><img alt="Flag of Iowa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/100px-Flag_of_Iowa.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/150px-Flag_of_Iowa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/200px-Flag_of_Iowa.svg.png 2x" data-file-width="714" data-file-height="477" /></a>
+</td>
+<td><a href="/wiki/%D0%90%D0%B9%D0%BE%D0%B2%D0%B0" title="Айова">Айова</a>
+</td>
+<td>28 декабря 1846
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D0%B9%D0%BE%D0%B2%D0%B0" title="Территория Айова">Территория Айова</a>
+</td>
+<td><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td>30
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Wisconsin.svg" class="image"><img alt="Flag of Wisconsin.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/100px-Flag_of_Wisconsin.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/150px-Flag_of_Wisconsin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/200px-Flag_of_Wisconsin.svg.png 2x" data-file-width="300" data-file-height="200" /></a>
+</td>
+<td><a href="/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D0%B8%D0%BD" title="Висконсин">Висконсин</a>
+</td>
+<td>29 мая 1848
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%92%D0%B8%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D0%B8%D0%BD" title="Территория Висконсин">Территория Висконсин</a>
+</td>
+<td><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td>31
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_California.svg" class="image"><img alt="Flag of California.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/100px-Flag_of_California.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/150px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/200px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F" title="Калифорния">Калифорния</a>
+</td>
+<td>9 сентября 1850
+</td>
+<td>Военный округ Калифорния
+</td>
+<td><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;К 2&#93;</a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;35&#93;</a></sup>
+</td></tr>
+<tr>
+<td>32
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Minnesota.svg" class="image"><img alt="Flag of Minnesota.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/100px-Flag_of_Minnesota.svg.png" decoding="async" width="100" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/150px-Flag_of_Minnesota.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/200px-Flag_of_Minnesota.svg.png 2x" data-file-width="500" data-file-height="318" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%BD%D0%B5%D1%81%D0%BE%D1%82%D0%B0" title="Миннесота">Миннесота</a>
+</td>
+<td>11 мая 1858
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%B8%D0%BD%D0%BD%D0%B5%D1%81%D0%BE%D1%82%D0%B0" title="Территория Миннесота">Территория Миннесота</a>
+</td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;36&#93;</a></sup>
+</td></tr>
+<tr>
+<td>33
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Oregon.svg" class="image"><img alt="Flag of Oregon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/100px-Flag_of_Oregon.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/150px-Flag_of_Oregon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/200px-Flag_of_Oregon.svg.png 2x" data-file-width="768" data-file-height="512" /></a>
+</td>
+<td><a href="/wiki/%D0%9E%D1%80%D0%B5%D0%B3%D0%BE%D0%BD" title="Орегон">Орегон</a>
+</td>
+<td>14 февраля 1859
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9E%D1%80%D0%B5%D0%B3%D0%BE%D0%BD" title="Территория Орегон">Территория Орегон</a>
+</td>
+<td><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;37&#93;</a></sup>
+</td></tr>
+<tr>
+<td>34
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kansas.svg" class="image"><img alt="Flag of Kansas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/100px-Flag_of_Kansas.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/150px-Flag_of_Kansas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/200px-Flag_of_Kansas.svg.png 2x" data-file-width="500" data-file-height="300" /></a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B7%D0%B0%D1%81" title="Канзас">Канзас</a>
+</td>
+<td>29 января 1861
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D0%B0%D0%BD%D0%B7%D0%B0%D1%81" title="Территория Канзас">Территория Канзас</a>
+</td>
+<td><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td>35
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_West_Virginia.svg" class="image"><img alt="Flag of West Virginia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/100px-Flag_of_West_Virginia.svg.png" decoding="async" width="100" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/150px-Flag_of_West_Virginia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/200px-Flag_of_West_Virginia.svg.png 2x" data-file-width="760" data-file-height="400" /></a>
+</td>
+<td><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F" title="Западная Виргиния">Западная Виргиния</a>
+</td>
+<td>20 июня 1863
+</td>
+<td>Часть <a href="/wiki/%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%8F" title="Виргиния">Виргинии</a>, отделившаяся с согласия про-союзного правительства штата
+</td>
+<td><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;39&#93;</a></sup>
+</td></tr>
+<tr>
+<td>36
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Nevada.svg" class="image"><img alt="Flag of Nevada.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/100px-Flag_of_Nevada.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/150px-Flag_of_Nevada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/200px-Flag_of_Nevada.svg.png 2x" data-file-width="600" data-file-height="400" /></a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%B5%D0%B2%D0%B0%D0%B4%D0%B0" title="Невада">Невада</a>
+</td>
+<td>31 октября 1864
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9D%D0%B5%D0%B2%D0%B0%D0%B4%D0%B0" title="Территория Невада">Территория Невада</a>
+</td>
+<td><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;40&#93;</a></sup>
+</td></tr>
+<tr>
+<td>37
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Nebraska.svg" class="image"><img alt="Flag of Nebraska.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/100px-Flag_of_Nebraska.svg.png" decoding="async" width="100" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/150px-Flag_of_Nebraska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/200px-Flag_of_Nebraska.svg.png 2x" data-file-width="600" data-file-height="360" /></a>
+</td>
+<td><a href="/wiki/%D0%9D%D0%B5%D0%B1%D1%80%D0%B0%D1%81%D0%BA%D0%B0" title="Небраска">Небраска</a>
+</td>
+<td>1 марта 1867
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9D%D0%B5%D0%B1%D1%80%D0%B0%D1%81%D0%BA%D0%B0" title="Территория Небраска">Территория Небраска</a>
+</td>
+<td><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;41&#93;</a></sup>
+</td></tr>
+<tr>
+<td>38
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colorado.svg" class="image"><img alt="Flag of Colorado.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/100px-Flag_of_Colorado.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/150px-Flag_of_Colorado.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/200px-Flag_of_Colorado.svg.png 2x" data-file-width="1800" data-file-height="1200" /></a>
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE" title="Колорадо">Колорадо</a>
+</td>
+<td>1 августа 1876
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D0%BE" title="Территория Колорадо">Территория Колорадо</a>
+</td>
+<td><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<td>39
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_North_Dakota.svg" class="image"><img alt="Flag of North Dakota.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/100px-Flag_of_North_Dakota.svg.png" decoding="async" width="100" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/150px-Flag_of_North_Dakota.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/200px-Flag_of_North_Dakota.svg.png 2x" data-file-width="3300" data-file-height="2600" /></a>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%94%D0%B0%D0%BA%D0%BE%D1%82%D0%B0" title="Северная Дакота">Северная Дакота</a>
+</td>
+<td>2 ноября 1889
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%94%D0%B0%D0%BA%D0%BE%D1%82%D0%B0" title="Территория Дакота">Территория Дакота</a>
+</td>
+<td><sup id="cite_ref-К4_45-0" class="reference"><a href="#cite_note-К4-45">&#91;К 3&#93;</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;43&#93;</a></sup>
+</td></tr>
+<tr>
+<td>40
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_South_Dakota.svg" class="image"><img alt="Flag of South Dakota.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/100px-Flag_of_South_Dakota.svg.png" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/150px-Flag_of_South_Dakota.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/200px-Flag_of_South_Dakota.svg.png 2x" data-file-width="720" data-file-height="450" /></a>
+</td>
+<td><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%94%D0%B0%D0%BA%D0%BE%D1%82%D0%B0" title="Южная Дакота">Южная Дакота</a>
+</td>
+<td>2 ноября 1889
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%94%D0%B0%D0%BA%D0%BE%D1%82%D0%B0" title="Территория Дакота">Территория Дакота</a>
+</td>
+<td><sup id="cite_ref-К4_45-1" class="reference"><a href="#cite_note-К4-45">&#91;К 3&#93;</a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;44&#93;</a></sup>
+</td></tr>
+<tr>
+<td>41
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Montana.svg" class="image"><img alt="Flag of Montana.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/100px-Flag_of_Montana.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/150px-Flag_of_Montana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/200px-Flag_of_Montana.svg.png 2x" data-file-width="768" data-file-height="512" /></a>
+</td>
+<td><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0" title="Монтана">Монтана</a>
+</td>
+<td>8 ноября 1889
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0" title="Территория Монтана">Территория Монтана</a>
+</td>
+<td><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;45&#93;</a></sup>
+</td></tr>
+<tr>
+<td>42
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Washington.svg" class="image"><img alt="Flag of Washington.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/100px-Flag_of_Washington.svg.png" decoding="async" width="100" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/150px-Flag_of_Washington.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/200px-Flag_of_Washington.svg.png 2x" data-file-width="1106" data-file-height="658" /></a>
+</td>
+<td><a href="/wiki/%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD_(%D1%88%D1%82%D0%B0%D1%82)" title="Вашингтон (штат)">Вашингтон</a>
+</td>
+<td>11 ноября 1889
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" title="Территория Вашингтон">Территория Вашингтон</a>
+</td>
+<td><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<td>43
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Idaho.svg" class="image"><img alt="Flag of Idaho.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/100px-Flag_of_Idaho.svg.png" decoding="async" width="100" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/150px-Flag_of_Idaho.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/200px-Flag_of_Idaho.svg.png 2x" data-file-width="3168" data-file-height="2496" /></a>
+</td>
+<td><a href="/wiki/%D0%90%D0%B9%D0%B4%D0%B0%D1%85%D0%BE" title="Айдахо">Айдахо</a>
+</td>
+<td>3 июля 1890
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D0%B9%D0%B4%D0%B0%D1%85%D0%BE" title="Территория Айдахо">Территория Айдахо</a>
+</td>
+<td><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<td>44
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Wyoming.svg" class="image"><img alt="Flag of Wyoming.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/100px-Flag_of_Wyoming.svg.png" decoding="async" width="100" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/150px-Flag_of_Wyoming.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/200px-Flag_of_Wyoming.svg.png 2x" data-file-width="1000" data-file-height="700" /></a>
+</td>
+<td><a href="/wiki/%D0%92%D0%B0%D0%B9%D0%BE%D0%BC%D0%B8%D0%BD%D0%B3" title="Вайоминг">Вайоминг</a>
+</td>
+<td>10 июля 1890
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%92%D0%B0%D0%B9%D0%BE%D0%BC%D0%B8%D0%BD%D0%B3" title="Территория Вайоминг">Территория Вайоминг</a>
+</td>
+<td><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;48&#93;</a></sup>
+</td></tr>
+<tr>
+<td>45
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Utah.svg" class="image"><img alt="Flag of Utah.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/100px-Flag_of_Utah.svg.png" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/150px-Flag_of_Utah.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/200px-Flag_of_Utah.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a>
+</td>
+<td><a href="/wiki/%D0%AE%D1%82%D0%B0" title="Юта">Юта</a>
+</td>
+<td>4 января 1896
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%AE%D1%82%D0%B0" title="Территория Юта">Территория Юта</a>
+</td>
+<td><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;49&#93;</a></sup>
+</td></tr>
+<tr>
+<td>46
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Oklahoma.svg" class="image"><img alt="Flag of Oklahoma.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/100px-Flag_of_Oklahoma.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/150px-Flag_of_Oklahoma.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/200px-Flag_of_Oklahoma.svg.png 2x" data-file-width="675" data-file-height="450" /></a>
+</td>
+<td><a href="/wiki/%D0%9E%D0%BA%D0%BB%D0%B0%D1%85%D0%BE%D0%BC%D0%B0" title="Оклахома">Оклахома</a>
+</td>
+<td>16 ноября 1907
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9E%D0%BA%D0%BB%D0%B0%D1%85%D0%BE%D0%BC%D0%B0" title="Территория Оклахома">Территория Оклахома</a> и <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Индейская территория">Индейская территория</a>
+</td>
+<td><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td>47
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_New_Mexico.svg" class="image"><img alt="Flag of New Mexico.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/100px-Flag_of_New_Mexico.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/150px-Flag_of_New_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/200px-Flag_of_New_Mexico.svg.png 2x" data-file-width="1800" data-file-height="1200" /></a>
+</td>
+<td><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE" title="Нью-Мексико">Нью-Мексико</a>
+</td>
+<td>6 января 1912
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%9D%D1%8C%D1%8E-%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE" title="Территория Нью-Мексико">Территория Нью-Мексико</a>
+</td>
+<td><sup id="cite_ref-archivesNM_54-0" class="reference"><a href="#cite_note-archivesNM-54">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td>48
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Arizona.svg" class="image"><img alt="Flag of Arizona.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/100px-Flag_of_Arizona.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/150px-Flag_of_Arizona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/200px-Flag_of_Arizona.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
+</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D0%B0" title="Аризона">Аризона</a>
+</td>
+<td>14 февраля 1912
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D0%B0" title="Территория Аризона">Территория Аризона</a>
+</td>
+<td><sup id="cite_ref-archivesNM_54-1" class="reference"><a href="#cite_note-archivesNM-54">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td>49
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Alaska.svg" class="image"><img alt="Flag of Alaska.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/100px-Flag_of_Alaska.svg.png" decoding="async" width="100" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/150px-Flag_of_Alaska.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/200px-Flag_of_Alaska.svg.png 2x" data-file-width="1416" data-file-height="1000" /></a>
+</td>
+<td><a href="/wiki/%D0%90%D0%BB%D1%8F%D1%81%D0%BA%D0%B0" title="Аляска">Аляска</a>
+</td>
+<td>3 января 1959
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D0%BB%D1%8F%D1%81%D0%BA%D0%B0" title="Территория Аляска">Территория Аляска</a>
+</td>
+<td><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td>50
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Hawaii.svg" class="image"><img alt="Flag of Hawaii.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/100px-Flag_of_Hawaii.svg.png" decoding="async" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/150px-Flag_of_Hawaii.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/200px-Flag_of_Hawaii.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
+</td>
+<td><a href="/wiki/%D0%93%D0%B0%D0%B2%D0%B0%D0%B9%D0%B8" title="Гавайи">Гавайи</a>
+</td>
+<td>21 августа 1959
+</td>
+<td><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%93%D0%B0%D0%B2%D0%B0%D0%B9%D0%B8" title="Территория Гавайи">Территория Гавайи</a>
+</td>
+<td><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;53&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D0.B5.D0.BD.D1.82.D0.B0.D1.80.D0.B8.D0.B8"></span><span class="mw-headline" id="Комментарии">Комментарии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Комментарии»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;section=2" title="Редактировать раздел «Комментарии»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Род-Айленд был первой из <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B9" title="Тринадцать колоний">тринадцати колоний</a>, объявившей о независимости от британского правления 4 мая 1776 года, за два месяца до других колоний. Но штат стал последним из них, ратифицировав Конституцию США лишь 29 мая 1790 года</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">Хотя <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Калифорнийская республика">Калифорнийская республика</a>, также известная как «Республика медвежьего флага», была провозглашена переселенцами 14 июня 1846 года в <span data-interwiki-lang="en" data-interwiki-article="Sonoma, California"><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0_(%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Сонома (Калифорния) (страница отсутствует)">Сономе</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Sonoma,_California" class="extiw" title="en:Sonoma, California"><span title="Sonoma, California — версия статьи «Сонома (Калифорния)» на английском языке">[en]</span></a></sup></span> и просуществовала в течение лишь 26 дней, не получив признания.</span>
+</li>
+<li id="cite_note-К4-45"><span class="mw-cite-backlink">↑ <a href="#cite_ref-К4_45-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-К4_45-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Неизвестно, какой штат был принят в Союз первым, так как реальная декларация была подтасована. Президент <a href="/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD,_%D0%91%D0%B5%D0%BD%D0%B4%D0%B6%D0%B0%D0%BC%D0%B8%D0%BD" title="Гаррисон, Бенджамин">Бенджамин Гаррисон</a> всегда отказывался рассказывать, в каком порядке он подписал два законопроекта. Тем не менее, Северная Дакота указывается первой, так как она идёт первой в алфавитном порядке.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/the-first-state">The First State</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150607013301/http://www.history.com/this-day-in-history/the-first-state">Архивировано</a> 7 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121110211639/http://www.history.com/this-day-in-history/delaware-ratifies-the-constitution">Delaware ratifies the Constitution</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/delaware-ratifies-the-constitution">оригинала</a> 10 ноября 2012 года.</small></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/pennsylvania-ratifies-the-constitution">Pennsylvania ratifies the Constitution</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150607013607/http://www.history.com/this-day-in-history/pennsylvania-ratifies-the-constitution">Архивировано</a> 7 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://memory.loc.gov/ammem/today/dec12.html">Today in History: December 12</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_Library_of_Congress" class="mw-redirect" title="The Library of Congress">The Library of Congress</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160803220244/http://memory.loc.gov/ammem/today/dec12.html">Архивировано</a> 3 августа 2016 года.</small></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/new-jersey">New Jersey</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200431/http://www.history.com/topics/us-states/new-jersey">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/georgia-enters-the-union">Georgia enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606210640/http://www.history.com/this-day-in-history/georgia-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/connecticut">Connecticut</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150617153322/http://www.history.com/topics/us-states/connecticut">Архивировано</a> 17 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.statequarterguide.com/1999-connecticut-state-quarter/">1999 Connecticut State Quarter</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;www.statequarterguide.com.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190927204941/https://www.statequarterguide.com/1999-connecticut-state-quarter/">Архивировано</a> 27 сентября 2019 года.</small></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/massachusetts">Massachusetts</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150711212039/http://www.history.com/topics/us-states/massachusetts">Архивировано</a> 11 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/maryland">Maryland</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150628012848/http://www.history.com/topics/us-states/maryland">Архивировано</a> 28 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/south-carolina">South Carolina</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150624122518/http://www.history.com/topics/us-states/south-carolina">Архивировано</a> 24 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/u-s-constitution-ratified/print">June 21, 1788: U.S. Constitution ratified</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150624124043/http://www.history.com/this-day-in-history/u-s-constitution-ratified/print">Архивировано</a> 24 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/virginia">Virginia</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150630142040/http://www.history.com/topics/us-states/virginia">Архивировано</a> 30 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/new-york">New York</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200435/http://www.history.com/topics/us-states/new-york">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.usconstitution.net/rat_nc.html">North Carolina's Ratification</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;Usconstitution.net&#32;(8 января 2010).&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150508232157/http://www.usconstitution.net/rat_nc.html">Архивировано</a> 8 мая 2015 года.</small></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/rhode-island-declares-independence">Rhode Island declares independence</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170118033158/http://www.history.com/this-day-in-history/rhode-island-declares-independence">Архивировано</a> 18 января 2017 года.</small></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.usconstitution.net/rat_ri.html">Rhode Island's Ratification</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;Usconstitution.net&#32;(8 января 2010).&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180906161642/https://www.usconstitution.net/rat_ri.html">Архивировано</a> 6 сентября 2018 года.</small></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/vermont">Vermont</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200503/http://www.history.com/topics/us-states/vermont">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/kentucky">Kentucky</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200358/http://www.history.com/topics/us-states/kentucky">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/tennessee">Tennessee</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604191919/http://www.history.com/topics/us-states/tennessee">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/ohio">Ohio</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150623231648/http://www.history.com/topics/us-states/ohio">Архивировано</a> 23 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/louisiana">Louisiana</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150627181801/http://www.history.com/topics/us-states/louisiana">Архивировано</a> 27 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/indiana">Indiana</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140307200233/http://www.history.com/topics/us-states/indiana">Архивировано</a> 7 марта 2014 года.</small></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/mississippi">Mississippi</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150708030452/http://www.history.com/topics/us-states/mississippi">Архивировано</a> 8 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/illinois-becomes-the-21st-state">Illinois becomes the 21st state</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150607013043/http://www.history.com/this-day-in-history/illinois-becomes-the-21st-state">Архивировано</a> 7 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/alabama">Alabama</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150708033730/http://www.history.com/topics/us-states/alabama">Архивировано</a> 8 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/maine-enters-the-union">Maine enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150623214428/http://www.history.com/this-day-in-history/maine-enters-the-union">Архивировано</a> 23 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/new-state-west-of-the-mississippi">New state west of the Mississippi</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150701194840/http://www.history.com/this-day-in-history/new-state-west-of-the-mississippi">Архивировано</a> 1 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/arkansas">Arkansas</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150623212217/http://www.history.com/topics/us-states/arkansas">Архивировано</a> 23 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/michigan">Michigan</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150710013238/http://www.history.com/topics/us-states/michigan">Архивировано</a> 10 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/florida">Florida</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150708014240/http://www.history.com/topics/us-states/florida">Архивировано</a> 8 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/texas-enters-the-union">Texas enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606031145/http://www.history.com/this-day-in-history/texas-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/iowa">Iowa</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200353/http://www.history.com/topics/us-states/iowa">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/wisconsin-enters-the-union">Wisconsin enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606231823/http://www.history.com/this-day-in-history/wisconsin-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/california-becomes-the-31st-state-in-record-time">California becomes the 31st state in record time</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150607003251/http://www.history.com/this-day-in-history/california-becomes-the-31st-state-in-record-time">Архивировано</a> 7 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/minnesota-enters-the-union">Minnesota enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606230522/http://www.history.com/this-day-in-history/minnesota-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/oregon">Oregon</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604192146/http://www.history.com/topics/us-states/oregon">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/kansas-enters-the-union">Kansas enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606213412/http://www.history.com/this-day-in-history/kansas-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/west-virginia-enters-the-union">West Virginia enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606233255/http://www.history.com/this-day-in-history/west-virginia-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/the-u-s-congress-admits-nevada-as-the-36th-state">The U.S. Congress admits Nevada as the 36th state</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150623184925/http://www.history.com/this-day-in-history/the-u-s-congress-admits-nevada-as-the-36th-state">Архивировано</a> 23 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/nebraska">Nebraska</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200424/http://www.history.com/topics/us-states/nebraska">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/colorado">Colorado</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150620031407/http://www.history.com/topics/us-states/colorado">Архивировано</a> 20 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/north-dakota">North Dakota</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200442/http://www.history.com/topics/us-states/north-dakota">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/south-dakota">South Dakota</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150604200456/http://www.history.com/topics/us-states/south-dakota">Архивировано</a> 4 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/montana">Montana</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150623141649/http://www.history.com/topics/us-states/montana">Архивировано</a> 23 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/washington">Washington</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150630132618/http://www.history.com/topics/us-states/washington">Архивировано</a> 30 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/idaho-becomes-43rd-state">Idaho becomes 43rd state</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121102053717/http://www.history.com/this-day-in-history/idaho-becomes-43rd-state">Архивировано</a> 2 ноября 2012 года.</small></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/topics/us-states/wyoming">Wyoming</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150620020530/http://www.history.com/topics/us-states/wyoming">Архивировано</a> 20 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/utah-enters-the-union">Utah enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150606210833/http://www.history.com/this-day-in-history/utah-enters-the-union">Архивировано</a> 6 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/oklahoma-enters-the-union">Oklahoma enters the Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150623144716/http://www.history.com/this-day-in-history/oklahoma-enters-the-union">Архивировано</a> 23 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-archivesNM-54"><span class="mw-cite-backlink">↑ <a href="#cite_ref-archivesNM_54-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-archivesNM_54-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.archives.gov/legislative/features/nm-az-statehood/">New Mexico and Arizona Statehood Anniversary (1912 – 2012)</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="https://en.wikipedia.org/wiki/The_U.S._National_Archives_and_Records_Administration" class="extiw" title="en:The U.S. National Archives and Records Administration"><span title="The U.S. National Archives and Records Administration — версия статьи «The U.S. National Archives and Records Administration» на английском языке">The U.S. National Archives and Records Administration</span></a><span class="noprint" style="font-style:normal; font-weight:normal;">&#160;<span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;">&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;">&#160;(</span><span data-interwiki-lang="en" data-interwiki-article="The U.S. National Archives and Records Administration"><a href="/w/index.php?title=The_U.S._National_Archives_and_Records_Administration&amp;action=edit&amp;redlink=1" class="new" title="The U.S. National Archives and Records Administration (страница отсутствует)">рус.</a></span></span></span></span>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150626103902/http://www.archives.gov/legislative/features/nm-az-statehood/">Архивировано</a> 26 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.history.com/this-day-in-history/alaska-admitted-into-union">Alaska admitted into Union</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_History_Channel" class="mw-redirect" title="The History Channel">The History Channel</a>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150619111535/http://www.history.com/this-day-in-history/alaska-admitted-into-union">Архивировано</a> 19 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><a href="#cite_ref-56">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.netstate.com/states/government/hi_government.htm">Hawaii</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="https://en.wikipedia.org/wiki/Hawaii_State_Government" class="extiw" title="en:Hawaii State Government"><span title="Hawaii State Government — версия статьи «Hawaii State Government» на английском языке">Hawaii State Government</span></a><span class="noprint" style="font-style:normal; font-weight:normal;">&#160;<span style="display:inline-block; font-size:80%; position:relative;"><span style="font-size:117.6%; margin-left:-0.43em; position:relative; top:0.28em;">&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span><span class="link-ru metadata" style="margin-left:-0.43em; position:absolute; left:0; z-index:1; margin-top:-0.35em;"><span style="visibility:hidden; margin-right:0.099em;">&#160;(</span><span data-interwiki-lang="en" data-interwiki-article="Hawaii State Government"><a href="/w/index.php?title=Hawaii_State_Government&amp;action=edit&amp;redlink=1" class="new" title="Hawaii State Government (страница отсутствует)">рус.</a></span></span></span></span>.&#32;<small>Дата обращения: 23 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111019022737/http://netstate.com/states/government/hi_government.">Архивировано</a> 19 октября 2011 года.</small></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;section=4" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.1930census.com/united_states_50_states_by_statehood.php">Dates of Statehood for 50 U.S. States</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;www.1930census.com.&#32;<small>Дата обращения: 24 июня 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150709232517/http://www.1930census.com/united_states_50_states_by_statehood.php">Архивировано</a> 9 июля 2015 года.</small></span></li>
+<li><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://countrystudies.us/united-states/government-2.htm">The Constitution: An Enduring Document</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/U.S._Department_of_State" class="mw-redirect" title="U.S. Department of State">U.S. Department of State</a>.&#32;<small>Дата обращения: 12 сентября 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://archive.is/20150712172947/http://countrystudies.us/united-states/government-2.htm">Архивировано</a> 12 июля 2015 года.</small></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2373
+Cached time: 20230321084810
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc, no‐toc‐conversion]
+CPU time usage: 0.326 seconds
+Real time usage: 0.413 seconds
+Preprocessor visited node count: 6184/1000000
+Post‐expand include size: 82320/2097152 bytes
+Template argument size: 1500/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 48159/5000000 bytes
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 3580188/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  279.538      1 -total
+ 54.39%  152.041      2 Шаблон:Примечания
+ 43.08%  120.416     55 Шаблон:Cite_web
+ 13.46%   37.627      1 Шаблон:ВС
+ 10.17%   28.431      3 Шаблон:Нп5
+  8.99%   25.127      1 Шаблон:Прояснить
+  8.46%   23.645      1 Шаблон:Надстрочное_предупреждение
+  7.87%   21.994      1 Шаблон:Видимый_якорь
+  4.88%   13.654      5 Шаблон:Replace
+  4.25%   11.889      1 Шаблон:Надстрочное_предупреждение/автоссылка
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:5800230-0!canonical and timestamp 20230321084810 and revision id 126607747. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Список_штатов_США_по_дате_присоединения&amp;oldid=126607747">https://ru.wikipedia.org/w/index.php?title=Список_штатов_США_по_дате_присоединения&amp;oldid=126607747</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A1%D0%A8%D0%90" title="Категория:История США">История США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BF%D0%BE_%D1%88%D1%82%D0%B0%D1%82%D0%B0%D0%BC_%D0%A1%D0%A8%D0%90" title="Категория:Списки по штатам США">Списки по штатам США</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D1%8F%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Категория:Википедия:Статьи, требующие внесения ясности">Википедия:Статьи, требующие внесения ясности</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%C2%AB%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8%C2%BB_%D0%BF%D1%83%D1%81%D1%82" title="Категория:Википедия:Шаблон «Внешние ссылки» пуст">Википедия:Шаблон «Внешние ссылки» пуст</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2+%D0%A1%D0%A8%D0%90+%D0%BF%D0%BE+%D0%B4%D0%B0%D1%82%D0%B5+%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2+%D0%A1%D0%A8%D0%90+%D0%BF%D0%BE+%D0%B4%D0%B0%D1%82%D0%B5+%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;oldid=126607747" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;id=126607747&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q906228" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2+%D0%A1%D0%A8%D0%90+%D0%BF%D0%BE+%D0%B4%D0%B0%D1%82%D0%B5+%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/%E1%8B%A8%E1%8A%A0%E1%88%9C%E1%88%AA%E1%8A%AB_%E1%8A%AD%E1%8D%8D%E1%88%8B%E1%8C%88%E1%88%AB%E1%89%B5_%E1%8B%9D%E1%88%AD%E1%8B%9D%E1%88%AD" title="የአሜሪካ ክፍላገራት ዝርዝር — амхарский" lang="am" hreflang="am" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF" title="قائمة الولايات الأمريكية حسب تاريخ الانضمام إلى الاتحاد — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C4%B0ttifaqa_q%C9%99bul_tarixin%C9%99_g%C3%B6r%C9%99_AB%C5%9E_%C5%9Ftatlar%C4%B1n%C4%B1n_siyah%C4%B1s%C4%B1" title="İttifaqa qəbul tarixinə görə ABŞ ştatlarının siyahısı — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D9%84%D8%B4%D9%85%DB%8C%D8%B4_%D8%A7%DB%8C%D8%A7%D9%84%D8%AA%D9%84%D8%B1%DB%8C%D9%86%D9%87_%D9%82%D9%88%D8%B4%D9%88%D9%84%D8%A7%D9%86_%D8%A7%DB%8C%D8%A7%D9%84%D8%AA%D8%B1%DB%8C%D9%86_%D9%84%DB%8C%D8%B3%D8%AA%DB%8C_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C%D9%86%D8%AF%D8%A7" title="بیرلشمیش ایالتلرینه قوشولان ایالترین لیستی تاریخ اساسیندا — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D1%89%D0%B0%D1%82%D0%B8%D1%82%D0%B5_%D0%BF%D0%BE_%D0%BF%D1%80%D0%B8%D1%81%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5%D1%82%D0%BE_%D0%B8%D0%BC_%D0%BA%D1%8A%D0%BC_%D0%A1%D0%90%D0%A9" title="Списък на щатите по присъединяването им към САЩ — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Seznam_st%C3%A1t%C5%AF_USA_podle_vstupu_do_Unie" title="Seznam států USA podle vstupu do Unie — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B5%CE%B9%CF%8E%CE%BD_%CF%84%CF%89%CE%BD_%CE%97%CE%A0%CE%91_%CE%B1%CE%BD%CE%AC_%CE%B7%CE%BC%CE%B5%CF%81%CE%BF%CE%BC%CE%B7%CE%BD%CE%AF%CE%B1_%CF%80%CF%81%CE%BF%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%CF%82_%CF%83%CE%B5_%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B5%CE%AF%CE%B1" title="Κατάλογος πολιτειών των ΗΠΑ ανά ημερομηνία προαγωγής σε πολιτεία — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union" title="List of U.S. states by date of admission to the Union — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Anexo:Estados_de_Estados_Unidos_por_orden_de_ingreso_a_la_Uni%C3%B3n" title="Anexo:Estados de Estados Unidos por orden de ingreso a la Unión — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D8%AA%DB%8C%D8%A8_%D8%B9%D8%B6%D9%88%DB%8C%D8%AA_%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7" title="ترتیب عضویت ایالات آمریکا — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/%C3%89tats_des_%C3%89tats-Unis_par_ordre_d%27entr%C3%A9e_dans_l%27Union" title="États des États-Unis par ordre d&#039;entrée dans l&#039;Union — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Az_Amerikai_Egyes%C3%BClt_%C3%81llamok_tag%C3%A1llamainak_list%C3%A1ja_a_felv%C3%A9tel_d%C3%A1tuma_szerint" title="Az Amerikai Egyesült Államok tagállamainak listája a felvétel dátuma szerint — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Listaan_dagiti_estado_iti_Estados_Unidos_babaen_ti_petsa_a_pinag-estado" title="Listaan dagiti estado iti Estados Unidos babaen ti petsa a pinag-estado — илоко" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Stati_per_data_di_entrata_negli_Stati_Uniti_d%27America" title="Stati per data di entrata negli Stati Uniti d&#039;America — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E5%B7%9E_(%E6%88%90%E7%AB%8B%E9%A0%86)" title="アメリカ合衆国の州 (成立順) — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%A8%E1%83%A8-%E1%83%98%E1%83%A1_%E1%83%A8%E1%83%A2%E1%83%90%E1%83%A2%E1%83%94%E1%83%91%E1%83%90%E1%83%93_%E1%83%92%E1%83%90%E1%83%AE%E1%83%93%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%98%E1%83%90_%E1%83%97%E1%83%90%E1%83%A0%E1%83%98%E1%83%A6%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%93%E1%83%95%E1%83%98%E1%83%97" title="აშშ-ის შტატებად გახდომის სია თარიღების მიხედვით — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B0%D2%9B%D2%9B%D0%B0_%D0%BA%D1%96%D1%80%D1%83_%D0%BA%D2%AF%D0%BD%D1%96_%D0%B1%D0%BE%D0%B9%D1%8B%D0%BD%D1%88%D0%B0_%D0%90%D2%9A%D0%A8_%D1%88%D1%82%D0%B0%D1%82%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D1%96" title="Одаққа кіру күні бойынша АҚШ штаттарының тізімі — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EB%B0%A9%ED%8E%B8%EC%9E%85%EC%9D%BC" title="연방편입일 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Index_Civitatum_Foederatarum_per_annos_accessionis_in_rempublicam" title="Index Civitatum Foederatarum per annos accessionis in rempublicam — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AE%E0%B5%87%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BB_%E0%B4%90%E0%B4%95%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B4%BF%E0%B4%B2%E0%B5%86_%E0%B4%B8%E0%B4%82%E0%B4%B8%E0%B5%8D%E0%B4%A5%E0%B4%BE%E0%B4%A8%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95_(%E0%B4%B8%E0%B4%82%E0%B4%B8%E0%B5%8D%E0%B4%A5%E0%B4%BE%E0%B4%A8%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE_%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%AF%E0%B4%A8%E0%B4%BF%E0%B5%BD_%E0%B4%9A%E0%B5%87%E0%B5%BC%E0%B4%A8%E0%B5%8D%E0%B4%A8_%E0%B4%B8%E0%B4%AE%E0%B4%AF%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%AE%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B5%BD)" title="അമേരിക്കൻ ഐക്യനാടുകളിലെ സംസ്ഥാനങ്ങളുടെ പട്ടിക (സംസ്ഥാനങ്ങൾ യൂണിയനിൽ ചേർന്ന സമയക്രമത്തിൽ) — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/List%C4%83_a_statelor_componente_ale_Statelor_Unite_ale_Americii_ordonate_dup%C4%83_data_intr%C4%83rii_%C3%AEn_Uniune" title="Listă a statelor componente ale Statelor Unite ale Americii ordonate după data intrării în Uniune — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union" title="List of U.S. states by date of admission to the Union — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Zoznam_%C5%A1t%C3%A1tov_USA_pod%C4%BEa_d%C3%A1tumu_vstupu" title="Zoznam štátov USA podľa dátumu vstupu — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87" title="รายชื่อรัฐของสหรัฐเรียงตามลำดับการก่อตั้ง — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D1%96%D0%B2_%D0%A1%D0%A8%D0%90_%D0%B7%D0%B0_%D0%B4%D0%B0%D1%82%D0%BE%D1%8E_%D0%BF%D1%80%D0%B8%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F" title="Список штатів США за датою приєднання — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%81%DB%81%D8%B1%D8%B3%D8%AA_%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%DB%8C_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA%DB%8C%DA%BA_%D8%A8%D9%84%D8%AD%D8%A7%D8%B8_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA%DB%8C_%D8%AF%D8%B1%D8%AC%DB%81" title="فہرست امریکی ریاستیں بلحاظ تاریخ ریاستی درجہ — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ti%E1%BB%83u_bang_Hoa_K%E1%BB%B3_theo_ng%C3%A0y_tr%E1%BB%9F_th%C3%A0nh_ti%E1%BB%83u_bang" title="Danh sách tiểu bang Hoa Kỳ theo ngày trở thành tiểu bang — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%8C%89%E5%8A%A0%E5%85%A5%E8%81%AF%E9%82%A6%E6%97%A5%E6%9C%9F%E6%8E%92%E5%88%97%E7%9A%84%E7%BE%8E%E5%9C%8B%E5%B7%9E%E4%BB%BD%E5%88%97%E8%A1%A8" title="按加入聯邦日期排列的美國州份列表 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q906228#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 12 ноября 2022 в 10:21.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.326","walltime":"0.413","ppvisitednodes":{"value":6184,"limit":1000000},"postexpandincludesize":{"value":82320,"limit":2097152},"templateargumentsize":{"value":1500,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":48159,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  279.538      1 -total"," 54.39%  152.041      2 Шаблон:Примечания"," 43.08%  120.416     55 Шаблон:Cite_web"," 13.46%   37.627      1 Шаблон:ВС"," 10.17%   28.431      3 Шаблон:Нп5","  8.99%   25.127      1 Шаблон:Прояснить","  8.46%   23.645      1 Шаблон:Надстрочное_предупреждение","  7.87%   21.994      1 Шаблон:Видимый_якорь","  4.88%   13.654      5 Шаблон:Replace","  4.25%   11.889      1 Шаблон:Надстрочное_предупреждение/автоссылка"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":3580188,"limit":52428800}},"cachereport":{"origin":"mw2373","timestamp":"20230321084810","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2412","wgBackendResponseTime":108});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u043f\u0438\u0441\u043e\u043a \u0448\u0442\u0430\u0442\u043e\u0432 \u0421\u0428\u0410 \u043f\u043e \u0434\u0430\u0442\u0435 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q906228","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q906228","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-06-22T15:34:59Z","dateModified":"2022-11-12T10:21:17Z","headline":"\u0441\u0442\u0430\u0442\u044c\u044f-\u0441\u043f\u0438\u0441\u043e\u043a \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u043f\u0438\u0441\u043e\u043a \u0448\u0442\u0430\u0442\u043e\u0432 \u0421\u0428\u0410 \u043f\u043e \u0434\u0430\u0442\u0435 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%88%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A1%D0%A8%D0%90_%D0%BF%D0%BE_%D0%B4%D0%B0%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q906228","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q906228","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-06-22T15:34:59Z","dateModified":"2022-11-12T10:21:17Z","headline":"\u0441\u0442\u0430\u0442\u044c\u044f-\u0441\u043f\u0438\u0441\u043e\u043a \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"}</script>
+</body>
+</html>

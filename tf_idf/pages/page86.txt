@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Санджак-бей — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"fd913885-e3bc-443e-ba3f-4e58c38bed3a","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Санджак-бей","wgTitle":"Санджак-бей","wgCurRevisionId":124463976,"wgRevisionId":124463976,"wgArticleId":4390445,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":
+null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (заменить webcitation-архив: deadlink yes)","Википедия:Cite web (не указан язык)","Незавершённые статьи об Османской империи","Воинские звания Османской империи","Санджак-беи","Турецкие титулы"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Санджак-бей","wgRelevantArticleId":4390445,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Санджакбей","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":124463976,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgInternalRedirectTargetUrl":"/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1274280","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready",
+"mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs",
+"ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Санджак-бей — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Санджак-бей rootpage-Санджак-бей skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Санджак-бей</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA%D0%B1%D0%B5%D0%B9&amp;redirect=no" class="mw-redirect" title="Санджакбей">Санджакбей</a>»)</span></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><p><b>Санджак-бей</b>, <b>Санджак-бек</b> (<a href="/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Турецкий язык">тур.</a> <span lang="tr" style="font-style:italic;">Sancak-beyi</span>)&#160;— правитель <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA" title="Санджак">санджака</a>, военно-административной единицы в <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османской империи</a>. <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA" title="Санджак">Санджак</a> соответствует округу, а правитель санджака одновременно являлся начальником его вооруженных сил<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>.
+</p><p>Слово «санджак» буквально означало «знамя». Этим словом определялось воинское формирование, которое выставлял данный санджак. Соответственно правитель санджака считался и командиром этого военного отряда.
+</p><p>Санджак-бей обладал теми же правами, что и <a href="/wiki/%D0%91%D0%B5%D0%B9%D0%BB%D0%B5%D1%80-%D0%B1%D0%B5%D0%B9" class="mw-redirect" title="Бейлер-бей">бейлер-бей</a>, но был подчинён бейлер-бею. Его права распространялись только в пределах своего округа<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.
+В обязанности санджак-бея также входили погоня за бандитами, преследование еретиков, обеспечение оружия и продовольствия для армии и флота<sup id="cite_ref-Imber_3-0" class="reference"><a href="#cite_note-Imber-3">&#91;3&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=edit&amp;section=1" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/%D0%90%D0%BB%D1%8C-%D0%94%D0%B6%D0%B0%D0%B1%D0%B0%D1%80%D1%82%D0%B8,_%D0%90%D0%B1%D0%B4%D0%B0%D1%80%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BD" class="mw-redirect" title="Аль-Джабарти, Абдаррахман">Абд ар-Рахман ал-Джабарти</a></i> <a rel="nofollow" class="external text" href="http://www.vostlit.info/Texts/rus/Jabarti/frametext1.htm">Удивительная история прошлого в жизнеописаниях и хронике событий</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130121093051/http://www.vostlit.info/Texts/rus/Jabarti/frametext1.htm">Архивная копия</a> от 21 января 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (Комментарии)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.istmira.com/knigrazlichnyetemy/11/11/page/204/Vsemirnaya-istoriya--Tom-4.html">Всемирная история</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140302180515/http://www.istmira.com/knigrazlichnyetemy/11/11/page/204/Vsemirnaya-istoriya--Tom-4.html">Архивная копия</a> от 2 марта 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Том 4. М.,1958</span>
+</li>
+<li id="cite_note-Imber-3"><span class="mw-cite-backlink"><a href="#cite_ref-Imber_3-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Imber, Colin</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.fatih.edu.tr/~ayasar/HIST236/Colin%20_Imber.pdf">The Ottoman Empire,  1300-1650: The Structure of Power</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#160;<small class="ref-info">(недоступная ссылка&#160;— <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://www.fatih.edu.tr/~ayasar/HIST236/Colin%20_Imber.pdf"><i>история</i></a>)</small>&#32;177—200&#32;(2002).&#32;<small>Дата обращения: 19 февраля 2013.</small>&#32;<small><a rel="nofollow" class="external text" href="https://www.webcitation.org/6FJ6vakXQ?url=http://www.fatih.edu.tr/~ayasar/HIST236/Colin%20_Imber.pdf#">Архивировано</a> 22 марта 2013 года.</small></span></span>
+</li>
+</ol></div></div>
+<table class="mbox-Stub-meta plainlinks metadata ambox ambox-style" role="presentation" style="border:0; background:none; margin:0; font-style:italic;"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_the_Ottoman_Empire_(1882%E2%80%931922).svg" class="image"><img alt="Coat of arms of the Ottoman Empire (1882–1922).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/34px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png" decoding="async" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/50px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/67px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png 2x" data-file-width="1643" data-file-height="1955" /></a></div></td><td class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">статья-заготовка</a>&#32;об <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османской империи</a>. Помогите Википедии, дополнив эту статью, как и любую другую.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Титулы_ближневосточных_народов" data-name="Восточные титулы"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8B" title="Перейти к шаблону «Восточные титулы»"><img alt="Перейти к шаблону «Восточные титулы»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Титулы_ближневосточных_народов" style="font-size:114%;margin:0 5em">Титулы ближневосточных народов<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;1&#93;</a></sup></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%80%D1%85" title="Монарх">Монархии</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BC%D0%B8%D1%80_%D0%B0%D0%BB%D1%8C-%D0%BC%D1%83%D0%BC%D0%B8%D0%BD%D0%B8%D0%BD" title="Амир аль-муминин">Амир аль-муминин</a></li>
+<li><a href="/wiki/%D0%98%D0%BB%D1%8C%D1%85%D0%B0%D0%BD" title="Ильхан">Ильхан</a></li>
+<li><a href="/wiki/%D0%98%D1%85%D1%88%D0%B8%D0%B4" title="Ихшид">Ихшид</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B3%D0%B0%D0%BD" title="Каган">Каган</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B8%D0%BA" title="Малик">Малик</a></li>
+<li><a href="/wiki/%D0%9D%D0%B8%D0%B7%D0%B0%D0%BC_%D0%A5%D0%B0%D0%B9%D0%B4%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%B4%D0%B0" title="Низам Хайдарабада">Низам</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D0%B4%D0%B8%D1%88%D0%B0%D1%85" title="Падишах">Падишах</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD" title="Султан">Султан</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%B3%D0%B0%D0%B2%D0%BE%D1%80" title="Тагавор">Тагавор</a></li>
+<li><a href="/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D1%84" title="Халиф">Халиф</a></li>
+<li><a href="/wiki/%D0%A5%D0%B0%D0%BD_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Хан (титул)">Хан</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%85" title="Шах">Шах</a></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%85%D0%B8%D0%BD%D1%88%D0%B0%D1%85" title="Шахиншах">Шахиншах</a></li>
+<li><a href="/wiki/%D0%AD%D0%BC%D0%B8%D1%80" title="Эмир">Эмир</a></li>
+<li><a href="/wiki/%D0%90%D1%85%D1%88%D1%83%D0%BD%D0%B2%D0%B0%D1%80_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Ахшунвар (титул)">Ахшунвар</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%92%D0%BE%D0%B6%D0%B4%D1%8C" title="Вождь">Вожди</a></th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D1%82%D0%B0%D0%B1%D0%B5%D0%BA" title="Атабек">Атабек</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%82%D1%8B%D1%80%D0%B1%D0%B0%D1%81%D1%8B" title="Батырбасы">Батырбасы</a></li>
+<li><a href="/wiki/%D0%98%D1%88%D1%85%D0%B0%D0%BD_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Ишхан (титул)">Ишхан</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%B8%D0%BA" title="Мелик">Мелик</a></li>
+<li><a href="/wiki/%D0%90%D1%84%D1%88%D0%B8%D0%BD_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Афшин (титул)">Афшин</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%85%D0%B0%D1%80%D0%B0%D1%80" title="Нахарар">Нахарар</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D0%B0%D1%80" title="Сардар">Сардар</a></li>
+<li><a href="/wiki/%D0%9B%D1%83%D0%B3%D0%B0%D0%BB%D1%8C" title="Лугаль">Лугаль</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A7%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA" title="Чиновник">Сановники</a></th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B7%D0%B0%D1%80%D0%B0%D0%BF%D0%B5%D1%82" title="Азарапет">Азарапет</a></li>
+<li><a href="/w/index.php?title=%D0%90%D0%BC%D0%B8%D1%80_%D0%B0%D0%BB%D1%8C-%D1%83%D0%BC%D0%B0%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Амир аль-умара (страница отсутствует)">Амир аль-умара</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%B9" title="Бей">Бей</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%B9%D0%BB%D0%B5%D1%80%D0%B1%D0%B5%D0%B9" title="Бейлербей">Бейлербей</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%B8_(%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C)" title="Вали (должность)">Вали</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%B7%D0%B8%D1%80%D1%8C" title="Визирь">Визирь</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B0%D0%BB_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Инал (титул)">Инал</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%B8%D0%B0%D1%81%D0%BA%D0%B5%D1%80" title="Кадиаскер">Кадиаскер</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA%D0%B0%D0%BC" title="Каймакам">Каймакам</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D0%B4%D0%B0%D0%BD-%D0%BF%D0%B0%D1%88%D0%B0" title="Капудан-паша">Капудан-паша</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B8%D0%B1" title="Наиб">Наиб</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%88%D0%B0_(%D1%82%D0%B8%D1%82%D1%83%D0%BB)" title="Паша (титул)">Паша</a></li>
+<li><a class="mw-selflink selflink">Санджак-бей</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D0%B0%D0%BF%D0%B5%D1%82" title="Спарапет">Спарапет</a></li>
+<li><a href="/wiki/%D0%A5%D0%B5%D0%B4%D0%B8%D0%B2" title="Хедив">Хедив</a></li></ul>
+</div></td></tr></tbody></table></div>
+<ol class="references">
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Включая из пограничных территорий и государств</span>
+</li>
+</ol>
+<!-- 
+NewPP limit report
+Parsed by mw2375
+Cached time: 20230303204303
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [no‐toc‐conversion]
+CPU time usage: 0.086 seconds
+Real time usage: 0.127 seconds
+Preprocessor visited node count: 434/1000000
+Post‐expand include size: 15360/2097152 bytes
+Template argument size: 813/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2771/5000000 bytes
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1781792/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  102.443      1 -total
+ 43.08%   44.136      1 Шаблон:Примечания
+ 34.94%   35.790      1 Шаблон:Cite_web
+ 32.48%   33.270      1 Шаблон:Ottoman-stub
+ 30.45%   31.196      1 Шаблон:Stub-meta
+ 28.66%   29.360      1 Шаблон:Ambox
+ 19.30%   19.770      1 Шаблон:Ближневосточные_титулы
+ 16.08%   16.469      1 Шаблон:Навигационная_таблица
+  2.61%    2.671      1 Шаблон:Ref-lang
+  2.53%    2.592      1 Шаблон:Lang-tr
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:4390445-0!canonical and timestamp 20230303204303 and revision id 124463976. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Санджак-бей&amp;oldid=124463976">https://ru.wikipedia.org/w/index.php?title=Санджак-бей&amp;oldid=124463976</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Категория:Воинские звания Османской империи">Воинские звания Османской империи</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B8" title="Категория:Санджак-беи">Санджак-беи</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B5_%D1%82%D0%B8%D1%82%D1%83%D0%BB%D1%8B" title="Категория:Турецкие титулы">Турецкие титулы</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_yes)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink yes)">Википедия:Cite web (заменить webcitation-архив: deadlink yes)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE%D0%B1_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Категория:Незавершённые статьи об Османской империи">Незавершённые статьи об Османской империи</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;oldid=124463976" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;id=124463976&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1274280" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%86%D8%AC%D9%82_%D8%A8%D9%83%D9%8A" title="سنجق بكي — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Sancaqb%C9%99yi" title="Sancaqbəyi — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Санджак-бей — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Sand%C5%BEak-bej" title="Sandžak-bej — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B1%CE%BD%CF%84%CE%B6%CE%AC%CE%BA%CE%BC%CF%80%CE%B5%CE%B7%CF%82" title="Σαντζάκμπεης — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Sanjak-bey" title="Sanjak-bey — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sanjak-bey" title="Sanjak-bey — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Sand%C5%BEak-beg" title="Sandžak-beg — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Sanjak-bey" title="Sanjak-bey — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%9C%E1%83%AF%E1%83%90%E1%83%A7-%E1%83%91%E1%83%94%E1%83%98" title="სანჯაყ-ბეი — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Sand%C5%BEakb%C4%97jus" title="Sandžakbėjus — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Sand%C5%BCakbej" title="Sandżakbej — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Sangeac-bei" title="Sangeac-bei — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Sand%C5%BEak-beg" title="Sandžak-beg — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Sand%C5%BEak-beg" title="Sandžak-beg — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Sanxhakbeu" title="Sanxhakbeu — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%9F%D0%B0%D0%BA%D0%B1%D0%B5%D0%B3" title="Санџакбег — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sancakbeyi" title="Sancakbeyi — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Санджак-бей — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%A1%91%E8%B3%88%E5%85%8B%E8%B2%9D%E4%BC%8A" title="桑賈克貝伊 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1274280#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 августа 2022 в 07:55.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.086","walltime":"0.127","ppvisitednodes":{"value":434,"limit":1000000},"postexpandincludesize":{"value":15360,"limit":2097152},"templateargumentsize":{"value":813,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2771,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  102.443      1 -total"," 43.08%   44.136      1 Шаблон:Примечания"," 34.94%   35.790      1 Шаблон:Cite_web"," 32.48%   33.270      1 Шаблон:Ottoman-stub"," 30.45%   31.196      1 Шаблон:Stub-meta"," 28.66%   29.360      1 Шаблон:Ambox"," 19.30%   19.770      1 Шаблон:Ближневосточные_титулы"," 16.08%   16.469      1 Шаблон:Навигационная_таблица","  2.61%    2.671      1 Шаблон:Ref-lang","  2.53%    2.592      1 Шаблон:Lang-tr"]},"scribunto":{"limitreport-timeusage":{"value":"0.037","limit":"10.000"},"limitreport-memusage":{"value":1781792,"limit":52428800}},"cachereport":{"origin":"mw2375","timestamp":"20230303204303","ttl":1814400,"transientcontent":false}},"wgHostname":"mw1370","wgBackendResponseTime":130});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0430\u043d\u0434\u0436\u0430\u043a-\u0431\u0435\u0439","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1274280","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1274280","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-02-19T20:11:57Z","dateModified":"2022-08-01T07:55:24Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0430\u043d\u0434\u0436\u0430\u043a-\u0431\u0435\u0439","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1274280","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1274280","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-02-19T20:11:57Z","dateModified":"2022-08-01T07:55:24Z"}</script>
+</body>
+</html>

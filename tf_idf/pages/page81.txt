@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Селим II — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"26e1398b-f909-4903-973a-59433c00a7ce","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Селим_II","wgTitle":"Селим II","wgCurRevisionId":128223258,"wgRevisionId":128223258,"wgArticleId":315776,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,
+"wgUserGroups":["*"],"wgCategories":["Википедия:Страницы с шаблоном Другие значения с устаревшим параметром","Страницы, использующие волшебные ссылки ISBN","Родившиеся 28 мая","Родившиеся в 1524 году","Персоналии по алфавиту","Родившиеся в Стамбуле","Умершие 13 декабря","Умершие в 1574 году","Умершие в Стамбуле","Династия Османов","Султаны Османской империи","Правители Азии XVI века","Правители Европы XVI века","Похороненные в мавзолее Селима II","Участники Русско-турецкой войны (1568—1570)"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Селим_II","wgRelevantArticleId":315776,"wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":128223258,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q161872","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/1200px-II._Selim_Han.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1719"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/800px-II._Selim_Han.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1146"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/640px-II._Selim_Han.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="917"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Селим II — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Селим_II rootpage-Селим_II skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Селим II</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable noprint dabhide">В Википедии есть статьи о других людях с именем <a href="/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC" class="mw-disambig" title="Селим">Селим</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r117420410/mw-parser-output/.infobox[data-name=&#39;Государственный деятель&#39;]">body.skin-modern .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-modern .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-modern .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below,body.skin-monobook .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-monobook .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-monobook .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below,body.skin-timeless .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-timeless .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-timeless .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below,body.skin-vector .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-above,body.skin-vector .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-header,body.skin-vector .mw-parser-output .infobox[data-name="Государственный деятель"] .infobox-below{background:#eaecf0}</style>
+<table class="infobox infobox-4b68fa193d64e5a9" style="" data-name="Государственный деятель"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Селим II</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1559" class="no-wikidata"><span lang="ota" style="font-size: 135%">سليم ثانى</span>&#8206; - <span lang="ota" style="font-style:italic;">Selîm-i sânî</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:II._Selim_Han.jpg" class="image"><img alt="II. Selim Han.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/290px-II._Selim_Han.jpg" decoding="async" width="290" height="415" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/435px-II._Selim_Han.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/II._Selim_Han.jpg/580px-II._Selim_Han.jpg 2x" data-file-width="2128" data-file-height="3048" /></a></span> </td></tr>
+<tr>
+<td colspan="2" class="nomobile plainlist" style="text-align:center;">
+<div data-wikidata-property-id="P39" class="no-wikidata">
+</div></td></tr><tr>
+<th scope="colgroup" colspan="2" class="infobox-header">
+<style data-mw-deduplicate="TemplateStyles:r117420440">.mw-parser-output .ts-Государственный_деятель-Должность-header{display:flex;align-items:center}.mw-parser-output .ts-Государственный_деятель-Должность-header .image-left{width:22px;margin-right:0.5em;flex:none}.mw-parser-output .ts-Государственный_деятель-Должность-header .label{flex:auto;text-align:center}.mw-parser-output .ts-Государственный_деятель-Должность-header .image-right{width:22px;margin-left:0.5em;flex:none}</style>
+<div class="ts-Государственный_деятель-Должность-header">
+<div class="image-left"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ottoman_flag.svg" class="image" title="Флаг"><img alt="Флаг" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ottoman_flag.svg/22px-Ottoman_flag.svg.png" decoding="async" width="22" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ottoman_flag.svg/33px-Ottoman_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ottoman_flag.svg/44px-Ottoman_flag.svg.png 2x" data-file-width="900" data-file-height="600" /></a></div>
+<div class="label"> <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" class="mw-redirect" title="Османский султан">Османский султан</a> </div>
+<div class="image-right"></div>
+</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/5_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="5 сентября">5</a>/<a href="/wiki/6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="6 сентября">6 сентября</a> <a href="/wiki/1566" class="mw-redirect" title="1566">1566</a>—<a href="/wiki/13_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="13 декабря">13 декабря</a> <a href="/wiki/1574" class="mw-redirect" title="1574">1574</a></td>
+</tr>
+
+
+
+
+
+
+
+
+<tr>
+<th scope="row">Предшественник</th>
+<td class="plainlist">
+<a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_I" title="Сулейман I">Сулейман I</a></td>
+</tr>
+<tr>
+<th scope="row">Преемник</th>
+<td class="plainlist">
+<a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мурад III</a></td>
+</tr>
+
+<tr>
+<td colspan="2" class="nomobile plainlist" style="text-align:center;">
+<hr /></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Рождение</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><a href="/wiki/28_%D0%BC%D0%B0%D1%8F" title="28 мая">28 мая</a> <a href="/wiki/1524_%D0%B3%D0%BE%D0%B4" title="1524 год">1524</a></span><span style="display:none">(<span class="bday">1524-05-28</span>)</span><br /><span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB" title="Стамбул">Стамбул</a>, <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османская империя</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Смерть</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P570"><a href="/wiki/13_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="13 декабря">13 декабря</a> <a href="/wiki/1574_%D0%B3%D0%BE%D0%B4" title="1574 год">1574</a></span><span style="display:none">(<span class="dday">1574-12-13</span>)</span> <span class="nowrap">(50 лет)</span><br /><span data-wikidata-property-id="P20" class="no-wikidata"><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB" title="Стамбул">Стамбул</a>, <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османская империя</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место погребения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P119" class="no-wikidata"><a href="/wiki/%D0%90%D1%8F-%D0%A1%D0%BE%D1%84%D1%8C%D1%8F" class="mw-redirect" title="Ая-Софья">Ая-Софья</a>, <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB" title="Стамбул">Стамбул</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Род</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="q161872$be202fc6-4f1a-524a-4c5b-85855d3dcb21" class="wikidata-claim" data-wikidata-property-id="P53"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%8B" title="Османы">Османы</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Отец</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P22" class="no-wikidata"><a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_I" title="Сулейман I">Сулейман I</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Мать</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P25" class="no-wikidata"><a href="/wiki/%D0%A0%D0%BE%D0%BA%D1%81%D0%BE%D0%BB%D0%B0%D0%BD%D0%B0" title="Роксолана">Хюррем-султан</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Супруга</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P26" class="no-wikidata"><a href="/wiki/%D0%9D%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D1%83_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD" class="mw-redirect" title="Нурбану Султан">Нурбану Султан</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дети</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P40" class="no-wikidata"><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мурад III</a><style data-mw-deduplicate="TemplateStyles:r113278226">.mw-parser-output .ts-Переход img{margin-left:.285714em}</style><span class="ts-Переход noprint" title="#Семья"><sup><a href="#Семья">[⇨]</a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Отношение к&#160;религии</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q161872$B3C99B47-1482-44D8-ACC3-FD71B4E27553" class="wikidata-claim" data-wikidata-property-id="P140"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Ислам">ислам</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%A2%D1%83%D0%B3%D1%80%D0%B0" title="Тугра">Тугра</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P1543" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tughra_of_Selim_II.JPG" class="image"><img alt="Тугра" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tughra_of_Selim_II.JPG/151px-Tughra_of_Selim_II.JPG" decoding="async" width="151" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tughra_of_Selim_II.JPG/226px-Tughra_of_Selim_II.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tughra_of_Selim_II.JPG/301px-Tughra_of_Selim_II.JPG 2x" data-file-width="609" data-file-height="284" /></a></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q161872$2992EFD0-7F22-4CE3-84C4-B4D237AF5EEB" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Selim_II" title="commons:Category:Selim II"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Selim_II" class="extiw" title="commons:Category:Selim II">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Сели́м II</b> (<a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Османский язык">осман.</a> <span lang="ota" style="font-size: 110%; font-style: normal; line-height: 1em;">سليم ثانى</span>&#8206;&#160;— <span lang="ota" style="font-style:italic;">Selîm-i sânî</span>, <a href="/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Турецкий язык">тур.</a> <span lang="tr" style="font-style:italic;">İkinci Selim</span>; <a href="/wiki/28_%D0%BC%D0%B0%D1%8F" title="28 мая">28 мая</a> <a href="/wiki/1524" class="mw-redirect" title="1524">1524</a>&#160;— <a href="/wiki/13_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="13 декабря">13 декабря</a> <a href="/wiki/1574" class="mw-redirect" title="1574">1574</a>)&#160;— одиннадцатый <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D1%8B" class="mw-redirect" title="Османские султаны">султан</a> <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османской империи</a>, правивший в 1566 — 1574 годах. Третий сын и четвёртый ребёнок султана <a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_I" title="Сулейман I">Сулеймана І Великолепного</a> и <a href="/wiki/%D0%A5%D0%B0%D1%81%D0%B5%D0%BA%D0%B8" title="Хасеки">хасеки</a> <a href="/wiki/%D0%A5%D1%8E%D1%80%D1%80%D0%B5%D0%BC" class="mw-redirect" title="Хюррем">Хюррем-султан</a>. Известен под прозвищами <b>Пьяница</b> (<a href="/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Турецкий язык">тур.</a> <span lang="tr" style="font-style:italic;">Sarhoş Selim</span>) и <b>Светловолосый</b> (<a href="/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Турецкий язык">тур.</a> <span lang="tr" style="font-style:italic;">Sarı Selim</span>).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Правление"><span class="tocnumber">2</span> <span class="toctext">Правление</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Семья"><span class="tocnumber">3</span> <span class="toctext">Семья</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Киновоплощения"><span class="tocnumber">4</span> <span class="toctext">Киновоплощения</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Библиография"><span class="tocnumber">6</span> <span class="toctext">Библиография</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span><span class="mw-headline" id="Биография">Биография</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Биография»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit&amp;section=1" title="Редактировать раздел «Биография»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Родился в <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB" title="Стамбул">Стамбуле</a>&#160;— столице Османской империи. Первоначально Селим кратковременно управлял Коньей. В 1544 году после смерти своего старшего брата <a href="/wiki/%D0%A8%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B5_%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4" title="Шехзаде Мехмед">шехзаде Мехмеда</a> Селим был назначен отцом <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BA-%D0%B1%D0%B5%D0%B9" title="Санджак-бей">санджак-беем</a> в провинции <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D1%81%D0%B0_(%D0%B8%D0%BB)" title="Маниса (ил)">Маниса</a>. В 1548 году его отец, отправившийся во главе османской армии в поход на Персию, оставил шехзаде Селима регентом в Стамбуле. В 1553 году после казни его старшего единокровного брата <a href="/wiki/%D0%A8%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B5_%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0" title="Шехзаде Мустафа">Мустафы</a> Селим был объявлен первым наследником престола.
+</p><p>В 1558 году после смерти Хюррем-султан обострились отношения между Селимом и его младшим братом, шехзаде <a href="/wiki/%D0%A8%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B5_%D0%91%D0%B0%D1%8F%D0%B7%D0%B8%D0%B4" title="Шехзаде Баязид">Баязидом</a>. Султан Сулейман, опасавшийся государственного переворота и надеявшийся на скорый мир между своими сыновьями, отправил обоих сыновей управлять удаленными от Стамбула провинциями империи. Шехзаде Селим был переведен из Манисы в <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D1%8F" title="Конья">Конью</a>, а его брат шехзаде <a href="/wiki/%D0%A8%D0%B5%D1%85%D0%B7%D0%B0%D0%B4%D0%B5_%D0%91%D0%B0%D1%8F%D0%B7%D0%B8%D0%B4" title="Шехзаде Баязид">Баязид</a> — в Амасью. В 1559 году братья Баязид и Селим начали междоусобную борьбу за власть. Шехзаде Баязид собрал войско и выступил в поход против своего старшего брата Селима. В кровопролитной битве под <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%8C%D1%8F" title="Конья">Коньей</a>, фактически поставившей Османскую империю на грань гражданской войны, шехзаде Селим, получивший поддержку отца и имевший численное превосходство, разбил войско младшего брата. Баязид с семьёй бежал в Персию, но в 1561 году был выдан шахом <a href="/wiki/%D0%A2%D0%B0%D1%85%D0%BC%D0%B0%D1%81%D0%BF_I" title="Тахмасп I">Тахмаспом</a> и задушен вместе с пятью сыновьями.
+</p><p>В последние годы правления отца шехзаде Селим занимал должность санджакбея <a href="/wiki/%D0%9A%D1%8E%D1%82%D0%B0%D1%85%D1%8C%D1%8F" title="Кютахья">Кютахьи</a>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Правление">Правление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Правление»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit&amp;section=2" title="Редактировать раздел «Правление»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Во время правления Селима ІІ (государственными делами руководил <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B7%D0%B8%D1%80%D1%8C" title="Великий визирь">великий визирь</a> <a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BB%D1%83" class="mw-redirect" title="Мехмед Соколлу">Мехмед Соколлу</a>-паша) <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османская империя</a> вела войны с <a href="/wiki/%D0%A1%D0%B5%D1%84%D0%B5%D0%B2%D0%B8%D0%B4%D1%8B" title="Сефевиды">Персидской империей Сефевидов</a>, <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F" title="Венгрия">Венгрией</a>, <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Венецианская республика">Венецией</a> (1570—1573) и «<a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%9B%D0%B8%D0%B3%D0%B0_(1571)" class="mw-redirect" title="Священная Лига (1571)">Священной лигой</a>» (<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">Испания</a>, <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Венецианская республика">Венеция</a>, <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%83%D1%8F" title="Генуя">Генуя</a>, <a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B0_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Мальта (остров)">Мальта</a>), завершила завоевание <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D1%8F" class="mw-redirect" title="Аравия">Аравии</a> и <a href="/wiki/%D0%9A%D0%B8%D0%BF%D1%80_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Кипр (остров)">Кипра</a>.
+</p><p>В 1569 Селимом был осуществлен неудачный <a href="/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D1%85%D0%BE%D0%B4_%D0%BD%D0%B0_%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C" class="mw-redirect" title="Турецкий поход на Астрахань">поход на Астрахань</a>. В Стамбуле был разработан план по объединению <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0" title="Волга">Волги</a> и <a href="/wiki/%D0%94%D0%BE%D0%BD" title="Дон">Дона</a> каналом, и летом 1569&#160;года <a href="/wiki/%D0%AF%D0%BD%D1%8B%D1%87%D0%B0%D1%80%D1%8B" title="Янычары">янычары</a> и татарская <a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F" title="Кавалерия">кавалерия</a> начали блокаду <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C" title="Астрахань">Астрахани</a> и работы на <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0" title="Волгодонская переволока">волгодонском</a> перешейке, в то время как <a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BB%D0%BE%D1%82" title="Османский флот">флот Османской империи</a> осаждал <a href="/wiki/%D0%90%D0%B7%D0%BE%D0%B2" title="Азов">Азов</a>. Но гарнизон <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C" title="Астрахань">Астрахани</a> отразил осаду. 15-тысячная русская армия атаковала и разогнала рабочих и татар, которые были направлены для защиты, а османский флот был уничтожен штормом. В 1570 году послы <a href="/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%93%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9" title="Иван Грозный">Ивана Грозного</a> заключили с Селимом II мирный договор.
+</p><p>Султан Селим получил прозвище «Пьяница» из-за пристрастия к вину, которое, с точки зрения Корана, расценивалось как злоупотребление. Тем не менее пьяницей в прямом смысле слова он не был. Умер 13 декабря 1574&#160;года в <a href="/wiki/%D0%93%D0%B0%D1%80%D0%B5%D0%BC" title="Гарем">гареме</a> дворца <a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BA%D0%B0%D0%BF%D1%8B" title="Топкапы">Топкапы</a>. После этого власть в стране перешла к его сыну <a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мураду III</a>.
+</p>
+<h2><span id=".D0.A1.D0.B5.D0.BC.D1.8C.D1.8F"></span><span class="mw-headline" id="Семья">Семья</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Семья»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit&amp;section=3" title="Редактировать раздел «Семья»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Первой и главной женой Селима II была <a href="/wiki/%D0%9D%D1%83%D1%80%D0%B1%D0%B0%D0%BD%D1%83_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD" class="mw-redirect" title="Нурбану Султан">Нурбану</a>, происходившая из греко-венецианской семьи. Нурбану стала матерью будущего султана <a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мурада III</a>, а также четверых дочерей Селима: <a href="/wiki/%D0%A8%D0%B0%D1%85_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_(%D0%B4%D0%BE%D1%87%D1%8C_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%B0_%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC%D0%B0_II)" class="mw-redirect" title="Шах Султан (дочь султана Селима II)">Шах Султан</a> (ок. 1544—1580), <a href="/wiki/%D0%AD%D1%81%D0%BC%D0%B5%D1%85%D0%B0%D0%BD_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD" class="mw-redirect" title="Эсмехан Султан">Эсмехан Султан</a> (1544/1545&#160;— 1585), <a href="/wiki/%D0%93%D0%B5%D0%B2%D1%85%D0%B5%D1%80%D1%85%D0%B0%D0%BD_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD" class="mw-redirect" title="Гевхерхан Султан">Гевхерхан Султан</a> (1544/1545&#160;— 1580) и <a href="/wiki/%D0%A4%D0%B0%D1%82%D1%8C%D0%BC%D0%B0_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_(%D0%B4%D0%BE%D1%87%D1%8C_%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC%D0%B0_II)" class="mw-redirect" title="Фатьма Султан (дочь Селима II)">Фатьмы Султан</a> (ок. 1548—1580)<sup id="cite_ref-_1e97c7badee70b86_1-0" class="reference"><a href="#cite_note-_1e97c7badee70b86-1">&#91;1&#93;</a></sup>. Вероятно, Фатьма Султан стала последним ребёнком, рождённым Нурбану.
+</p><p>Достоверно неизвестно, сколько всего детей было у султана Селима II. Так, Пирс пишет о шести сыновьях, помимо наследника, не называя имён<sup id="cite_ref-_1e97c7badee70b87_2-0" class="reference"><a href="#cite_note-_1e97c7badee70b87-2">&#91;2&#93;</a></sup>; Олдерсон указывает пятерых казнённых Мурадом сыновей Селима (Абдуллу, Джихангира, Мустафу, Османа, Сулеймана) и ещё Мехмеда, умершего в 1572 году<sup id="cite_ref-_79a64e17a981a5a1_3-0" class="reference"><a href="#cite_note-_79a64e17a981a5a1-3">&#91;3&#93;</a></sup> и похороненного в тюрбе <a href="/wiki/%D0%A0%D0%BE%D0%BA%D1%81%D0%BE%D0%BB%D0%B0%D0%BD%D0%B0" title="Роксолана">Хюррем Султан</a><sup id="cite_ref-_183f143522300bc6_4-0" class="reference"><a href="#cite_note-_183f143522300bc6-4">&#91;4&#93;</a></sup>. В то же время Финкель цитирует слова «третьего медика» шехзаде Мурада о казни девяти сыновей Селима II<sup id="cite_ref-_80bd459acd3da3a8_5-0" class="reference"><a href="#cite_note-_80bd459acd3da3a8-5">&#91;5&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9A.D0.B8.D0.BD.D0.BE.D0.B2.D0.BE.D0.BF.D0.BB.D0.BE.D1.89.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Киновоплощения">Киновоплощения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Киновоплощения»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit&amp;section=4" title="Редактировать раздел «Киновоплощения»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1990 — «<a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D1%82%D1%80%D1%91%D1%85_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Битва трёх королей (фильм)">Битва трёх королей</a>» (СССР, Испания, Италия, Марокко). В роли Селима II — <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%87%D1%83%D0%BA" class="mw-redirect" title="Сергей Бондарчук">Сергей Бондарчук</a>.</li>
+<li>1997 — «<a href="/wiki/%D0%A0%D0%BE%D0%BA%D1%81%D0%BE%D0%BB%D0%B0%D0%BD%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Роксолана (телесериал)">Роксолана</a>» (Украина). В роли шехзаде Селима — Александр Дзюба.</li>
+<li>2003 — сериал «<a href="/wiki/%D0%A5%D1%8E%D1%80%D1%80%D0%B5%D0%BC_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Хюррем Султан (телесериал)">Хюррем Султан</a>» (Турция); роль шехзаде Селима исполнил <a href="/w/index.php?title=%D0%90%D1%82%D0%B8%D0%BB%D0%B0%D0%B9_%D0%A3%D0%BB%D1%83%D1%8B%D1%88%D1%8B%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Атилай Улуышык (страница отсутствует)">Атилай Улуышык</a>.</li>
+<li>2011-2014 — сериал «<a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D0%B5%D0%BF%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BA" title="Великолепный век">Великолепный век</a>» (Турция); роль взрослого шехзаде исполнил актёр <a href="/wiki/%D0%9E%D0%B7%D1%82%D1%8E%D1%80%D0%BA,_%D0%AD%D0%BD%D0%B3%D0%B8%D0%BD" title="Озтюрк, Энгин">Энгин Озтюрк</a>.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit&amp;section=5" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_1e97c7badee70b86-1"><span class="mw-cite-backlink"><a href="#cite_ref-_1e97c7badee70b86_1-0">↑</a></span> <span class="reference-text"><a href="#CITEREFPeirce1993">Peirce, 1993</a>, p.&#160;92.</span>
+</li>
+<li id="cite_note-_1e97c7badee70b87-2"><span class="mw-cite-backlink"><a href="#cite_ref-_1e97c7badee70b87_2-0">↑</a></span> <span class="reference-text"><a href="#CITEREFPeirce1993">Peirce, 1993</a>, p.&#160;93.</span>
+</li>
+<li id="cite_note-_79a64e17a981a5a1-3"><span class="mw-cite-backlink"><a href="#cite_ref-_79a64e17a981a5a1_3-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAlderson1956">Alderson, 1956</a>, Table XXXI.</span>
+</li>
+<li id="cite_note-_183f143522300bc6-4"><span class="mw-cite-backlink"><a href="#cite_ref-_183f143522300bc6_4-0">↑</a></span> <span class="reference-text"><a href="#CITEREFBahadıroğlu2014">Bahadıroğlu, 2014</a>.</span>
+</li>
+<li id="cite_note-_80bd459acd3da3a8-5"><span class="mw-cite-backlink"><a href="#cite_ref-_80bd459acd3da3a8_5-0">↑</a></span> <span class="reference-text"><a href="#CITEREFФинкель2012">Финкель, 2012</a>.</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.91.D0.B8.D0.B1.D0.BB.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span><span class="mw-headline" id="Библиография">Библиография</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Библиография»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit&amp;section=6" title="Редактировать раздел «Библиография»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFФинкель2012"><i>Финкель, Кэролайн.</i>&#32;<a rel="nofollow" class="external text" href="https://books.google.com/books?id=ar0sDgAAQBAJ&amp;printsec=frontcover">История Османской империи: Видение Османа</a>.&#160;— <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%90%D0%A1%D0%A2_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="АСТ (издательство)">АСТ</a>; Астрель, 2012.&#160;— 829&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785170436514" class="internal mw-magiclink-isbn">ISBN 978-5-17-043651-4</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFAlderson1956"><i>Alderson, Anthony Dolphin.</i>&#32;<a rel="nofollow" class="external text" href="https://ia801500.us.archive.org/11/items/in.ernet.dli.2015.69864/2015.69864.Structure-Of-The-Ottoman-Dynasty.pdf">The Structure of the Ottoman Dynasty</a>.&#160;— Oxford: Clarendon Press, 1956.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFPeirce1993"><i>Peirce, Leslie P.</i>&#32;<a rel="nofollow" class="external text" href="https://books.google.ru/books?id=L6-VRgVzRcUC">The Imperial Harem: Women and Sovereignty in the Ottoman Empire</a>.&#160;— Oxford: Oxford University Press, 1993.&#160;— 374&#160;p.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0195086775" class="internal mw-magiclink-isbn">ISBN 0195086775</a>, 9780195086775.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFBahadıroğlu2014"><i>Yavuz Bahadıroğlu.</i>&#32;<a rel="nofollow" class="external text" href="https://books.google.ru/books?id=bDPDAwAAQBAJ&amp;pg=PT165&amp;dq=Hatice+Sultan&amp;hl=ru&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Hatice%20Sultan&amp;f=false">Osmanlı'da Şehzade Katli</a>.&#160;— Nesil Basım Yayın Gıda Ticaret ve Sanayi A.Ş, 2014.&#160;— 256&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/6051622187" class="internal mw-magiclink-isbn">ISBN 6051622187</a>, 9786051622187.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/%D0%98%D0%BD%D0%B0%D0%BB%D0%B4%D0%B6%D0%B8%D0%BA,_%D0%A5%D0%B0%D0%BB%D0%B8%D0%BB" title="Иналджик, Халил">Halil İnalcık</a>.</i>&#32;Osmanlı İmparatorluğu Klasik Çağ (1300-1600).&#160;— İstanbul: Yapı Kredi Yayınları, 2008.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9750805887" class="internal mw-magiclink-isbn">ISBN 975-08-0588-7</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Necdet Sakaoğlu.</i>&#32;Bu Mülkün Sultanları.&#160;— İstanbul: Oğlak Yayınları, 1999.&#160;— С.&#160;149-160.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9753293006" class="internal mw-magiclink-isbn">ISBN 9753293006</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>İsmail Hakkı Uzunçarşılı.</i>&#32;Osmanlı Tarihi: Cilt. III/1 II. Selim'in Tahta Çıkışından 1699 Karlofça Andlaşmasına Kadar.&#160;— Ankara: Türk Tarih Kurumu Yayınları, 1951, yeni ed. 1988.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9751600138" class="internal mw-magiclink-isbn">ISBN 975-16-0013-8</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Turan, Serafeddin.</i>&#32;İslam Ansiklopedisi. Selim II.&#160;— Ankara ve İstanbul: Türkiye Cumhuriyeti, Maarif Bakanlığı, 1940.&#160;— Т.&#160;X.&#160;— С.&#160;434-444.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFBahadıroğlu"><i>Yavuz Bahadıroğlu.</i>&#32;Resimli Osmanlı Tarihi.&#160;— İstanbul: Nesil Yayınları.</span></li></ul>
+<div class="navbox" style="padding:1px;">
+<table class="navbox-inner noprint" style="border-spacing: 2px; background:transparent; color:inherit;">
+
+
+<tbody><tr style="text-align: center;">
+<td width="30%" class="no-wikidata" style="background-color:#f8f9fa;" data-wikidata-property-id="P155">Предшественник:<br /><b><a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_I" title="Сулейман I">Сулейман I</a></b>
+</td>
+<td width="40%" style="text-align: center; font-size: 110%; background:#eaf3ff;"><b><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD" class="mw-redirect" title="Османский султан">Османский султан</a></b><br /><a href="/wiki/1566" class="mw-redirect" title="1566">1566</a>-<a href="/wiki/1574" class="mw-redirect" title="1574">1574</a>
+</td>
+<td width="30%" class="no-wikidata" style="background-color:#f8f9fa;" data-wikidata-property-id="P156">Преемник:<br /><b><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мурад III</a></b>
+</td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Османские_султаны_(халифы)" data-name="Султаны Османской империи"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D1%8B_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Перейти к шаблону «Султаны Османской империи»"><img alt="Перейти к шаблону «Султаны Османской империи»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Османские_султаны_(халифы)" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Османская империя">Османские</a> <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Список султанов Османской империи">султаны (халифы)</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Беи</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD_I" title="Осман I">Осман I</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D1%85%D0%B0%D0%BD_%D0%93%D0%B0%D0%B7%D0%B8" title="Орхан Гази">Орхан Гази</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Султаны</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_I" title="Мурад I">Мурад I</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%8F%D0%B7%D0%B8%D0%B4_I" title="Баязид I">Баязид I</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><i><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B8%D0%B5" title="Османское междуцарствие">междуцарствие</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%98%D1%81%D0%B0_%D0%A7%D0%B5%D0%BB%D0%B5%D0%B1%D0%B8" title="Иса Челеби">Иса Челеби</a> <small>(Западная <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Малая Азия">Анатолия</a>)</small></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_%D0%A7%D0%B5%D0%BB%D0%B5%D0%B1%D0%B8" title="Сулейман Челеби">Сулейман Челеби</a> <small>(<a href="/wiki/%D0%A0%D1%83%D0%BC%D0%B5%D0%BB%D0%B8%D1%8F" title="Румелия">Румелия</a>)</small></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_I" title="Мехмед I">Мехмед I</a> <small>(Восточная Анатолия, затем объединённая Анатолия)</small></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D0%B0_%D0%A7%D0%B5%D0%BB%D0%B5%D0%B1%D0%B8" title="Муса Челеби">Муса Челеби</a> <small>(<a href="/wiki/%D0%A0%D1%83%D0%BC%D0%B5%D0%BB%D0%B8%D1%8F" title="Румелия">Румелия</a>)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Султаны</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_I" title="Мехмед I">Мехмед I</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_II" title="Мурад II">Мурад II</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_II" title="Мехмед II">Мехмед II</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%8F%D0%B7%D0%B8%D0%B4_II" title="Баязид II">Баязид II</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_I" title="Селим I">Селим I</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_I" title="Сулейман I">Сулейман I</a></li>
+<li><a class="mw-selflink selflink">Селим II</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_III" title="Мурад III">Мурад III</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_III" title="Мехмед III">Мехмед III</a></li>
+<li><a href="/wiki/%D0%90%D1%85%D0%BC%D0%B5%D0%B4_I" title="Ахмед I">Ахмед I</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0_I" title="Мустафа I">Мустафа I</a></li>
+<li><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD_II" title="Осман II">Осман II</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0_I" title="Мустафа I">Мустафа I</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_IV" title="Мурад IV">Мурад IV</a></li>
+<li><a href="/wiki/%D0%98%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC_I" title="Ибрагим I">Ибрагим I</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_IV" title="Мехмед IV">Мехмед IV</a></li>
+<li><a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_II" title="Сулейман II">Сулейман II</a></li>
+<li><a href="/wiki/%D0%90%D1%85%D0%BC%D0%B5%D0%B4_II" title="Ахмед II">Ахмед II</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0_II" title="Мустафа II">Мустафа II</a></li>
+<li><a href="/wiki/%D0%90%D1%85%D0%BC%D0%B5%D0%B4_III" title="Ахмед III">Ахмед III</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%85%D0%BC%D1%83%D0%B4_I" title="Махмуд I">Махмуд I</a></li>
+<li><a href="/wiki/%D0%9E%D1%81%D0%BC%D0%B0%D0%BD_III" title="Осман III">Осман III</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0_III" title="Мустафа III">Мустафа III</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB-%D0%A5%D0%B0%D0%BC%D0%B8%D0%B4_I" title="Абдул-Хамид I">Абдул-Хамид I</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_III" title="Селим III">Селим III</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0_IV" title="Мустафа IV">Мустафа IV</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%85%D0%BC%D1%83%D0%B4_II" title="Махмуд II">Махмуд II</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB-%D0%9C%D0%B5%D0%B4%D0%B6%D0%B8%D0%B4_I" title="Абдул-Меджид I">Абдул-Меджид I</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB-%D0%90%D0%B7%D0%B8%D0%B7" title="Абдул-Азиз">Абдул-Азиз</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4_V" title="Мурад V">Мурад V</a></li>
+<li><a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB-%D0%A5%D0%B0%D0%BC%D0%B8%D0%B4_II" title="Абдул-Хамид II">Абдул-Хамид II</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_V" title="Мехмед V">Мехмед V</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_VI" title="Мехмед VI">Мехмед VI</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Халифы</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB-%D0%9C%D0%B5%D0%B4%D0%B6%D0%B8%D0%B4_II" title="Абдул-Меджид II">Абдул-Меджид II</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q161872#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0238456.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://snl.no/Selim_2.">Большая норвежская</a></li>
+<li><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" class="extiw" title="s:ЭСБЕ/Селим II">Брокгауза и Ефрона</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.krugosvet.ru/enc/istoriya/SELIM.html">Кругосвет</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.larousse.fr/encyclopedie/personnage/wd/143837">Ларусса</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.enciklopedija.hr/Natuknica.aspx?ID=55292">Хорватская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Selim-II">Britannica (онлайн)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.sapere.it/enciclopedia/Selim+II.html">De Agostini</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.nndb.com/people/713/000113374/">Notable Names Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.universalis.fr/encyclopedie/selim-ii/">Universalis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Генеалогия и некрополистика</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.wikitree.com/wiki/Osmanlı-29">WikiTree</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.werelate.org/wiki/Person:Selim_Unknown_(2)">WeRelate</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/138054231">138054231</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000058898993">0000 0000 5889 8993</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007596700905171">987007596700905171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/no2006086884">no2006086884</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Национальная библиотека Польши">NLP</a>: <a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=5&amp;WI=A12255269">A12255269</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p079556493">079556493</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/191478997">191478997</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Ватиканская апостольская библиотека">VcBA</a>: <a rel="nofollow" class="external text" href="https://opac.vatlib.it/auth/detail/495_163117">495/163117</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/44058182/">44058182</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/44058182">44058182</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1418
+Cached time: 20230318050143
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc, no‐toc‐conversion]
+CPU time usage: 0.380 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 5368/1000000
+Post‐expand include size: 63864/2097152 bytes
+Template argument size: 11683/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4661/5000000 bytes
+Lua time usage: 0.210/10.000 seconds
+Lua memory usage: 8509313/52428800 bytes
+Number of Wikibase entities loaded: 3/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  436.236      1 -total
+ 56.60%  246.893      1 Шаблон:Государственный_деятель
+ 50.03%  218.269      1 Шаблон:Карточка
+ 13.27%   57.891      1 Шаблон:Внешние_ссылки
+ 13.03%   56.861      9 Шаблон:Wikidata
+ 11.12%   48.531      9 Шаблон:Книга
+  7.24%   31.603      5 Шаблон:Sfn
+  5.23%   22.803      2 Шаблон:Br_separated_entries
+  4.57%   19.939      1 Шаблон:Карточка/оригинал_имени
+  4.19%   18.293      5 Шаблон:Sfn-текст
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:315776-0!canonical and timestamp 20230318050142 and revision id 128223258. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Селим_II&amp;oldid=128223258">https://ru.wikipedia.org/w/index.php?title=Селим_II&amp;oldid=128223258</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_28_%D0%BC%D0%B0%D1%8F" title="Категория:Родившиеся 28 мая">Родившиеся 28 мая</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1524_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1524 году">Родившиеся в 1524 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB%D0%B5" title="Категория:Родившиеся в Стамбуле">Родившиеся в Стамбуле</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_13_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="Категория:Умершие 13 декабря">Умершие 13 декабря</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1574_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1574 году">Умершие в 1574 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB%D0%B5" title="Категория:Умершие в Стамбуле">Умершие в Стамбуле</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Династия Османов">Династия Османов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D1%8B_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Категория:Султаны Османской империи">Султаны Османской империи</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%90%D0%B7%D0%B8%D0%B8_XVI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Правители Азии XVI века">Правители Азии XVI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_XVI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Правители Европы XVI века">Правители Европы XVI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%BC%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B5_%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC%D0%B0_II" title="Категория:Похороненные в мавзолее Селима II">Похороненные в мавзолее Селима II</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%82%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_(1568%E2%80%941570)" title="Категория:Участники Русско-турецкой войны (1568—1570)">Участники Русско-турецкой войны (1568—1570)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC_%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B5_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81_%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B8%D0%BC_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BC" title="Категория:Википедия:Страницы с шаблоном Другие значения с устаревшим параметром">Википедия:Страницы с шаблоном Другие значения с устаревшим параметром</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC+II" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC+II" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;oldid=128223258" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;id=128223258&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q161872" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC+II" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Selim_II" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" hreflang="ru"><span>Викиновости</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Selim_II" title="Selim II — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Selim_II." title="Selim II. — Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A" title="سليم الثاني — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%AA%D8%A7%D9%86%D9%89" title="سليم التانى — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/II_S%C9%99lim" title="II Səlim — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A7%DB%8C%DA%A9%DB%8C%D9%86%D8%AC%DB%8C_%D8%B3%D9%84%DB%8C%D9%85" title="ایکینجی سلیم — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%96%D0%BC_II" title="Селім II — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Селим II — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE" title="দ্বিতীয় সেলিম — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Selim_II" title="Selim II — бретонский" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Selim_II" title="Selim II — боснийский" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Selim_II" title="Selim II — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%95%D9%84%DB%8C%D9%85%DB%8C_%D8%AF%D9%88%D9%88%DB%95%D9%85" title="سەلیمی دووەم — центральнокурдский" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Selim_II." title="Selim II. — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Селим II — чувашский" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Selim_2." title="Selim 2. — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Selim_II." title="Selim II. — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-diq mw-list-item"><a href="https://diq.wikipedia.org/wiki/Selim_II" title="Selim II — Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target"><span>Zazaki</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CE%BB%CE%AF%CE%BC_%CE%92%CE%84" title="Σελίμ Β΄ — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Selim_II" title="Selim II — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Selimo_la_2-a" title="Selimo la 2-a — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Selim_II" title="Selim II — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Selim_II" title="Selim II — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Selim_II.a" title="Selim II.a — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%84%DB%8C%D9%85_%D8%AF%D9%88%D9%85" title="سلیم دوم — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Selim_II" title="Selim II — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/S%C3%A9lim_II" title="Sélim II — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Selim_II." title="Selim II. — северный фризский" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/Selim_II" title="Selim II — гэльский" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%9C%D7%99%D7%9D_%D7%94%D7%A9%D7%A0%D7%99" title="סלים השני — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%80%E0%A4%AE_%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF" title="सलीम द्वितीय — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Selim_II." title="Selim II. — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/II._Szelim_oszm%C3%A1n_szult%C3%A1n" title="II. Szelim oszmán szultán — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D5%AC%D5%AB%D5%B4_II" title="Սելիմ II — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Selim_II" title="Selim II — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Selim_II" title="Selim II — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AA%E3%83%A02%E4%B8%96" title="セリム2世 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%9A%E1%83%98%E1%83%9B_II" title="სელიმ II — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/II_%D0%A1%D3%99%D0%BB%D1%96%D0%BC" title="II Сәлім — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%85%80%EB%A6%BC_2%EC%84%B8" title="셀림 2세 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Selimus_II_(sultanus_Ottomanicus)" title="Selimus II (sultanus Ottomanicus) — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Selims_II" title="Selims II — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Селим II — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A6%E0%A5%81%E0%A4%B8%E0%A4%B0%E0%A4%BE_%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%80%E0%A4%AE" title="दुसरा सेलीम — маратхи" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Selim_II" title="Selim II — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Selim_II" title="Selim II — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Selim_II_av_Det_osmanske_riket" title="Selim II av Det osmanske riket — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Selim_II" title="Selim II — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Selim_II" title="Selim II — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%B3%D9%84%DB%8C%D9%85_%D8%AB%D8%A7%D9%86%DB%8C" title="سلیم ثانی — Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Selim_II" title="Selim II — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Selim_al_II-lea" title="Selim al II-lea — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Selim_II" title="Selim II — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%AF%E0%B7%99%E0%B7%80%E0%B6%B1_%E0%B7%83%E0%B7%99%E0%B6%BD%E0%B7%93%E0%B6%B8%E0%B7%8A" title="දෙවන සෙලීම් — сингальский" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Selim_II" title="Selim II — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Selim_II." title="Selim II. — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Selim_II." title="Selim II. — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Saliim_labaad" title="Saliim labaad — сомали" lang="so" hreflang="so" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Selimi_II" title="Selimi II — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II" title="Селим II — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Selim_II" title="Selim II — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B8%E0%B8%A5%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88_2" title="สุลต่านเซลิมที่ 2 — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/II._Selim" title="II. Selim — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/II_%D0%A1%D3%99%D0%BB%D0%B8%D0%BC" title="II Сәлим — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%96%D0%BC_II" title="Селім II — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B3%D9%84%DB%8C%D9%85_%D8%AB%D8%A7%D9%86%DB%8C" title="سلیم ثانی — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Salim_II" title="Salim II — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Selim_II" title="Selim II — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%A1%9E%E5%88%A9%E5%A7%86%E4%BA%8C%E4%B8%96" title="塞利姆二世 — у" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%A1%9E%E5%88%A9%E5%A7%86%E4%BA%8C%E4%B8%96" title="塞利姆二世 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Selim_2-s%C3%A8" title="Selim 2-sè — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%A1%9E%E6%9E%97%E4%BA%8C%E4%B8%96" title="塞林二世 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q161872#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 января 2023 в 15:42.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"0.504","ppvisitednodes":{"value":5368,"limit":1000000},"postexpandincludesize":{"value":63864,"limit":2097152},"templateargumentsize":{"value":11683,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4661,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  436.236      1 -total"," 56.60%  246.893      1 Шаблон:Государственный_деятель"," 50.03%  218.269      1 Шаблон:Карточка"," 13.27%   57.891      1 Шаблон:Внешние_ссылки"," 13.03%   56.861      9 Шаблон:Wikidata"," 11.12%   48.531      9 Шаблон:Книга","  7.24%   31.603      5 Шаблон:Sfn","  5.23%   22.803      2 Шаблон:Br_separated_entries","  4.57%   19.939      1 Шаблон:Карточка/оригинал_имени","  4.19%   18.293      5 Шаблон:Sfn-текст"]},"scribunto":{"limitreport-timeusage":{"value":"0.210","limit":"10.000"},"limitreport-memusage":{"value":8509313,"limit":52428800}},"cachereport":{"origin":"mw1418","timestamp":"20230318050143","ttl":1814400,"transientcontent":false}},"wgHostname":"mw1370","wgBackendResponseTime":145});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0435\u043b\u0438\u043c II","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II","sameAs":"http:\/\/www.wikidata.org\/entity\/Q161872","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q161872","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-01T17:00:26Z","dateModified":"2023-01-31T15:42:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/II._Selim_Han.jpg","headline":"\u043e\u0434\u0438\u043d\u043d\u0430\u0434\u0446\u0430\u0442\u044b\u0439 \u0441\u0443\u043b\u0442\u0430\u043d \u041e\u0441\u043c\u0430\u043d\u0441\u043a\u043e\u0439 \u0438\u043c\u043f\u0435\u0440\u0438\u0438, \u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438\u0439 \u0432 1566-1574 \u0433\u043e\u0434\u0430\u0445"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u0435\u043b\u0438\u043c II","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BC_II","sameAs":"http:\/\/www.wikidata.org\/entity\/Q161872","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q161872","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-01T17:00:26Z","dateModified":"2023-01-31T15:42:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/II._Selim_Han.jpg","headline":"\u043e\u0434\u0438\u043d\u043d\u0430\u0434\u0446\u0430\u0442\u044b\u0439 \u0441\u0443\u043b\u0442\u0430\u043d \u041e\u0441\u043c\u0430\u043d\u0441\u043a\u043e\u0439 \u0438\u043c\u043f\u0435\u0440\u0438\u0438, \u043f\u0440\u0430\u0432\u0438\u0432\u0448\u0438\u0439 \u0432 1566-1574 \u0433\u043e\u0434\u0430\u0445"}</script>
+</body>
+</html>

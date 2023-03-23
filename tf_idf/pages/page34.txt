@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Земельный бум во Флориде — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"7266b536-6723-4a62-8c64-025bb1d9c9e6","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Земельный_бум_во_Флориде","wgTitle":"Земельный бум во Флориде","wgCurRevisionId":127003237,"wgRevisionId":127003237,"wgArticleId":8305229,"wgIsArticle":true,
+"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","1920-е годы в экономике","1920-е годы во Флориде","1925 год в экономике","XX век в Майами","История Флориды","История недвижимости в США","Майами-Бич","Пузыри недвижимости"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Земельный_бум_во_Флориде","wgRelevantArticleId":8305229,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1430042","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups",
+"ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Земельный бум во Флориде — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Земельный_бум_во_Флориде rootpage-Земельный_бум_во_Флориде skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Земельный бум во Флориде</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_unreviewed plainlinks noprint"><span title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">Текущая версия</a></b> (не проверялась)</div>
+</div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><p><b>Флоридский земельный бум</b> <a href="/wiki/1920-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1920-е годы">1920-х годов</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Florida land boom</span>) был первым <i><a href="/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%D0%BD%D0%B0_%D1%80%D1%8B%D0%BD%D0%BA%D0%B5_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8" title="Пузырь на рынке недвижимости">пузырём недвижимости</a></i> во <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориде</a>, который лопнул в <a href="/wiki/1925_%D0%B3%D0%BE%D0%B4" title="1925 год">1925&#160;году</a>. Земельный бум оставил позади целые новые города, такие как Корал Гейблс, <a href="/wiki/%D0%A5%D0%B0%D0%B9%D0%B0%D0%BB%D0%B8%D0%B0" title="Хайалиа">Хайалиа</a>, <a href="/w/index.php?title=%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8-%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D0%B3%D1%81_(%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Майами-Спрингс (Флорида) (страница отсутствует)">Майами-Спрингс</a>, <a href="/w/index.php?title=%D0%9E%D0%BF%D0%B0-%D0%9B%D0%BE%D0%BA%D0%B0_(%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Опа-Лока (Флорида) (страница отсутствует)">Опа-Лока</a>, <a href="/w/index.php?title=%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8-%D0%A8%D0%BE%D1%80%D1%81_(%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Майами-Шорс (Флорида) (страница отсутствует)">Майами-Шорс</a> и <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B8%D0%B2%D1%83%D0%B4" title="Голливуд">Голливуд</a>. Он также оставил после себя остатки неудачных проектов развития, таких как Aladdin City в Южном округе <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8-%D0%94%D0%B5%D0%B9%D0%B4" title="Майами-Дейд">Майами-Дейд</a>, Fulford-by-the-Sea в том, что сейчас находится на севере <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8-%D0%91%D0%B8%D1%87" title="Майами-Бич">Майами-Бич</a>, Miami Isola di Lolando в северной части <a href="/wiki/%D0%91%D0%B8%D1%81%D0%BA%D0%B5%D0%B9%D0%BD_(%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2)" title="Бискейн (залив)">залива Бискейн</a>, <a href="/wiki/%D0%91%D0%BE%D0%BA%D0%B0-%D0%A0%D0%B0%D1%82%D0%BE%D0%BD" title="Бока-Ратон">Бока-Ратон</a>, как это первоначально планировалось, Okeelanta в Западном округе <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BC-%D0%91%D0%B8%D1%87_(%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0)" title="Палм-Бич (Флорида)">Палм-Бич</a> и Palm Beach Ocean к северу от города <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BC-%D0%91%D0%B8%D1%87_(%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0)" title="Палм-Бич (Флорида)">Палм-Бич</a>. Земельный бум формировал будущее Флориды на протяжении десятилетий и создал целые новые города из земли <a href="/wiki/%D0%AD%D0%B2%D0%B5%D1%80%D0%B3%D0%BB%D0%B5%D0%B9%D0%B4%D1%81" title="Эверглейдс">Эверглейдс</a>, которые остаются сегодня. История включает в себя множество параллелей с бумом недвижимости <a href="/wiki/2000-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="2000-е годы">2000-х годов</a>, включая силы внешних спекулянтов, лёгкий доступ к кредитам для покупателей и быстрое повышение стоимости недвижимости.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Предпосылки_и_история"><span class="tocnumber">1</span> <span class="toctext">Предпосылки и история</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#В_массовой_культуре"><span class="tocnumber">2</span> <span class="toctext">В массовой культуре</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#См._также"><span class="tocnumber">3</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Литература"><span class="tocnumber">5</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.9F.D1.80.D0.B5.D0.B4.D0.BF.D0.BE.D1.81.D1.8B.D0.BB.D0.BA.D0.B8_.D0.B8_.D0.B8.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="Предпосылки_и_история">Предпосылки и история</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Предпосылки и история»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit&amp;section=1" title="Редактировать раздел «Предпосылки и история»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>На заднем плане были широко зарекламированы расширения железной дороги Восточного побережья <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориды</a>, сначала до <a href="/wiki/%D0%A3%D1%8D%D1%81%D1%82-%D0%9F%D0%B0%D0%BB%D0%BC-%D0%91%D0%B8%D1%87" title="Уэст-Палм-Бич">Уэст-Палм-Бич</a> (1894), затем до <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8" title="Майами">Майами</a> (1896) и, наконец, до <a href="/wiki/%D0%9A%D0%B8-%D0%A3%D1%8D%D1%81%D1%82" title="Ки-Уэст">Ки-Уэста</a> (1912). <a href="/wiki/%D0%AD%D0%B2%D0%B5%D1%80%D0%B3%D0%BB%D0%B5%D0%B9%D0%B4%D1%81" title="Эверглейдс">Эверглейдс</a> осушали, создавая новые сухие земли. Наконец, <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая мировая война">Первая Мировая война</a> отрезала богатых от их сезонов на <a href="/wiki/%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3" class="mw-redirect" title="Лазурный берег">Лазурном береге</a>, так что в части <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a> со средиземноморским или тропическим климатом у них было много возможностей.
+</p><p>Экономическое процветание <a href="/wiki/1920-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B" title="1920-е годы">1920-х годов</a> создало условия для возникновения пузыря на рынке недвижимости во <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориде</a>. <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8" title="Майами">Майами</a> имел облик тропического рая, и внешние инвесторы по всей территории <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">Соединённых Штатов</a> начали проявлять интерес к недвижимости в <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8" title="Майами">Майами</a>. Отчасти благодаря рекламным талантам таких дерзких разработчиков, как Карл Грэм Фишер из <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8-%D0%91%D0%B8%D1%87" title="Майами-Бич">Майами-Бич</a>, Известный тем, что купил огромный освещённый рекламный щит на Нью-Йоркской <a href="/wiki/%D0%A2%D0%B0%D0%B9%D0%BC%D1%81-%D0%A1%D0%BA%D0%B2%D0%B5%D1%80" class="mw-redirect" title="Таймс-Сквер">Таймс-Сквер</a>, провозглашающий «Это Июнь в Майами»,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> цены на недвижимость быстро выросли на спекуляциях, и последовал бум земли и строительства.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Брокеры и дилеры дико спекулировали всеми классами товаров, заказывая поставки значительно превышающие то, что было действительно необходимо, и отправляя грузы только в общий пункт назначения, в результате чего железнодорожные грузовые вагоны застряли в штате, задушив движение железнодорожного транспорта.<sup id="cite_ref-turner_4-0" class="reference"><a href="#cite_note-turner-4">&#91;4&#93;</a></sup>
+</p><p>К <a href="/wiki/%D0%AF%D0%BD%D0%B2%D0%B0%D1%80%D1%8C" title="Январь">январю</a> <a href="/wiki/1925_%D0%B3%D0%BE%D0%B4" title="1925 год">1925&#160;года</a> инвесторы начали читать негативную прессу о флоридских инвестициях. <a href="/wiki/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_Forbes" class="mw-redirect" title="Журнал Forbes">Журнал Forbes</a> предупреждал, что цены на землю во <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориде</a> основаны исключительно на ожиданиях найти покупателя, а не на реальной стоимости земли.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Служба внутренних доходов начала тщательно изучать флоридский бум недвижимости как гигантскую фиктивную операцию. Спекулянты, стремящиеся перевернуть недвижимость с огромной прибылью, начали испытывать трудности с поиском новых покупателей. Что ещё хуже, в <a href="/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="Октябрь">октябре</a> <a href="/wiki/1925_%D0%B3%D0%BE%D0%B4" title="1925 год">1925&#160;года</a> «Большая тройка» железнодорожных компаний, действующих во <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориде</a>—морская воздушная линия, железная дорога восточного побережья <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориды</a> и железная дорога на побережье <a href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Атлантический океан">Атлантического Океана</a>—объявила эмбарго из-за тупика железнодорожного движения строительных материалов, разрешив только продовольствие, топливо, скоропортящиеся продукты и предметы первой необходимости въезжать или перемещаться в пределах штата.<sup id="cite_ref-turner_4-1" class="reference"><a href="#cite_note-turner-4">&#91;4&#93;</a></sup>
+</p><p>Затем, <a href="/wiki/10_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="10 января">10 января</a> <a href="/wiki/1926_%D0%B3%D0%BE%D0%B4" title="1926 год">1926&#160;года</a>, «Prinz Valdemar», 241-футовая шхуна со стальным корпусом, затонула в устье поворотного бассейна гавани <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8" title="Майами">Майами</a> и перекрыла доступ в гавань. Он был на пути к тому, чтобы превратиться в плавучий отель.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Из-за того, что железные дороги всё ещё запрещали поставки несущественных грузов, теперь стало совершенно невозможно доставлять строительные материалы в <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8" title="Майами">район Майами</a>, и облик города как тропического рая начал рушиться. В своей книге «Miami Millions» Кеннет Баллинджер писал, что инцидент с опрокидыванием принца Вальдемара спас много людей, обнаружив трещины в фасаде Майами. «Во время вынужденного затишья, которое сопровождало попытки освободить гавань Майами,&#160;— писал он,&#160;— многие грузоотправители на севере и многие строители на юге лучше понимали, что здесь происходит на самом деле.»<sup id="cite_ref-ballinger_7-0" class="reference"><a href="#cite_note-ballinger-7">&#91;7&#93;</a></sup> новые покупатели не прибыли, и рост цен на недвижимость, который подпитывал земельный бум, прекратился. Дни, когда недвижимость в <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8" title="Майами">Майами</a> покупалась и продавалась на аукционе целых десять раз за один день, прошли.
+</p><p>Хотя железные дороги сняли <a href="/wiki/%D0%AD%D0%BC%D0%B1%D0%B0%D1%80%D0%B3%D0%BE" title="Эмбарго">эмбарго</a> в <a href="/wiki/%D0%9C%D0%B0%D0%B9" title="Май">мае</a> <a href="/wiki/1926_%D0%B3%D0%BE%D0%B4" title="1926 год">1926&#160;года</a>, бум тем не менее прекратился<sup id="cite_ref-turner_4-2" class="reference"><a href="#cite_note-turner-4">&#91;4&#93;</a></sup>. Затем последовала катастрофа в виде <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%B0%D0%B3%D0%B0%D0%BD" title="Майамский ураган">урагана в Майами в сентябре 1926 года</a>, который привёл многих застройщиков к банкротству. <a href="/wiki/%D0%9E%D0%BA%D0%B8%D1%87%D0%BE%D0%B1%D0%B8" title="Окичоби">Ураган Окичоби 1928 года</a> и <a href="/wiki/%D0%91%D0%B8%D1%80%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BA%D1%80%D0%B0%D1%85_1929_%D0%B3%D0%BE%D0%B4%D0%B0" title="Биржевой крах 1929 года">крах Уолл-Стрит 1929 года</a> продолжили катастрофическую тенденцию к снижению экономической активности, и флоридский земельный бум официально закончился, когда началась <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F" title="Великая депрессия">Великая депрессия</a>. Депрессия и опустошительный приход <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D1%83%D1%85%D0%B0" title="Средиземноморская плодовая муха">средиземноморской плодовой мухи</a> годом позже разрушили как туристическую, так и цитрусовую промышленность, от которой зависела <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флорида</a>. За несколько лет идиллический тропический рай превратился в унылый влажный отдалённый район с малыми экономическими перспективами. Экономика <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B0" title="Флорида">Флориды</a> не сможет восстановится до <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая мировая война">Второй мировой войны</a>.
+</p>
+<h2><span id=".D0.92_.D0.BC.D0.B0.D1.81.D1.81.D0.BE.D0.B2.D0.BE.D0.B9_.D0.BA.D1.83.D0.BB.D1.8C.D1.82.D1.83.D1.80.D0.B5"></span><span class="mw-headline" id="В_массовой_культуре">В массовой культуре</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «В массовой культуре»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit&amp;section=2" title="Редактировать раздел «В массовой культуре»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Это событие послужило фоном для видеоигры <i><a class="external text" href="https://en.wikipedia.org/wiki/A_Golden_Wake">А Golden Wake</a></i> <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014&#160;года</a>.
+<a href="/wiki/%D0%91%D1%80%D0%BE%D0%B4%D0%B2%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Бродвейский театр">Бродвейский мюзикл</a> «<a href="/w/index.php?title=%D0%9A%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%80%D0%B5%D1%88%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Кокосовые орешки (страница отсутствует)">Кокосовые орешки</a>», написанный для <a href="/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F_%D0%9C%D0%B0%D1%80%D0%BA%D1%81" title="Братья Маркс">братьев Маркс</a>, и одноимённая экранизация находятся в отеле в разгар земельного бума.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit&amp;section=3" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="https://en.wikipedia.org/wiki/Draining_and_development_of_the_Everglades" class="extiw" title="en:Draining and development of the Everglades">en:Draining and development of the Everglades</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit&amp;section=4" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Rapp, Donald.</i>&#32;Bubbles, Booms, and Busts: The Rise and Fall of Financial Assets&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#160;— Springer.&#160;— P.&#160;164.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://funandsun.com/1tocf/allgosf/mbf/collinsave.html">The Beginning of the Road</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 27 апреля 2020.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20191121191456/http://www.funandsun.com/1tocf/allgosf/mbf/collinsave.html">Архивировано</a> 21 ноября 2019 года.</small></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hmsf.org/history/south-florida-brief-history.htm">South Florida: A Brief History</a> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100429002717/http://www.hmsf.org/history/south-florida-brief-history.htm">Архивировано</a> 29&#160;апреля 2010&#160;года.</small></span>
+</li>
+<li id="cite_note-turner-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-turner_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-turner_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-turner_4-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text">Turner, Gregg (2005). <i>Florida Railroads in the 1920s</i>. Charleston: Arcadia Publishing.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://floridahistory.org/landboom.htm">Florida in the 1920s</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 27 апреля 2020.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200731182401/http://floridahistory.org/landboom.htm">Архивировано</a> 31 июля 2020 года.</small></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Boulton, Alexander O.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.americanheritage.com/content/tropical-twenties">Tropical Twenties</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a href="/w/index.php?title=American_Heritage_Magazine&amp;action=edit&amp;redlink=1" class="new" title="American Heritage Magazine (страница отсутствует)">American Heritage Magazine</a>&#32;(май 1990).&#32;<small>Дата обращения: 26 ноября 2014.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150514115348/http://www.americanheritage.com/content/tropical-twenties">Архивировано</a> 14 мая 2015 года.</small></span></span>
+</li>
+<li id="cite_note-ballinger-7"><span class="mw-cite-backlink"><a href="#cite_ref-ballinger_7-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFBallinger1936"><i>Ballinger, Kenneth.</i>&#32;<a rel="nofollow" class="external text" href="https://archive.org/stream/miamimillionsdan00ball#page/139/mode/1up">Miami Millions: the dance of the dollars in the great Florida land boom of 1925</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#160;— Miami: The Franklin Press, Inc., 1936.&#160;— P.&#160;139.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit&amp;section=5" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>«Bubble in the Sun-the Florida boom of the 1920’s and how it brought on the Great Depression» By Christopher Knowlton. Simon and Schuster, 2020.</li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit&amp;section=6" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://digital.lib.usf.edu/?S49">University of South Florida Libraries: <i>Suniland</i></a> <i>Suniland</i> (published between 1924 and 1926) was distributed across Florida and beyond. The magazine both promoted and documented the land boom in Florida.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Экономические_пузыри" data-name="Экономические пузыри"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D0%B8" title="Перейти к шаблону «Экономические пузыри»"><img alt="Перейти к шаблону «Экономические пузыри»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Экономические_пузыри" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%8C" title="Экономический пузырь">Экономические пузыри</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A2%D1%8E%D0%BB%D1%8C%D0%BF%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Тюльпаномания">Тюльпаномания</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII век</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%9B%D0%BE" title="Система Ло">Система Ло</a>
+<ul><li><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D1%81%D0%B8%D0%BF%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Миссисипская компания">Миссисипская компания</a></li></ul></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F_%D0%AE%D0%B6%D0%BD%D1%8B%D1%85_%D0%BC%D0%BE%D1%80%D0%B5%D0%B9" title="Компания Южных морей">Компания Южных морей</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%B0%D1%86%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B0" title="Гиацинтовая лихорадка">Гиацинтовая лихорадка</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Каналомания">Каналомания</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XIX_%D0%B2%D0%B5%D0%BA" title="XIX век">XIX век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F_%D0%BB%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B0" title="Золотая лихорадка">Золотая лихорадка</a></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Железнодорожная мания">Железнодорожная мания</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D1%80%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BA%D1%80%D0%B0%D1%85_1873_%D0%B3%D0%BE%D0%B4%D0%B0" title="Биржевой крах 1873 года">Биржевой крах 1873 года</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XX_%D0%B2%D0%B5%D0%BA" title="XX век">XX век</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%D0%BD%D0%B0_%D1%80%D1%8B%D0%BD%D0%BA%D0%B5_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8" title="Пузырь на рынке недвижимости">Пузырь на рынке недвижимости</a></li>
+<li><a class="mw-selflink selflink">Земельный бум во Флориде</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%B2%D1%83%D1%89%D0%B8%D0%B5_%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8B%D0%B5" title="Ревущие двадцатые">Ревущие двадцатые</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D1%80%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BA%D1%80%D0%B0%D1%85_1929_%D0%B3%D0%BE%D0%B4%D0%B0" title="Биржевой крах 1929 года">Биржевой крах 1929 года</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%C2%AB%D0%9F%D0%BE%D1%81%D0%B5%D0%B9%D0%B4%D0%BE%D0%BD%D0%B0%C2%BB" title="Пузырь «Посейдона»">Пузырь «Посейдона»</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B5%D1%84%D1%82%D0%B8_%D0%B2_1980-%D1%85_%D0%B3%D0%BE%D0%B4%D0%B0%D1%85" title="Перепроизводство нефти в 1980-х годах">Перепроизводство нефти в 1980-х годах</a></li>
+<li><a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%8C" title="Японский финансовый пузырь">Японский финансовый пузырь</a></li>
+<li><a href="/wiki/%D0%90%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81" title="Азиатский финансовый кризис">Азиатский финансовый кризис</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%D0%B4%D0%BE%D1%82%D0%BA%D0%BE%D0%BC%D0%BE%D0%B2" title="Пузырь доткомов">Пузырь доткомов</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XXI_%D0%B2%D0%B5%D0%BA" title="XXI век">XXI век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%D0%BD%D0%B0_%D1%80%D1%8B%D0%BD%D0%BA%D0%B5_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8" title="Пузырь на рынке недвижимости">Пузырь на рынке недвижимости</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81_2007%E2%80%942008_%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2" title="Финансовый кризис 2007—2008 годов">Финансовый кризис 2007—2008 годов</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D0%B2%D0%B0%D0%BB_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%80%D1%8B%D0%BD%D0%BA%D0%B0_%D0%9A%D0%B8%D1%82%D0%B0%D1%8F_(2015_%E2%80%94_2016)" class="mw-redirect" title="Обвал фондового рынка Китая (2015 — 2016)">Обвал фондового рынка Китая (2015 — 2016)</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%85_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82_2018_%D0%B3%D0%BE%D0%B4%D0%B0" title="Крах криптовалют 2018 года">Крах криптовалют 2018 года</a></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D0%B0%D1%87%D0%BE%D0%BA_%D1%86%D0%B5%D0%BD_%D0%BD%D0%B0_%D0%B0%D0%BA%D1%86%D0%B8%D0%B8_GameStop" title="Скачок цен на акции GameStop">Скачок цен на акции GameStop</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2309
+Cached time: 20230304024921
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc, no‐toc‐conversion]
+CPU time usage: 0.098 seconds
+Real time usage: 0.133 seconds
+Preprocessor visited node count: 1402/1000000
+Post‐expand include size: 19917/2097152 bytes
+Template argument size: 1650/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5328/5000000 bytes
+Lua time usage: 0.029/10.000 seconds
+Lua memory usage: 2215338/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  105.086      1 -total
+ 73.96%   77.717      1 Шаблон:Примечания
+ 35.80%   37.623      2 Шаблон:Книга
+ 27.74%   29.149      3 Шаблон:Cite_web
+ 15.68%   16.480      1 Шаблон:Экономические_пузыри
+ 13.95%   14.656      1 Шаблон:Навигационная_таблица
+  4.49%    4.720      1 Шаблон:Lang-en
+  4.22%    4.430      2 Шаблон:ЯзыкПоКоду
+  3.61%    3.792      2 Шаблон:Ref-en
+  3.36%    3.526      5 Шаблон:Ref-lang
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:8305229-0!canonical and timestamp 20230304024920 and revision id 127003237. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Земельный_бум_во_Флориде&amp;oldid=127003237">https://ru.wikipedia.org/w/index.php?title=Земельный_бум_во_Флориде&amp;oldid=127003237</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1920-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%B2_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5" title="Категория:1920-е годы в экономике">1920-е годы в экономике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1920-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" title="Категория:1920-е годы во Флориде">1920-е годы во Флориде</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1925_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5" title="Категория:1925 год в экономике">1925 год в экономике</a></li><li><a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:XX_%D0%B2%D0%B5%D0%BA_%D0%B2_%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Категория:XX век в Майами (страница отсутствует)">XX век в Майами</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D1%8B" title="Категория:История Флориды">История Флориды</a></li><li><a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%B2_%D0%A1%D0%A8%D0%90&amp;action=edit&amp;redlink=1" class="new" title="Категория:История недвижимости в США (страница отсутствует)">История недвижимости в США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8-%D0%91%D0%B8%D1%87" title="Категория:Майами-Бич">Майами-Бич</a></li><li><a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D0%B8_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Категория:Пузыри недвижимости (страница отсутствует)">Пузыри недвижимости</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B1%D1%83%D0%BC+%D0%B2%D0%BE+%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B1%D1%83%D0%BC+%D0%B2%D0%BE+%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;oldid=127003237" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;id=127003237&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1430042" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B1%D1%83%D0%BC+%D0%B2%D0%BE+%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Boom_especulatiu_de_Florida" title="Boom especulatiu de Florida — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Florida-boomet_1926" title="Florida-boomet 1926 — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Florida-Landboom" title="Florida-Landboom — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Florida_land_boom_of_the_1920s" title="Florida land boom of the 1920s — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Burbuja_inmobiliaria_de_Florida_en_los_a%C3%B1os_1920" title="Burbuja inmobiliaria de Florida en los años 1920 — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Bulle_immobili%C3%A8re_des_ann%C3%A9es_1920_en_Floride" title="Bulle immobilière des années 1920 en Floride — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Florida_land_boom" title="Florida land boom — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Floridski_bum_nekretnina_1920-ih" title="Floridski bum nekretnina 1920-ih — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1430042#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 декабря 2022 в 19:20.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.098","walltime":"0.133","ppvisitednodes":{"value":1402,"limit":1000000},"postexpandincludesize":{"value":19917,"limit":2097152},"templateargumentsize":{"value":1650,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5328,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  105.086      1 -total"," 73.96%   77.717      1 Шаблон:Примечания"," 35.80%   37.623      2 Шаблон:Книга"," 27.74%   29.149      3 Шаблон:Cite_web"," 15.68%   16.480      1 Шаблон:Экономические_пузыри"," 13.95%   14.656      1 Шаблон:Навигационная_таблица","  4.49%    4.720      1 Шаблон:Lang-en","  4.22%    4.430      2 Шаблон:ЯзыкПоКоду","  3.61%    3.792      2 Шаблон:Ref-en","  3.36%    3.526      5 Шаблон:Ref-lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":2215338,"limit":52428800}},"cachereport":{"origin":"mw2309","timestamp":"20230304024921","ttl":1814400,"transientcontent":false}},"wgHostname":"mw2331","wgBackendResponseTime":100});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0417\u0435\u043c\u0435\u043b\u044c\u043d\u044b\u0439 \u0431\u0443\u043c \u0432\u043e \u0424\u043b\u043e\u0440\u0438\u0434\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1430042","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1430042","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-04-27T10:02:48Z","dateModified":"2022-12-01T19:20:41Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0417\u0435\u043c\u0435\u043b\u044c\u043d\u044b\u0439 \u0431\u0443\u043c \u0432\u043e \u0424\u043b\u043e\u0440\u0438\u0434\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%97%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D1%83%D0%BC_%D0%B2%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1430042","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1430042","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-04-27T10:02:48Z","dateModified":"2022-12-01T19:20:41Z"}</script>
+</body>
+</html>
