@@ -52,19 +52,18 @@ def cosine_distance(v1, v2):
 
 
 # Функция для поиска страниц на основе запроса
-def search(query, tf_idf_dict):
+def search(query):
     query_vector = query_to_vector(query)
     results = []
-    for filename, tf_idf in tf_idf_dict.items():
+    for filename, tf_idf in tf_idf_lemmas.items():
         page_vector = [tf_idf.get(word, 0) for word in vectorizer.get_feature_names_out()]
         similarity = cosine_distance(query_vector, page_vector)
         results.append((filename, similarity))
     results.sort(key=lambda x: x[1], reverse=True)
-    return results
+    return list(map(lambda x: (str(int(str(x[0]).split('_')[-1].split('.')[0])), x[1]), results))
 
 
 # Пример использования функции search
-query = "первомайский"
-results = search(query, tf_idf_lemmas)
+results = search("султан")
 for filename, similarity in results[:10]:
-    print(f"page_{filename.split('_')[-1].split('.')[0]}: {similarity}")
+    print(f"{filename}: {similarity}")
